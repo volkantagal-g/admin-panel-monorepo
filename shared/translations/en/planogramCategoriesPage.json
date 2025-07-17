@@ -1,0 +1,40 @@
+{
+  "CATEGORIES": "Categories",
+  "EXPORT_FILE": "Export File",
+  "FILTER": {
+    "CATEGORY_NAME": "Planogram Category Name",
+    "PLANOGRAM_CATEGORY_ID": "Planogram Category Id",
+    "PRODUCT_MASTER_CATEGORY": {
+      "LEVEL_1": "Level 1",
+      "LEVEL_2": "Level 2",
+      "LEVEL_3": "Level 3",
+      "LEVEL_4": "Level 4",
+      "TITLE": "Product Master Category"
+    },
+    "STORAGE_TYPE": "Storage Type",
+    "TITLE": "Filter"
+  },
+  "GENERAL_INFO": {
+    "LEVEL_1": "Level 1",
+    "LEVEL_2": "Level 2",
+    "LEVEL_3": "Level 3",
+    "LEVEL_4": "Level 4",
+    "PLANOGRAM_CATEGORY_NAME": "Planogram Category Name",
+    "STORAGE_TYPE": "Storage Type",
+    "TITLE": "General Info"
+  },
+  "IMPORT_FILE": "Import File",
+  "LEVEL_ERROR": "You must choose at least up to Level 3.",
+  "NEW_PLANOGRAM_CATEGORY": "New Planogram Category",
+  "PLANOGRAM_CATEGORIES": "Planogram Categories",
+  "TABLE_COLUMN_TITLE": {
+    "ACTION": "Action",
+    "LAST_UPDATED": "Last Updated",
+    "LEVEL_1": "Master Category Level 1",
+    "LEVEL_2": "Master Category Level 2",
+    "LEVEL_3": "Master Category Level 3",
+    "LEVEL_4": "Master Category Level 4",
+    "PLANOGRAM_CATEGORY": "Planogram Category",
+    "STORAGE_TYPE": "Storage Type"
+  }
+}

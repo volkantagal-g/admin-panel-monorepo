@@ -1,0 +1,20 @@
+{
+  "BATCHED_ORDER": "Birleşen Sipariş",
+  "BELOW_COURIER_PLAN": "Uymayan Depo",
+  "BUSY": "Meşgul",
+  "COMPLIANCE": "Plana Uyum",
+  "COMPLIANCE_DESC": "Toplam gerçekleşen kurye sayısı / toplam planlanan kurye sayısı",
+  "DELIVERY_DURATION_TOTAL": "Servis Süresi (Toplam)",
+  "DELIVERY_DURATION_UNBATCHED": "Servis Süresi (Birleşmeyen)",
+  "DISCOUNTED_ORDER": "Kampanyalı Sipariş",
+  "DOMAIN_FILTER_TYPE": "Merge Depolar",
+  "EXACT": "Hariç",
+  "INCLUDES": "Dahil",
+  "MISSING_ORDER": "Kaçan Sipariş",
+  "QUEUE_DURATION": "Sıra Süresi",
+  "QUEUE_ORDER": "Sıralı Sipariş",
+  "RATING": "Yıldız",
+  "RED_BASKET": "Kırmızı Sepet",
+  "TP": "Verim",
+  "UTILIZATION": "Utilizasyon"
+}

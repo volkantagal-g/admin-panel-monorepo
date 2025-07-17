@@ -1,0 +1,42 @@
+{
+  "CREATE": {
+    "TITLE": "Kampanya Etiketi Yaratma"
+  },
+  "DOCUMENTATION": {
+    "LINK_TEXT": "Rozetlerde Değişken Kullanımı",
+    "TEXT": "Bu özelliği nasıl kullanacağınız hakkında detaylı bilgi için, lütfen şu adrese bakın:"
+  },
+  "HEADER": {
+    "ACTION": "İşlem",
+    "BASKET_APPLIED_BADGE": "Sepet Etiketi (Uygulanmış)",
+    "BASKET_NOT_APPLIED_BADGE": "Sepet Etiketi (Uygulanmamış)",
+    "EDIT": "Düzenle",
+    "NAME": "Ad",
+    "PRODUCT_DETAIL_PAGE_BADGE": "Ürün Detay Etiketi",
+    "PRODUCT_LISTING_PAGE_BADGE": "Ürün Listeleme Etiketi"
+  },
+  "LIST": {
+    "BADGE_NAME": "Etiket Adı",
+    "PROMO_MECHANIC": "Kampanya Mekaniği",
+    "TITLE": "Kampanya Etiketleri Listeleme"
+  },
+  "TOAST": {
+    "ALREADY_EXISTS": "Bu etiket ismi kullanılıyor, başka bir tane deneyin."
+  },
+  "TOOLTIP": {
+    "BASKET_APPLIED_BADGE": "'MIN_REQUIRED_ITEM_COUNT + her biri DISCOUNTED_PRICE' şöyle gösterilecektir: '3+ her biri €3 karşılığında'",
+    "BASKET_NOT_APPLIED_BADGE": "'Her birini DISCOUNTED_PRICE karşılığında almak için REQUIRED_PRODUCT_COUNT adet daha ekleyin' şöyle gösterilecektir: 'Her birini €3 karşılığında almak için 1 adet daha ekleyin'",
+    "DISCOUNTED_PRICE": "Bu değer, promosyonda aşağıdaki alana karşılık gelmektedir: Fayda Türü - İndirimli Fiyat",
+    "DISCOUNT_AMOUNT": "Bu değer, promosyonda aşağıdaki alana karşılık gelmektedir: Fayda Türü - İndirim tutarı",
+    "MAX_ITEM_COUNT": "Bu değer, promosyonda aşağıdaki alana karşılık gelmektedir: Fayda Türü - Maksimum Ürün Sayısı",
+    "MIN_REQUIRED_ITEM_COUNT": "Bu değer, promosyonda aşağıdaki alana karşılık gelmektedir: İndirim Koşulu Olan Ürünler - Minimum gerekli öğe sayısı",
+    "PRODUCT_DETAIL_PAGE_BADGE": "'Her birini DISCOUNTED_PRICE karşılığında almak için en az REQUIRED_PRODUCT_COUNT adet alın' şöyle gösterilecektir: 'Her birini €3 karşılığında almak için en az 3 adet alın'",
+    "PRODUCT_LISTING_PAGE_BADGE": "'REQUIRED_PRODUCT_COUNT adet alın, birim başına DISCOUNTED_PRICE ödeyin' şöyle gösterilecektir: '3 adet alın, birim başına £2 ödeyin'",
+    "REQUIRED_PRODUCT_AMOUNT": "Bu değer, promosyonda aşağıdaki alana karşılık gelmektedir: İndirim Koşulu Olan Ürünler - Gerekli ürünler minimum toplam miktar",
+    "REQUIRED_PRODUCT_COUNT": "Minimum gerekli öğe sayısı ile müşterinin sepetindeki öğe sayısı arasındaki farkı hesaplayarak gereken öğe sayısını bulur. Yalnızca sepet ekranı rozetleri için geçerlidir."
+  },
+  "UPDATE": {
+    "DELETE_CONFIRMATION": "Bu etiketi silmek istediğinizden emin misiniz?",
+    "TITLE": "Kampanya Etiketi Güncellemesi"
+  }
+}

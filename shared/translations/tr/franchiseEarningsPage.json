@@ -1,0 +1,388 @@
+{
+  "LIST": {
+    "FRANCHISE": "Bayi",
+    "HOUR": "saat",
+    "TABLE": {
+      "DISTRIBUTION": {
+        "COURIER": {
+          "BUSY_COURIER": {
+            "NOT_SUPPORTED_HOURS": "Desteklenmeyen Saat",
+            "OVERTIME_PAYMENT": "Ek Mesai Ücret",
+            "SUPPORTED_HOURS": "Desteklenen Saat",
+            "TITLE": "Meşgul Kurye"
+          },
+          "CAR_COURIER_SUPPORT": {
+            "NUMBER_OF_ORDERS_GB": "Atılan Sipariş Sayısı(Market)",
+            "NUMBER_OF_ORDERS_GL": "Atılan Sipariş Sayısı(Çarşı)",
+            "NUMBER_OF_ORDERS_GY": "Atılan Sipariş Sayısı(Yemek)",
+            "SUPPORT_PER_ORDER_GB": "Market Sipariş Başı Destek",
+            "SUPPORT_PER_ORDER_GL": "Çarşı Sipariş Başı Destek",
+            "SUPPORT_PER_ORDER_GY": "Yemek Sipariş Başı Destek",
+            "TITLE": "Araç Kurye Desteği"
+          },
+          "EFFECTIVITY_DEDUCTION": {
+            "EFFECTIVITY_COST_PER_HOUR": "Saatlik Hazır Kıta Maliyeti",
+            "TITLE": "Hazır Kıta Kesintisi",
+            "USED_HOURS": "Kullanılan Saat"
+          },
+          "EXCEEDING_DEDUCTION": {
+            "COURIER_SUPPORT_FEE_PER_HOUR": "Saatlik Kurye Destek Tutarı",
+            "TITLE": "Süre Aşımı Kesintisi",
+            "TOTAL_EXCEEDING_HOURS": "Toplam Aşım Yapılan Saat"
+          },
+          "E_BIKE_COURIER_SUPPORT": {
+            "NUMBER_OF_ORDERS_GB": "Atılan Sipariş Sayısı(Market)",
+            "SUPPORT_PER_ORDER_GB": "Market Sipariş Başı Destek",
+            "TITLE": "E-bisiklet Kurye Desteği"
+          },
+          "IDLE_COURIER": {
+            "NOT_SUPPORTED_HOURS": "Desteklenmeyen Saat",
+            "OVERTIME_PAYMENT": "Ek Mesai Ücreti",
+            "SUPPORTED_HOURS": "Desteklenen Saat",
+            "TITLE": "Atıl Kurye"
+          },
+          "MITU_COURIER_SUPPORT": {
+            "NUMBER_OF_ORDERS_GB": "Atılan Sipariş Sayısı(Market)",
+            "NUMBER_OF_ORDERS_GL": "Atılan Sipariş Sayısı(Çarşı)",
+            "NUMBER_OF_ORDERS_GY": "Atılan Sipariş Sayısı(Yemek)",
+            "SUPPORT_PER_ORDER_GB": "Market Sipariş Başı Destek",
+            "SUPPORT_PER_ORDER_GL": "Çarşı Sipariş Başı Destek",
+            "SUPPORT_PER_ORDER_GY": "Yemek Sipariş Başı Destek",
+            "TITLE": "Mitu Kurye Desteği"
+          },
+          "MOTO_COURIER_SUPPORT": {
+            "NUMBER_OF_ORDERS_GB": "Atılan Sipariş Sayısı(Market)",
+            "NUMBER_OF_ORDERS_GL": "Atılan Sipariş Sayısı(Çarşı)",
+            "NUMBER_OF_ORDERS_GY": "Atılan Sipariş Sayısı(Yemek)",
+            "SUPPORT_PER_ORDER_GB": "Market Sipariş Başı Destek",
+            "SUPPORT_PER_ORDER_GL": "Çarşı Sipariş Başı Destek",
+            "SUPPORT_PER_ORDER_GY": "Yemek Sipariş Başı Destek",
+            "TITLE": "Moto Kurye Desteği"
+          },
+          "PEDESTRIAN_COURIER_SUPPORT": {
+            "NUMBER_OF_ORDERS_GB": "Atılan Sipariş Sayısı(Market)",
+            "NUMBER_OF_ORDERS_GL": "Atılan Sipariş Sayısı(Çarşı)",
+            "NUMBER_OF_ORDERS_GY": "Atılan Sipariş Sayısı(Yemek)",
+            "SUPPORT_PER_ORDER_GB": "Market Sipariş Başı Destek",
+            "SUPPORT_PER_ORDER_GL": "Çarşı Sipariş Başı Destek",
+            "SUPPORT_PER_ORDER_GY": "Yemek Sipariş Başı Destek",
+            "TITLE": "Yaya Kurye Desteği"
+          },
+          "STUCK_HOURS_DEDUCTION": {
+            "HOURLY_COURIER_SUPPORT_AMOUNT": "Saatlik Kurye Destek Tutarı",
+            "STUCK_HOURS": "Toplam Takılı Saat",
+            "TITLE": "Takılı Saat Kesintisi"
+          },
+          "TITLE": "Kurye",
+          "UTILIZED_COURIER": {
+            "OVERTIME_PAYMENT": "Ek Mesai Ücreti",
+            "SUPPORTED_COURIER_PER_HOUR_FEE": "Saatlik Kurye Destek Tutarı",
+            "TITLE": "Siparişteki Kurye",
+            "UTILIZED_HOURS": "Desteklenen Saat"
+          }
+        },
+        "FUEL_MAINTENANCE_AMORTIZATION": {
+          "AMORTIZATION": {
+            "ADJUSTED_CAR_KM": "Araç Km - Düzeltilmiş",
+            "ADJUSTED_E_BIKE_KM": "E-bisiklet Km - Düzeltilmiş",
+            "ADJUSTED_MITU_KM": "Mitu Km - Düzeltilmiş",
+            "ADJUSTED_MOTO_KM": "Motor Km - Düzeltilmiş",
+            "CAR_PER_KM_AMORTIZATION_SUPPORT": "Araç Km Başı Amortisman Desteği",
+            "E_BIKE_PER_KM_AMORTIZATION_SUPPORT": "E-bisiklet Km Başı Amortisman Desteği",
+            "MITU_PER_KM_AMORTIZATION_SUPPORT": "Mitu Km Başı Amortisman Desteği",
+            "MOTO_PER_KM_AMORTIZATION_SUPPORT": "Motor Km Başı Amortisman Desteği",
+            "TITLE": "Amortisman",
+            "TOTAL_KM": "Toplam Km"
+          },
+          "FUEL": {
+            "CAR_FUEL_SUPPORT_PER_KM": "Araç Km Başı Yakıt Desteği",
+            "CAR_KM": "Araç Km",
+            "E_BIKE_FUEL_SUPPORT_PER_KM": "E-bisiklet Km Başı Elektrik Desteği",
+            "E_BIKE_KM": "E-bisiklet Km",
+            "MITU_FUEL_SUPPORT_PER_KM": "Mitu Km Başı Yakıt Desteği",
+            "MITU_KM": "Mitu Km",
+            "MOTO_FUEL_SUPPORT_PER_KM": "Motor Km Başı Yakıt Desteği",
+            "MOTO_KM": "Motor Km",
+            "TITLE": "Yakıt",
+            "TOTAL_KM": "Toplam Km"
+          },
+          "MAINTENANCE": {
+            "ADJUSTED_CAR_KM": "Araç Km - Düzeltilmiş",
+            "ADJUSTED_E_BIKE_KM": "E-bisiklet Km - Düzeltilmiş",
+            "ADJUSTED_MITU_KM": "Mitu Km - Düzeltilmiş",
+            "ADJUSTED_MOTO_KM": "Motor Km - Düzeltilmiş",
+            "CAR_PER_KM_MAINTENANCE_SUPPORT": "Araç Km Başı Bakım Desteği",
+            "E_BIKE_PER_KM_MAINTENANCE_SUPPORT": "E-bisiklet Km Başı Bakım Desteği",
+            "MITU_PER_KM_MAINTENANCE_SUPPORT": "Mitu Km Başı Bakım Desteği",
+            "MOTO_PER_KM_MAINTENANCE_SUPPORT": "Motor Km Başı Bakım Desteği",
+            "TITLE": "Bakım",
+            "TOTAL_KM": "Toplam Km"
+          },
+          "TITLE": "Yakıt & Bakım & Amortisman"
+        },
+        "TITLE": "Dağıtım"
+      },
+      "FRANCHISE_INCOME": {
+        "PROFIT": {
+          "BONUS": {
+            "CATEGORY_BONUS": {
+              "SHARE_PERCENTAGE_FROM_REVENUE": "Cirodan Pay Yüzdesi",
+              "TITLE": "Kategori Bonusu",
+              "TOTAL_CATEGORY_REVENUE": "Toplam Kategori Cirosu"
+            },
+            "GETIR_COURIER_PROGRAM_BONUS": {
+              "ELITE_COURIER_BONUS": "Elit Kurye Bonusu",
+              "GOLD_COURIER_BONUS": "Altın Kurye Bonusu",
+              "PER_ELITE_COURIER_BONUS": "Birim Elit Kurye Bonusu",
+              "PER_GOLD_COURIER_BONUS": "Birim Altın Kurye Bonusu",
+              "TITLE": "Getir Kurye Program Bonusu",
+              "TOTAL_ELITE_COURIER_COUNT": "Toplam Elit Kurye Adedi",
+              "TOTAL_GOLD_COURIER_COUNT": "Toplam Altın Kurye Adedi"
+            },
+            "MISSED_ORDER": {
+              "70_BELOW_COURIER_COMPLIANCE": {
+                "MISSED_FINE": "%70 Altı Kaçan Sipariş Birim Kesinti",
+                "MISSED_ORDER_COUNT": "%70 Altı Kaçan Sipariş Adedi",
+                "TITLE": "%70 Altı Kaçan Sipariş Kesintisi"
+              },
+              "90_BELOW_COURIER_COMPLIANCE": {
+                "MISSED_FINE": "%90 Altı Kaçan Sipariş Birim Kesinti",
+                "MISSED_ORDER_COUNT": "%90 Altı Kaçan Sipariş Adedi",
+                "TITLE": "%90 Altı Kaçan Sipariş Kesintisi"
+              },
+              "TITLE": "Kaçan Sipariş"
+            },
+            "TITLE": "Bonus"
+          },
+          "DYS_DEPENDENT_PROFIT": {
+            "BASE_PROFIT": "Baz Kâr",
+            "DYS_GRADE": "DYS Harf Notu",
+            "DYS_GRADE_RATIO": "DYS Harf Notu Yüzdesi",
+            "EXTRA_ORDER_COUNT": "Ek Sipariş Sayısı",
+            "EXTRA_PER_ORDER_PROFIT": "Extra Sipariş Başı Kâr",
+            "G10_ORDER_COUNT": "G10 Sipariş Sayısı",
+            "GB_ORDER_COUNT": "GB Sipariş Sayısı",
+            "GB_PROFIT_PER_ORDER": "Sipariş Başı Ek Kâr",
+            "GL_ORDER_COUNT": "GÇ Sipariş Sayısı",
+            "GL_PROFIT_PER_ORDER": "GÇ Sipariş Başı Kâr",
+            "GY_ORDER_COUNT": "GY Sipariş Sayısı",
+            "GY_PROFIT_PER_ORDER": "GY Sipariş Başı Kâr",
+            "PERCENTAGE_IN_PROFIT": "Kâr Kalemindeki Yüzdesi",
+            "TITLE": "DYS'ye Bağlı Kâr"
+          },
+          "DYS_INDEPENDENT_PROFIT": {
+            "BASE_PROFIT": "Baz Kâr",
+            "EXTRA_ORDER_COUNT": "Ek Sipariş Sayısı",
+            "EXTRA_PER_ORDER_PROFIT": "Extra Sipariş Başı Kâr",
+            "G10_ORDER_COUNT": "G10 Sipariş Sayısı",
+            "GB_ORDER_COUNT": "GB Sipariş Sayısı",
+            "GB_PROFIT_PER_ORDER": "Sipariş Başı Ek Kâr",
+            "GL_ORDER_COUNT": "GÇ Sipariş Sayısı",
+            "GL_PROFIT_PER_ORDER": "GÇ Sipariş Başı Kâr",
+            "GY_ORDER_COUNT": "GY Sipariş Sayısı",
+            "GY_PROFIT_PER_ORDER": "GY Sipariş Başı Kâr",
+            "PERCENTAGE_IN_PROFIT": "Kâr Kalemindeki Yüzdesi",
+            "TITLE": "DYS'ye Bağlı Olmayan Kâr"
+          },
+          "TITLE": "Kâr"
+        },
+        "TITLE": "Bayi Gelir"
+      },
+      "STORAGE": {
+        "ADDITIONAL_WAREHOUSEMAN_SUPPORT": "Ek Depocu Desteği",
+        "FIXED_EXPENSES": {
+          "ADDITIONAL_FIXED_EXPENSES_SUPPORT": {
+            "ADDITIONAL_FIXED_EXPENSES_PER_SUPPORT": "Ek Sabit Gider Birim Desteği",
+            "ADDITIONAL_ORDER_COUNT": "Ek Sipariş Adedi",
+            "TITLE": "Ek Sabit Gider Desteği"
+          },
+          "BASE_FIXED_EXPENSES_SUPPORT": {
+            "TITLE": "Baz Sabit Gider Desteği",
+            "TOTAL_G10_ORDER_COUNT": "Toplam Sipariş Adedi(G10)",
+            "TOTAL_GB_ORDER_COUNT": "Toplam Sipariş Adedi(GB)"
+          },
+          "TITLE": "Sabit Giderler"
+        },
+        "ORDER_EXPENSES": {
+          "BAG_SUPPORT": {
+            "LARGE_BAG_PRICE": "Büyük Boy Poşet Birim Fiyatı",
+            "MIDDLE_BAG_PRICE": "Orta Boy Poşet Birim Fiyatı",
+            "OVERSIZE_BAG_PRICE": "Battal Boy Poşet Birim Fiyatı",
+            "SMALL_BAG_PRICE": "Küçük Boy Poşet Birim Fiyatı",
+            "SUGGESTED_LARGE_BAG_COUNT": "Önerilen Toplam Büyük Boy Poşet Adedi",
+            "SUGGESTED_MIDDLE_BAG_COUNT": "Önerilen Toplam Orta Boy Poşet Adedi",
+            "SUGGESTED_OVERSIZE_BAG_COUNT": "Önerilen Toplam Battal Boy Poşet Adedi",
+            "SUGGESTED_SMALL_BAG_COUNT": "Önerilen Toplam Küçük Boy Poşet Adedi",
+            "TITLE": "Poşet Desteği"
+          },
+          "BREAD_SUPPORT": {
+            "PRICE_PER_BREAD": "Birim Ekmek Fiyatı",
+            "SOLD_BREAD_COUNT": "Satılan Ekmek Adedi",
+            "TITLE": "Ekmek Desteği"
+          },
+          "CRAFT_SUPPORT": {
+            "PRICE_PER_CRAFT": "Birim Kraft Fiyatı",
+            "RECOMMENDED_TOTAL_CRAFT_COUNT": "Önerilen Toplam Kraft Adedi",
+            "TITLE": "Kraft Desteği"
+          },
+          "TITLE": "Sipariş Giderleri"
+        },
+        "RENT": {
+          "CAR_PARK": {
+            "CAR_PARK_AMOUNT": "Otopark Tutarı",
+            "CAR_PARK_SUPPORT_RATE": "Otopark Destek Yüzdesi",
+            "TITLE": "Otopark"
+          },
+          "DUES": {
+            "DUES_AMOUNT": "Aidat Tutarı",
+            "DUES_SUPPORT_RATE": "Aidat Destek Yüzdesi",
+            "TITLE": "Aidat"
+          },
+          "PARKING": {
+            "PARKING_AMOUNT": "Otopark Tutarı",
+            "PARKING_SUPPLY_RATE": "Otopark Destek Yüzdesi",
+            "TITLE": "Otopark"
+          },
+          "RENT": {
+            "RENT_PRICE": "Kira Tutarı",
+            "RENT_SUPPORT_RATE": "Kira Destek Yüzdesi",
+            "TITLE": "Kira"
+          },
+          "STOPPAGE": {
+            "STOPPAGE_AMOUNT": "Stopaj Tutarı",
+            "STOPPAGE_SUPPORT_RATE": "Stopaj Destek Yüzdesi",
+            "TITLE": "Stopaj"
+          },
+          "SUBSCRIPTION": {
+            "SUBSCRIPTION_AMOUNT": "Aidat Tutarı",
+            "SUBSCRIPTION_SUPPORT_RATE": "Aidat Destek Yüzdesi",
+            "TITLE": "Aidat"
+          },
+          "TITLE": "Kira"
+        },
+        "TITLE": "Depolama"
+      },
+      "VOYAGER_DISTRIBUTION_SUPPORTS": {
+        "COURIER_BONUS": {
+          "BUNDLE_PET_COEF": "Pet Paketi Primi",
+          "BUNDLE_PET_COUNT": "Pet Paketi Sayısı",
+          "FIRST_CARBOY_BONUS_COEF": "İlk Damacana Primi",
+          "FIRST_CARBOY_COUNT": "İlk Damacana Sayısı",
+          "REMAINING_CARBOY_BONUS_COEF": "Kalan Damacana Primi",
+          "REMAINING_CARBOY_COUNT": "Kalan Damacana Sayısı",
+          "TITLE": "Kurye Primi",
+          "TOTAL_BUNDLE_PET_BONUS": "Toplam Pet Paket Primi",
+          "TOTAL_CARBOY_BONUS": "Toplam Damacana Primi",
+          "TOTAL_REMAINING_CARBOY_BONUS": "Toplam Kalan Damacana Primi"
+        },
+        "COURIER_BUSY_SUPPORTS": {
+          "ALLOWED_HOURS": "Desteklenen Çalışma Saati",
+          "MANHOUR_FEE": "Saatlik Destek Tutarı",
+          "REFILL_BUSY_HOURS": "Dolumda Geçen Saat",
+          "TITLE": "Meşgul Kurye Desteği",
+          "UNSUPPORTED_AMOUNT": "Desteklenmeyen Meşgul Tutarı",
+          "UNSUPPORTED_HOURS": "Desteklenmeyen Çalışma Saati"
+        },
+        "COURIER_IDLE_SUPPORTS": {
+          "MANHOUR_FEE": "Saatlik Destek Tutarı",
+          "TITLE": "Atıl Kurye Desteği",
+          "UNSUPPORTED_AMOUNT": "Desteklenmeyen Atıl Tutarı",
+          "UNSUPPORTED_HOURS": "Desteklenmeyen Çalışma Saati",
+          "UTILIZED_ALLOWED_HOURS": "Desteklenen Çalışma Saati"
+        },
+        "COURIER_UTILIZED_SUPPORTS": {
+          "MANHOUR_FEE": "Saatlik Destek Tutarı",
+          "TITLE": "Siparişteki Kurye Desteği",
+          "UTILIZED_ALLOWED_HOURS": "Desteklenen Çalışma Saati"
+        },
+        "GETIR_COURIERS_DEDUCTIONS": {
+          "MANHOUR_FEE": "Saatlik Kullanım Ücreti",
+          "TITLE": "Hazır Kıta Kesintisi",
+          "TOTAL_GETIR_COURIER_HOURS": "Hazır Kıta Kullanım Saati"
+        },
+        "TITLE": "Dağıtım"
+      },
+      "VOYAGER_FLEET_SUPPORTS": {
+        "FLEET_FUEL_SUPPORTS": {
+          "ORDER_KM": "Siparişte Geçen Km",
+          "PER_KM_FUEL_FEE": "Km Başı Yakıt Tutarı",
+          "REFILL_KM": "Dolumda Geçen Km",
+          "TITLE": "Filo Yakıt Desteği",
+          "TOTAL_KM": "Toplam Km"
+        },
+        "FLEET_GENERAL_EXPENSES_SUPPORTS": {
+          "PER_VEHICLE_GENERAL_EXPENSE_SUPPORT": "Araç Başına Genel Gider",
+          "TITLE": "Filo Genel Giderler Desteği",
+          "VEHICLE_COUNT": "Araç Sayısı"
+        },
+        "FLEET_MAINTENANCE_SUPPORTS": {
+          "TITLE": "Filo Bakım Desteği",
+          "UNSUPPORTED_VAN_KM": "Desteklenmeyen KM",
+          "X_YEARS_OLD_VAN_KM": "{{age}} Yaş Araç KM",
+          "X_YEARS_OLD_VAN_MAINTENANCE_SUPPORT": "{{age}} Yaş Araç Bakım Desteği",
+          "X_YEARS_OLD_VAN_PER_KM_MAINTENANCE_SUPPORT": "{{age}} Yaş Araç KM Başına Bakım Desteği"
+        },
+        "TITLE": "Filo"
+      },
+      "VOYAGER_PROFIT_AND_BONUS_SUPPORTS": {
+        "PROFIT": {
+          "DYS_DEPENDENT_PROFIT": {
+            "BASE_BONUS": "Baz Kâr",
+            "DDS_COEF": "DDS Skoru Katsayısı",
+            "DDS_RATIO": "DDS Skoru",
+            "EARNED_ORDER_COUNT": "Ek Sipariş Sayısı",
+            "GW_ORDER_COUNT": "GS Sipariş Sayısı",
+            "PROFIT_COEF": "Kâr Kalemindeki Yüzdesi",
+            "THROUGHPUT": "SAS",
+            "THROUGHPUT_BONUS": "SAS Primi",
+            "TITLE": "DYS'ye Bağlı Kâr",
+            "WORKING_DAY_COUNT": "Çalışılan Gün Sayısı"
+          },
+          "DYS_INDEPENDENT_PROFIT": {
+            "BASE_BONUS": "Baz Kâr",
+            "EXTRA_ORDER_COUNT": "Ek Sipariş Sayısı",
+            "GW_ORDER_COUNT": "GS Sipariş Sayısı",
+            "PROFIT_COEF": "Kâr Kalemindeki Yüzdesi",
+            "THROUGHPUT": "SAS",
+            "THROUGHPUT_BONUS": "SAS Primi",
+            "TITLE": "DYS'ye Bağlı Olmayan Kâr",
+            "WORKING_DAY_COUNT": "Çalışılan Gün Sayısı"
+          },
+          "TITLE": "Kâr"
+        },
+        "TITLE": "Bayi Gelir"
+      },
+      "VOYAGER_WAREHOUSE_SUPPORTS": {
+        "TITLE": "Depo",
+        "WAREHOUSE_FIXED_SUPPORTS": {
+          "PER_WAREHOUSEMAN_SUPPORT": "Depocu Başına Destek",
+          "TITLE": "Depo Sabit Desteği",
+          "WAREHOUSEMAN_COUNT": "Depocu Sayısı",
+          "WAREHOUSE_UTILITIES_SUPPORT": "Sabit Gider Desteği",
+          "WORKED_DAYS": "Çalışılan Gün Sayısı"
+        },
+        "WAREHOUSE_RENT_SUPPORTS": {
+          "RENT": "Kira",
+          "RENT_RATIO": "Kira Destek Yüzdesi",
+          "STOPPAGE": "Stopaj",
+          "TITLE": "Depo Kira Desteği",
+          "WORKED_DAYS": "Çalışılan Gün Sayısı"
+        }
+      }
+    },
+    "TAX": "Vergi",
+    "WAREHOUSE": "Depo"
+  },
+  "UPLOAD": {
+    "DATE": "Ait Olduğu Ayı Seçiniz",
+    "PAGE_TITLE": {
+      "FINANCIAL": "Bayi Gelir Yükleme - Finans",
+      "OPERATIONAL": "Bayi Gelir Yükleme - Operasyon",
+      "SPLITREPORT": "Bayi Gelir Yükleme - Getir Finans Raporu"
+    },
+    "WARNING": {
+      "NO_FILE": "Dosya yok",
+      "READY_TO_IMPORT": "Yüklemeye hazır"
+    }
+  }
+}

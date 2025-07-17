@@ -1,0 +1,17 @@
+{
+  "COLUMNS": {
+    "DESCRIPTION": "Description",
+    "STATUS": "Status",
+    "TITLE": "Title",
+    "USED_COUNT": "Used Count",
+    "VALID_FROM": "Start Date",
+    "VALID_UNTIL": "End Date"
+  },
+  "DISCOUNT_CODE_SEARCH": "Discount code search",
+  "DISCOUNT_CODE_USED_CLIENTS": "Discount code used clients",
+  "EDIT_CODES": "Edit codes",
+  "IMPORT_CODES_BY_CSV": "Import codes by .csv",
+  "INFO_NO_ONE_USED_DISCOUNT": "No one used this discount code",
+  "PAGE_TITLE": "Discount Code List",
+  "START_END_DATES": "Start/End Dates"
+}

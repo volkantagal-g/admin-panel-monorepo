@@ -1,0 +1,53 @@
+{
+  "DATA_TABLE": {
+    "CITY": "Şehir",
+    "COURIER_ID": "Kurye ID",
+    "CUSTOMER": "Müşteri",
+    "DELIVER_DATE": "Sipariş Tarihi",
+    "LAST_ACTIVITY_TIME": "Sn Akt",
+    "LOCALS_AND_SHOP": "İşletme/\nMağaza",
+    "ORDER": "Sipariş",
+    "ORDER_APPROVED_CODE": "Sipariş Onay Kodu",
+    "REQUESTED_DATE": "İade Talep Tarihi",
+    "RESPOND_THE_REQUEST": "Talebi Cevapla",
+    "RETURN_CODE": "İade Kodu",
+    "RETURN_REQUEST_AMOUNT": "İade Talep Tutarı",
+    "RETURN_SLOT": "İade Slotu",
+    "RETURN_STATUS": "İade Statüsü",
+    "RETURN_TIME": "Top.",
+    "RETURN_TYPE": "İade Tipi",
+    "RUNNER_ID": "Runner ID",
+    "SHOP_NAME": "İşletme Adı",
+    "STATUS": "Durum",
+    "STORE": "Depo",
+    "USER_TYPE": "İadeyi Oluşturan",
+    "WAREHOUSE_NAME": "Depo"
+  },
+  "FILTER": {
+    "APPLY": "Uygula",
+    "ORDER_APPROVE_CODE": "Sipariş Onay Kodu",
+    "RETURN_CODE": "İade Kodu",
+    "RETURN_STATUS": "İade Statüsü",
+    "RETURN_TYPE": "İade Tipi",
+    "SHOP_NAME": "İşletme",
+    "STATUS": "Durum Statüsü",
+    "USER_TYPE": "İadeyi Oluşturan"
+  },
+  "MODAL": {
+    "ACCEPT_CONFIRM_TEXT": "İşletmenin iade ret talebini onaylamanız durumunda müşterinin iadesi reddedilir. Ürünler müşteriye geri gönderilir. İadesi reddedilen ürünler için müşteriye ücret iadesi yapılmaz.<br /><br /><strong>Onaylıyor musunuz?</strong>",
+    "APPROVED_PRODUCTS": "Onaylanan Ürünler",
+    "CUSTOMER_RETURN_REASON": "Müşteri İade Sebebi",
+    "DESC": "Yalnızca belirlenen backoffice yetkilileri onay ya da ret verebilir. İade ret talebi 2 gün içerisinde cevaplanmalıdır. Aksi takdirde iade ret talebi otomatik olarak onaylanır. İade ret talebini cevaplamadan önce lütfen işletme ve müşteriyle görüşün. Ret talebinin onaylanması durumunda ürünler müşteriye geri gider.",
+    "PRODUCT": "Ürün",
+    "QUANTITY": "Adet",
+    "REJECTED_PRODUCTS": "Reddedilen Ürünler",
+    "REJECT_CONFIRM_TEXT": "İşletmenin iade ret talebini reddetmeniz durumunda müşterinin iadesi kabul edilir. İade sebebiyle işletmeden kesinti olur.<br /><br /><strong>Reddediyor musunuz?</strong>",
+    "RETURN_AMOUNT": "İade Tutarı",
+    "SHOP_RETURN_REASON": "İşletme İade Sebebi",
+    "TABLE_TITLE": "İade Sebebi",
+    "TITLE": "İade Detay",
+    "TOTAL_RETURN_AMOUNT": "Toplam İade Tutarı",
+    "WARNING": "Uyarı"
+  },
+  "TITLE": "GetirÇarşı İadeler"
+}

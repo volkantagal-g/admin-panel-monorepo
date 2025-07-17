@@ -1,0 +1,14 @@
+{
+  "BADGE": "Badge",
+  "BADGES": "Badges",
+  "BADGE_INFO": "Badge Info",
+  "BRING_PRODUCTS": "Bring Products",
+  "DOMAIN_TYPE": "Domain Type",
+  "IMAGE_INFO": {
+    "TITLE": "Image Preview"
+  },
+  "MARKET_PRODUCT_BADGES": "Products with {{ badgeName }} Badge",
+  "NEW_BADGE": "New Badge",
+  "POSITION": "Position",
+  "STATUS": "Status"
+}

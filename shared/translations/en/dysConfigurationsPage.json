@@ -1,0 +1,12 @@
+{
+  "DDS": "SES (%)",
+  "DDS_TOOLTIP": "Store Efficiency System",
+  "DTS": "DTS (%)",
+  "DTS_TOOLTIP": "Disciplinary Tracking System",
+  "DYS_CONFIGS": "Store Performance System Configurations",
+  "KDS": "QAS (%)",
+  "KDS_TOOLTIP": "Quality Assurance System",
+  "STS": "STS (%)",
+  "STS_TOOLTIP": "Stock Tracking System",
+  "SUMMATION_ERROR_MESSAGE": "Only integer values must be entered and the sum of the values must be 100."
+}

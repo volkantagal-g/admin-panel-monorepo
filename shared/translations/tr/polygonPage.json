@@ -1,0 +1,57 @@
+{
+  "CONFIRM_MODAL_TITLE": "Değişiklikleri kaydetmek istediğine emin misin?",
+  "DUPLICATE_WAREHOUSE": "Aynı depo idsi, features: #{{ firstIndex }} ve #{{ secondIndex }}, depo id: {{ id }}",
+  "GEO_JSON": "GeoJSON",
+  "GETIR_MARKET_POLYGON_TYPES": {
+    "0": "Hiçbiri",
+    "1": "Alt Bölge",
+    "2": "Ürün görme engelli",
+    "5": "Kampanya engelli",
+    "7": "Sipariş engelli",
+    "9": "Genişletilmiş Bölge",
+    "10": "Araç tipi bazlı engelli",
+    "12": "Yasaklı Yollar",
+    "13": "Sadece Gorillas",
+    "16": "Entegre Gorillas",
+    "17": "Zaman Ayarlı teslimat"
+  },
+  "GETIR_MARKET_SUBREGION_INTERVAL_TYPES": {
+    "1100": "Gündüz",
+    "2100": "Erken Gece",
+    "2200": "Geç Gece",
+    "2300": "Erken Sabah"
+  },
+  "GET_EVERY_DAY_DELIVERY_HOURS": "Varsayılan günlük teslimat saatleri",
+  "INVALID_WAREHOUSE": "Hatalı depo, features #: {{ index }}, depo id: {{ id }}",
+  "IS_ACTIVE": "Aktiflik",
+  "MARKET_VEHICLE_TYPES": {
+    "100": "Yaya",
+    "200": "Motor",
+    "300": "MiTu",
+    "400": "Araç",
+    "500": "E-Bisiklet",
+    "600": "E-Moto",
+    "700": "E-Araç"
+  },
+  "NO_WAREHOUSE": "Depo yok ya da warehouse typo, features #: {{ index }}",
+  "POLYGON_TYPE": "Poligon Tipi",
+  "POLYGON_TYPES": {
+    "0": "Hiçbiri",
+    "1": "Servis alanı",
+    "2": "Ürün görme engelli",
+    "3": "Doblo bölgesi",
+    "4": "Doblo noktası",
+    "5": "Kampanya engelli",
+    "6": "İlçe",
+    "7": "Sipariş engelli",
+    "8": "Alt bölge",
+    "9": "Genişletilmiş bölge",
+    "10": "Gece alt bölgesi",
+    "11": "Test Sürüşü"
+  },
+  "SELECT_CITY_TOOLTIP": "Depoları haritada görmek için şehir seçmelisin",
+  "SELECT_EVERY_DAY_DELIVERY_HOURS_DESCRIPTION": "Günlük teslimat sürelerini ve ücretlerini varsayılan olarak uygulamak için seçip ardından GeoJSON Çek düğmesine basmanız gerekir.",
+  "SELECT_INTERVAL_TYPE": "Aralık Seç",
+  "SHOW_WAREHOUSE_MARKERS_ON_MAP": "Depoları Haritada Göster",
+  "VEHICLE_TYPE": "Araç Tipi"
+}

@@ -1,0 +1,14 @@
+{
+  "BADGE": "Rozet",
+  "BADGES": "Rozetler",
+  "BADGE_INFO": "Rozet Bilgisi",
+  "BRING_PRODUCTS": "Ürünleri Getir",
+  "DOMAIN_TYPE": "Servis Tipi",
+  "IMAGE_INFO": {
+    "TITLE": "Resim Önizleme"
+  },
+  "MARKET_PRODUCT_BADGES": "{{ badgeName }} Rozetli Ürünler",
+  "NEW_BADGE": "Yeni Rozet",
+  "POSITION": "Pozisyon",
+  "STATUS": "Durum"
+}

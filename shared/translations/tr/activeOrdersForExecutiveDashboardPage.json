@@ -1,0 +1,34 @@
+{
+  "ACTIVE_ORDERS": "Aktif Siparişler",
+  "ADDRESS_TYPE": "Adres Tipi",
+  "AVG_BASKET": "Ort. Sepet",
+  "AVG_DISCOUNT": "Ort. İndirim",
+  "BASKET_COUNT": "Sepet Sayısı",
+  "CHART_FILTERS": "Chart Filtreleri",
+  "DELIVERY_TYPES": {
+    "ON_DEMAND": "On-Demand",
+    "SCHEDULED": "Randevulu"
+  },
+  "MARKET_QUEUE_STATUS": {
+    "100": "Girmedi",
+    "200": "Soruldu",
+    "300": "Sırada",
+    "400": "Çıktı"
+  },
+  "ORDER_COUNT": "Sip. Sayısı",
+  "ORGANIC": "Organik",
+  "ORGANIC_ONLY": "Sadece Organik",
+  "PAYMENT_TYPE": "Ödeme Tipi",
+  "PROMO_CODE": "Kamp. Kodu",
+  "PROMO_DIST": "Kamp. Dağılım",
+  "PROMO_FINANCED": "Toplam İndirim",
+  "PROMO_OBJECTIVE_TYPE": "Kamp. Tipi",
+  "PROMO_ONLY": "Sadece Kampanyalı",
+  "QUEUE_STATUS": "Sıra Durumu",
+  "RESERVED_NOT_INCLUDED_TOOLTIP": "“Rezerve” statüsündeki siparişler dahil değildir.",
+  "SCHEDULED_ONLY": "Sadece Randevulu",
+  "SUPPLIER": "Tedarikçi",
+  "THIRD_PART": "Üç. Parti",
+  "TOTAL_DISCOUNT": "Top. İndirim",
+  "WAREHOUSE_COUNT": "Depo Sayısı"
+}

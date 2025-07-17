@@ -1,0 +1,16 @@
+{
+  "ACTIVE_DOMAINS": "Active Domains",
+  "ACTIVE_DOMAINS_PLACE_HOLDER": "Please select active domain type",
+  "AUTO_CREATED_SAAS": "Show Automated SAAs",
+  "AUTO_CREATED_SAAS_INFO": "Automated SAAs are created by the polygons based on the active domains. You can't edit or delete them.",
+  "CLICK_SAA": "You can click a polygon to see details",
+  "CONFIRM_TEXT": "Do you want to complete this step?",
+  "CREATE_SAA": "Create",
+  "DETAIL_SAA": "Detail",
+  "EDIT_SAA": "Edit",
+  "FOUND_AREA_COUNT": "Found SAA count",
+  "GEO_JSON": "GeoJSON",
+  "NAME_PLACE_HOLDER": "Please write SAA name",
+  "NEW_SAA": "New SAA",
+  "SEARCH_SAAS": "Search Service Availability Area"
+}

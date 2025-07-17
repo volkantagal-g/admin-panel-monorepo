@@ -1,0 +1,24 @@
+{
+  "AGENT_ASSISTANCE_DISABLED": "Temsilci yardımı özelliği etkin değil",
+  "CONTENT_UPDATE_ERROR": "Lütfen tüm Filtreleri seçin",
+  "FILTER_OPTIONS": {
+    "CHANNEL": "Kanal",
+    "CONTACT": "İletişim",
+    "FEATURE": "Özellikler",
+    "MAIN_REASON": "Ana Sebep",
+    "SEGMENT": "Güven Puanı",
+    "SUB_REASON": "Alt Sebep",
+    "TITLE": "Filtre seçenekleri"
+  },
+  "KNOWLEDGE": {
+    "KNOWLEDGE_PLACEHOLDER": "Bilgi buradan güncellenebilir",
+    "LLM_CONTENT_PLACEHOLDER": "Lütfen yalnızca gerçekten gerekli olduğunda LLM çıktıları üzerinde değişiklik yapın",
+    "TITLE": "Bilgi tabanı arayüzü",
+    "UPDATE_FEEDBACK_MESSAGE": "Bilgi başarıyla güncellendi. Yeni LLM çıktılarının görüntülenmesi için lütfen 1-2 dakika bekleyin"
+  },
+  "NO_KNOWLEDGE_CONTENT_PLACEHOLDER": "İçerik yok, lütfen bilgi sekmesinden içerek ekleyin.",
+  "NO_LLM_CONTENT_PLACEHOLDER": "İçerik yok, lütfen bilgi sekmesinden içerek ekleyin.",
+  "REFRESH": "Yenile",
+  "REQUEST_ERROR": "Yüksek Lisans içeriği getirilemiyor",
+  "TITLE": "LLM Temsilci Rehberi"
+}

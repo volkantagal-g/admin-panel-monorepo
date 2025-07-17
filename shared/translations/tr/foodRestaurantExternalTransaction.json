@@ -1,0 +1,72 @@
+{
+  "BULK_TRANSACTION": {
+    "BUTTON_LABELS": {
+      "PAYBACK": "Restorandan Toplu Alacak",
+      "PAYMENT": "Restorana Toplu Ödeme"
+    },
+    "CHECK_UPLOADED_DOCUMENT": "Lütfen yüklenen dosyayı kontrol ediniz.",
+    "DOWNLOAD_TEMPLATE": "Örnek Dosya İndir",
+    "PAYBACK": {
+      "CONFIRMATION_MODAL": {
+        "CONTENT": "{{restaurantCount}} restorandan toplam {{currency}}{{amount}} alınacaktır. Onaylıyor musunuz?",
+        "TITLE": "Toplu Restorandan Alacak Onay"
+      },
+      "TITLE": "Restorandan Toplu Alacak -"
+    },
+    "PAYMENT": {
+      "CONFIRMATION_MODAL": {
+        "CONTENT": "{{restaurantCount}} restorana toplam {{currency}}{{amount}} ödenecektir. Onaylıyor musunuz?",
+        "TITLE": "Toplu Restorana Ödeme Onay"
+      },
+      "TITLE": "Restorana Toplu Ödeme +"
+    },
+    "SUCCESS_MESSAGE": "Toplu işlem başladı ve arka planda devam ediyor. İşlem tamamlandığında slack kanalından bildirim gönderilecektir",
+    "TITLE": "Toplu Restoran Borç/Alacak İşlemleri",
+    "WARNING_MESSAGES": {
+      "PAYBACK": "Restoran tutarı ödeyecek ve restoran finansal hareketler sayfasına eksi bakiye tutarı olarak yansıyacaktır.",
+      "PAYMENT": "Restorana tutar ödenecek ve restoran finansal hareketler sayfasına artı bakiye tutarı olarak yansıyacaktır."
+    }
+  },
+  "CANCEL": "İptal",
+  "CONFIRM": "Onayla",
+  "SINGLE_TRANSACTION": {
+    "BUTTON_LABELS": {
+      "PAYBACK": "Restorandan Alacak",
+      "PAYMENT": "Restorana Ödeme"
+    },
+    "FORM": {
+      "AMOUNT": "Tutar",
+      "CATEGORY": "Kategori",
+      "NOTE_TO_RESTAURANT": "Restoran Notu",
+      "ORDER_ID": "Sipariş Id",
+      "ORDER_ID_EXTRA": "<i>Restoran kazancı: <strong> {{revenue}} TL</strong></i>",
+      "PAYMENT_DATE": "Ödeme Tarihi",
+      "RESTAURANT_ID": "Restoran Id"
+    },
+    "PAYBACK": {
+      "CONFIRMATION_MODAL": {
+        "CONTENT": "{{currency}}{{amount}}, \"{{restaurantName}}\" restoran bakiyesinden düşülecektir. Onaylıyor musunuz?",
+        "CONTENT_WITH_PAYMENT_DATE": "{{currency}}{{amount}}, \"{{restaurantName}}\" restoran bakiyesinden {{paymentDate}} tarihinde düşülecektir. Onaylıyor musunuz?",
+        "TITLE": "Restorandan Alacak İşlem Onayı"
+      },
+      "TITLE": "Restorandan Alacak -"
+    },
+    "PAYMENT": {
+      "CONFIRMATION_MODAL": {
+        "CONTENT": "\"{{restaurantName}}\" restoranına {{currency}}{{amount}} ödeme yapılacaktır. Onaylıyor musunuz?",
+        "CONTENT_WITH_PAYMENT_DATE": "\"{{restaurantName}}\" restoranına {{paymentDate}} tarihinde {{currency}}{{amount}} ödeme yapılacaktır. Onaylıyor musunuz?",
+        "TITLE": "Restorana Ödeme İşlem Onayı"
+      },
+      "TITLE": "Restorana Ödeme +"
+    },
+    "TITLE": "Restoran Borç/Alacak İşlemleri",
+    "WARNING_MESSAGES": {
+      "PAYBACK": "Restoran tutarı ödeyecek ve restoran finansal hareketler sayfasına eksi bakiye tutarı olarak yansıyacaktır.",
+      "PAYMENT": "Restorana tutar ödenecek ve restoran finansal hareketler sayfasına artı bakiye tutarı olarak yansıyacaktır."
+    }
+  },
+  "TRANSACTION_REPORT": {
+    "GET_REPORT": "Raporu Al",
+    "TITLE": "Restoran Borç/Alacak Raporu"
+  }
+}

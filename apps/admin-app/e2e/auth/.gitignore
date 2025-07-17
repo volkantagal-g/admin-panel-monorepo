@@ -1,0 +1,4 @@
+# auth files are secret
+auth*
+# except auth_example.json for reference
+!auth_example.json

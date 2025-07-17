@@ -1,0 +1,145 @@
+{
+  "BUSY": "Busy",
+  "CANCELED": "Canceled",
+  "COURIER": "Courier",
+  "DEDICATED_COURIERS": "Dedicated Couriers",
+  "DOMAIN_TYPES": {
+    "2": "GF",
+    "6": "GL"
+  },
+  "FILTERS": "Filters",
+  "FOOD_ORDER": "GF Order",
+  "FOOD_WAREHOUSE": "GF Warehouse",
+  "FREE": "Free",
+  "G10": "G10",
+  "G10&GMORE": "G10&GM",
+  "GMORE": "GM",
+  "HIDE_OVERALL_STATS_TABLE": "Hide Overall Stats Table",
+  "HIDE_TABLE": "Hide Table",
+  "LAST_UPDATE": "Last Update",
+  "LOCALS": "Locals",
+  "LOCALS_AND_FOOD_WAREHOUSE": "GL & GF Warehouse",
+  "LOCALS_ORDER": "GL Order",
+  "LOCALS_WAREHOUSE": "GL Warehouse",
+  "MOTO": "Moto",
+  "MOTO_50CC": "Moto (50cc)",
+  "ON_ORDER": "On Order",
+  "ORDER": "Order",
+  "ORDER_STATS": {
+    "ACTIVE_ORDERS": {
+      "LAST_WEEK": "Active Orders(GD)",
+      "TODAY": "Active Orders(Total)",
+      "YESTERDAY": "Active Orders(SD)"
+    },
+    "ERROR": {
+      "LAST_WEEK": "Errors (GD)",
+      "TODAY": "Errors (Total)",
+      "YESTERDAY": "Errors (SD)"
+    },
+    "ORDER_COUNT_ALT": {
+      "LAST_WEEK": "Order count SD(Last Week)",
+      "TODAY": "Order count SD(Today)",
+      "YESTERDAY": "Order count SD(Yesterday)"
+    },
+    "ORDER_COUNT_ALT_RATE": {
+      "LAST_WEEK": "Order count ratio compared to last week(SD)",
+      "TODAY": "",
+      "YESTERDAY": "Order count ratio compared to yesterday(SD)"
+    },
+    "ORDER_COUNT_GG": {
+      "LAST_WEEK": "Order count GD(Last Week)",
+      "TODAY": "Order count GD(Today)",
+      "YESTERDAY": "Order count GD(Yesterday)"
+    },
+    "ORDER_COUNT_GG_RATE": {
+      "LAST_WEEK": "Order count ratio compared to last week(GD)",
+      "TODAY": "",
+      "YESTERDAY": "Order count ratio compared to yesterday(GD)"
+    },
+    "ORDER_DOMAIN_G10": {
+      "LAST_WEEK": "G10 Orders(Last Week)",
+      "TODAY": "G10 Orders(Today)",
+      "YESTERDAY": "G10 Orders(Yesterday)"
+    },
+    "ORDER_DOMAIN_GB": {
+      "LAST_WEEK": "GMore Orders(Last Week)",
+      "TODAY": "GMore Orders(Today)",
+      "YESTERDAY": "GMore Orders(Yesterday)"
+    },
+    "ORDER_DOMAIN_GC": {
+      "LAST_WEEK": "GL Orders(Last Week)",
+      "TODAY": "GL Orders(Today)",
+      "YESTERDAY": "GL Orders(Yesterday)"
+    },
+    "REVENUE_ALT": {
+      "LAST_WEEK": "Revenue SD(Last Week)",
+      "TODAY": "Revenue SD(Today)",
+      "YESTERDAY": "Revenue SD(Yesterday)"
+    },
+    "REVENUE_ALT_RATE": {
+      "LAST_WEEK": "Revenue ratio compared to last week(SD)",
+      "TODAY": "",
+      "YESTERDAY": "Revenue ratio compared to yesterday(SD)"
+    },
+    "REVENUE_GG": {
+      "LAST_WEEK": "Revenue GD(Last Week)",
+      "TODAY": "Revenue GD(Today)",
+      "YESTERDAY": "Revenue GD(Yesterday)"
+    },
+    "REVENUE_GG_RATE": {
+      "LAST_WEEK": "Revenue ratio compared to last week(GD)",
+      "TODAY": "",
+      "YESTERDAY": "Revenue ratio compared to yesterday(GD)"
+    },
+    "REVENUE_TOTAL": {
+      "LAST_WEEK": "Total Revenue(Last Week)",
+      "TODAY": "Total Revenue(Today)",
+      "YESTERDAY": "Total Revenue(Yesterday)"
+    },
+    "REVENUE_TOTAL_RATE": {
+      "LAST_WEEK": "Total revenue ratio compared to last week",
+      "TODAY": "",
+      "YESTERDAY": "Total revenue ratio compared to yesterday"
+    }
+  },
+  "PLANNED": "Planned",
+  "POOL": "Pool",
+  "POOL_COURIERS": "Pool Couriers",
+  "QUEUED": "Queued",
+  "REALIZED": "Realized",
+  "RETURN": "Return",
+  "SERVICE_TYPE": "Service Type",
+  "SHOW_ALL_WAREHOUSES": "Show All Warehouses",
+  "SHOW_OVERALL_STATS_TABLE": "Show Overall Stats Table",
+  "SHOW_TABLE": "Show Table",
+  "SHOW_TABLE_HEADERS": "Show Table Headers",
+  "STORE_STATS": {
+    "ACTIVES": {
+      "LONG": "Open to sale store",
+      "SHORT": "OSS"
+    },
+    "BUSY_ONES": {
+      "LONG": "Busy StoreDelivery store",
+      "SHORT": "BSD"
+    },
+    "COURIER_OPEN_AND_SD": {
+      "LONG": "Courier open StoreDelivery store",
+      "SHORT": "COSD"
+    },
+    "OPENS": {
+      "LONG": "Currently open store",
+      "SHORT": "OS"
+    },
+    "OPEN_AND_SD": {
+      "LONG": "Open StoreDelivery store",
+      "SHORT": "OSD"
+    }
+  },
+  "TITLE": "GetirÇarşı Live Map",
+  "TOTAL": "Total",
+  "UTILIZATION": "Utilization",
+  "VAN": "Van",
+  "VEHICLE_TYPE": "Vehicle Type",
+  "VEHICLE_TYPES": "Vehicle Types",
+  "WAREHOUSE": "Warehouse"
+}

@@ -1,0 +1,54 @@
+{
+    "ATTRIBUTES": {
+        "IS_HIDDEN_FROM_LISTING": "Is Hidden From Listing",
+        "IS_REQUIRED": "Is Required",
+        "IS_SELECTABLE": "Is Selectable",
+        "IS_SORTABLE": "Is Sortable"
+    },
+    "DESCRIPTION": "Config Description",
+    "DETAIL": {
+        "PAGE_TITLE": "Franchise Config Type Detail"
+    },
+    "FIELD": {
+        "ACTIONS": "Actions",
+        "ADD_NEW_FIELD": "Add New Field",
+        "ADD_NEW_FIELD_HERE": "Add New Field Here",
+        "ATTRIBUTES": "Attributes",
+        "CONFIRM_CHANGES": "Confirm Changes",
+        "EDIT": "Edit Field",
+        "EMPTY": "No Field",
+        "LABEL": "Label",
+        "MARK_FOR_DELETION": "Mark for Deletion",
+        "MOVE_DOWN": "Move Down",
+        "MOVE_UP": "Move Up",
+        "NAME": "Key (Field Name)",
+        "PERMISSIONS": "Permissions",
+        "TYPE": "Type",
+        "UNMARK_FOR_DELETION": "Unmark for Deletion",
+        "VALUE_ENUMS": "Value Enums"
+    },
+    "LIST": {
+        "CONFIG_DESCRIPTION": "Config Type Description",
+        "CONFIG_NAME": "Config Type Name",
+        "CONFIG_TYPE_RECORDS": "Config Type Records",
+        "CONFIRM_POPUP": "Are you sure about to delete this config type?",
+        "DELETION_SUCCESS": "Config Type Deletion Success",
+        "NEW_CONFIG_TYPE": "Create New Config Type",
+        "PAGE_TITLE": "Franchise Config Type List"
+    },
+    "NAME": "Config Type Name",
+    "NEW": {
+        "CONFIG_TYPE": "New Config Type",
+        "PAGE_TITLE": "Create New Franchise Config Type"
+    },
+    "VALIDATION": {
+        "CONFIG_NAME_REGEX": "Config name should include only English letters, numbers and spaces",
+        "CONFIG_NAME_REQUIRED": "Config Name is required",
+        "FIELD_NAME_REGEX": "Config name should include only English letters, numbers and spaces",
+        "FIELD_NAME_REQUIRED": "Key / Field Name is required",
+        "FIELD_NAME_UNIQUE": "Key / Field Name must be unique",
+        "FIELD_PERMISSIONS_REQUIRED": "Field Permissions are required",
+        "FIELD_REQUIRED": "At least one field is required",
+        "FIELD_TYPE_REQUIRED": "Field Type is required"
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "CHANGING_FIELD": {
+    "COUNTRYGSMCODE": "Personal's Country Calling Code",
+    "HOMEADDRESS_DESCRIPTION": "Address",
+    "PERSONALGSM": "Personal GSM",
+    "RELATIVE_COUNTRYGSMCODE": "Relative's Country Calling Code",
+    "RELATIVE_GSM": "Relative GSM",
+    "RELATIVE_NAME": "Relative Name",
+    "RELATIVE_RELATION": "Relative Relation"
+  },
+  "COLUMNS": {
+    "CHANGING_FIELD": "Changing Field",
+    "FRANCHISE": "Franchise",
+    "PERSON_NAME": "Employee Name",
+    "REQUEST_DATE": "Request Date",
+    "REQUEST_STATUS": "Request Status"
+  },
+  "FRANCHISE": "Franchise",
+  "INFORMATION_EDIT_REQUESTS": "Information Edit Requests",
+  "INFORMATION_TO_BE_CHANGED": "Information To Be Changed",
+  "NEW_PERSON_APPLICATIONS": "New Employee Applications",
+  "NEW_VALUE": "Up to date",
+  "OLD_VALUE": "Existing",
+  "REJECT_NOTE": "Reject Note",
+  "REJECT_NOTE_ERROR": "This field is required",
+  "WORKER_TYPE": "Worker Type"
+}

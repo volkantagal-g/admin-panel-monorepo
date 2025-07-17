@@ -1,0 +1,1 @@
+export const WORKING_HOURS_MINS_RANGE = 15;

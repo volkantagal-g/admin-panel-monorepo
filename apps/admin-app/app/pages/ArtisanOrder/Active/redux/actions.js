@@ -1,0 +1,37 @@
+import { createActions } from 'reduxsauce';
+
+import { REDUX_KEY } from '@shared/shared/constants';
+
+export const { Types, Creators } = createActions({
+  getActivesRequest: {},
+  getActivesSuccess: { data: [] },
+  getActivesFailure: { error: null },
+  getPaymentMethodsRequest: { includeOnline: false },
+  getPaymentMethodsSuccess: { data: [] },
+  getPaymentMethodsFailure: { error: null },
+  getMerchantTypesRequest: null,
+  getMerchantTypesSuccess: { data: [] },
+  getMerchantTypesFailure: { error: null },
+  getShopsByNameRequest: { name: '', cityIds: '' },
+  getShopsByNameSuccess: { data: [] },
+  getShopsByNameFailure: { error: null },
+  setFetchersCountry: { country: '' },
+  setFetchersCity: { city: '' },
+  setCity: { city: [] },
+  setLocals: { localsValue: '' },
+  setSearchLocals: { searchLocalsValue: '' },
+  setDeliveryType: { deliveryValue: '' },
+  setPlatformType: { platformValue: '' },
+  setCourierTypes: { couriers: [] },
+  setPaymentTypes: { paymentTypes: [] },
+  setCourierDomainTypes: { domainType: '' },
+  setLastActivity: { lastActivity: [] },
+  setOrderStatusTypes: { orderStatusTypes: [] },
+  setMerchantTypes: { merchantTypes: [] },
+  setSearchValue: { searchValue: '' },
+  setFilterRetailOrders: { filterRetailOrders: false },
+  setFilterScheduledOrders: { filterScheduledOrders: false },
+  setMappedResults: { data: [] },
+  initPage: null,
+  destroyPage: null,
+}, { prefix: `${REDUX_KEY.ARTISAN_ORDER.ACTIVE}_` });

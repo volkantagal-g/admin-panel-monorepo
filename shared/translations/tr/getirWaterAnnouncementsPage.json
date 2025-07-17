@@ -1,0 +1,139 @@
+{
+  "ACTIVENESS": "Aktivite",
+  "COLUMNS": {
+    "STATUS": "Durum",
+    "TITLE": "Başlık",
+    "VALID_FROM": "Başlangıç Tarihi",
+    "VALID_UNTIL": "Bitiş Tarihi"
+  },
+  "CONFIRM_ACTIVATION": "Duyuruyu AKTİF yapmak istediğinize emin misiniz?",
+  "CONFIRM_INACTIVATION": "Duyuruyu İNAKTİF yapmak istediğinize emin misiniz?",
+  "DETAIL": "Duyuru Detayı",
+  "FILTER": "Filtre",
+  "FORM": {
+    "BANNER_DETAILS": {
+      "BANNER_ACTION": "Banner Aksiyon",
+      "BUTTON": {
+        "BUTTON_TEXT_EN": "Buton Metni (EN)",
+        "BUTTON_TEXT_TR": "Buton Metni (TR)"
+      },
+      "BUTTON_ACTION": "Buton Aksiyon",
+      "GENERAL_INFO": "Genel Bilgiler",
+      "PICTURE": {
+        "CHANGE_EN": "Değiştir (EN)",
+        "CHANGE_TR": "Değiştir (TR)",
+        "TITLE_EN": "Resim URL (EN)",
+        "TITLE_TR": "Resim URL (TR)"
+      },
+      "PRIORITY": {
+        "TITLE": "Öncelik"
+      },
+      "REDIRECT": {
+        "TITLE": "Yönlendirilecek Yer"
+      },
+      "STATUS": {
+        "TITLE": "Durum"
+      },
+      "TITLE": "Banner Detayı",
+      "TYPE": {
+        "TITLE": "Tür"
+      }
+    },
+    "DATE_INFO": {
+      "END_DATE": {
+        "TITLE": "Bitiş Tarihi"
+      },
+      "START_DATE": {
+        "TITLE": "Başlangıç Tarihi"
+      },
+      "TITLE": "Tarih Bilgisi"
+    },
+    "FILTER": {
+      "BRANDS": {
+        "TITLE": "Markalar"
+      },
+      "CITY": {
+        "TITLE": "Şehirler"
+      },
+      "FIELD_STAFF": {
+        "TITLE": "Sahayı Çıkar"
+      },
+      "G10_COUNT": {
+        "TITLE": "Getir10 Sipariş Sayısı"
+      },
+      "GWATER_COUNT": {
+        "TITLE": "GetirSu MP Sipariş Sayısı"
+      },
+      "LOCATION_FREE": {
+        "TITLE": "Lokasyon Bağımsız Göster"
+      },
+      "PLATFORM": {
+        "TITLE": "Platform"
+      },
+      "TITLE": "Filtre",
+      "VENDORS": {
+        "TITLE": "Bayiler"
+      },
+      "WHITE_COLLAR": {
+        "TITLE": "Beyaz Yakayı Çıkar"
+      }
+    },
+    "GENERAL_INFO": {
+      "ACCESS_LABEL": {
+        "TITLE_EN": "Erişilebilirlik Metni (EN)",
+        "TITLE_TR": "Erişilebilirlik Metni (TR)"
+      },
+      "DESCRIPTION": {
+        "TITLE_EN": "Açıklama (EN)",
+        "TITLE_TR": "Açıklama (TR)"
+      },
+      "HEAD_TITLE": "Genel Bilgiler",
+      "PRIORITY": {
+        "TITLE": "Öncelik"
+      },
+      "PROMO_CONTENT_HTML": {
+        "TITLE_EN": "Duyuru Detay HTML (EN)",
+        "TITLE_TR": "Duyuru Detay HTML (TR)"
+      },
+      "PROMO_CONTENT_SECTION_TITLE": {
+        "TITLE_EN": "Duyuru Detay Başlık (EN)",
+        "TITLE_TR": "Duyuru Detay Başlık (TR)"
+      },
+      "PROMO_CONTENT_URL": {
+        "TITLE_EN": "Duyuru Detay URL (EN)",
+        "TITLE_TR": "Duyuru Detay URL (TR)"
+      },
+      "PROMO_PAGE_TITLE": {
+        "TITLE_EN": "Duyuru Detay Sayfa Başlık (EN)",
+        "TITLE_TR": "Duyuru Detay Sayfa Başlık (TR)"
+      },
+      "TARGET": {
+        "TITLE": "Hedef"
+      },
+      "TITLE": {
+        "TITLE_EN": "Başlık (EN)",
+        "TITLE_TR": "Başlık (TR)"
+      }
+    },
+    "PICTURE_PREVIEW": {
+      "CHANGE_EN": "Değiştir (EN)",
+      "CHANGE_TR": "Değiştir (TR)",
+      "TITLE": "Resim Önizleme",
+      "TITLE_EN": "Resim Önizleme (EN)",
+      "TITLE_TR": "Resim Önizleme (TR)"
+    },
+    "VALID_TIMES": {
+      "BTN_ADD": "Ekle",
+      "BTN_DELETE": "Sil",
+      "END_DATE": {
+        "TITLE": "Bitiş Tarihi"
+      },
+      "START_DATE": {
+        "TITLE": "Başlangıç Tarihi"
+      },
+      "TITLE": "Geçerli Tarihler"
+    }
+  },
+  "NEW": "Yeni Duyuru",
+  "SEARCH": "Ara"
+}

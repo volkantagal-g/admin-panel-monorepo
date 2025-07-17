@@ -1,0 +1,61 @@
+{
+  "API_ERRORS": {
+    "REQUEST_FAIL": "Failed to fetch data for: {{ rowName }}"
+  },
+  "ROW_NAMES": {
+    "COUNTRY_CODES": {
+      "DE": "Germany",
+      "ES": "Spain",
+      "FR": "France",
+      "GB": "UK",
+      "IT": "Italy",
+      "NL": "Netherlands",
+      "PT": "Portugal",
+      "TR": "Turkey",
+      "XC": "California",
+      "XF": "Florida",
+      "XI": "IL",
+      "XM": "MA",
+      "XN": "NY",
+      "XW": "Wisconsin"
+    },
+    "COUNTRY_GROUP_CODES": {
+      "EUROPE": "Europe",
+      "TR": "Turkey",
+      "USA": "USA"
+    },
+    "DOMAIN_CODES": {
+      "G10": "Getir10",
+      "G30": "GetirMore"
+    },
+    "GETIR_MARKET": "GetirMarket"
+  },
+  "ROW_NAME_TOOLTIPS": {
+    "COUNTRY_CODES": {
+      "DE": "Germany",
+      "ES": "Spain",
+      "FR": "France",
+      "GB": "United Kingdom",
+      "IT": "Italy",
+      "NL": "Netherlands",
+      "PT": "Portugal",
+      "TR": "Turkey",
+      "XC": "California",
+      "XF": "Florida",
+      "XI": "Illinois",
+      "XM": "Massachusetts",
+      "XN": "New York State",
+      "XW": "Wisconsin"
+    },
+    "COUNTRY_GROUP_CODES": {
+      "EUROPE": "Europe",
+      "TR": "Turkey",
+      "USA": "USA"
+    },
+    "DOMAIN_CODES": {
+      "G10": "Getir10",
+      "G30": "GetirMore"
+    },
+    "GETIR_MARKET": "GetirMarket"
+  }
+}

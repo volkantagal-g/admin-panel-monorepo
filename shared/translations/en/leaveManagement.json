@@ -1,0 +1,22 @@
+{
+  "COLUMNS": {
+    "DATES_REQUESTED": "Dates Requested",
+    "DAY_REQUESTED": "Number of Days Requested",
+    "LEAVE_TYPE": "Leave Type",
+    "NAME": "Name",
+    "PICTURE": "Picture"
+  },
+  "DOCUMENTS": "Documents",
+  "LEAVE_DATES": "Leave Dates",
+  "LEAVE_DURATION": "Leave Duration",
+  "LEAVE_STATUSES": {
+    "0": "Canceled",
+    "100": "Pending for approval",
+    "200": "Approved",
+    "300": "Rejected",
+    "400": "Pending for document"
+  },
+  "NOTE": "Note",
+  "NO_LEAVES_FOUND": "No leaves found",
+  "REJECTION_REASON": "Rejection Reason"
+}

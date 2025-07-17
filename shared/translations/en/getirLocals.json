@@ -1,0 +1,16 @@
+{
+    "RUNNER": {
+        "DELIVERED": "delivered the order",
+        "DELIVERED_TO_SHOP": "delivered the order to the shop",
+        "HANDOVER": "the order is handed over",
+        "ON_WAY_TO_SHOP": "on way to the shop",
+        "PACKAGE_APPROVAL": "approved the order",
+        "REACHED_TO_HANDOVER_POINT": "reached to the handover point",
+        "REFUND": "Refund Runner",
+        "REFUND_DELIVERED_TO_SHOP": "delivered the return package to the shop",
+        "REFUND_HANDOVER": "the refund package is handed over",
+        "REFUND_ON_WAY_TO_SHOP": "on way to the shop",
+        "REFUND_PACKAGE_APPROVAL": "approved the return package",
+        "VERIFYING": "verifying"
+    }
+}

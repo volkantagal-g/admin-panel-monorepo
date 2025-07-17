@@ -1,0 +1,56 @@
+{
+  "DATA_TABLE": {
+    "ACTION": "Aksiyon",
+    "BRAND": "Marka",
+    "CANCEL_REASON": "İptal Sebebi",
+    "CITY": "Şehir",
+    "CONFIRMATION_CODE": "Sipariş Onay Kodu",
+    "CREATED_DATE": "Sepet Tar.",
+    "CUSTOMER_NAME": "Müşteri",
+    "ORDER": "Sipariş",
+    "PAYMENT_DATE": "Sipariş Tarihi",
+    "PRICE": "Fiyat",
+    "SCHEDULED_DATE": "Planlanan Teslim Tarihi",
+    "STATUS": "Durum",
+    "VENDOR": "Bayi"
+  },
+  "FILTER": {
+    "BRAND": {
+      "DESC": "Marka Seçiniz",
+      "TITLE": "Marka"
+    },
+    "CITY": {
+      "DESC": "Şehir Seçiniz",
+      "TITLE": "Şehir"
+    },
+    "CONFIRMATION_CODE": {
+      "DESC": "Sipariş Onay Kodu",
+      "TITLE": "Sipariş Onay Kodu"
+    },
+    "PAYMENT_METHOD": {
+      "DESC": "Ödeme Yöntemi Seçiniz",
+      "TITLE": "Ödeme Yöntemi"
+    },
+    "STATUS": {
+      "DESC": "Durum Seçiniz",
+      "TITLE": "Durum"
+    },
+    "TIME_TYPE": {
+      "DESC": "Zaman Tipi Seçiniz",
+      "TITLE": "Zaman Tipi"
+    },
+    "VENDOR": {
+      "DESC": "Bayi Seçiniz",
+      "TITLE": "Bayi"
+    }
+  },
+  "PAYMENT_STATUS": {
+    "PARTIAL_REFUNDED": "Ürün İadesi Yapıldı",
+    "REFUNDED": "İade Edildi"
+  },
+  "TIME_TYPES": {
+    "IMMEDIATE": "Hemen",
+    "SCHEDULED": "İleri Tarihli"
+  },
+  "TITLE": "GetirSu Sipariş Filtreleme"
+}

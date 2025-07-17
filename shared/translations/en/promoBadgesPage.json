@@ -1,0 +1,42 @@
+{
+  "CREATE": {
+    "TITLE": "Promo Badge Create"
+  },
+  "DOCUMENTATION": {
+    "LINK_TEXT": "Usage of Variables within Badges",
+    "TEXT": "For information on how to use this feature, please refer to:"
+  },
+  "HEADER": {
+    "ACTION": "Action",
+    "BASKET_APPLIED_BADGE": "Basket Badge (Applied)",
+    "BASKET_NOT_APPLIED_BADGE": "Basket Badge (Non-Applied)",
+    "EDIT": "Edit",
+    "NAME": "Name",
+    "PRODUCT_DETAIL_PAGE_BADGE": "Product Detail Badge",
+    "PRODUCT_LISTING_PAGE_BADGE": "Product Listing Badge"
+  },
+  "LIST": {
+    "BADGE_NAME": "Badge Name",
+    "PROMO_MECHANIC": "Promo Mechanic",
+    "TITLE": "Promo Badges List"
+  },
+  "TOAST": {
+    "ALREADY_EXISTS": "This badge name is already in use. Please try another one."
+  },
+  "TOOLTIP": {
+    "BASKET_APPLIED_BADGE": "'MIN_REQUIRED_ITEM_COUNT + each DISCOUNTED_PRICE' will be shown as '3+ each 3€'",
+    "BASKET_NOT_APPLIED_BADGE": "'Add REQUIRED_PRODUCT_COUNT more to get it for DISCOUNTED_PRICE each' will be shown as 'Add 1 more to get it for 3€ each'",
+    "DISCOUNTED_PRICE": "This value corresponds to the following field in the promotion: Benefit Type - Discounted price",
+    "DISCOUNT_AMOUNT": "This value corresponds to the following field in the promotion: Benefit Type - Discount amount",
+    "MAX_ITEM_COUNT": "This value corresponds to the following field in the promotion: Benefit Type - Max Item Count",
+    "MIN_REQUIRED_ITEM_COUNT": "This value corresponds to the following field in the promotion: Condition Products - Min required item count",
+    "PRODUCT_DETAIL_PAGE_BADGE": "'Buy at least REQUIRED_PRODUCT_COUNT to get each of them for DISCOUNTED_PRICE' will be shown as 'Buy at least 3 to get each of them for 3€'",
+    "PRODUCT_LISTING_PAGE_BADGE": "'Buy REQUIRED_PRODUCT_COUNT for DISCOUNTED_PRICE each' will be shown as 'Buy 3 for £2 each'",
+    "REQUIRED_PRODUCT_AMOUNT": "This value corresponds to the following field in the promotion: Condition Products - Required products min total amount",
+    "REQUIRED_PRODUCT_COUNT": "Calculates the difference between Min required item count ad the item count client has in the basket to find the remaining # of items needed. Only applicable for basket screen badges."
+  },
+  "UPDATE": {
+    "DELETE_CONFIRMATION": "Are you sure you want to delete this badge?",
+    "TITLE": "Promo Badge Update"
+  }
+}

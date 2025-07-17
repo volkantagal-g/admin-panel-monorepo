@@ -1,0 +1,388 @@
+{
+  "LIST": {
+    "FRANCHISE": "Franchise",
+    "HOUR": "hour",
+    "TABLE": {
+      "DISTRIBUTION": {
+        "COURIER": {
+          "BUSY_COURIER": {
+            "NOT_SUPPORTED_HOURS": "Busy Not Support",
+            "OVERTIME_PAYMENT": "Overtime Payment",
+            "SUPPORTED_HOURS": "Busy Support",
+            "TITLE": "Busy Courier"
+          },
+          "CAR_COURIER_SUPPORT": {
+            "NUMBER_OF_ORDERS_GB": "Number Of Orders(Market)",
+            "NUMBER_OF_ORDERS_GL": "Number Of Orders(Locals)",
+            "NUMBER_OF_ORDERS_GY": "Number Of Orders(Food)",
+            "SUPPORT_PER_ORDER_GB": "Market Support Per Order",
+            "SUPPORT_PER_ORDER_GL": "Locals Support Per Order",
+            "SUPPORT_PER_ORDER_GY": "Food Support Per Order",
+            "TITLE": "Car Courier Support"
+          },
+          "EFFECTIVITY_DEDUCTION": {
+            "EFFECTIVITY_COST_PER_HOUR": "QRF Hourly Cost",
+            "TITLE": "Total QRF Deduction",
+            "USED_HOURS": "Total Used Hours"
+          },
+          "EXCEEDING_DEDUCTION": {
+            "COURIER_SUPPORT_FEE_PER_HOUR": "Hourly Courier Support Amount",
+            "TITLE": "Exceeding Deduction",
+            "TOTAL_EXCEEDING_HOURS": "Total Exceeded Hours"
+          },
+          "E_BIKE_COURIER_SUPPORT": {
+            "NUMBER_OF_ORDERS_GB": "Number Of Orders(Market)",
+            "SUPPORT_PER_ORDER_GB": "Market Support Per Order",
+            "TITLE": "E-bike Courier Support"
+          },
+          "IDLE_COURIER": {
+            "NOT_SUPPORTED_HOURS": "Not Supported Idle Hours",
+            "OVERTIME_PAYMENT": "Overtime Payment",
+            "SUPPORTED_HOURS": "Supported Idle Hours",
+            "TITLE": "Idle Courier"
+          },
+          "MITU_COURIER_SUPPORT": {
+            "NUMBER_OF_ORDERS_GB": "Number Of Orders(Market)",
+            "NUMBER_OF_ORDERS_GL": "Number Of Orders(Locals)",
+            "NUMBER_OF_ORDERS_GY": "Number Of Orders(Food)",
+            "SUPPORT_PER_ORDER_GB": "Market Support Per Order",
+            "SUPPORT_PER_ORDER_GL": "Locals Support Per Order",
+            "SUPPORT_PER_ORDER_GY": "Food Support Per Order",
+            "TITLE": "Mitu Courier Support"
+          },
+          "MOTO_COURIER_SUPPORT": {
+            "NUMBER_OF_ORDERS_GB": "Number Of Orders(Market)",
+            "NUMBER_OF_ORDERS_GL": "Number Of Orders(Locals)",
+            "NUMBER_OF_ORDERS_GY": "Number Of Orders(Food)",
+            "SUPPORT_PER_ORDER_GB": "Market Support Per Order",
+            "SUPPORT_PER_ORDER_GL": "Locals Support Per Order",
+            "SUPPORT_PER_ORDER_GY": "Food Support Per Order",
+            "TITLE": "Moto Courier Support"
+          },
+          "PEDESTRIAN_COURIER_SUPPORT": {
+            "NUMBER_OF_ORDERS_GB": "Number Of Orders(Market)",
+            "NUMBER_OF_ORDERS_GL": "Number Of Orders(Locals)",
+            "NUMBER_OF_ORDERS_GY": "Number Of Orders(Food)",
+            "SUPPORT_PER_ORDER_GB": "Market Support Per Order",
+            "SUPPORT_PER_ORDER_GL": "Locals Support Per Order",
+            "SUPPORT_PER_ORDER_GY": "Food Support Per Order",
+            "TITLE": "Pedestrian Courier Support"
+          },
+          "STUCK_HOURS_DEDUCTION": {
+            "HOURLY_COURIER_SUPPORT_AMOUNT": "Hourly Courier Support Amount",
+            "STUCK_HOURS": "Stuck Hours",
+            "TITLE": "Stuck Hours Deduction"
+          },
+          "TITLE": "Courier",
+          "UTILIZED_COURIER": {
+            "OVERTIME_PAYMENT": "Overtime Payment",
+            "SUPPORTED_COURIER_PER_HOUR_FEE": "Hourly Courier Support Amount",
+            "TITLE": "Utilized Courier",
+            "UTILIZED_HOURS": "Utilized Hours"
+          }
+        },
+        "FUEL_MAINTENANCE_AMORTIZATION": {
+          "AMORTIZATION": {
+            "ADJUSTED_CAR_KM": "Adjusted Car Km",
+            "ADJUSTED_E_BIKE_KM": "Adjusted E-bike Km",
+            "ADJUSTED_MITU_KM": "Adjusted Mitu Km",
+            "ADJUSTED_MOTO_KM": "Adjusted Moto Km",
+            "CAR_PER_KM_AMORTIZATION_SUPPORT": "Car Per Km Amortization Support",
+            "E_BIKE_PER_KM_AMORTIZATION_SUPPORT": "E-bike Per Km Amortization Support",
+            "MITU_PER_KM_AMORTIZATION_SUPPORT": "Mitu Per Km Amortization Support",
+            "MOTO_PER_KM_AMORTIZATION_SUPPORT": "Moto Per Km Amortization Support",
+            "TITLE": "Amortization",
+            "TOTAL_KM": "Total Km"
+          },
+          "FUEL": {
+            "CAR_FUEL_SUPPORT_PER_KM": "Car Fuel Support Per Km",
+            "CAR_KM": "Car Km",
+            "E_BIKE_FUEL_SUPPORT_PER_KM": "E-bike Electricity Support Per Km",
+            "E_BIKE_KM": "E-bike Km",
+            "MITU_FUEL_SUPPORT_PER_KM": "Mitu Electricity Support Per Km",
+            "MITU_KM": "Mitu Km",
+            "MOTO_FUEL_SUPPORT_PER_KM": "Moto Fuel Support Per Km",
+            "MOTO_KM": "Moto Km",
+            "TITLE": "Fuel",
+            "TOTAL_KM": "Total Km"
+          },
+          "MAINTENANCE": {
+            "ADJUSTED_CAR_KM": "Adjusted Car Km",
+            "ADJUSTED_E_BIKE_KM": "Adjusted E-bike Km",
+            "ADJUSTED_MITU_KM": "Adjusted Mitu Km",
+            "ADJUSTED_MOTO_KM": "Adjusted Moto Km",
+            "CAR_PER_KM_MAINTENANCE_SUPPORT": "Car Per Km Maintenance Support",
+            "E_BIKE_PER_KM_MAINTENANCE_SUPPORT": "E-bike Per Km Maintenance Support",
+            "MITU_PER_KM_MAINTENANCE_SUPPORT": "Mitu Per Km Maintenance Support",
+            "MOTO_PER_KM_MAINTENANCE_SUPPORT": "Moto Per Km Maintenance Support",
+            "TITLE": "Maintenance",
+            "TOTAL_KM": "Total Km"
+          },
+          "TITLE": "Fuel & Maintenance & Amortization"
+        },
+        "TITLE": "Distribution"
+      },
+      "FRANCHISE_INCOME": {
+        "PROFIT": {
+          "BONUS": {
+            "CATEGORY_BONUS": {
+              "SHARE_PERCENTAGE_FROM_REVENUE": "Oven Category Bonus Ratio",
+              "TITLE": "Category Bonus",
+              "TOTAL_CATEGORY_REVENUE": "Total Category Revenue"
+            },
+            "GETIR_COURIER_PROGRAM_BONUS": {
+              "ELITE_COURIER_BONUS": "Elite Courier Bonus",
+              "GOLD_COURIER_BONUS": "Gold Courier Bonus",
+              "PER_ELITE_COURIER_BONUS": "Per Elite Courier Bonus",
+              "PER_GOLD_COURIER_BONUS": "Per Gold Courier Bonus",
+              "TITLE": "Getir Courier Program Bonus",
+              "TOTAL_ELITE_COURIER_COUNT": "Elite Courier Count",
+              "TOTAL_GOLD_COURIER_COUNT": "Gold Courier Count"
+            },
+            "MISSED_ORDER": {
+              "70_BELOW_COURIER_COMPLIANCE": {
+                "MISSED_FINE": "Missed Fine Count Below %70",
+                "MISSED_ORDER_COUNT": "Missed Order Count Below %70",
+                "TITLE": "Missing Order Fine Below %70"
+              },
+              "90_BELOW_COURIER_COMPLIANCE": {
+                "MISSED_FINE": "Missed Order Fine Below %90",
+                "MISSED_ORDER_COUNT": "Missed Order Count Below %90",
+                "TITLE": "Missing Order Fine Below %90"
+              },
+              "TITLE": "Missed Order"
+            },
+            "TITLE": "Bonus"
+          },
+          "DYS_DEPENDENT_PROFIT": {
+            "BASE_PROFIT": "Base Profit",
+            "DYS_GRADE": "SPS Grade",
+            "DYS_GRADE_RATIO": "SPS Grade Ratio",
+            "EXTRA_ORDER_COUNT": "Extra Order Count",
+            "EXTRA_PER_ORDER_PROFIT": "Per Order Extra Profit",
+            "G10_ORDER_COUNT": "G10 Order Count",
+            "GB_ORDER_COUNT": "GB Order Count",
+            "GB_PROFIT_PER_ORDER": "Per Order Profit",
+            "GL_ORDER_COUNT": "GÇ Order Count",
+            "GL_PROFIT_PER_ORDER": "GÇ Per Order Profit",
+            "GY_ORDER_COUNT": "GY Order Count",
+            "GY_PROFIT_PER_ORDER": "GY Per Order Profit",
+            "PERCENTAGE_IN_PROFIT": "Percentage In Profit",
+            "TITLE": "Profit Dependent On DYS"
+          },
+          "DYS_INDEPENDENT_PROFIT": {
+            "BASE_PROFIT": "Base Profit",
+            "EXTRA_ORDER_COUNT": "Extra Order Count",
+            "EXTRA_PER_ORDER_PROFIT": "Per Order Extra Profit",
+            "G10_ORDER_COUNT": "G10 Order Count",
+            "GB_ORDER_COUNT": "GB Order Count",
+            "GB_PROFIT_PER_ORDER": "Per Order Profit",
+            "GL_ORDER_COUNT": "GÇ Order Count",
+            "GL_PROFIT_PER_ORDER": "GÇ Per Order Profit",
+            "GY_ORDER_COUNT": "GY Order Count",
+            "GY_PROFIT_PER_ORDER": "GY Per Order Profit",
+            "PERCENTAGE_IN_PROFIT": "Percentage In Profit",
+            "TITLE": "Profit Not Dependent On DYS"
+          },
+          "TITLE": "Profit"
+        },
+        "TITLE": "Franchise Income"
+      },
+      "STORAGE": {
+        "ADDITIONAL_WAREHOUSEMAN_SUPPORT": "Additional Store Assistant Support",
+        "FIXED_EXPENSES": {
+          "ADDITIONAL_FIXED_EXPENSES_SUPPORT": {
+            "ADDITIONAL_FIXED_EXPENSES_PER_SUPPORT": "Extra Per Order Fixed Support",
+            "ADDITIONAL_ORDER_COUNT": "Extra Order Amount",
+            "TITLE": "Extra Fixed Support"
+          },
+          "BASE_FIXED_EXPENSES_SUPPORT": {
+            "TITLE": "Base Support",
+            "TOTAL_G10_ORDER_COUNT": "Total G10 Order Amount",
+            "TOTAL_GB_ORDER_COUNT": "Total GB Order Amount"
+          },
+          "TITLE": "Fixed Expenses"
+        },
+        "ORDER_EXPENSES": {
+          "BAG_SUPPORT": {
+            "LARGE_BAG_PRICE": "Large Plastic Bag Price",
+            "MIDDLE_BAG_PRICE": "Medium Plastic Bag Price",
+            "OVERSIZE_BAG_PRICE": "Oversize Plastic Bag Price",
+            "SMALL_BAG_PRICE": "Small Plastic Bag Price",
+            "SUGGESTED_LARGE_BAG_COUNT": "Suggested Large Plastic Bag Count",
+            "SUGGESTED_MIDDLE_BAG_COUNT": "Suggested Medium Plastic Bag Count",
+            "SUGGESTED_OVERSIZE_BAG_COUNT": "Suggested Oversize Plastic Bag Count",
+            "SUGGESTED_SMALL_BAG_COUNT": "Suggested Small Plastic Bag Count",
+            "TITLE": "Plastic Bag Support"
+          },
+          "BREAD_SUPPORT": {
+            "PRICE_PER_BREAD": "Bread Price",
+            "SOLD_BREAD_COUNT": "Sold Bread Count",
+            "TITLE": "Bread Support"
+          },
+          "CRAFT_SUPPORT": {
+            "PRICE_PER_CRAFT": "Craft Bag Price",
+            "RECOMMENDED_TOTAL_CRAFT_COUNT": "Suggested Craft Bag Count",
+            "TITLE": "Craft Bag Support"
+          },
+          "TITLE": "Order Expenses"
+        },
+        "RENT": {
+          "CAR_PARK": {
+            "CAR_PARK_AMOUNT": "Car Park Amount",
+            "CAR_PARK_SUPPORT_RATE": "Car Park Support Rate",
+            "TITLE": "Car Park"
+          },
+          "DUES": {
+            "DUES_AMOUNT": "Dues Amount",
+            "DUES_SUPPORT_RATE": "Dues Support Rate",
+            "TITLE": "Dues"
+          },
+          "PARKING": {
+            "PARKING_AMOUNT": "Parking Lot",
+            "PARKING_SUPPLY_RATE": "Parking Lot Support Ratio",
+            "TITLE": "Parking Lot Rent"
+          },
+          "RENT": {
+            "RENT_PRICE": "Rent",
+            "RENT_SUPPORT_RATE": "Rent Support Ratio",
+            "TITLE": "Rent"
+          },
+          "STOPPAGE": {
+            "STOPPAGE_AMOUNT": "Stoppage",
+            "STOPPAGE_SUPPORT_RATE": "Stoppage Support Rate",
+            "TITLE": "Stoppage"
+          },
+          "SUBSCRIPTION": {
+            "SUBSCRIPTION_AMOUNT": "Warehouse Due",
+            "SUBSCRIPTION_SUPPORT_RATE": "Warehouse Due Support Ratio",
+            "TITLE": "Warehouse Due"
+          },
+          "TITLE": "Rent"
+        },
+        "TITLE": "Storage"
+      },
+      "VOYAGER_DISTRIBUTION_SUPPORTS": {
+        "COURIER_BONUS": {
+          "BUNDLE_PET_COEF": "Bundle Pet Coef",
+          "BUNDLE_PET_COUNT": "Bundle Pet Count",
+          "FIRST_CARBOY_BONUS_COEF": "First Carboy Bonus Coef",
+          "FIRST_CARBOY_COUNT": "First Carboy Count",
+          "REMAINING_CARBOY_BONUS_COEF": "Remaining Carboy Bonus Coef",
+          "REMAINING_CARBOY_COUNT": "Remaining Carboy Count",
+          "TITLE": "Courier Bonus",
+          "TOTAL_BUNDLE_PET_BONUS": "Total Bundle Pet Bonus",
+          "TOTAL_CARBOY_BONUS": "Total Carboy Bonus",
+          "TOTAL_REMAINING_CARBOY_BONUS": "Total Remaining Carboy Bonus"
+        },
+        "COURIER_BUSY_SUPPORTS": {
+          "ALLOWED_HOURS": "Busy Allowed Hours",
+          "MANHOUR_FEE": "Man Hour Fee",
+          "REFILL_BUSY_HOURS": "Refill Busy Hours",
+          "TITLE": "Courier Busy Support",
+          "UNSUPPORTED_AMOUNT": "Unsupported Busy Amount",
+          "UNSUPPORTED_HOURS": "Unsupported Busy Hours"
+        },
+        "COURIER_IDLE_SUPPORTS": {
+          "MANHOUR_FEE": "Man Hour Fee",
+          "TITLE": "Courier Idle Support",
+          "UNSUPPORTED_AMOUNT": "Unsupported Idle Amount",
+          "UNSUPPORTED_HOURS": "Unsupported Idle Hours",
+          "UTILIZED_ALLOWED_HOURS": "Idle Allowed Hours"
+        },
+        "COURIER_UTILIZED_SUPPORTS": {
+          "MANHOUR_FEE": "Man Hour Fee",
+          "TITLE": "Courier Utilized Support",
+          "UTILIZED_ALLOWED_HOURS": "Utilized Allowed Hours"
+        },
+        "GETIR_COURIERS_DEDUCTIONS": {
+          "MANHOUR_FEE": "Per Hour Getir Manpower",
+          "TITLE": "Getir Couriers Deduction",
+          "TOTAL_GETIR_COURIER_HOURS": "Total Getir Courier Hours"
+        },
+        "TITLE": "Distribution"
+      },
+      "VOYAGER_FLEET_SUPPORTS": {
+        "FLEET_FUEL_SUPPORTS": {
+          "ORDER_KM": "Order Km",
+          "PER_KM_FUEL_FEE": "Per Km Fuel Fee",
+          "REFILL_KM": "Refill Km",
+          "TITLE": "Fleet Fuel Support",
+          "TOTAL_KM": "Total Km"
+        },
+        "FLEET_GENERAL_EXPENSES_SUPPORTS": {
+          "PER_VEHICLE_GENERAL_EXPENSE_SUPPORT": "Per Vehicle General Expenses",
+          "TITLE": "Fleet General Expenses Support",
+          "VEHICLE_COUNT": "Vehicle Count"
+        },
+        "FLEET_MAINTENANCE_SUPPORTS": {
+          "TITLE": "Filo Maintenance Support",
+          "UNSUPPORTED_VAN_KM": "Unsupported KM",
+          "X_YEARS_OLD_VAN_KM": "{{age}} Year(s) Old Vehicle KM",
+          "X_YEARS_OLD_VAN_MAINTENANCE_SUPPORT": "{{age}} Year(s) Old Vehicle Maintenance Support",
+          "X_YEARS_OLD_VAN_PER_KM_MAINTENANCE_SUPPORT": "{{age}} Years(s) Old Vehicle Per Km Maintenance Support"
+        },
+        "TITLE": "Fleet"
+      },
+      "VOYAGER_PROFIT_AND_BONUS_SUPPORTS": {
+        "PROFIT": {
+          "DYS_DEPENDENT_PROFIT": {
+            "BASE_BONUS": "Base Profit",
+            "DDS_COEF": "SES Score Coef",
+            "DDS_RATIO": "SES Score",
+            "EARNED_ORDER_COUNT": "Extra Order Count",
+            "GW_ORDER_COUNT": "GW Order Count",
+            "PROFIT_COEF": "Percentage In Profit",
+            "THROUGHPUT": "TP",
+            "THROUGHPUT_BONUS": "TP Bonus",
+            "TITLE": "Profit Dependent On DYS",
+            "WORKING_DAY_COUNT": "Worked Days"
+          },
+          "DYS_INDEPENDENT_PROFIT": {
+            "BASE_BONUS": "Base Profit",
+            "EXTRA_ORDER_COUNT": "Extra Order Count",
+            "GW_ORDER_COUNT": "GW Order Count",
+            "PROFIT_COEF": "Percentage In Profit",
+            "THROUGHPUT": "TP",
+            "THROUGHPUT_BONUS": "TP Bonus",
+            "TITLE": "Profit Not Dependent On DYS",
+            "WORKING_DAY_COUNT": "Worked Days"
+          },
+          "TITLE": "Profit"
+        },
+        "TITLE": "Franchise Income"
+      },
+      "VOYAGER_WAREHOUSE_SUPPORTS": {
+        "TITLE": "Warehouse",
+        "WAREHOUSE_FIXED_SUPPORTS": {
+          "PER_WAREHOUSEMAN_SUPPORT": "Per Warehouseman Support",
+          "TITLE": "Warehouse Fixed Support",
+          "WAREHOUSEMAN_COUNT": "Warehouseman Count",
+          "WAREHOUSE_UTILITIES_SUPPORT": "Warehouse Utilities Support",
+          "WORKED_DAYS": "Worked Days"
+        },
+        "WAREHOUSE_RENT_SUPPORTS": {
+          "RENT": "Rent",
+          "RENT_RATIO": "Rent Ratio",
+          "STOPPAGE": "Stoppage",
+          "TITLE": "Warehouse Rent Support",
+          "WORKED_DAYS": "Worked Days"
+        }
+      }
+    },
+    "TAX": "Tax",
+    "WAREHOUSE": "Warehouse"
+  },
+  "UPLOAD": {
+    "DATE": "Select Date It Belongs To",
+    "PAGE_TITLE": {
+      "FINANCIAL": "Franchise Earning Upload By Finance",
+      "OPERATIONAL": "Franchise Earning Upload By Operation",
+      "SPLITREPORT": "Franchise Earning Upload By Getir Finance Report"
+    },
+    "WARNING": {
+      "NO_FILE": "No File",
+      "READY_TO_IMPORT": "Ready To Import"
+    }
+  }
+}

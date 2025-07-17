@@ -1,0 +1,28 @@
+{
+  "ALL_FRANCHISES": "Tüm Bayiler",
+  "ANNOUNCEMENT": "Duyuru",
+  "ANNOUNCEMENT_DATE": "Duyuru Tarihi",
+  "ANNOUNCEMENT_FILE": "Duyuru Dosyası",
+  "ANNOUNCEMENT_TYPE": "Duyuru Tipi",
+  "ATTACHMENTS": "Ekler",
+  "DESCRIPTION_EN": "İngilizce İçerik",
+  "DESCRIPTION_NATIVE": "Ana Dilde İçerik",
+  "FRANCHISE_ANNOUNCEMENT": "Bayi Duyurusu",
+  "NO_CITY": "Şehir Yok",
+  "PAGE_TITLE": {
+    "CREATE": "Duyuru Oluştur",
+    "DETAIL": "Duyuru Detayı",
+    "LIST": "Duyurular",
+    "LIST_BY_WAREHOUSE": "Depoya Göre Duyurular"
+  },
+  "SELECT_ACTIVENESS": "Aktiflik Durumunu Seçiniz",
+  "SELECT_ANNOUNCEMENT_TYPE": "Duyuru Tipini Seçiniz",
+  "SELECT_FRANCHISES": "Bayileri Seçiniz",
+  "SELECT_WAREHOUSES": "Depoları Seçiniz",
+  "SEND_NOTIFICATION": "Bildirim Gönder",
+  "TITLE_EN": "İngilizce Başlık",
+  "TITLE_NATIVE": "Ana Dilde Başlık",
+  "WAREHOUSE_ANNOUNCEMENT": "Depo Duyurusu",
+  "WRITE_DESCRIPTION": "Açıklama Yazın",
+  "WRITE_TITLE": "Başlık Yazın"
+}

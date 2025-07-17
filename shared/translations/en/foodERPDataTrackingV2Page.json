@@ -1,0 +1,37 @@
+{
+	"FAILED": {
+		"TABLE": {
+			"DESCRIPTION": "Error Description",
+			"ERROR_DETAIL": "Error Detail",
+			"ORDER_ID": "Order ID",
+			"REQUEST": "Request",
+			"RESPONSE": "Response",
+			"TRANSACTION_ID": "Transaction ID",
+			"TYPE": "Data Type"
+		},
+		"TITLE": "Failed Data"
+	},
+	"PAGE_TITLE": "ERP Data Tracking",
+	"RANGE_PICKER_LABEL": "Transaction Date",
+	"SUCCESSFUL": {
+		"TABLE": {
+			"JSON": "JSON",
+			"ORDER_ID": "Order ID",
+			"REQUEST": "Request",
+			"RESPONSE": "Response",
+			"TRANSACTION_ID": "Transaction ID",
+			"TYPE": "Data Type"
+		},
+		"TITLE": "Sent Data"
+	},
+	"SUMMARY": {
+		"EXCEL_EXPORT": "Order Detail Report",
+		"TABLE": {
+			"DATA_TYPE": "Data Type",
+			"FAILED": "Failed",
+			"RECEIVED": "Received",
+			"SENT": "Sent"
+		},
+		"TITLE": "Summary"
+	}
+}

@@ -1,0 +1,10 @@
+{
+  "EDIT_CODES": "Kodları düzenle",
+  "ERR_FAILED_UPDATED_CODES": "{total} kod güncellenemed",
+  "ERR_INVALID_CSV_FILE": "geçersiz csv dosyası",
+  "ERR_START_END_DATES": "Lütfen başlangıç ​​ve bitiş tarihlerini seçin",
+  "FAILED_TO_UPDATE_VALUES": "Güncellemesi başarısız değerler",
+  "IMPORT_CODES_BY_CSV": "Kodları .csv'den yükle",
+  "START_END_DATES": "Başlangıç/Bitiş Tarihi",
+  "SUCCESS_UPDATE_COUNT": "{total} kodu başarıyla güncelleyin"
+}

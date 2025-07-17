@@ -1,0 +1,46 @@
+{
+  "ACTIVENESS": "Aktiflik",
+  "ALERT_COUNTRY_WASTE_PRICE_TITLE": "Bu Atık Önleyici Ürün fiyatını görebilmek için ülke olarak {{ countryName }} seçiniz.",
+  "BADGE_IMAGE": "Rozet Resmi",
+  "CURRENT_WAREHOUSE_LIMIT_INFO": "Güncel Depo Limit Bilgisi",
+  "GENERAL_INFO": {
+    "ERROR": {
+      "LIMIT_IS_LOWER": "Limit 1'den küçük veya 0'a eşit olamaz.",
+      "LIMIT_TRANSACTION_ERROR": "Limit işlemleri için hata oluştu.",
+      "PRICE_IS_HIGHER": "Fiyat, çizili fiyat'tan daha büyük veya eşit olamaz.",
+      "WASTE_PRICE_TRANSACTION": "Atık Ürün işlemleri için hata oluştu."
+    },
+    "PRICE": "Fiyat",
+    "SUCCESS": {
+      "LIMIT_TRANSACTION_SUCCESS": "Limit işlemleri başarılı.",
+      "WASTE_PRICE_TRANSACTION": "Atık Ürün işlemleri başarılı."
+    },
+    "TITLE": "Genel Bilgiler"
+  },
+  "LIMIT": "Limit",
+  "PRICE": "Fiyat",
+  "PRICING_SEGMENT_ID": "Ücretlendirme Segment Id",
+  "PRODUCT_ID": "Ürün Id",
+  "SEARCH_BY_NAME": "İsme göre ara",
+  "SEARCH_BY_PRICING_SEGMENT_ID": "Ücretlendirme Segment ID'ye göre",
+  "SEARCH_BY_PRODUCT_IDS": "Ürün ID’lere göre ara",
+  "SHOW_UNDER_SPECIAL_OFFERS": "İndirimler Altında Göster",
+  "STRUCK_PRICE_ACTIVENESS": "Çizili Fiyat Aktifliği",
+  "STRUCK_PRICE_INFO": {
+    "ERROR": {
+      "STRUCK_PRICE_IS_LOWER": "Çizili fiyat, fiyat'tan daha düşük veya eşit olamaz.",
+      "SUPPLIER_SUPPORT_RATE": "Destek oranı 0 ile 1 arasında veya 1'e eşit olmalıdır.",
+      "THIRD_PARTY_SUPPORT_RATE": "Destek oranı 0 ile 1 arasında veya 1'e eşit olmalıdır."
+    },
+    "STRUCK_PRICE": "Çizili Fiyat",
+    "STRUCK_PRICE_ACTIVENESS": "Çizili Fiyat Aktifliği",
+    "STRUCK_PRICE_PROVIDER": "Çizili Fiyat Destekçisi",
+    "SUPPORT_RATE": "Destek Oranı",
+    "TITLE": "Çizili Fiyat Bilgileri"
+  },
+  "STRUCK_PRICE_PROVIDER": "Çizili Fiyat Destekçisi",
+  "UPDATE_WAREHOUSE_LIMIT_INFO": "Değiştirelecek Depo Limit Bilgisi",
+  "WAREHOUSE": "Depo",
+  "WAREHOUSES_LIMIT_INFO": "Depo Limit Bilgisi",
+  "WASTE_PRICE": "Atık Önleyici Fiyat"
+}

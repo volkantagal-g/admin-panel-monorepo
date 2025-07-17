@@ -1,0 +1,1319 @@
+{
+  "ACCEPT": "Accept",
+  "ACRONYM": "Acronym",
+  "ACTION": "Action",
+  "ACTION_SHORT": "Act",
+  "ACTIVE": "Active",
+  "ACTIVENESS": "Activeness",
+  "ACTIVES": "Actives",
+  "ACTIVE_CATEGORY": "Active Category",
+  "ACTIVE_ORDERS": "Active Orders",
+  "ACTIVE_RETURNS": "Active Returns",
+  "ACTIVE_TRIPS": "Active Trips",
+  "ADD": "Add",
+  "ADDRESS": "Address",
+  "ADD_IMAGE": "Add Image",
+  "AFTER": "After",
+  "AGGRESSION_LEVELS": "Aggression Levels",
+  "ALL": "All",
+  "ALL_DOCUMENTS": "All Documents",
+  "AMOUNT": "Amount",
+  "AND": "and",
+  "APPLY": "Apply",
+  "APPROVE": "Approve",
+  "APPROVED_BY": "Approved By",
+  "APPROVED_DATE": "Approved Date",
+  "APP_LANGUAGE": "App Language",
+  "ARTISAN": "Locals",
+  "AUTO_COUNTRY_CHANGE": "Your panel country will be automatically changed.",
+  "AUTO_COUNTRY_CHANGE_ACCESS_ERROR": "You do not have access to the correct country, so it will not be changed automatically.",
+  "AVAILABILITY": "Availability",
+  "AVERAGE": "Average",
+  "BACK": "Back",
+  "BASKET": "Basket",
+  "BASKET_AMOUNT": "Basket Amount",
+  "BEFORE": "Before",
+  "BRAND": "Brand",
+  "BRING": "Bring",
+  "BUSY": "Busy",
+  "CALLBACK_URL": "Callback Url",
+  "CANCEL": "Cancel",
+  "CANCELED_BY": "Canceled By",
+  "CANCELED_DATE": "Canceled Date",
+  "CANCEL_REASON": "Cancel Reason",
+  "CATEGORY": "Category",
+  "CHAIN": "Chain",
+  "CHAIN_RESTAURANT": "Chain Restaurant",
+  "CHANGE_COUNTRY": "Change Country",
+  "CHANGE_IMAGE": "Change Image",
+  "CHANGE_LANGUAGE": "Türkçeye Geç",
+  "CHANNEL_PLATFORM": {
+    "Mobile": "Mobile",
+    "Web": "Web"
+  },
+  "CHARGED_AMOUNT": "Charged",
+  "CHOOSE_FILE": "Choose File",
+  "CITIES": "Cities",
+  "CITY": "City",
+  "CITY_NAME": "City Name",
+  "CITY_PLATE": "City Plate",
+  "CLEAR": "Clear",
+  "CLIENT": "Client",
+  "CLOSE": "Close",
+  "CLOSED": "Closed",
+  "COMMERCE_INTELLIGENCE": "Commerce Intelligence",
+  "COMMERCE_INTELLIGENCE_SMART_PRICING": "Smart Pricing",
+  "COMMERCE_INTELLIGENCE_SMART_PRICING_INDEX": "Index",
+  "COMMON_CONFIRM_TEXT": "Are you sure you want to do this?",
+  "CONFIGS": "Configs",
+  "CONFIRM": "Confirm",
+  "CONFIRMATION_DATE": "Confirmation Date",
+  "CONTINUE": "Continue",
+  "COPIED_TO_CLIPBOARD": "Copied to clipboard",
+  "COPY": "Copy",
+  "COPY_TO_CLIPBOARD": "Copy to Clipboard",
+  "CORRECT_COUNTRY": "Correct Country",
+  "COUNT": "Count",
+  "COUNTRIES": "Countries",
+  "COUNTRY": "Country",
+  "COUNTRY_BASED": "Country Based",
+  "COUNTRY_CHANGING": "Your session country is changing",
+  "COUNTY": "County",
+  "COURIER": "Courier",
+  "COURIER_DOMAIN_TYPES": {
+    "DEDICATED": "Dedicated Couriers",
+    "POOL": "Pool Couriers"
+  },
+  "COURIER_NAME": "Courier Name",
+  "COURIER_TYPES": {
+    "2": "Motor",
+    "3": "Onfoot",
+    "4": "Bicycle",
+    "5": "Van",
+    "6": "Car",
+    "7": "Mitu",
+    "8": "Voyager",
+    "9": "GM & G10 & GWater"
+  },
+  "CREATE": "Create",
+  "CREATED_AT": "Created At",
+  "CREATED_BY": "Created By",
+  "CREATION_DATE": "Creation Date",
+  "CRITERIA": "Criteria",
+  "CRITICAL_AVAILABILITY": "Critical Availability",
+  "CSV_FILE": "CSV File",
+  "CSV_UPLOAD_TEST_TYPE": "CSV Upload",
+  "CURRENCY": "Currency",
+  "CURRENCY_DETAIL": {
+    "CODE_ALPHA2": "Code Alpha2",
+    "CODE_ALPHA3": "Code Alpha3",
+    "CODE_NAME": "Code Name",
+    "CODE_NUMERIC": "Code Numeric",
+    "DECIMAL_SEPARATOR": "Decimal Separator",
+    "PRECISION": "Precision",
+    "PREFIX_SYMBOL": "Prefix Symbol",
+    "SUFFIX_SYMBOL": "Suffix Symbol",
+    "SYMBOL": "Symbol",
+    "THOUSAND_SEPARATOR": "Thousand Separator"
+  },
+  "CURRENT_COUNTRY": "Current Country",
+  "CUSTOM_ELEMENTS": {
+    "PAGINATION": {
+      "HIDE_EXTRA": "Hide extra options",
+      "SHOW_EXTRA": "Show extra options"
+    },
+    "TITLE": {
+      "IMPORT_EXPORT": "Import/Export",
+      "TABLE_SUB_TITLE_PLURAL": "There are {{ totalCountData }} records.",
+      "TABLE_SUB_TITLE_SINGLE": "There is {{ totalCountData }} record."
+    }
+  },
+  "DATA_CALLBACK_URL_ENABLED": "Data Callback Url Enabled",
+  "DATA_CALLBACK_URL_ENABLED_TOOLTIP": "Enter the URL where the Notification/Sms data will be fed.",
+  "DATA_LOADING": "Data Loading...",
+  "DATE": "Date",
+  "DATE_RANGE": "Date Range",
+  "DAY": "Day",
+  "DAYS": "Days",
+  "DAY_OF_WEEKS": {
+    "0": "Sunday",
+    "1": "Monday",
+    "2": "Tuesday",
+    "3": "Wednesday",
+    "4": "Thursday",
+    "5": "Friday",
+    "6": "Saturday"
+  },
+  "DAY_OF_WEEKS_SHORT": {
+    "0": "S",
+    "1": "M",
+    "2": "T",
+    "3": "W",
+    "4": "T",
+    "5": "F",
+    "6": "S"
+  },
+  "DELETE": "Delete",
+  "DELETED": "Deleted",
+  "DELETE_SELECTED_ROWS_CONFIRM_TEXT": "Are you sure you want to delete the selected rows?",
+  "DELIVERY_FEE": "Delivery Fee",
+  "DELIVERY_FEE_BULK_UPLOAD_BUTTON": "Delivery Fee Bulk Upload",
+  "DELIVERY_TYPE": "Delivery Type",
+  "DEPARTMENT": "Department",
+  "DESCRIPTION": "Description",
+  "DETAIL": "Detail",
+  "DETAIL_SHORT": "D",
+  "DIFFERENCE": "Difference",
+  "DISABLE": "Disable",
+  "DISCOUNT": "Discount",
+  "DISTRICT": "District",
+  "DIVISION": "Division",
+  "DIVISIONS": "Divisions",
+  "DOCUMENTATION": "Documentation",
+  "DOCUMENTATIONS": "Documentations",
+  "DOMAIN": "Domain",
+  "DOMAIN_TYPE": "Domain Type",
+  "DOMAIN_TYPES": "Domain Types",
+  "DOWNLOAD": "Download",
+  "DOWNLOAD_AS_CSV": "Download as CSV",
+  "DOWNLOAD_LIST": "Download List",
+  "DRAG_AND_DROP_FILE": "Click or drag file to this area to upload",
+  "DURATION": "Duration",
+  "EDIT": "Edit",
+  "EMAIL": "E-mail",
+  "EMPLOYEE_LIST": "Getirians",
+  "EMPLOYEE_SELECT_DEPARTMENT": "Department Selection",
+  "EMPLOYEE_SELECT_LOCATION": "Location Selection",
+  "END_DATE": "End Date",
+  "ERROR": "Error",
+  "ERROR_TITLE": "Something went wrong",
+  "EXACT": "Exact",
+  "EXAMPLE_CSV": "Example Csv",
+  "EXAMPLE_EXCEL": "Example Excel",
+  "EXECUTE": "Execute",
+  "EXISTS": "Exists",
+  "EXPORT_CSV": "Export Csv",
+  "EXPORT_EXCEL": "Export Excel",
+  "EXPORT_PAGES": "Export Pages",
+  "FAST_FORWARD": "Fast Forward",
+  "FAV_DOCUMENTS": "Favorite Documents",
+  "FAX": "Fax",
+  "FEE": "Fee",
+  "FEEDBACKS": "Feedbacks",
+  "FETCH_DATA": "Fetch Data",
+  "FIELD_MANAGER": "Field Manager",
+  "FILE_NAME": "File Name",
+  "FILE_WILL_BE_SENT": "Your request has been created. The file will be sent to your email address.",
+  "FILTER": "Filter",
+  "FINANCE": "Finance",
+  "FINANCIALS": "Financials",
+  "FOOD": {
+    "LIVE_MAP": {
+      "TITLE": "GetirYemek Live Map"
+    }
+  },
+  "FOOD_DELIVERY_TYPES": {
+    "1": "Getir Delivery",
+    "2": "Restaurant Delivery",
+    "IN_SHORT": {
+      "1": "GD",
+      "2": "RD"
+    }
+  },
+  "FORBIDDEN_MATCHES": "Forbidden Matches",
+  "FORM_ELEMENTS": {
+    "INFO": {
+      "CLEAN": "Clean",
+      "REMOVE": "Remove"
+    },
+    "PLACEHOLDER": {
+      "SELECT": "Select",
+      "TEXT": "Enter a word"
+    }
+  },
+  "FRANCHISE": "Franchise",
+  "FRANCHISES": "Franchises",
+  "FRANCHISE_TYPES": "Franchise Types",
+  "FREE_COURIER": "Free",
+  "GENERAL_INFO": "General",
+  "GETIRIAN": "Getirian",
+  "GETIR_DELIVERY": "Getir Delivery",
+  "GETIR_DRIVE": "GetirDrive",
+  "GETIR_DRIVE_EXTERNAL_SOURCE": {
+    "BITAKSI": "BiTaksi",
+    "GETIR": "Getir",
+    "MOOV": "Moov"
+  },
+  "GETIR_FOOD": "GetirFood",
+  "GETIR_GROCERY": "GetirGrocery",
+  "GETIR_GROCERY_SHORT": "GG",
+  "GETIR_LOCALS": "GetirLocals",
+  "GETIR_MARKET": "GetirMarket",
+  "GETIR_MARKET_DOMAIN_TYPES": {
+    "1": "Getir10",
+    "2": "GetirFood",
+    "3": "GetirMore",
+    "4": "GetirWater",
+    "5": "GetirMall",
+    "6": "GetirLocals",
+    "7": "GetirBiTaksi",
+    "8": "GetirWater Marketplace",
+    "9": "GetirDrive",
+    "11": "GetirJobs",
+    "12": "GetirN11",
+    "13": "GetirN11 Quick",
+    "14": "GetirFinance",
+    "15": "GetirSelect",
+    "17": "GetirGorillas",
+    "18": "N11(Everything)"
+  },
+  "GETIR_MARKET_INTEGRATION_TYPES": {
+    "GETIR": "Getir",
+    "GORILLAS": "Gorillas",
+    "JET": "Jet",
+    "N11": "n11",
+    "N11QUICK": "N11Quick",
+    "UBER": "Uber"
+  },
+  "GETIR_MARKET_POLYGON_TYPES": {
+    "0": "None",
+    "1": "Subregion",
+    "2": "getItems disabled",
+    "5": "Promo disabled",
+    "7": "Checkout disabled",
+    "9": "Extended Region",
+    "10": "Vehicle type based disabled",
+    "17": "Delivery Slots"
+  },
+  "GET_MORE_DATA": "Get More Data",
+  "GLOBAL": "Global",
+  "GLOBAL_ACCESS": "Global Access",
+  "GO_TO_HOME_PAGE": "Go to Home Page",
+  "GROSS_MARGIN": "Gross Margin",
+  "GSM": "Gsm",
+  "HAS_GLOBAL_ACCESS_VALUE": "GLOBAL",
+  "HOUR": "Hour",
+  "HOURS": "Hours",
+  "HTTP_STATUS_MESSAGE": {
+    "404": "Sorry, the page you visited does not exist.",
+    "500": "Sorry, something went wrong."
+  },
+  "ID": "ID",
+  "IDENTIFICATION_NUMBER": "National ID",
+  "IMAGE": "Image",
+  "IMPORT": "Import",
+  "IMPORT_CSV": "Import Csv",
+  "IMPORT_CSV_FILE": "Import CSV File",
+  "IMPORT_EXCEL": "Import Excel",
+  "INACTIVE": "Inactive",
+  "INACTIVES": "Inactives",
+  "INACTIVE_CATEGORY": "Inactive Category",
+  "INCLUDES": "Includes",
+  "INTEGRATION_TYPE": "Integration Type",
+  "INVALID": "Invalid",
+  "INVALID_CSV": "Invalid CSV file",
+  "KUZEYDEN": "Kuzeyden",
+  "LANGUAGE": "Language",
+  "LAST7DAYS": "7 Days",
+  "LAST_COORD_TIME": "Last Coord",
+  "LAST_STATUS": "Last Status",
+  "LAST_UPDATED": "Last Updated",
+  "LAST_WEEK": "Last Week",
+  "LEVEL": "Level",
+  "LIMIT": "Limit",
+  "LIMIT_TRANSACTION_ERROR": "Something went wrong for limit transactions",
+  "LINE": "Line",
+  "LIVE_AVAILABILITY": "Live Availability",
+  "LOADED": "Loaded",
+  "LOADING_TIP": "Loading...",
+  "LOCALS_DELIVERY_TYPES": {
+    "1": "Getir Delivery",
+    "2": "Store Delivery",
+    "IN_SHORT": {
+      "1": "GD",
+      "2": "LD"
+    }
+  },
+  "LOCATION": "Location",
+  "LOGOUT": "Logout",
+  "MAIN_IMAGE": "Main Image",
+  "MAIN_STORE": "Main Store",
+  "MAIN_WAREHOUSES": "Main Warehouses",
+  "MAKE_MAIN": "Make Main",
+  "MANAGER": "Manager",
+  "MAP": "Map",
+  "MARKET": "Market",
+  "MARKET_FRANCHISE_TYPES": {
+    "1": "Getir",
+    "2": "Regular Franchise",
+    "3": "Store Conversion"
+  },
+  "MARKET_ORDER_STATUSES": {
+    "HANDOVER": "Handed over to Courier",
+    "ONWAY": "On Way",
+    "PREPARED": "Prepared",
+    "PREPARING": "Preparing",
+    "REACHED": "Reached",
+    "RESERVED": "Reserved",
+    "VERIFYING": "Verifying",
+    "WAITING_FOR_PICKER": "Waiting For Picker"
+  },
+  "MARKET_ORDER_STATUSES_SHORT": {
+    "HANDOVER": "Handover",
+    "ONWAY": "On Way",
+    "PREPARED": "Prepared",
+    "PREPARING": "Preparing",
+    "REACHED": "Reached",
+    "RESERVED": "Reserved",
+    "VERIFYING": "Verifying",
+    "WAITING_FOR_PICKER": "W.For Picker"
+  },
+  "MARKET_VEHICLE_TYPES": {
+    "100": "On Foot",
+    "200": "Moto",
+    "250": "Moto (50cc)",
+    "300": "MiTu",
+    "400": "Van",
+    "500": "E-Bicycle",
+    "600": "E-Moto",
+    "700": "Test"
+  },
+  "MAX": "Max.",
+  "MEMBERSHIP_TYPE": "Membership Type",
+  "MERCHANT": "Merchant",
+  "MERCHANT_TYPE": "Merchant Type",
+  "MESSAGE": "Message",
+  "MILLION": "Million",
+  "MILLION_SHORT": "m",
+  "MIN": "Min.",
+  "MINUTE_SHORT": "min",
+  "MIN_THREE_CHARACTERS": "Minimum of 3 characters!",
+  "MISSED_ORDER": "Missed Order",
+  "MISSED_ORDERS": "Missed Orders",
+  "MISSED_ORDER_RATIO": "Missed Order Ratio",
+  "MIXPANEL_DATA_FEED": "Mix Panel Data Feed",
+  "MONTH": "Month",
+  "NAME": "Name",
+  "NAME_1": "Name",
+  "NEIGHBORHOOD": "Neighborhood",
+  "NET_REVENUE": "Net Revenue",
+  "NET_REVENUE_SHORT": "NR",
+  "NET_REVENUE_TAX_EXCLUDED": "Net Revenue (Tax Excluded)",
+  "NET_REVENUE_TAX_EXCLUDED_RATIO": "Net Revenue Ratio (Tax Excluded)",
+  "NET_REVENUE_TAX_EXCLUDED_SHORT": "NR(TE)",
+  "NEW": "New",
+  "NEW_CITIES": "New Cities",
+  "NEW_MARKET_FRANCHISE": "New Franchise",
+  "NEW_WAREHOUSE": "New Warehouse",
+  "NEW_YEAR": "New Year",
+  "NEXT": "Next",
+  "NO": "No",
+  "NONE": "None",
+  "NON_ISTANBUL": "Non Istanbul",
+  "NOTE": "Note",
+  "NOT_DONE": "Not Done",
+  "NOT_EXISTS": "Not Exists",
+  "NOT_FOUND": "Not Found",
+  "NOT_FOUND_PLEASE_TYPE_FOR_SEARCH": "Not Found: Enter at least {{ letterCount }} letter(s) to search.",
+  "NO_ACCESS": "No Access",
+  "NO_DATA": "No Data",
+  "NO_DOCUMENTS": "No Documents",
+  "NO_SUPPLIER": "No Supplier",
+  "NPS_DOMAIN_TYPES": {
+    "1": "Getir10",
+    "2": "GetirFood",
+    "3": "GetirMore",
+    "4": "GetirWater",
+    "6": "GetirLocals",
+    "8": "GetirWater Marketplace",
+    "9": "GetirDrive",
+    "9__GETIR": "GetirDrive",
+    "9__MOOV": "Moov"
+  },
+  "OFF": "Off",
+  "OK": "Ok",
+  "OLD_COUNTRIES": "Old Countries",
+  "ON": "On",
+  "ONLY": "Only",
+  "ON_ORDER": "On Order",
+  "OPEN": "Open",
+  "OR": "or",
+  "ORDER": "Order",
+  "ORDERS": "Orders",
+  "ORDER_COUNTER": "Order Counter",
+  "ORDER_IN_QUEUE": "Queued",
+  "ORDER_RATIO": "Order Ratio",
+  "ORDER_SHORT": "O",
+  "ORDER_STATUS_TEXT": "Order Status",
+  "ORGANIC": "Organic",
+  "OTHER_INFO": "Other Informations",
+  "OVERWRITE": "Overwrite",
+  "PAGE": "Page",
+  "PAGES": "Pages",
+  "PAGES_FOR_CONFIG": "Page Settings (Permission, ownership etc.)",
+  "PAGE_COMPONENTS": "Page Components",
+  "PAGE_DESCRIPTION": "Page Description",
+  "PAGE_DETAILS": "For more details, visit the page detail page",
+  "PAGE_DOCUMENTS": "Page Documents",
+  "PAGE_INFO": "Page Info",
+  "PAGE_NAME": "Page Name",
+  "PAGE_OWNERS": "Page Owners",
+  "PAGE_TITLE": {
+    "AB_TEST": {
+      "CREATE": "A/B Test Creating",
+      "DETAIL": "A/B Test - Detail Page",
+      "LIST": "A/B Test Listing"
+    },
+    "AB_TEST_V2": {
+      "CREATE": "AB Test Audience Building",
+      "DETAIL": "AB Test - Detail Page",
+      "LIST": "AB Test Audience Listing"
+    },
+    "ARTISAN_ORDER": {
+      "FILTER": "GetirLocals Order Filter"
+    },
+    "ARTISAN_ORDER_LIVE_MAP": "GetirLocals Live Map",
+    "ASSET": {
+      "DASHBOARD": "IT Asset Dashboard",
+      "DETAIL": "Employee Asset Detail",
+      "LIST": "Employee Asset List",
+      "NEW": "New Employee Asset"
+    },
+    "AUTO_GROWTH": "Auto Growth",
+    "BANK_RECONCILIATION": {
+      "LIST": "Bank Reconciliation Report"
+    },
+    "BANK_RECONCILIATION_SUMMARY": "Bank Reconciliation (Summary)",
+    "BRAND": {
+      "DETAIL": "Brand Detail",
+      "LIST": "Brands",
+      "NEW": "New Brand"
+    },
+    "CLIENT_ATTACHMENTS_DETAIL": "Client Chat Attachment Detail",
+    "CLIENT_LIST": "Clients",
+    "CLIENT_LIST_DOUBLE_CHECKER": "Client List Double Checker",
+    "CLIENT_TARGETING": "Client Targeting",
+    "COMPLIANCE_REPORT": {
+      "HOME": "Technology Compliance Report Page",
+      "NODE": {
+        "VERSIONS": "Version Report (NodeJS)",
+        "VULNERABILITIES": "Vulnerability Report (NodeJS)",
+        "VULNERABILITY_DETAILS": "Vulnerability Details (NodeJS)"
+      }
+    },
+    "COMPONENT": {
+      "DETAIL": "Component Detail",
+      "NEW": "New Component"
+    },
+    "CONFIG": {
+      "LIST": "Configs",
+      "LOG": "Config Log",
+      "MOBILE_ANIMATION": "Animation Configs",
+      "NEW": "New Config",
+      "PEAK_HOURS": "Peak Hours",
+      "WORKING_HOURS": "Working Hours"
+    },
+    "COURIER": {
+      "DETAIL": "Courier Detail",
+      "LIST": "Courier List"
+    },
+    "COURIER_COMMUNICATION": {
+      "CREATE": "Create Notification",
+      "CREATE_SEGMENT": "Create Notification Segment",
+      "DETAIL": "Notification Detail",
+      "LIST": "Notification List",
+      "SEGMENT_LIST": "Segment List"
+    },
+    "COURIER_FEEDBACK": {
+      "LIST": "Courier Feedback List"
+    },
+    "COURIER_GAMIFICATION_TASK": {
+      "CREATE": "Courier Gamification Task Create",
+      "DETAIL": "Courier Gamification Task Detail",
+      "LIST": "Courier Gamification Task List",
+      "SUMMARY": "Courier Gamification Task Summary"
+    },
+    "COURIER_LIVE_MONITORING": "Courier Status Monitoring",
+    "COURIER_LOYALTY": {
+      "DETAILS": "Courier Loyalty Details",
+      "LIST": "Courier Loyalty Listing"
+    },
+    "COURIER_PLAN": {
+      "LIST": "End to End Courier Plan List",
+      "NEW": "New End to End Courier Plan",
+      "PROCEED": "End to End Courier Plan Process"
+    },
+    "COURIER_STATUS_AND_BUSY": {
+      "LIST": "Courier Status And Busy Listing"
+    },
+    "CUSTOMER_AGREEMENT": "Customer Agreement",
+    "DAILY_SUMMARY": {
+      "COUNTRY": "SummaryQuick - Country",
+      "FOUNDERS_CUSTOM": "SummaryQuick - Management",
+      "GLOBAL": "SummaryQuick - Global"
+    },
+    "DAILY_TRACKING": {
+      "INSTANT": "Courier KPI Tracking",
+      "ORDER": "Order KPI Tracking"
+    },
+    "DDS": {
+      "OBJECTION": {
+        "DETAIL": "Store Efficiency System Objection Detail",
+        "LIST": "Store Efficiency System Objection List"
+      }
+    },
+    "DELIVERY_FEE": {
+      "BULK_UPLOAD": "Delivery Fee Bulk Upload (Regular hours)",
+      "BULK_UPLOAD_PEAK_HOURS": "Delivery Fee Bulk Upload (Peak hours)"
+    },
+    "DTS": {
+      "GENERAL": {
+        "DETAIL": "Disciplinary Tracking System Detail",
+        "LIST": "Disciplinary Tracking System List",
+        "NEW": "New Disciplinary Tracking System"
+      },
+      "RULE": {
+        "DETAIL": "Disciplinary Tracking System Rule Detail",
+        "LIST": "Disciplinary Tracking System Rule List",
+        "NEW": "New Disciplinary Tracking System Rule"
+      },
+      "SETTING": {
+        "CATEGORY": {
+          "DETAIL": "Disciplinary Tracking System Category Setting Detail",
+          "LIST": "Disciplinary Tracking System Category Setting List",
+          "NEW": "New Disciplinary Tracking System Category Setting"
+        },
+        "FEEDBACK_SOURCE": {
+          "DETAIL": "Disciplinary Tracking System Feedback Source Setting Detail",
+          "LIST": "Disciplinary Tracking System Feedback Source Setting List",
+          "NEW": "New Disciplinary Tracking System Feedback Source Setting"
+        },
+        "PRIORITY": {
+          "DETAIL": "Disciplinary Tracking System Priority Setting Detail",
+          "LIST": "Disciplinary Tracking System Priority Setting List",
+          "NEW": "New Disciplinary Tracking System Priority Setting"
+        }
+      },
+      "SUMMARY": "Disciplinary Tracking System Summary"
+    },
+    "EMPLOYEE": {
+      "DETAIL": "Employee Detail",
+      "HOME": "Getirian Home Page",
+      "LIST": "Employee List",
+      "LOGS": "Employee Logs",
+      "NEW": "New Employee",
+      "OFFICE_ATTENDANCE_TRACKING": {
+        "CAPACITY_MANAGEMENT": "Office Attendance Tracking Capacity Management",
+        "DASHBOARD": "Office Attendance Tracking Dashboard",
+        "EMPLOYEE_TRANSACTIONS": "Employee Office Attendance Transactions",
+        "TREND": "Office Attendance Trend"
+      },
+      "PERMIT_LIST": "Annual Leave List"
+    },
+    "EU_GROWTH_COMPARISON": "EU Growth Comparison",
+    "EVENT": {
+      "DETAIL": "Event Detail"
+    },
+    "FINANCE": {
+      "ORDER_DETAIL": "Getir Finance Order Details "
+    },
+    "FLEET": {
+      "TMS": {
+        "DETAIL": "TMS Vehicle Detail",
+        "NEW": "New TMS Vehicle"
+      },
+      "TMS_DRIVER": {
+        "DETAIL": "TMS Driver Detail",
+        "LIST": "TMS Driver List"
+      },
+      "VEHICLE": {
+        "DETAIL": "Vehicle Details",
+        "LIST": "Vehicle List",
+        "NEW": "New Vehicle",
+        "UPLOAD": "Upload Vehicle CSV List"
+      },
+      "VEHICLE_CONSTRAINT": {
+        "DETAIL": "Vehicle Constraint Detail",
+        "LIST": "Vehicle Constraint List",
+        "NEW": "New Vehicle Constraint"
+      }
+    },
+    "FOOD": {
+      "MEAL_CARD_RECONCILIATION": "Meal Card Reconciliation",
+      "ORDER_ACTIVE": "GetirFood Active Orders",
+      "RESTAURANT_EXTERNAL_TRANSACTION": "Restaurant External Transaction",
+      "RESTAURANT_PAYBACK_STATUS": "Restaurant Payback Status"
+    },
+    "FRANCHISE_BILL_MANAGEMENT": {
+      "DETAIL": "Franchise Bill Detail",
+      "LIST": "Franchise Bill List"
+    },
+    "FRANCHISE_DYNAMIC_CONFIG": {
+      "LIST": "Franchise Dynamic Config List"
+    },
+    "FRANCHISE_EARNINGS": {
+      "LIST": {
+        "TITLE": "Franchise Earning List"
+      }
+    },
+    "FRANCHISE_EQUIPMENT": {
+      "DETAIL": "Franchise-Warehouse Equipment Right Detail",
+      "NEW": "New Franchise-Warehouse Equipment Right"
+    },
+    "FRANCHISE_LEGAL": {
+      "LIST": "Franchise Legal List"
+    },
+    "FRANCHISE_REQUEST": {
+      "LIST": "Franchise Request List"
+    },
+    "FRAUD_CONTROL": {
+      "LIST": "Fraud Control Panel",
+      "SEGMENT_MANAGEMENT": "Fraud Segment Management"
+    },
+    "GETIR_DRIVE": {
+      "DASHBOARD": "GetirDrive Dashboard"
+    },
+    "GETIR_MARKET": {
+      "COMMERCIAL_MONITORING": "GetirMarket - Commercial Track"
+    },
+    "GIS": {
+      "BANNED_AREAS": "Banned Areas",
+      "COUNTRY_CITY_MANAGEMENT": "Country City Management",
+      "HEATMAP": "Heatmap",
+      "LOCATION_INTELLIGENCE": "Location Intelligence",
+      "WEATHER_MAP": "Weather Map",
+      "WMS": "GIS Maps"
+    },
+    "GL_GROWTH_COMPARISON": "GL Growth Comparison",
+    "GL_RETURN": {
+      "ALERT": "Return Slot Alert",
+      "DETAIL": "Return Slot Alert Detail"
+    },
+    "HIGH_LEVEL_DYS": "SPS Summary",
+    "INSTALLMENTS": "Installments",
+    "INTERNAL_AUTHENTICATION": {
+      "REPOSITORY_DETAIL": "Repository Info",
+      "REPOSITORY_LIST": "List of all Repositories",
+      "TEAM_DETAIL": "Internal Technology Team Detail",
+      "TEAM_LIST": "Internal Technology Teams"
+    },
+    "KDS": {
+      "AUDIT_FORM_TYPE": {
+        "DETAIL": "Audit Form Type Detail",
+        "LIST": "Audit Form Type List",
+        "NEW": "New Audit Form Type"
+      },
+      "QUESTION": {
+        "DETAIL": "Question Detail",
+        "LIST": "Question List",
+        "NEW": "New Question"
+      },
+      "QUESTION_GROUP": {
+        "DETAIL": "Question Group Detail",
+        "LIST": "Question Group List",
+        "NEW": "New Question Group"
+      },
+      "SCORE_MAPPING": "Score Mapping"
+    },
+    "LEAVE_MANAGEMENT": {
+      "DETAIL": "Leave Request Detail",
+      "LIST": "Leave Request List"
+    },
+    "LIVE_MONITORING": {
+      "LIST": "Order Growth Monitoring",
+      "OPERATIONS": "Warehouse Operation Monitoring"
+    },
+    "LOCALS": {
+      "ACTIVE": "GetirLocals Active Order"
+    },
+    "LOCATION_WRITE_OFF": {
+      "DETAIL": "Location write off Detail",
+      "LIST": "Location write off List",
+      "NEW": "New location write off REQUEST"
+    },
+    "LOTTERY": {
+      "DETAIL": "Lottery Detail",
+      "NEW": "New Lottery"
+    },
+    "MARKET": {
+      "LIVE_MAP": "Live Map"
+    },
+    "MARKET_AUTO_GROWTH_OPERATIONS": "Market Auto Growth Operations Tool Settings",
+    "MARKET_FRANCHISE": {
+      "DETAIL": "Franchise Detail",
+      "LIST": "Franchise List",
+      "NEW": "New Franchise"
+    },
+    "MARKET_FRANCHISE_USER": {
+      "DETAIL": "Franchise User Detail",
+      "LIST": "Franchise User List",
+      "NEW": "New Franchise User"
+    },
+    "MARKET_FRANCHISE_USER_ROLE": {
+      "DETAIL": "Franchise User Role Detail",
+      "LIST": "Franchise User Role List",
+      "NEW": "New Franchise User Role"
+    },
+    "MARKET_FRANCHISE_USER_ROLE_GROUP": {
+      "DETAIL": "Franchise User Role Group Detail",
+      "LIST": "Franchise User Role Group List",
+      "NEW": "New Franchise User Role Group"
+    },
+    "MARKET_INTELLIGENCE_PRICE_INDEX": "Market Intelligence Price Index",
+    "MARKET_INTELLIGENCE_PRICE_RECOMMENDATION": "Market Intelligence Price Recommendation",
+    "MARKET_INTELLIGENCE_PRODUCTS": "Market Intelligence Products",
+    "MARKET_ORDER_ANALYTICS": {
+      "ACTIVE_ORDERS_FOR_EXECUTIVE_DASHBOARD": "Active Orders - Executive Dashboard",
+      "ACTIVE_ORDERS_FOR_GROWTH": "Active Orders - Growth",
+      "ACTIVE_ORDERS_FOR_MANAGEMENT": "Active Orders - Management",
+      "ACTIVE_ORDERS_FOR_OPERATION": "Active Orders - Operation",
+      "ACTIVE_ORDERS_SUMMARY": "Active Orders - Summary"
+    },
+    "MARKET_PRODUCT": {
+      "DETAIL": "Product Detail",
+      "LIST": "Products",
+      "NEW": "New Product"
+    },
+    "MARKET_PRODUCT_BADGE": {
+      "DETAIL": "Badge Detail",
+      "LIST": "Badges",
+      "NEW": "New Badge"
+    },
+    "MARKET_PRODUCT_CATEGORY": {
+      "DETAIL": "Category Detail",
+      "LIST": "Product Categories",
+      "NEW": "New Category",
+      "VISIBILITY": {
+        "DETAIL": "Category Visibility",
+        "LIST": "Category Visibility List",
+        "NEW": "New Category Visibility"
+      }
+    },
+    "MARKET_PRODUCT_CHAIN_MANAGEMENT": {
+      "WAREHOUSES_LIST": "Warehouses"
+    },
+    "MARKET_PRODUCT_GROUP": {
+      "DETAIL": "Product Group Detail",
+      "LIST": "Product Groups",
+      "NEW": "New Product Group"
+    },
+    "MARKET_PRODUCT_MASTER_CATEGORY": {
+      "DETAIL": "Product Master Category Detail",
+      "LIST": "Product Master Categories",
+      "NEW": "New Product Master Category"
+    },
+    "MARKET_PRODUCT_WAREHOUSE_PRICE": {
+      "DETAIL": "Product Warehouse Price Detail",
+      "LIST": "Product Warehouse Prices"
+    },
+    "MARKET_PRODUCT_WASTE_PRICE": {
+      "DETAIL": "Product Waste Price Detail",
+      "LIST": "Product Waste Prices"
+    },
+    "MERCHANT": {
+      "DETAIL": "Merchant Detail",
+      "LIST": "Merchants",
+      "NEW": "New Merchant"
+    },
+    "ON_OFF_PROMO_CONFIG": "On Off Promo Config",
+    "PAGE": {
+      "DETAIL": "Page Detail",
+      "LIST": "Pages",
+      "NEW": "New Page"
+    },
+    "PAYMENTS": {
+      "DETAIL": "Payment Detail",
+      "LIST": "Payments"
+    },
+    "PAYOUTS_FOR_DOMAINS": "Payouts For Domains (Summary)",
+    "PAYOUTS_TRANSACTIONS_FOR_DOMAINS": "Payouts For Domains (Transaction Detail)",
+    "PERSON": {
+      "DETAIL": "Person Detail",
+      "LIST": "Person List",
+      "NEW": "New Person"
+    },
+    "PERSONAL_PROMO": {
+      "GENERATOR": "Personal Promo Code Generator"
+    },
+    "PERSON_CANDIDATE": {
+      "LIST": "Person Candidate List"
+    },
+    "PERSON_REQUEST": {
+      "DETAIL": "Information Edit Request Detail",
+      "LIST": "Franchises' Person Requests"
+    },
+    "PICKER": {
+      "LIST": "Picker List"
+    },
+    "PLANOGRAM": {
+      "CATEGORIES": {
+        "DETAIL": "Planogram Category Detail",
+        "LIST": "Planogram Categories ",
+        "NEW": "New Planogram Category"
+      },
+      "LIST": "Planograms",
+      "NEW": "New Planogram",
+      "PRODUCTS_LIST": "Products",
+      "WAREHOUSES_LIST": "Warehouses"
+    },
+    "POLYGON": {
+      "MAP": "Map",
+      "MAPS": "Maps"
+    },
+    "POS_REPORT": {
+      "DETAIL": "Bank Reconciliation Report Detail",
+      "LIST": "Bank Reconciliation Report"
+    },
+    "PRICING_TOOL": "Pricing Tool",
+    "PRODUCT_MATCHING": "Product Matching",
+    "PROMO": {
+      "LIST": "Promos"
+    },
+    "RECIPES": {
+      "DETAIL": "Recipe Detail",
+      "LIST": "Recipes",
+      "SORTING": "Recipes Sorting"
+    },
+    "RECONCILIATION_DAILY_REPORT": {
+      "LIST": "Pos Bank File Status"
+    },
+    "RENT": "Rent",
+    "RESOLVE": "Resolve",
+    "RETURNS": "Returns",
+    "ROLE": {
+      "DETAIL": "Role Detail",
+      "HIERARCHY": "Role Hierarchy",
+      "LIST": "Roles",
+      "NEW": "New Role"
+    },
+    "RUNNER": {
+      "LIST": "Runners"
+    },
+    "SEGMENT": {
+      "DETAIL": "Segment Detail",
+      "LIST": "Segment List",
+      "NEW": "Segment New"
+    },
+    "SEGMENTED_CODE_GENERATOR": "Segmented Code Generator",
+    "SERVICE_AVAILABILITY_AREA": {
+      "DETAIL": "Service Availability Area",
+      "EDIT": "Edit Service Availability Area",
+      "LIST": "Service Availability Areas",
+      "NEW": "Create New Service Availability Area"
+    },
+    "SERVICE_FEE": {
+      "BULK_UPLOAD": "Service Fee Bulk Upload (Regular hours)",
+      "BULK_UPLOAD_PEAK_HOURS": "Service Fee Bulk Upload (Peak hours)"
+    },
+    "SLOT_PLAN_MANAGEMENT": "Slot Plan Management",
+    "STAFF_PLAN_PUBLICATION": "Staff Plan Publication",
+    "STOCK_ORDER_AUTO": "Auto Stock Order",
+    "STOCK_ORDER_VOLUME_AUTO": "V. Auto Stock Order",
+    "STOCK_TRANSFER_AUTO": "Auto Transfer",
+    "STORE_AUDIT": {
+      "DETAIL": "Store Audit Detail",
+      "LIST": "Store Audit List",
+      "NEW": "New Store Audit"
+    },
+    "SUPPLIER": {
+      "DETAIL": "Supplier Detail",
+      "LIST": "Suppliers",
+      "NEW": "New Supplier"
+    },
+    "THIRD_PARTY_COMPANY": {
+      "DETAIL": "3rd Party Company Detail",
+      "LIST": "3rd Party Companies",
+      "NEW": "New 3rd Party Company"
+    },
+    "TIMESHEET_LOCK": "Timesheet Lock",
+    "TIMESHEET_LOGS": "Timesheet Logs",
+    "TIP_PAYBACK": {
+      "PAYOUT_FAIL_REASONS": "Payout Fail Reasons",
+      "PAYOUT_SUMMARY": "Payout Summary",
+      "PAYOUT_SUMMARY_DETAIL": "Payout Summary Detail"
+    },
+    "TOBB_GIB_REQUEST": "TOBB Gib Request",
+    "TRANSACTION": {
+      "DETAIL": "Transaction Detail",
+      "LIST": "Transactions"
+    },
+    "TRANSFER_GROUP": {
+      "DETAIL": "Transfer Group Detail",
+      "LIST": "Transfer Groups",
+      "NEW": "New Transfer Group"
+    },
+    "USER": {
+      "DETAIL": "User Detail",
+      "EXTERNAL_CUSTOMER_SERVICES_PANEL_ACCOUNT_MANAGEMENT": "External Customer Services Panel Account Management",
+      "LIST": "Users",
+      "NEW": "New User",
+      "WEBHELP_MATCHING": "Webhelp Matching"
+    },
+    "WAREHOUSE": {
+      "DETAIL": "Warehouse Detail",
+      "LIST": "Warehouses",
+      "LIVE_MAP": "Warehouse Based Live Map",
+      "NEW": "New Warehouse"
+    },
+    "WAREHOUSE_PROPOSAL": {
+      "CREATE": "Create Warehouse Proposals",
+      "DETAIL": "Warehouse Proposal Detail",
+      "LIST": "Warehouse Proposals"
+    },
+    "WAREHOUSE_SEGMENT": {
+      "LIST": "Segment Info of Warehouse"
+    },
+    "WATER": {
+      "ACTIVE_ORDERS": "Getir Water Active Orders",
+      "ANNOUNCEMENTS": {
+        "DETAIL": "Getir Water Announcement Detail",
+        "LIST": "Getir Water Announcements",
+        "NEW": "Getir Water New Announcement"
+      },
+      "CAMPAIGNS": {
+        "DETAIL": "Getir Water Campaign Detail",
+        "LIST": "Getir Water Campaigns",
+        "NEW": "Getir Water New Campaign"
+      },
+      "COURIER_STATUS": "Getir Water Courier Status",
+      "ORDER_DETAIL": "Getir Water Order Details",
+      "ORDER_FILTER": "Getir Water Order Filter",
+      "SLOT_CONFIG": "Getir Water Slot Config",
+      "VENDOR_FILTER": "Getir Water Vendor Filter"
+    },
+    "WORKFORCE_REPORTS": "Workforce Reports"
+  },
+  "PAYMENT": "Payment",
+  "PAYMENT_DETAIL_CARD": {
+    "AMOUNT": "Amount",
+    "AMOUNT_AFTER_PICKING": "Finalized Amount After Picking",
+    "CALCULATED_AMOUNT": "Calculated Amount",
+    "CARD_BANK": "Card Bank",
+    "CARD_NO": "Card No",
+    "EVENT": "Event",
+    "IS_3DS": "Is 3DS",
+    "LIABILITY_SHIFT": "Liability Shift",
+    "PAYMENT_PROVIDER_AND_METHOD": "Provider / Method",
+    "POS_CARD_BANK": "Pos Card Bank",
+    "PREPAYMENT_AMOUNT": "Prepayment Amount",
+    "PROVISION": "Provision",
+    "REFUND_AMOUNT": "Refund Amount",
+    "THREED_AUTHENTICATED": "3D Authenticated",
+    "THREED_OFFERED": "3D Offered",
+    "TRANSACTION": "Transaction"
+  },
+  "PAYMENT_METHOD": "Payment Method",
+  "PERSON": "Person",
+  "PHONE": "Phone",
+  "PHONE_NUMBER": "Phone Number",
+  "PICKER": "Picker",
+  "PLANNED": "Planned",
+  "PLATE": "Plate",
+  "POLYGON_TYPE": "Polygon Type",
+  "POS_REPORT_ORDER_STATUS": {
+    "Aborted": "Aborted",
+    "Browsing": "Browsing",
+    "CREATED": "Created",
+    "CREATED_OR_PAYMENT_FAILED": "Created / Payment Failed",
+    "Canceled by Admin": "Canceled by Admin",
+    "Canceled by Restaurant": "Canceled by Restaurant",
+    "Canceled by Restaurant / Vendor": "Canceled by Restaurant / Vendor",
+    "Canceled by Restaurant or Vendor": "Canceled by Restaurant or Vendor",
+    "Canceled by System": "Canceled by System",
+    "Canceled by Vendor": "Canceled by Vendor",
+    "CanceledByAdmin": "Canceled by Admin",
+    "CanceledByClient": "Canceled by Client",
+    "CanceledByCourier": "Canceled by Courier",
+    "CanceledByStaff": "Canceled by Staff",
+    "CanceledBySystem": "Canceled by System",
+    "Cancelled": "Cancelled",
+    "Delivered": "Delivered",
+    "Ended": "Ended",
+    "Failed": "Failed",
+    "Getir Drive Ended": "Getir Drive Ended",
+    "Handover": "Handover",
+    "Incomplete": "Incomplete",
+    "On Way": "On Way",
+    "Onway": "Onway",
+    "PAID": "Paid",
+    "PAID_OR_PAYMENT_SUCCESS": "Paid / Payment Success",
+    "Payment Failed": "Payment Failed",
+    "Payment Success": "Payment Success",
+    "Prepared": "Prepared",
+    "Preparing": "Preparing",
+    "REFUNDED": "Refunded",
+    "REFUND_FAILED": "Refund Failed",
+    "Rated": "Rated",
+    "Reached": "Reached",
+    "Refund Failed": "Refund Failed",
+    "Refunded": "Refunded",
+    "Reserved": "Reserved",
+    "Reserved / Scheduled": "Reserved / Scheduled",
+    "Scheduled": "Scheduled",
+    "Success": "Success",
+    "Undefined": "Undefined",
+    "Verifying": "Verifying",
+    "WAITING_REFUND": "Waiting Refund",
+    "Waiting Refund": "Waiting Refund",
+    "Waiting for Picker": "Waiting for Picker",
+    "WaitingForPicker": "Waiting for Picker"
+  },
+  "POS_REPORT_REFUND_STATUS_TYPES": {
+    "COMPLETED": "Completed",
+    "MANUAL": "Manual Accept",
+    "NOT_DECIDE": "Not Decide",
+    "PENDING": "Pending",
+    "PROCESSING": "Processing",
+    "RECONCILIATION": "Reconciliation",
+    "REVIEW": "Review",
+    "REVIEW_GETIR_DRIVE": "Review Getir Drive"
+  },
+  "PREPARING_REPORT": "The report is being prepared, it will be sent to your email.",
+  "PREV": "Prev",
+  "PRICE": "Price",
+  "PRIORITY": "Priority",
+  "PRODUCT": "Product",
+  "PRODUCTS": "Products",
+  "PROFILE": "Profile",
+  "PROMO": "Promo",
+  "PROMOS": "Promos",
+  "PROMOTION": "Promotion",
+  "PROMOTION_SHORT": "Promo",
+  "PROMO_TYPE": "Promo Type",
+  "PUBLISH": "Publish",
+  "QUANTITY": "Quantity",
+  "RATIO_TO_TOTAL": "Ratio to Total",
+  "REALIZED": "Realized",
+  "REASON": "Reason",
+  "REDIRECT_SUBTITLE": "You can replace the URL address with a new one in saved bookmarks.",
+  "REDIRECT_TITLE": "The page is redirected to the new URL address.",
+  "RED_BASKET": "Red Basket",
+  "REFERENCE": "Reference",
+  "REGION": "Region",
+  "REGIONS": "Regions",
+  "REJECT": "Reject",
+  "REJECTED_BY": "Reject By",
+  "REJECTED_DATE": "Rejected Date",
+  "REMOVE": "Remove",
+  "RENT": "Rent",
+  "REQUEST_DATE": "Request Date",
+  "RESET": "Reset",
+  "RESOLVE": "Resolve",
+  "RESPONSIBILITY": "Responsibility",
+  "RESPONSIBLE_DEPARTMENT": "Responsible Department",
+  "RESTAURANT": "Restaurant",
+  "RESTAURANT_DELIVERY": "Restaurant Delivery",
+  "RESULT": "Result(s)",
+  "RETURNING": "Returning",
+  "REVENUE": "Revenue",
+  "ROLES": "Roles",
+  "ROUTING_ERROR": "The page you are trying to go does not exist or you do not have enough permission to access it.",
+  "SAP_CARD_CODE": "SAP Card Code",
+  "SAVE": "Save",
+  "SAVE_AS_PDF": "Save as PDF",
+  "SAVE_CHANGES": "Save Changes",
+  "SEARCH": "Search",
+  "SEARCH_BY_PRODUCT_ID_OR_NAME": "Search by product id or name.",
+  "SEARCH_CATEGORY": "Search Category",
+  "SEARCH_CITY_NAME": "Search City Name",
+  "SEARCH_GIVEAWAY": "Search by GSM",
+  "SEARCH_RESTAURANT_MIN_CHARACTER": "Type in at least 3 characters",
+  "SEARCH_WAREHOUSE_NAME": "Search Warehouse Name",
+  "SEE_OLD_COUNTRIES": "See old countries",
+  "SEGMENTS": "Segments",
+  "SEGMENT_DATA_FEED": "Segment Data Feed",
+  "SELECT": {
+    "CITY": "Select City",
+    "DISTRICT": "District Select",
+    "FRANCHISE_AREAS": "Select Franchise Area",
+    "STATUS": "Select Status",
+    "WAREHOUSE": "Select Warehouse"
+  },
+  "SELECTED": "Selected",
+  "SELECTED_COUNTRY_AND_DATA_COUNTRY_MISMATCH": "The country of the data you want to see does not match the selected country in the panel. Data country: {{targetCountry}}",
+  "SELECT_ALL": "Select All",
+  "SELECT_BRAND": "Select Brand",
+  "SELECT_CATEGORY": "Select Category",
+  "SELECT_CITY": "City Selection",
+  "SELECT_EMPLOYEE": "Employee Selection",
+  "SELECT_FILE": "Select file",
+  "SELECT_PRODUCT": "Select Product",
+  "SELECT_RESULTS": "Select Results",
+  "SERVICE": "Service",
+  "SERVICE_FEE": "Service Fee",
+  "SERVICE_FEE_BULK_UPLOAD_BUTTON": "Service Fee Bulk Upload",
+  "SERVICE_TYPE": "Service Type",
+  "SHORTNAME": "Short Name",
+  "SHORT_NAME": "Short Name",
+  "SHOW_AS_JSON": "Show as JSON",
+  "SIGNUP": "Signup",
+  "SLUG_NOT_FOUND_ERROR": "Slug not found",
+  "SOME_ERROR_CODE_COUNT": "Some Error Code Count",
+  "SORT": "Sort",
+  "SORT_TABLE_ASC": "Click to sort ascending",
+  "SORT_TABLE_CANCEL": "Click to cancel sorting",
+  "SORT_TABLE_DESC": "Click to sort descending",
+  "SOURCE": "Source",
+  "STANDARD": "Standard",
+  "START_DATE": "Start Date",
+  "STATE": "State",
+  "STATES": {
+    "100": "Archived",
+    "200": "Inactive",
+    "300": "Active"
+  },
+  "STATUS": "Status",
+  "STATUS_AVAILABLE": "Available",
+  "STATUS_BUSY": "Busy",
+  "STATUS_CALLBACK_URL_ENABLED": "Status Callback Url Enabled",
+  "STATUS_CALLBACK_URL_ENABLED_TOOLTIP": "Enter the URL where the Notification/Sms sending status will be fed.",
+  "STATUS_INACTIVE": "Inactive",
+  "STATUS_ON_DELIVERY": "On Delivery",
+  "STORE": "Store",
+  "STORE_DELIVERY": "Store Delivery",
+  "STREET": "Street",
+  "SUBMIT": "Submit",
+  "SUB_CATEGORY": "Sub Category",
+  "SUCCESS": "Success!",
+  "SUM": "Sum",
+  "SUPERVISOR": "Supervisor",
+  "SUPPLIER": "Supplier",
+  "SURNAME": "Surname",
+  "SWITCH": {
+    "ACTIVE": "Active",
+    "CLOSE": "Close",
+    "DISABLED": "Disabled",
+    "ENABLED": "Enabled",
+    "INACTIVE": "Inactive",
+    "NO": "No",
+    "OFF": "Off",
+    "ON": "On",
+    "UNENABLED": "Unenabled",
+    "YES": "Yes"
+  },
+  "TAX_EXCLUDED": "Tax Excluded",
+  "TAX_INCLUDED": "Tax Included",
+  "TAX_NUMBER": "Tax Number",
+  "TAX_OFFICE": "Tax Office",
+  "TAX_TYPE": "Tax Type",
+  "TEMPLATE_TEST_TYPE": "Template Search",
+  "THE_EXPORTED_FILE_FORMAT_CAN_BE_USED_WHEN_IMPORTING": "The exported file format can be used when importing.",
+  "THIRD_PARTY_ORDER_INTEGRATION_TYPES": {
+    "gorillas": "Gorillas",
+    "grubhub": "Grubhub",
+    "jet": "Jet",
+    "n11": "n11",
+    "uber": "Uber"
+  },
+  "THOUSAND": "Thousand",
+  "THOUSAND_SHORT": "k",
+  "TIME": {
+    "ABBR": {
+      "DAY": "day",
+      "HOUR": "hr",
+      "MINUTE": "min",
+      "MONTH": "mo",
+      "SECOND": "sec",
+      "YEAR": "yr"
+    },
+    "FULL": {
+      "DAY": "day(s)",
+      "HOUR": "hour(s)",
+      "MINUTE": "minute(s)",
+      "MONTH": "month(s)",
+      "SECOND": "second(s)",
+      "YEAR": "year(s)"
+    }
+  },
+  "TIME_TO_LIVE": "Time To Live (Default: 336 hour)",
+  "TITLE": "Title",
+  "TITLE1": "Title",
+  "TODAY": "Today",
+  "TOMORROW": "Tomorrow",
+  "TOP_UP_SOURCE_TYPES": {
+    "1": "Debit Card",
+    "2": "Credit Card"
+  },
+  "TOTAL": "Total",
+  "TOTAL_N_ITEMS_IN_TABLE": "Total {{ total }} items",
+  "TOTAL_PRODUCTS_COUNT": "Total Products Count",
+  "TRANSACTIONS": "Transactions",
+  "TRIP_COUNT": "Trip Count",
+  "TTL": "TTL (hr)",
+  "TYPE": "Type",
+  "TYPE1": "Type",
+  "TYPE2": "Type",
+  "TYPE3": "Type",
+  "TYPE_AT_LEAST_X_CHARACTER": "Type in at least {{ min }} characters",
+  "TYPE_MIN_THREE": "Type a minimum of 3 characters to see options.",
+  "UNKNOWN": "Unknown",
+  "UPDATE": "Update",
+  "UPDATED_AT": "Updated At",
+  "UPDATE_AT": "Updated At",
+  "UPDATE_ROLE_MEMBERSHIP": "Update Role Membership",
+  "UPLOAD": "Upload",
+  "UPLOADED_ICON_TOOLTIP": "{{ totalCount }} record/s",
+  "UPLOAD_CSV": "Upload Csv",
+  "UPLOAD_CSV_AND_EXECUTE": "Upload Csv and execute",
+  "UPLOAD_EXCEL": "Upload Excel",
+  "UPLOAD_FILE": "Upload File",
+  "UPLOAD_VIA_DRAGGER": "Click or drag file to this area to upload",
+  "UPLOAD_VIA_DRAGGER_EXPLANATION": "Please check your file before uploading!",
+  "USER": "User",
+  "USERNAME": "Username",
+  "UTILIZATION": "Utilization",
+  "VALID_FROM": "Valid From",
+  "VALID_UNTIL": "Valid Until",
+  "VALUE": "Value",
+  "VARIATION_AUDIENCE_PREFIX": "Group",
+  "VAT_INCLUDED_REVENUE": "VAT Included Revenue",
+  "VEHICLE": "Vehicle",
+  "VENDOR": "Vendor",
+  "VOLUME": "Volume",
+  "WAREHOUSE": "Warehouse",
+  "WAREHOUSES": "Warehouses",
+  "WAREHOUSE_STATE": "Warehouse State",
+  "WAREHOUSE_STATES": {
+    "100": "Archieved",
+    "200": "Inactive",
+    "300": "Active"
+  },
+  "WAREHOUSE_STATUS": "Warehouse Status",
+  "WAREHOUSE_STATUS_TYPES": {
+    "100": "Busy",
+    "200": "Out of courier",
+    "300": "Free"
+  },
+  "WAREHOUSE_TYPE": "Warehouse Type",
+  "WAREHOUSE_TYPES": {
+    "1": "Main Warehouse",
+    "2": "Regular Warehouse",
+    "3": "Virtual Warehouse",
+    "4": "Grocer Warehouse",
+    "5": "Factory Warehouse",
+    "6": "Supply Chain Operations",
+    "7": "Vehicle Park",
+    "8": "Store Conversion",
+    "9": "Non-agreement Warehouse",
+    "10": "Other",
+    "11": "Hub Warehouse"
+  },
+  "WAREHOUSE_TYPE_PLURAL": "Warehouse Types",
+  "WASTE_PRICE_TRANSACTION": "Something went wrong for waste price transactions.",
+  "WEEK": "Week",
+  "WEIGHT": {
+    "KG": "Weight(kg)"
+  },
+  "WORKER_TYPE": "Worker Type",
+  "WORKER_TYPES": {
+    "COURIER": "Courier",
+    "PICKER": "Picker"
+  },
+  "X_OF_Y_ARE_DISPLAYED": "{{X}} of {{Y}} are displayed",
+  "YEAR": "Year",
+  "YES": "Yes",
+  "YESTERDAY": "Yesterday",
+  "YOUR_REQUEST_HAS_BEEN_CREATED": "Your request has been created.",
+  "YOUR_ROLES": "Your Roles",
+  "ZIP_CODE": "Zip Code"
+}

@@ -1,0 +1,52 @@
+{
+  "DATE_RANGE_TYPE_TITLE": "Zaman Aralığı Türleri",
+  "DRAWER": {
+    "APPLY_STYLE": "Stil Uygula",
+    "CLASSES": "Sınıflar",
+    "SELECT_CLASSIFICATION_TYPE": "Sınıflandırma türü seçiniz",
+    "SELECT_PALETTE_TYPE": "Palet tipi seçiniz:",
+    "TITLE": "Stil Düzenleyici"
+  },
+  "FETCH_RESULT": "Sonucu Getir",
+  "GEOBOUNDARY_TYPES_TITLE": "Coğrafi Sınır Türleri",
+  "GETIR_POLYGON_TYPES": {
+    "0": "Hiçbiri",
+    "1": "Alt Bölge",
+    "2": "Ürün görme engelli",
+    "5": "Kampanya engelli",
+    "7": "Sipariş engelli",
+    "9": "Genişletilmiş Bölge",
+    "10": "Araç tipi bazlı engelli",
+    "17": "Zaman Ayarlı teslimat"
+  },
+  "GETIR_SUBREGION_INTERVAL_TYPES": {
+    "1100": "Gündüz",
+    "2100": "Erken Gece",
+    "2200": "Geç Gece",
+    "2300": "Erken Sabah"
+  },
+  "GET_POLYGONS": "Poligonları Getir",
+  "LEGEND_TITLE": "Lejant",
+  "POLYGON_ID": "Poligon ID",
+  "RANGE_PICKER_TITLE": "Zaman Aralığı",
+  "REMOVE_POLYGONS": "Poligonları Kaldır",
+  "SELECT_CITY_TOOLTIP": "Depoları haritada görmek için şehir seçmelisin",
+  "SELECT_DATE_RANGE_TYPE": "Lütfen bir tarih aralığı türü seçiniz.",
+  "SELECT_GEOBOUNDARY_TYPE": "Lütfen bir coğrafi sınır türü seçiniz.",
+  "SELECT_INTERVAL": "Lütfen bir tarih aralığı seçiniz.",
+  "SELECT_INTERVAL_TYPE": "Alt Bölge Aralığı",
+  "SELECT_STAT_TYPES": "Lütfen istatistik türlerini seçiniz. ",
+  "SHOW_WAREHOUSE_MARKERS_OF_MAP": "Depoları Gizle",
+  "SHOW_WAREHOUSE_MARKERS_ON_MAP": "Depoları Göster",
+  "STAT_TYPES": {
+    "appOpen": "Uygulama Açma Sayısı",
+    "downloads": "Uygulama İndirme Sayısı",
+    "missedOrder": "Kaçan Sipariş Sayısı",
+    "missedOrderRatio": "Kaçan Sipariş Yüzdesi",
+    "order": "Sipariş Sayısı",
+    "selectAll": "Tümünü Seç"
+  },
+  "STAT_TYPES_TITLE": "İstatistik Türleri",
+  "SUBREGION_INTERVAL_TYPE_TITLE": "Alt Bölge Aralığı",
+  "TITLE": "Mekansal Bilgi"
+}

@@ -1,0 +1,17 @@
+{
+  "ACTION": "Action",
+  "ACTIVITY": "Activity",
+  "ACTIVITY_ALL": "All",
+  "ACTIVITY_CLOSED": "Closed",
+  "ACTIVITY_OPEN": "Open",
+  "GET_RUNNER_BY_COMPANY_ID": "Get runner by company ID",
+  "GET_RUNNER_BY_SHOPPING_MALL_ID": "Get runner by shopping mall ID",
+  "NAME": "Name",
+  "NEW_RUNNER": "New Runner",
+  "STATUS_AVAILABLE": "Available",
+  "STATUS_BUSY": "Busy",
+  "STATUS_INACTIVE": "Inactive",
+  "STATUS_ON_DELIVERY": "On Delivery",
+  "TYPE": "Type",
+  "WAREHOUSE": "Warehouse"
+}

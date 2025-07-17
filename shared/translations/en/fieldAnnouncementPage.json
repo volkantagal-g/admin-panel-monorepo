@@ -1,0 +1,28 @@
+{
+  "ALL_FRANCHISES": "All Franchises",
+  "ANNOUNCEMENT": "Announcement",
+  "ANNOUNCEMENT_DATE": "Announcement Date",
+  "ANNOUNCEMENT_FILE": "Announcement File",
+  "ANNOUNCEMENT_TYPE": "Announcement Type",
+  "ATTACHMENTS": "Attachments",
+  "DESCRIPTION_EN": "Description in English",
+  "DESCRIPTION_NATIVE": "Description in Native Language",
+  "FRANCHISE_ANNOUNCEMENT": "Franchise Announcement",
+  "NO_CITY": "No city",
+  "PAGE_TITLE": {
+    "CREATE": "Create Announcement",
+    "DETAIL": "Announcement Detail",
+    "LIST": "Announcements",
+    "LIST_BY_WAREHOUSE": "Announcements by Warehouse"
+  },
+  "SELECT_ACTIVENESS": "Select Activeness",
+  "SELECT_ANNOUNCEMENT_TYPE": "Select Announcement Type",
+  "SELECT_FRANCHISES": "Select Franchises",
+  "SELECT_WAREHOUSES": "Select Warehouses",
+  "SEND_NOTIFICATION": "Send Notification",
+  "TITLE_EN": "Title in English",
+  "TITLE_NATIVE": "Title in Native Language",
+  "WAREHOUSE_ANNOUNCEMENT": "Warehouse Announcement",
+  "WRITE_DESCRIPTION": "Write Description",
+  "WRITE_TITLE": "Write Title"
+}

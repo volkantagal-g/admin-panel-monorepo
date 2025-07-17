@@ -1,0 +1,5 @@
+export const AUTO_SEGMENT_STATUS = {
+  ACTIVE: 100,
+  UPDATING: 200,
+  INACTIVE: 300,
+};

@@ -1,0 +1,90 @@
+{
+  "BUFFER_1": "Tampon 1 (8:00 - 17:00)",
+  "BUFFER_2": "Tampon 2 (17:00 - 01:00)",
+  "CAP_DATE": "Cap Tarihi",
+  "CAP_DATE_RANGE": "Cap Tarih Aralığı",
+  "COURIER_PLAN_LIST": "Uçtan Uca Kurye Planı",
+  "COURIER_PLAN_STATES": {
+    "1": "Taslak",
+    "2": "Hazır",
+    "3": "Yayınlandı",
+    "4": "İptal edildi"
+  },
+  "CURRENT_STEP": "Son Adım",
+  "DELETE": "Sil",
+  "DELETE_QUESTION": "Emin misiniz? Uçtan uca kurye planı tamamen silinecektir.",
+  "DOMAIN_TYPE": "Depo Servis Tipi",
+  "DOWNLOAD_EXCEL_FILE": "Excel Dosyasını İndirin",
+  "EXCLUDED_DAYS": "Dahil Edilmeyen Günler",
+  "FORECAST_DATA": "Veri Tahmini",
+  "FORECAST_HYBRID": "Melez Tahmin",
+  "FORECAST_OPERATIONAL": "Operasyonel Tahmin",
+  "FORECAST_TYPE": "Tahmin Türü",
+  "GETIR_FOOD_RATE": "GetirYemek Oranı",
+  "GETIR_LOCALS_RATE": "GetirÇarşı Oranı",
+  "MERGE_DOMAIN_TYPE": "Birleşik",
+  "NEW_COURIER_PLAN": "Yeni Plan",
+  "PLAN_DATE": "Kurye Planlama Tarihi",
+  "PLAN_NAME": "Plan İsmi",
+  "PLAN_TYPE": "Plan Type",
+  "PLAN_TYPES": {
+    "1": "Conservative",
+    "2": "Aggressive"
+  },
+  "PROCEED": "İlerle",
+  "PUBLISH_TYPE": {
+    "1": "Standart Plan",
+    "2": "Planlı Plan"
+  },
+  "RATE_1": "Oran 1",
+  "RATE_2": "Oran 2",
+  "REFERENCE_DAY_1": "Referans Tarihi 1",
+  "REFERENCE_DAY_2": "Referans Tarihi 2",
+  "SAVE_STEP_QUESTION": "Emin misiniz? Varsa sonraki adımlar sıfırlanacaktır.",
+  "STEP_LABELS": {
+    "1": {
+      "HINT": "Model girdilerini buraya yükleyin",
+      "INPUT": "Belge Seçiniz",
+      "OUTPUT": "Çıktı Dosyası"
+    },
+    "2": {
+      "HINT": "Her depo için saatlik tahmini yükleyin",
+      "INPUT": "Saatlik Tahmin",
+      "OUTPUT": "Çıktı Dosyası"
+    },
+    "3": {
+      "HINT": "TTP dosyasını buraya yükleyin",
+      "INPUT": "TTP Dosyası"
+    },
+    "4": {
+      "OUTPUT": "Çıktı Dosyası"
+    },
+    "OUTPUT": "Çıktı Dosyası",
+    "SELECT_FINAL_HINT": "Select Final file",
+    "SELECT_HINT": "Belge Seçiniz",
+    "UPLOAD_FINAL_HINT": "Upload Final file here",
+    "UPLOAD_HINT": "Upload file here"
+  },
+  "STEP_STATES": {
+    "1": "Taslak",
+    "2": "İşleniyor",
+    "3": "Tamamlandı",
+    "4": "Başarısız oldu"
+  },
+  "STEP_TYPES": {
+    "1": "Adım 1: Tahmin",
+    "2": "Adım 2: TTP / OTP İdeal Plan",
+    "3": "Adım 3: Değiştirilmiş Plan",
+    "4": "Adım 4: Publication"
+  },
+  "TTP_EXPAND_FACTOR": "Genişletme/Daraltma Katsayısı",
+  "TTP_MAX": "Maks TTP",
+  "TTP_MIN": "Min TTP",
+  "TTP_REFERENCE_DATE_1": "TP Referans Tarih 1",
+  "TTP_TYPE": "TP Tipi",
+  "TTP_TYPES": {
+    "1": "Data TTP",
+    "2": "Operasyon TTP"
+  },
+  "TTP_USE_SAME_ALL_DAY": "Tüm gün aynı TTP kullan"
+}

@@ -1,0 +1,37 @@
+{
+  "CRITICAL": "critical",
+  "DETAILED_REPORT": "Detailed Report",
+  "DETAILS": "Details",
+  "DEV_DEPENDENCY_COUNT": "Dependency Count (dev)",
+  "HEADER_INFORMATION": {
+    "CI_CD_DOCUMENTATION": "Follow this documentation, if you would you like to enrich your CI/CD pipeline with security checks (click here)",
+    "INSTANT_REPORT_COMMAND": "npm audit --omit=dev",
+    "INSTANT_REPORT_INFO_HEADER": "Below command can be used to get a instant report in your local environment",
+    "SCAN_PERIOD": "The scan operation is performed at every Saturday"
+  },
+  "HIGH": "high",
+  "LINK": "Link",
+  "LOW": "low",
+  "MODERATE": "moderate",
+  "MODULE": "Module",
+  "MORE_INFO": "More Info",
+  "NON_VULNERABLE": "non-vulnerable",
+  "PATH": "Path",
+  "PROD_DEPENDENCY_COUNT": "Dependency Count (prod)",
+  "REPORTED_AT": "Reported at",
+  "REPOSITORY_NAME": "Repository Name",
+  "RESPONSIBLE_SQUAD": "Responsible Squad",
+  "SEARCH_BY_REPOSITORY": "Search for repository by name",
+  "SEVERITY_LEVEL": "Severity",
+  "TYPE": "Type",
+  "UNKNOWN_VERSION": "could not be detected",
+  "VERSION": "Version",
+  "VERSION_REPORT": {
+    "NODE_JS": "NodeJS Versions Report"
+  },
+  "VULNERABILITY_INFO": "Vulnerability Info",
+  "VULNERABILITY_REPORT": {
+    "NODE_JS": "Vulnerability Report (NodeJS)"
+  },
+  "VULNERABLE": "vulnerable"
+}

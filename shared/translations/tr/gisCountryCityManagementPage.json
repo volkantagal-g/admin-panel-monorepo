@@ -1,0 +1,19 @@
+{
+    "BOUNDARY": "Sınırlar",
+    "CITY_LIST": "Şehir Listesi",
+    "CONFIRM_MODAL_TITLE": "Değişiklikleri göndermek istediğinizden emin misiniz?",
+    "COUNTRY_LIST": "Ülke Listesi",
+    "CREATE_CITY": "Şehir Oluştur",
+    "CREATE_CITY_BOUNDARY": "Şehir Sınırları oluştur",
+    "CREATE_CITY_FORM": "Yeni Şehir Bilgileri",
+    "CREATE_COUNTRY": "Ülke Oluştur",
+    "CREATE_COUNTRY_BOUNDARY": "Ülke Sınırları oluştur",
+    "CREATE_COUNTRY_FORM": "Yeni Ülke Bilgileri",
+    "EDIT": "Düzenle",
+    "INFO": "Bilgi",
+    "PAGE_TITLE": "Ülke Şehir Yönetimi",
+    "UPDATE_CITY": "Şehir Güncelle",
+    "UPDATE_CITY_BOUNDARY": "Şehir Sınırlarını Güncelle",
+    "UPDATE_COUNTRY": "Ülke Güncelle",
+    "UPDATE_COUNTRY_BOUNDARY": "Ülke Sınırlarını Güncelle"
+}

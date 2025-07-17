@@ -1,0 +1,54 @@
+{
+    "ATTRIBUTES": {
+        "IS_HIDDEN_FROM_LISTING": "Listelemede Gizli",
+        "IS_REQUIRED": "Zorunlu",
+        "IS_SELECTABLE": "Seçilebilir",
+        "IS_SORTABLE": "Sıralanabilir"
+    },
+    "DESCRIPTION": "Açıklama",
+    "DETAIL": {
+        "PAGE_TITLE": "Franchise Konfigürasyon Tür Detayı"
+    },
+    "FIELD": {
+        "ACTIONS": "İşlemler",
+        "ADD_NEW_FIELD": "Yeni Alan Ekle",
+        "ADD_NEW_FIELD_HERE": "Buraya Yeni Alan Ekle",
+        "ATTRIBUTES": "Nitelikler",
+        "CONFIRM_CHANGES": "Değişiklikleri Onayla",
+        "EDIT": "Düzenle",
+        "EMPTY": "Herhangi bir alan eklenmemiş",
+        "LABEL": "Etiket",
+        "MARK_FOR_DELETION": "Silmek için işaretle",
+        "MOVE_DOWN": "Aşağı Taşı",
+        "MOVE_UP": "Yukarı Taşı",
+        "NAME": "Anahtar (Alan Adı)",
+        "PERMISSIONS": "İzinler",
+        "TYPE": "Tür",
+        "UNMARK_FOR_DELETION": "Silme işaretini kaldır",
+        "VALUE_ENUMS": "Değerler (Enum)"
+    },
+    "LIST": {
+        "CONFIG_DESCRIPTION": "Konfigürasyon Türü Açıklaması",
+        "CONFIG_NAME": "Konfigürasyon Türü Adı",
+        "CONFIG_TYPE_RECORDS": "Konfigürasyon Türü Kayıları",
+        "CONFIRM_POPUP": "Konfigürasyon türünü silmek istediğinize emin misiniz?",
+        "DELETION_SUCCESS": "Konfigürasyon Türü Silme Başarılı",
+        "NEW_CONFIG_TYPE": "Yeni Konfigürasyon Türü Oluştur",
+        "PAGE_TITLE": "Franchise Konfigürasyon Tür Listesi"
+    },
+    "NAME": "Konfigürasyon Türü Adı",
+    "NEW": {
+        "CONFIG_TYPE": "Yeni Konfigürasyon Türü",
+        "PAGE_TITLE": "Yeni Franchise Konfigürasyon Türü Oluştur"
+    },
+    "VALIDATION": {
+        "CONFIG_NAME_REGEX": "Konfigürasyon adı sadece İngilizce harfler, boşluk ve sayı içermelidir",
+        "CONFIG_NAME_REQUIRED": "Konfigürasyon Adı gerekli",
+        "FIELD_NAME_REGEX": "Alan adı sadece İngilizce harfler, boşluk ve sayı içermelidir",
+        "FIELD_NAME_REQUIRED": "Anahtar / Alan Adı gerekli",
+        "FIELD_NAME_UNIQUE": "Anahtar / Alan Adı benzersiz olmalı",
+        "FIELD_PERMISSIONS_REQUIRED": "Alan İzinleri gerekli",
+        "FIELD_REQUIRED": "En az bir adet alan gerekli",
+        "FIELD_TYPE_REQUIRED": "Alan Türü gerekli"
+    }
+}

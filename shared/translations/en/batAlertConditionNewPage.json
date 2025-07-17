@@ -1,0 +1,15 @@
+{
+  "CARD_HEADERS": {
+    "DEFINE_YOUR_VALUES": "Define Your Values",
+    "NOTIFICATIONS": "Notification Channel",
+    "PERMITTED_ROLES": "Permitted Roles",
+    "RUNNING_DAY": "Running Day / Hours",
+    "SET_YOUR_CONDITION_THRESHOLD": "Set Your Condition Thresholds"
+  },
+  "PAGE_TITLE": {
+    "ALERT_CONDITION": {
+      "NEW": "New Alert Condition"
+    }
+  },
+  "SELECT_HOURS": "Select Hours"
+}

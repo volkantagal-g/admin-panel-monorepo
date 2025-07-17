@@ -1,0 +1,15 @@
+{
+  "GETIR_BITAKSI_MISSED_ORDER_RATIO_TOOLTIP": "Ratio to Total BiTaksi Trip Count",
+  "GETIR_LOCALS_GETIR_DELIVERY": "GL - GD",
+  "GETIR_LOCALS_STORE_DELIVERY": "GL - SD",
+  "GETIR_WATER_MARKETPLACE_SHORT": "GW Mrktplc",
+  "GF_GETIR_DELIVERY": "GFd - GD",
+  "GF_RESTAURANT_DELIVERY": "GFd - RD",
+  "MISSED_ORDERS": "Missed",
+  "MISSED_ORDER_SHORT": "MO",
+  "ORDER_SHORT": "Ord.",
+  "PAGE_TITLE": "Daily Tracking - Growth",
+  "RATIO_OF_DOMAIN_REVENUE": "Ratio to {{domainName}} Revenue",
+  "RATIO_OF_TOTAL_REVENUE": "Ratio to Total Revenue",
+  "VIEW_WAREHOUSES": "View Warehouses"
+}

@@ -1,0 +1,13 @@
+{
+  "AGGRESSION_LEVEL": "Agresiflik Seviyesi",
+  "COUNTRY_BASED": "Ülke Bazlı Ayarlar",
+  "GLOBAL": "Küresel Ayarlar",
+  "GLOBAL_VALUE": "Küresel Değer",
+  "IS_ACTIVE": "Aktif",
+  "IS_CUSTOM_ENABLED": "Ülke Etkin",
+  "IS_SAME_AGGRESSION_LEVEL_ACTIVE": "Aynı Agresiflik Seviyesi Aktif",
+  "PAGE_TITLE": "Faaliyet Ayarları",
+  "WARNING": {
+    "NO_ACTIVE_CONFIG_KEY": "Bu konfigürasyon anahtarı bulunamadı!"
+  }
+}

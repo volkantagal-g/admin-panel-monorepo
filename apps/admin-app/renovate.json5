@@ -1,0 +1,35 @@
+{
+  // Visit https://docs.renovatebot.com/configuration-options/ for more information.
+  // Visit https://bitbucket.org/getirdev/admin-platform-dependency-manager/src/master/ for where we run renovatebot
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:base"
+  ],
+  // At most 5 PRs can be opened
+  "prHourlyLimit": 5,
+  "prConcurrentLimit": 5,
+  // Add ignored dependencies here, exact matches only
+  "ignoreDeps": [],
+  "packageRules": [
+    {
+      "matchPackagePatterns": [
+        "*"
+      ],
+      "matchUpdateTypes": [
+        "patch"
+      ],
+      "groupName": "all patch dependencies",
+      "groupSlug": "all-patch"
+    },
+    {
+      "matchPackagePatterns": [
+        "*"
+      ],
+      "matchUpdateTypes": [
+        "minor"
+      ],
+      "groupName": "all minor dependencies",
+      "groupSlug": "all-minor"
+    }
+  ]
+}

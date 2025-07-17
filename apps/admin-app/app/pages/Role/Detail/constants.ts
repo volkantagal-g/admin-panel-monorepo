@@ -1,0 +1,11 @@
+export const ADD_PERMISSION_MODAL_TYPES = {
+  ADD: 1,
+  UPDATE: 2,
+} as const;
+
+export const ROLE_DETAIL_TAB_PANE_KEY = {
+  USER_LIST: 'USER_LIST',
+  PAGE_LIST: 'PAGE_LIST',
+  REPORT_TAGS_LIST: 'REPORT_TAGS_LIST',
+  HIERARCHY: 'HIERARCHY',
+} as const;

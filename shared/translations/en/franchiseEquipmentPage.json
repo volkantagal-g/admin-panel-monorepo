@@ -1,0 +1,21 @@
+{
+  "ARCHIVED": "Archived",
+  "ARCHIVE_ALERT_BANNER": "This page is archived and can no longer be edited.",
+  "ARCHIVE_CONFIRMATION": "Are you sure you want to archive this page? You will not be able to edit the page after it is archived.",
+  "CAR_COUNT": "Car Count",
+  "DEFAULT_EQUIPMENTS": "Default Equipments",
+  "EQUIPMENT_NAME": "Equipment",
+  "FRANCHISE_EQUIPMENT": "New Franchise-Warehouse Equipment Right",
+  "FRANCHISE_EQUIPMENT_DETAIL": "Franchise-Warehouse Equipment Right Detail",
+  "FRANCHISE_NAME": "Franchise Name",
+  "INITIAL_COUNT": "Initial Equipment Right",
+  "MOTO_COUNT": "Moto Count",
+  "NEW_EQUIPMENT_AGREEMENT": "New Equipment Agreement",
+  "NEW_EQUIPMENT_RIGHT_VALUE": "New Equipment Right Value",
+  "OLD_EQUIPMENT_RIGHT_VALUE": "Old Equipment Right Value",
+  "OPENING_DATE": "Franchise Opening Date",
+  "PAGE_TITLE": "Franchise Equipment",
+  "REMAINING_RIGHT": "Remaining Equipment Right",
+  "VEHICLE_COUNT": "Vehicle Count",
+  "WAREHOUSE_NAME": "Warehouse Name"
+}

@@ -1,0 +1,12 @@
+import { VEHICLE_TYPE } from '@shared/shared/constants';
+
+export const VEHICLE_TYPE_ORDERS = {
+  [VEHICLE_TYPE.MOTO]: 1,
+  [VEHICLE_TYPE.MOTO_50CC]: 2,
+  [VEHICLE_TYPE.VAN]: 3,
+  [VEHICLE_TYPE.MITU]: 4,
+  [VEHICLE_TYPE.ON_FOOT]: 5,
+  [VEHICLE_TYPE.E_MOTORCYCLE]: 6,
+  [VEHICLE_TYPE.E_BICYCLE]: 7,
+  [VEHICLE_TYPE.E_CAR]: 8,
+};

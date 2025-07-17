@@ -1,0 +1,13 @@
+{
+  "CONFIRM_TEXT": "Bu seçeneklerle yüklemek istediğine emin misin?",
+  "EMAIL_PERMISSION": "E-mail İzni",
+  "LIST_NAME": "Liste Adı",
+  "MODAL_TITLE": "Yüklemeyi Onayla",
+  "NOTIF_PERMISSION": "Notifikasyon İzni",
+  "PERMISSIONS": "İzinler",
+  "READY_TO_IMPORT": "Yüklemeye hazır",
+  "SMS_PERMISSION": "SMS İzni",
+  "WARNINGS": {
+    "NO_DATA": "Boş CSV dosyası"
+  }
+}

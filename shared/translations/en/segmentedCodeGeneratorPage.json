@@ -1,0 +1,30 @@
+{
+  "CODE": {
+    "COUNT": "Created Code Count",
+    "DESCRIPTION": "Code Description",
+    "PREFIX": "Prefix",
+    "SEARCH_PROMO": "Search a Promo",
+    "SYLLABLE_COUNT": "Syllable Count",
+    "TITLE": "Code Title",
+    "USE_LIMIT": "Code Use Limit",
+    "VALIDITY_RANGE": "Code Usage Validity Range"
+  },
+  "CODE_ACTION_TYPES": {
+    "ASSIGN_SEGMENT": "Assign Segment",
+    "DEFINE_PROMOTION": "Define Promotion",
+    "SHOW_ANNOUNCEMENT": "Show Announcement"
+  },
+  "ERRORS": {
+    "IF_SYLLABLE_COUNT_0_THEN_COUNT_MUST_BE_1": "If syllable count is 0 only 1 unique code can be generated"
+  },
+  "SEGMENTED_CODE_GENERATOR_FORM": "Segmented Code Generator Form",
+  "SEGMENT_CREATED": "Created segment: {{createdSegmentNumber}}",
+  "SEGMENT_NOT_FOUND": "Segment not found",
+  "SEGMENT_NUMBER": "Segment No",
+  "SELECT_ANNOUNCEMENT": "Select Announcement",
+  "SELECT_CODE_ACTION_TYPE": "Select Action Type of the Used Code",
+  "SELECT_PROMO_TARGET_DOMAIN_TYPE": "Select Promo Target Domain Type",
+  "SELECT_TIMEZONE": "Select Timezone",
+  "THIS_CODE_IS_SOLD": "This code is sold",
+  "TIMEZONE": "Timezone"
+}

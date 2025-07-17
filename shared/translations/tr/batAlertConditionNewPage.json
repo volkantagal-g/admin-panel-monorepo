@@ -1,0 +1,15 @@
+{
+  "CARD_HEADERS": {
+    "DEFINE_YOUR_VALUES": "Alarm Değeri Belirleme",
+    "NOTIFICATIONS": "Bildirim Kanalı",
+    "PERMITTED_ROLES": "Yetkili Rol",
+    "RUNNING_DAY": "Çalıştığı Günler / Saatler",
+    "SET_YOUR_CONDITION_THRESHOLD": "Alarm Eşik Değerleri Belirleme"
+  },
+  "PAGE_TITLE": {
+    "ALERT_CONDITION": {
+      "NEW": "Yeni Alarm Koşulu"
+    }
+  },
+  "SELECT_HOURS": "Saat Seçimi"
+}

@@ -1,0 +1,13 @@
+{
+  "G10_WAREHOUSES": "G10 Warehouses",
+  "GMORE_WAREHOUSES": "GetirMore Warehouses",
+  "MAIN_WAREHOUSE": "Main Warehouses",
+  "MAX": "Max Value",
+  "MIN": "Min Value",
+  "MULTIPLE_CHOICE": "Mapping for multiple choice questions",
+  "NUMBER_INPUT": "Mapping for number input questions",
+  "SCORE_MAPPING_PLACEHOLDER": "Enter score mapping name",
+  "SCORE_MAPPING_TABLE": "Score Mapping Table",
+  "STORE_CONVERSION_WAREHOUSES": "Store Conversion Warehouses",
+  "WATER_WAREHOUSES": "Water Warehouses"
+}

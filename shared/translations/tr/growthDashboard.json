@@ -1,0 +1,15 @@
+{
+  "GETIR_BITAKSI_MISSED_ORDER_RATIO_TOOLTIP": "Toplam BiTaksi Yolculuk Sayısına Oranı",
+  "GETIR_LOCALS_GETIR_DELIVERY": "GÇ - GG",
+  "GETIR_LOCALS_STORE_DELIVERY": "GÇ - İG",
+  "GETIR_WATER_MARKETPLACE_SHORT": "GS Pzryr",
+  "GF_GETIR_DELIVERY": "GYmk - GG",
+  "GF_RESTAURANT_DELIVERY": "GYmk - RG",
+  "MISSED_ORDERS": "Kaçan",
+  "MISSED_ORDER_SHORT": "KS",
+  "ORDER_SHORT": "Sip.",
+  "PAGE_TITLE": "Günlük Takip - Büyüme",
+  "RATIO_OF_DOMAIN_REVENUE": "{{domainName}} Cirosuna Oranı",
+  "RATIO_OF_TOTAL_REVENUE": "Toplam Ciroya Oranı",
+  "VIEW_WAREHOUSES": "Depoları Görüntüle"
+}

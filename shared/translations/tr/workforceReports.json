@@ -1,0 +1,17 @@
+{
+    "DOWNLOAD_REPORT": "Raporu Indir",
+    "FILTER_WAREHOUSES": "Depoları Filtrele",
+    "FRANCHISE_AREAS": "Bayi Bölgeleri",
+    "NO_REPORT": "Rapor bulunmuyor",
+    "REPORT_TYPE": "Rapor Tipi",
+    "REPORT_TYPES": {
+        "LEAVE_MANAGEMENT": "İzin Yönetimi Raporu",
+        "SHIFT_PLAN": "Vardiya Planı Raporu",
+        "SLOT_CHANGE_LOG": "Slot Değişim Log Raporu",
+        "SLOT_PERFORMANCE": "Slot Performans Raporu",
+        "SLOT_SELECTION": "Slot Seçim Raporu"
+    },
+    "SELECT_ALL": "Tümünü seç",
+    "SELECT_REPORT_TYPE": "Rapor Tipi Seçiniz",
+    "WAREHOUSE_TYPES": "Depo Tipleri"
+}

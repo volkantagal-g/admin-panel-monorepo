@@ -1,0 +1,32 @@
+{
+  "DOWNLOAD_TEMPLATE": "Şablonu İndir",
+  "ERROR_MESSAGES": {
+    "INVALID_DATA": "Satırlarda eksik veya hatalı bilgi var: {{invalidLineNumbers}}",
+    "INVALID_HEADERS": "Yüklenen dosya içerisinde sütun başlıklarını kontrol ediniz.",
+    "INVALID_UPLOAD": "Dosya yükleme sırasında bir hata oluştu.",
+    "UNIQUE_MONTH_YEAR": "Yüklenen dosya yalnızca tek bir aya ait verileri içermelidir.",
+    "UNIQUE_MONTH_YEAR_DOMAIN": "Yüklenen dosyada aynı tarih ve domaine sahip veri bulunmaktadır.",
+    "UNIQUE_MONTH_YEAR_DOMAIN_WAREHOUSE": "Yüklenen dosyada aynı tarih, domain ve warehouse id'ye sahip veri bulunmaktadır."
+  },
+  "EXPENSE_TYPE": {
+    "LMD_COST": "Son Teslimat Maliyeti",
+    "LOGISTIC_COST": "Lojistik Maliyet",
+    "OTHER_COST": "Diğer Maliyetler"
+  },
+  "EXPENSE_TYPE_LABEL": "Maliyet Türü",
+  "FILE_TO_BE_UPLOADED_DESCRIPTION": "Yüklenecek dosya için önemli yönergeler;",
+  "PAGE_TITLE": "LMD & Diğer Harcamalar",
+  "SUCCESS_MESSAGES": {
+    "UPLOAD_CSV": "Veriler başarılı bir şekilde {{uploadedMonth}}/{{uploadedYear}} tarihine kaydedilmiştir."
+  },
+  "WARNING_MESSAGES": {
+    "LOADABLE_FILES": "3 farklı maliyet dosyası yüklenebilmektedir. Bu dosyalar; LMD Maliyeti, Lojistik Maliyeti, Diğer Maliyetler'dir.",
+    "LOADABLE_FILE_FORMAT": "CSV formatında olmalı ve boş hücre içermemelidir.",
+    "LOADABLE_FILE_HEADERS": "Örnek formatta belirtilen başlıkları içermelidir ve başlık isimlerinde değişiklik yapılmamalıdır.",
+    "LOAD_LOGIC": "Aynı ay, yıl ve domain verisinin farklı dosyalarda yüklenmesi halinde, içerdiği depo listesine bakılmaksızın sisteme yalnızca son dosyada yer alan veriler işlenir ve eski veriler silinir.",
+    "LOAD_MONTH_RESTRICTION": "Tek seferde 1 aylık veri yüklenmelidir.",
+    "VALID_DOMAINS": "Domain isimleri Getir10, GetirMore, GetirFood, GetirLocals, GetirWater ve GetirWaterMarketplace (Diğer maliyetler için) olmalıdır.",
+    "VALID_FINANCIAL_VALUES": "Finansal değerler negatif veri içermemeli ve değerlerin ondalık ayıracı nokta (.) olmalıdır.",
+    "VALID_YEAR_AND_MONTH": "Ay seçimi 1 ve 12, yıl seçimi için 2016 ve 2050 aralığındaki sayılardan seçim yapılmalıdır."
+  }
+}

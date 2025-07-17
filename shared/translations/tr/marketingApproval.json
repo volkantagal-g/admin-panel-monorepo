@@ -1,0 +1,18 @@
+{
+  "COUNTRY": "Ülke",
+  "DESCRIPTION": "Açıklama",
+  "DETAIL": {
+    "TITLE": "Pazarlama Onay Detayı"
+  },
+  "DOMAINS": "Dikeyler",
+  "LIST": {
+    "APPROVER": "Onaylayan",
+    "ASSET_TYPE": "Varlık Tipi",
+    "INPUT_NOTIF_TITLE": "Onay Listesi",
+    "SEARCH": "Ara",
+    "STATUS": "Durum",
+    "TITLE": "Pazarlama Onay Liste"
+  },
+  "PROMO_CODE": "Promosyon Kodu",
+  "VALIDATION": "Her bir segment içerisinde en az bir içerik seçmelisiniz."
+}

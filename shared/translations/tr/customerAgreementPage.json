@@ -1,0 +1,54 @@
+{
+  "FILTER": {
+    "DOCUMENT_TYPE": {
+      "DESC": "Sözleşme Tipi Seç",
+      "TITLE": "Sözleşme Tipi"
+    }
+  },
+  "LATEST_AGREEMENT": {
+    "ADD_AGREEMENT_MODAL": {
+      "CONFIRM_TEXT": "Sistemde yeni versiyon yaratıyorsunuz, devam etmek ister misiniz?",
+      "TABLE": {
+        "COLUMNS": {
+          "ACTION": "Aksiyon",
+          "AGREEMENT_FILE": "Sözleşme Dosyası",
+          "LANGUAGE": "Dil"
+        }
+      },
+      "TITLE": "Sözleşme Ekle",
+      "UPLOAD_MESSAGE": "Sadece HTML dosyası yükleyebilirsiniz"
+    },
+    "COLUMNS": {
+      "DOCUMENTS": "Dokümanlar",
+      "FORCED": "Zorunlu",
+      "UPLOADED_BY": "Yükleyen",
+      "UPLOADED_DATE": "Yükleme Tarihi",
+      "VERSION": "Versiyon"
+    },
+    "MESSAGES": {
+      "UPLOAD": {
+        "ERROR": "Dosya yükleme işlemi sırasında hata oluştu,lütfen tekrar deneyin.",
+        "READY": "Dosya yüklenmeye hazır"
+      }
+    },
+    "TABLE_HEADER": {
+      "ACTIONS": {
+        "ADD_AGREEMENT": "Sözleşme Ekle"
+      }
+    },
+    "TABLE_TITLE": "Güncel Sözleşmeler"
+  },
+  "PREVIOUS_AGREEMENTS": {
+    "BRING_AGREEMENTS": "Sözleşmeleri Getir",
+    "COLUMNS": {
+      "DOCUMENTS": "Dokümanlar",
+      "IS_FORCED": "Is Forced",
+      "LAST_FORCED_DATE": "Zorunluluk Tarihi",
+      "LAST_UN_FORCED_DATE": "Zorunluluk Kaldırma Tarihi",
+      "UPLOADED_BY": "Yükleyen",
+      "UPLOAD_DATE": "Yükleme Tarihi",
+      "VERSION": "Version"
+    },
+    "TABLE_TITLE": "Önceki Sözleşmeler"
+  }
+}

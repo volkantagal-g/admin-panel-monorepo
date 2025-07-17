@@ -1,0 +1,8 @@
+{
+	"FILTER": "Filtre",
+	"FILTER_KEY_IS_REQUIRED": "'{{componentName}}' componenti için filterKey prop'u gerekli",
+	"FILTER_WRAPPER_NOT_FOUND": "'{{componentName}}' componentini <FilterWrapper> tagi ile kullanabilirsiniz",
+	"INVALID_DEFAULT_DOMAIN_TYPE": "DomainTypeSelect: defaultValue, bir array type olmalı",
+	"INVALID_FILTER_KEY_TYPE": "'{{componentName}}' componenti için '{{filterKey}}' key'i yanlış type. Filter key'i bir string olmalı",
+	"STATE_IS_NOT_INITIALIZED": "Redux state'i başlatılmadı. {{filterKey}} componentini kullanabilmek için <FilterWrapper> tagini kullanın"
+}

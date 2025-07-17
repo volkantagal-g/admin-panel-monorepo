@@ -1,0 +1,28 @@
+{
+  "APP_OPEN_LOCATIONS": "Application Open Locations",
+  "DATE_RANGE": "Date Range",
+  "DOWNLOAD_LOCATIONS": "Download Locations",
+  "GETIR_POLYGON_TYPES": {
+    "0": "None",
+    "1": "Subregion",
+    "2": "Get Items disabled",
+    "5": "Promo disabled",
+    "7": "Checkout disabled",
+    "9": "Extended Region",
+    "10": "Vehicle type based disabled",
+    "17": "Delivery Slots"
+  },
+  "GETIR_SUBREGION_INTERVAL_TYPES": {
+    "1100": "Daytime",
+    "2100": "Early Night",
+    "2200": "Late Night",
+    "2300": "Early Morning"
+  },
+  "HOUR_RANGE": "Hour Range",
+  "MISSED_ORDERS_LOCATIONS": "Missed Orders Locations",
+  "POLYGON_TYPE": "Polygon Type",
+  "SELECT_CITY": "You need to select a city in order to see the warehouses on the map",
+  "SELECT_INTERVAL_TYPE": "Subregion Interval Type",
+  "SHOW_WAREHOUSE": "Show Warehouses",
+  "SUCCESS_ORDERS_LOCATIONS": "Success Orders Locations"
+}

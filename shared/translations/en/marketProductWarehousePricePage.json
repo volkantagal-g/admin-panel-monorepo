@@ -1,0 +1,39 @@
+{
+  "ACTIVENESS": "Activeness",
+  "ALERT_COUNTRY_WAREHOUSE_PRICE_TITLE": "Select {{ countryName }} as the country to view this product warehouse price.",
+  "GENERAL_INFO": {
+    "COUNT": "Count",
+    "ERROR": {
+      "PRICE_IS_HIGHER": "Price cannot be higher than or equal to struck price."
+    },
+    "PRICE": "Price",
+    "TITLE": "General Info",
+    "TOTAL_PRICE": "Total Price"
+  },
+  "PRICE": "Price",
+  "PRICING_SEGMENT_ID": "Pricing Segment Id",
+  "PRODUCT_ID": "Product Id",
+  "PRODUCT_INFO": {
+    "TITLE": "Product Info"
+  },
+  "SEARCH_BY_NAME": "Search by name",
+  "SEARCH_BY_PRICING_SEGMENT_ID": "Search by pricing segment ID",
+  "SEARCH_BY_PRODUCT_IDS": "Search by product IDs",
+  "SHOW_UNDER_SPECIAL_OFFERS": "Show under Special Offers",
+  "STRUCK_PRICE_ACTIVENESS": "Struck Price Activeness",
+  "STRUCK_PRICE_INFO": {
+    "ERROR": {
+      "STRUCK_PRICE_IS_LOWER": "Struck price cannot be lower than or equal to price.",
+      "STRUCK_PRICE_IS_LOWER_TOTAL": "Struck price cannot be lower than or equal to total price.",
+      "SUPPLIER_SUPPORT_RATE": "The support rate must be between 0 and 1 or equal to 1.",
+      "THIRD_PARTY_SUPPORT_RATE": "The support rate must be between 0 and 1 or equal to 1."
+    },
+    "STRUCK_PRICE": "Struck Price",
+    "STRUCK_PRICE_ACTIVENESS": "Struck Price Activeness",
+    "STRUCK_PRICE_PROVIDER": "Struck Price Provider",
+    "SUPPORT_RATE": "Support Rate",
+    "TITLE": "Struck Price Info"
+  },
+  "STRUCK_PRICE_PROVIDER": "Struck Price Provider",
+  "WH_PRICING_TIER": "Warehouse Pricing Tier"
+}

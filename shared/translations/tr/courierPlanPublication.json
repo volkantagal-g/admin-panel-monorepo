@@ -1,0 +1,27 @@
+{
+  "COURIER_PLAN_TYPE": {
+    "SCHEDULED": "Planlı Plan Yayınlama",
+    "SLOT_CAPACITY": "Kurye Slot Kapasitesi Yayınlama",
+    "STANDARD": "Standart Plan Yayınlama"
+  },
+  "DATE_PAST_CONFIRM": "Bazı günler geçmişe ait. Geçmişe ait plan yüklemek istediğine emin misin?",
+  "DATE_PAST_EARLIEST": "Örneğin, en eskisi:",
+  "EMPLOYEE_TYPE": {
+    "COURIER": "Kurye",
+    "STORE_ASSISTANT": "Depo Asistanı"
+  },
+  "LINE_DAY_DIFF": "[satır] : [gün] : [kaç gün önce]",
+  "READY_TO_IMPORT": "Yüklemeye hazır",
+  "WARNINGS": {
+    "DATE_IS_PAST": "30 günden öncesi bir gün için plan yapamazsın, satır: ",
+    "INVALID_COLUMNS": "Yanlış sütunlar",
+    "INVALID_COURIER_PLAN": "Yanlış kurye planı, satır: ",
+    "INVALID_COURIER_TYPE": "Yanlış kurye tipi, satır: ",
+    "INVALID_DAY": "Yanlış tarih formatı, satır: ",
+    "INVALID_DOMAIN_TYPE": "Yanlış domain tipi, satır: ",
+    "INVALID_HOUR": "Yanlış saat, satır: ",
+    "INVALID_SLOT_CAPACITY": "Yanlış kurye slot kapasitesi, satır: ",
+    "INVALID_WAREHOUSE_ID": "Yanlış depo id'si, satır: ",
+    "NO_DATA": "Data yok"
+  }
+}

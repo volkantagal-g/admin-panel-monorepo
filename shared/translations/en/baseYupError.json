@@ -1,0 +1,30 @@
+{
+  "ARRAY": {
+    "MIN": "Must include at least {{min}}."
+  },
+  "DATE": {
+    "MAX": "Can be maximum {{max}}.",
+    "MIN": "Can be minimum {{min}}.",
+    "REQUIRED": "Required."
+  },
+  "MIXED": {
+    "DEFAULT": "Invalid.",
+    "NOT_TYPE": "Invalid.",
+    "REQUIRED": "Required."
+  },
+  "NUMBER": {
+    "INTEGER": "Must be an integer.",
+    "LESS_THAN": "Must be less than {{less}}.",
+    "MAX": "Must be at most {{max}}.",
+    "MIN": "Must be at least {{min}}.",
+    "MORE_THAN": "Must be more than {{more}}.",
+    "POSITIVE": "Must be positive."
+  },
+  "STRING": {
+    "EMAIL": "Must be a valid email.",
+    "MAX": "Must be at most {{max}} characters.",
+    "MIN": "Must be at least {{min}} characters.",
+    "OBJECT_ID": "Must be a valid object ID.",
+    "REQUIRED": "Required."
+  }
+}

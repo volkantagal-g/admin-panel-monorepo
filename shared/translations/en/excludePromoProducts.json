@@ -1,0 +1,26 @@
+{
+  "COLUMNS": {
+    "ACTION": "Action",
+    "EXCLUDE": "Exclude",
+    "INCLUDE": "Include",
+    "PROMO_CODE": "Promo Code",
+    "PROMO_ID": "Promo ID"
+  },
+  "DEPARTMENT_TYPE": "Department Type",
+  "ERR_EMPTY_PRODUCT_IDS": "Products are empty. Please upload products CSV first.",
+  "ERR_EMPTY_PROMOS": "Promos are empty. Please filter them first.",
+  "ERR_INVALID_CSV_FILE": "Invalid CSV file",
+  "EXCLUDE_PRODUCT_ACTIONS": {
+    "1": "Override",
+    "2": "Exclude",
+    "3": "Include"
+  },
+  "IS_FREE_PRODUCT": "Is Free Product",
+  "RUN_SCRIPT": "Run Script",
+  "SUCCESS_MESSAGE_EXCLUDED": "Total {PRODUCTS_COUNT} products have been excluded successfully from {PROMOS_COUNT} promos",
+  "SUCCESS_MESSAGE_INCLUDED": "Total {PRODUCTS_COUNT} products have been included successfully from {PROMOS_COUNT} promos",
+  "SUCCESS_MESSAGE_OVERRIDE": "Total {PRODUCTS_COUNT} products have been overridden successfully from {PROMOS_COUNT} promos",
+  "SUCCESS_PRODUCTS_IMPORT": "Total {productsCount} products have been imported successfully",
+  "TITLE": "Exclude Promo Products",
+  "USAGE_TYPE": "Usage Type"
+}

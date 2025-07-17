@@ -1,0 +1,20 @@
+{
+  "BULK_SLOT_UPDATE_INFO": "You can update the slot capacity in one go for a maximum of 1 month.",
+  "CURRENT_ORDER_COUNT": "Current Order Count",
+  "FILTER": {
+    "APPLY": "Apply Filters",
+    "CITY_DESC": "Select City",
+    "SELECT_SLOT_DATE": "Select Slot Date",
+    "UPDATE_SLOT_CAPACITY": "Update Slot Capacity",
+    "WAREHOUSE_DESC": "Select Warehouse"
+  },
+  "MULTI_WAREHOUSE_SLOT_UPDATE": "Multi-Warehouse Slot Update",
+  "NEW_SLOT_CAPACITY": "New Slot Capacity",
+  "SINGLE_WAREHOUSE_SLOT_UPDATE": "Single-Warehouse Slot Update",
+  "SLOT": "Slot",
+  "SLOT_CAPACITY": "Slot Capacity",
+  "SLOT_DATE": "Slot Date",
+  "SLOT_END": "Slot End",
+  "SLOT_START": "Slot Start",
+  "WAREHOUSE": "Warehouse"
+}

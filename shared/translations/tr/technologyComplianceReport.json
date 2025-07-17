@@ -1,0 +1,37 @@
+{
+  "CRITICAL": "Kritik",
+  "DETAILED_REPORT": "Detaylı Rapor",
+  "DETAILS": "Detaylar",
+  "DEV_DEPENDENCY_COUNT": "Dev Dependency Sayısı",
+  "HEADER_INFORMATION": {
+    "CI_CD_DOCUMENTATION": "CI/CD sürecinizi güvenlik kontrolleri ile zenginleştirmek isterseniz bu belgeyi takip edebilirsiniz (tıklayın)",
+    "INSTANT_REPORT_COMMAND": "npm audit --omit=dev",
+    "INSTANT_REPORT_INFO_HEADER": "Aşağıdaki komutu kullanarak kendi ortamınızda anlık bir rapor alabilirsiniz",
+    "SCAN_PERIOD": "Tarama işlemi her Cumartesi günü gerçekleştirilir"
+  },
+  "HIGH": "Yüksek",
+  "LINK": "Link",
+  "LOW": "Düşük",
+  "MODERATE": "Orta",
+  "MODULE": "Modül",
+  "MORE_INFO": "Daha Fazla Bilgi",
+  "NON_VULNERABLE": "Güvenlik Açığı Yok",
+  "PATH": "yol",
+  "PROD_DEPENDENCY_COUNT": "Prod Dependency Sayısı",
+  "REPORTED_AT": "Rapor Tarihi",
+  "REPOSITORY_NAME": "Repo İsmi",
+  "RESPONSIBLE_SQUAD": "Sorumlu Takım",
+  "SEARCH_BY_REPOSITORY": "Repo Ara",
+  "SEVERITY_LEVEL": "Kritiklik Seviyesi",
+  "TYPE": "Tür",
+  "UNKNOWN_VERSION": "Bilinmeyen versiyon",
+  "VERSION": "Versiyon",
+  "VERSION_REPORT": {
+    "NODE_JS": "Node.js Versiyon Raporu"
+  },
+  "VULNERABILITY_INFO": "Güvenlik Açığı Bilgisi",
+  "VULNERABILITY_REPORT": {
+    "NODE_JS": "Node.js Güvenlik Açığı Raporu"
+  },
+  "VULNERABLE": "Güvenlik Açığı Var"
+}

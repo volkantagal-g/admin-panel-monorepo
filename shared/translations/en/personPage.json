@@ -1,0 +1,108 @@
+{
+  "COURIER_LOGIN": {
+    "EXPLANATION": "Explanation",
+    "HISTORY_TITLE": "Courier Login Open Close History",
+    "IS_LOGIN_DISABLED": "Login Disabled",
+    "REASON": "Reason",
+    "TITLE": "Courier Login"
+  },
+  "COURIER_POOL": "Courier Pool",
+  "CREATE_COURIER": {
+    "CONFIRM": "Courier's type will be GetirMore & Getir10 & GetirWater. Are you sure you want to proceed?",
+    "COURIERS_TITLE": "Couriers",
+    "COURIER_TYPE": "GetirMore & Getir10 & GetirWater",
+    "TITLE": "Create Courier"
+  },
+  "DATE_OF_BIRTH": "Date of Birth",
+  "DRIVING_LICENSE_DATE": "Driving License Date",
+  "DRIVING_LICENSE_TYPES": "Driving License Types",
+  "EMPLOYMENT": {
+    "CONFIRM": "Courier and picker worker types belonging to the person will be deleted. Are you sure you want to proceed?",
+    "TITLE": "Employment Info"
+  },
+  "EMPLOYMENT_START_DATE": "Employment Start Date",
+  "ERRORS": {
+    "VERSION_PROBLEM_ERR": "The version of this person is not synced with at least one of the attached couriers or staffs! Please inform software team immediately!",
+    "VERSION_PROBLEM_WARN": "The page could not be loaded successfully. Please refresh to make changes."
+  },
+  "FRANCHISE_EMPLOYER": {
+    "ADD_NEW_EMPLOYER": "Add New Employer",
+    "CONTRACT_TYPE": "Contract Type",
+    "EDIT_EMPLOYERS": "Edit Employers",
+    "EMPLOYER": "Employer",
+    "FRANCHISE_AREA": "Franchise Area",
+    "TITLE": "Franchise Employers Info",
+    "WORK_TYPE": "Work Type"
+  },
+  "GENERAL": {
+    "ACCOUNT_NUMBER": "Account Number",
+    "BLOOD_TYPE": "Blood Type",
+    "EMPLOYEE_DISCOUNT": "Employee discount should be applied",
+    "FINANCE_DELIVERY_TRAINING_DATE": "GetirFinance Delivery Training Date",
+    "IS_GORILLAS_EMPLOYEE": "Gorillas Employee",
+    "IS_OUTSOURCED": "Is outsourced ?",
+    "PAYMENT_COUNTRY_CODE": "Payment Country Info",
+    "ROUTING_NUMBER": "Routing Number",
+    "SAFE_RIDING_TRAINING_DATE": "Safe Riding Training Date",
+    "SORT_CODE": "Sort Code",
+    "TITLE": "General Information"
+  },
+  "GETIRUP_TRAININGS": {
+    "COLUMNS": {
+      "DATE": "Training Date",
+      "EXAM_RESULT": "Exam Result",
+      "NAME": "Training Name",
+      "STATUS": "Status"
+    },
+    "TITLE": "GetirUp Trainings"
+  },
+  "HOME_ADDRESS": {
+    "DESCRIPTION": "Home Address Description",
+    "TITLE": "Home Address"
+  },
+  "IBAN": "IBAN",
+  "INTEGRATIONS": {
+    "PAYROLL_ID": "Payroll ID",
+    "TITLE": "Integrations"
+  },
+  "JSON": "JSON",
+  "PERSONAL": {
+    "CONFIRM_ADD_EMPLOYEE_DISCOUNT": "Are you sure to activate employee discount for this number?",
+    "CONFIRM_ALREADY_HAS_DISCOUNT": "The client with this number already has employee discount! Do you want to activate it again?",
+    "DISCOUNT": "Employee Discount",
+    "TITLE": "Personal Info",
+    "WARN_EMPLOYEE_DISCOUNT": "You cannot add employee discount since the person is inactive, and person's Employee Discount must be updated as YES!"
+  },
+  "PERSONAL_GSM": "Personal Gsm",
+  "PICKERS": {
+    "CONFIRM": "Picker's type will be General Picker. Are you sure you want to proceed?",
+    "CREATE": "Create Picker",
+    "TITLE": "Pickers"
+  },
+  "PLACEHOLDER": {
+    "NAME": "It should be min 3 chars",
+    "UNIQUE_IDENTIFIER": "it should be exact match"
+  },
+  "PROFILE": {
+    "CHANGE_AVATAR_TITLE": "Change Main Picture",
+    "CONFIRM_ACTIVATE_PERSON": "Are you sure to ACTIVATE person?",
+    "CONFIRM_DEACTIVATE_PERSON": "Are you sure to DEACTIVATE person?\nAll couriers and staffs that are attached to this person will be deactivated also!",
+    "PASSWORD_CHANGE_FOR_PICKERS_TITLE": "Change Picker Password",
+    "PASSWORD_LABEL": "New Password",
+    "PASSWORD_TITLE": "Change Password",
+    "PASSWORD_WARNING_TEXT": "Courier password change operations are carried out with the reset password flow on the courier detail page. You must visit the courier detail page to change the courier password.",
+    "REDIRECT_TO_COURIER_DETAIL_PAGE": "Click to be directed to {{courierName}} courier",
+    "TITLE": "Profile"
+  },
+  "RELATIVE": {
+    "RELATION_TYPE": "Relative Status",
+    "TITLE": "Relative Information"
+  },
+  "TRAINING": "Training",
+  "TRAININGS": {
+    "CERTIFICATE_NO": "Certificate No",
+    "NAME": "Training Name",
+    "TITLE": "Trainings",
+    "TRAINER": "Trainer"
+  }
+}

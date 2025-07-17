@@ -1,0 +1,35 @@
+import { createActions } from 'reduxsauce';
+
+import { REDUX_KEY } from '@shared/shared/constants';
+
+export const { Types, Creators } = createActions({
+  getTransferGroupByIdRequest: { id: null },
+  getTransferGroupByIdSuccess: { data: {} },
+  getTransferGroupByIdFailure: { error: null },
+  inactivateTransferGroupRequest: { transferGroup: null },
+  inactivateTransferGroupSuccess: { data: {} },
+  inactivateTransferGroupFailure: { error: null },
+  getProductTransferGroupsByFilterRequest: { transferGroup: null, limit: 10, offset: 0 },
+  getProductTransferGroupsByFilterSuccess: { data: [] },
+  getProductTransferGroupsByFilterFailure: { error: null },
+  exportProductTransferGroupsByFilterRequest: { transferGroups: [], transferGroup: null, products: [] },
+  exportProductTransferGroupsByFilterSuccess: {},
+  exportProductTransferGroupsByFilterFailure: { error: null },
+  updateTransferGroupOfProductsBulkRequest: { transferGroup: null, products: [] },
+  updateTransferGroupOfProductsBulkSuccess: { data: [] },
+  updateTransferGroupOfProductsBulkFailure: { error: null },
+  getWarehouseTransferGroupsByFilterRequest: { transferGroups: [], limit: 10, offset: 0 },
+  getWarehouseTransferGroupsByFilterSuccess: { data: [] },
+  getWarehouseTransferGroupsByFilterFailure: { error: null },
+  exportWarehouseTransferGroupsByFilterRequest: { transferGroup: null, warehouses: [], transferGroups: [] },
+  exportWarehouseTransferGroupsByFilterSuccess: {},
+  exportWarehouseTransferGroupsByFilterFailure: { error: null },
+  updateTransferGroupOfWarehousesBulkRequest: { transferGroup: null, warehouses: [] },
+  updateTransferGroupOfWarehousesBulkSuccess: { data: [] },
+  updateTransferGroupOfWarehousesBulkFailure: { error: null },
+  updateTransferGroupRequest: { id: null, body: null },
+  updateTransferGroupSuccess: { data: {} },
+  updateTransferGroupFailure: { error: null },
+  initPage: null,
+  destroyPage: null,
+}, { prefix: `${REDUX_KEY.TRANSFER_GROUP.DETAIL}_` });

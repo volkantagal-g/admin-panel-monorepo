@@ -1,0 +1,49 @@
+{
+  "ACTIONS": "İşlemler",
+  "ADD_OR_EDIT_PHOTOS": "Fotoğrafları Ekle veya Düzenle",
+  "ADD_OR_EDIT_VIDEOS": "Videoları Ekle veya Düzenle",
+  "APPLICANT": {
+    "IS_PROPERTY_OWNER": "Mülk Sahibi",
+    "TITLE": "Başvuran"
+  },
+  "CONFIRM": {
+    "SET_NOT_SUITABLE": "Başvuru değerlendirmeye uygun değil olarak sisteme kaydedilecektir. Devam etmek istiyor musunuz?",
+    "SET_SUITABLE": "Başvuru değerlendirmeye uygun olarak sisteme kaydedilecektir. Devam etmek istiyor musunuz?"
+  },
+  "ENTER_PROPOSAL_NAME": "Öneri adı giriniz",
+  "ERRORS": {
+    "PHONE_NUMBER_MUST_BE_10_DIGITS": "Telefon numarası 10 haneli olmalıdır.",
+    "PHOTOS_MUST_BE_IMAGE": "Fotoğraflar resim formatında olmalıdır."
+  },
+  "IS_CREATED_BY_ADMIN": "Sadece Admin Tarafından Oluşturulanları Göster",
+  "LAND": "Arsa",
+  "NOT_SUITABLE": "Degerlendirmeye Uygun Değil",
+  "PROPERTY": {
+    "ADDRESS_DESCRIPTION": "Cadde/Bulvar",
+    "BASEMENT_NET_SQUARE_METER": "Bodrum Kat Net (m²)",
+    "GROUND_FLOOR_NET_SQUARE_METER": "Zemin/Giriş Kat Net (m²)",
+    "HAS_BUILDING_USE_PERMIT": "Yapı Kullanım İzin (iskan) Belgesi",
+    "HAS_REGISTRATION_CERTIFICATE": "Yapı Kayıt Belgesi",
+    "IMMOVABLE_PROPERTY": "Taşınmaz Niteliği",
+    "MEZZANINE_NET_SQUARE_METER": "Asma Kat Net (m²)",
+    "OUTER_DOOR_NO": "Dış Kapı No",
+    "TAX_TYPE": "Vergi Tipi",
+    "TITLE": "Mülk Bilgileri",
+    "TOTAL_NET_SQUARE_METER": "Toplam Net (m²)"
+  },
+  "PROPERTY_LOCATION": "Mülk Konumu",
+  "PROPOSAL": {
+    "INFO": "Öneri Bilgileri",
+    "NAME": "Öneri Adı"
+  },
+  "PROPOSAL_DATE": "Öneri Tarihi",
+  "PROPOSAL_NAME": "Öneri Adı",
+  "STOPPAGE": "Stopaj",
+  "STORE": "Dükkan",
+  "SUITABLE": "Degerlendirmeye Uygun",
+  "TAX": "KDV",
+  "TOTAL_NET_SQUARE_METER": "Toplam Net Metrekare",
+  "WAREHOUSE_PROPOSAL_CREATED_ERROR": "Depo teklifi oluşturulurken bir hata oluştu.",
+  "WAREHOUSE_PROPOSAL_CREATED_SUCCESS": "Depo teklifi başarıyla oluşturuldu.",
+  "WAREHOUSE_PROPOSAL_UPDATED_SUCCESS": "Depo teklifi başarıyla güncellendi."
+}

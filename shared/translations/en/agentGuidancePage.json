@@ -1,0 +1,24 @@
+{
+  "AGENT_ASSISTANCE_DISABLED": "Agent assistance feature is not enabled",
+  "CONTENT_UPDATE_ERROR": "Please select all Filters",
+  "FILTER_OPTIONS": {
+    "CHANNEL": "Channel",
+    "CONTACT": "Contact",
+    "FEATURE": "Feature",
+    "MAIN_REASON": "Main Reason",
+    "SEGMENT": "Segment",
+    "SUB_REASON": "Sub Reason",
+    "TITLE": "Filter Options"
+  },
+  "KNOWLEDGE": {
+    "KNOWLEDGE_PLACEHOLDER": "Knowledge can be updated from here",
+    "LLM_CONTENT_PLACEHOLDER": "Please make corrections on the LLM output only if it is necessary",
+    "TITLE": "Knowledge base Interface",
+    "UPDATE_FEEDBACK_MESSAGE": "Information has been updated successfully. Please wait 1-2 minutes for new LLM output"
+  },
+  "NO_KNOWLEDGE_CONTENT_PLACEHOLDER": "There is no content, please select options to fetch or add content.",
+  "NO_LLM_CONTENT_PLACEHOLDER": "There is no content, please add content from knowledge part.",
+  "REFRESH": "Refresh",
+  "REQUEST_ERROR": "unable to fetch LLM content",
+  "TITLE": "LLM Agent Guidance"
+}

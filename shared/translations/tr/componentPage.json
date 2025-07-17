@@ -1,0 +1,22 @@
+{
+  "ADD_ROLE": "Rol Ekle",
+  "CLICK_TO_LOAD_ROLES": "Rolleri yüklemek için tıkla",
+  "COMPONENTS": {
+    "BRING_ROLE_LIST": "Rolleri Getir",
+    "ROLES_INFO": "Erişebilen Roller",
+    "USERS_INFO": "Erişebilen Kullanıcılar (Artık Kullanılmıyor)"
+  },
+  "COMPONENT_COUNTRY_PERMISSION_TOOLTIP": "Eğer bu rolün sayfa yetkisi yoksa o da yaratılacak. Sayfa yetkisi varsa, seçilen ekstra ülkeler de sayfa yetkisine eklenecek.",
+  "COMPONENT_INFO": "Bileşen Bilgisi",
+  "CONFIRMATION": {
+    "ADD_ROLE": "Seçmiş olduğunuz rollere bu bileşenin yetkisini vermek istediğinizden emin misiniz?",
+    "REMOVE_ROLE": "Rolden bu bileşenin yetkisini kaldırmak istediğinize emin misiniz?"
+  },
+  "NEW_COMPONENT": "Yeni Bileşen",
+  "PAGE": "Sayfa",
+  "PERMISSION_KEY": "Yetki Anahtarı",
+  "PERMISSION_KEY_DISABLED_TOOLTIP": "Yetki anahtarı değiştirilemez. Yeni bir bileşen oluşturarak yetki anahtarını değiştirebilirsiniz.",
+  "PERMITTED_COUNTRIES": "Yetkilendirildiği Ülkeler",
+  "STARTS_WITH_PAGE_PERM_KEY": "Sayfa yetki anahtarı, bileşen anahtarının başına otomatik eklenecek.",
+  "UPDATE_ROLE": "Rol Güncelle"
+}

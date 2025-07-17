@@ -1,0 +1,56 @@
+import { createUseStyles } from 'react-jss';
+
+export default createUseStyles({
+  courierCountsHeader: {
+    position: 'relative',
+    display: 'flex',
+    justifyContent: 'space-between',
+    border: 'none',
+    backgroundColor: '#F6F6F6',
+    borderRadius: '5px 5px 0 0',
+    color: '#3E3E3E',
+    fontSize: '13px',
+    lineHeight: '16px',
+    padding: '3px 5px',
+    width: '100%',
+  },
+  alignCenter: {
+    display: 'flex',
+    alignItems: 'center',
+  },
+  red: { color: 'red' },
+  green: { color: 'green' },
+  purple: { color: '#8b008b' },
+  spans: { margin: '0 2px' },
+  divider: {
+    borderLeftColor: '#9a9797',
+    margin: '0 4px',
+  },
+  triggerButton: {
+    height: '16px',
+    lineHeight: '1em',
+    backgroundColor: 'transparent !important',
+    padding: 0,
+    border: 'none',
+    color: 'inherit',
+    cursor: 'pointer',
+    fontSize: 13,
+    '&:hover, &:active, &:focus': { color: 'inherit' },
+  },
+  dropdownWrapper: {
+    position: 'absolute',
+    top: '26px',
+    right: '0',
+    backgroundColor: 'white',
+    zIndex: 9999,
+    maxHeight: '300px',
+    overflowY: 'auto',
+    borderRadius: '4px',
+    boxShadow: '2px 2px 10px rgb(0 0 0 / 20%)',
+    maxWidth: '240px',
+  },
+  dropdownItem: {
+    padding: '4px !important',
+    fontSize: '11px',
+  },
+});

@@ -1,0 +1,9 @@
+{
+    "EXPORT_FAILED_VKNS": "Export failed VKN requests ({{count}})",
+    "EXPORT_INVALID_VKNS": "Export invalid VKNs ({{count}})",
+    "EXPORT_SUCCEED_VKNS": "Export succeeded VKNs ({{count}})",
+    "PROCESSING": "Processing...",
+    "RETRY_FAILED_VKNS": "Retry failed VKN requests ({{count}})",
+    "VKN": "VKN",
+    "VKN_ID": "VKN Id"
+}

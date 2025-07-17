@@ -1,0 +1,66 @@
+{
+  "ACCEPT": {
+    "CONFIRM": {
+      "UPDATE": "You approve the appeal registration. Do you want to continue?"
+    }
+  },
+  "HEADER": {
+    "MODAL": {
+      "CANCEL": "Cancel",
+      "CONFIRM": {
+        "CANCEL": "Cancel",
+        "OK": "Yes",
+        "TITLE": "Are you sure you want to create the request?"
+      },
+      "SAVE": "Save",
+      "TITLE": "Create Objection Request"
+    },
+    "OBJECT": "Object",
+    "TAG": {
+      "NEGATIVE": "Rejected",
+      "POSITIVE": "Accepted",
+      "WAITING": "Waiting"
+    }
+  },
+  "INFO": {
+    "DATE": "Date",
+    "PICKER_NAME": "Picker Name",
+    "REASON": "Reason",
+    "SCORE": "Point",
+    "TITLE": "Log Information",
+    "TRANSFER_ID": "Transfer ID"
+  },
+  "ORDER": {
+    "CANCELATION_DESCRIPTION": "Cancelation Description",
+    "CANCELATION_REASON": "Cancelation Reason",
+    "DESCRIPTION": "Description",
+    "DETAIL": "Order Detail",
+    "PRODUCT_NAME": "Product Name",
+    "REASON": "Reason",
+    "TITLE": "Order Information"
+  },
+  "REASON": {
+    "TITLE": {
+      "DENIED": "Denied Reason",
+      "OBJECTION": "Objection Reason"
+    }
+  },
+  "REJECT": {
+    "CONFIRM": {
+      "UPDATE": "You reject the appeal registration. Do you want to continue?"
+    }
+  },
+  "WAYBILLS": {
+    "ACCEPTABLE_SHIPPING_DATE": "Acceptable Shipping Date",
+    "INFO": "You got a minus point for being over {{threshold}} hours",
+    "RECEIVING_DURATION": "Receiving Duration",
+    "RECEIVING_END": "Receiving End Date",
+    "RECEIVING_START": "Receiving Start Date",
+    "RULES": {
+      "RULE": "Rule",
+      "SCORE": "Point"
+    },
+    "SHIPPING_DATE": "Shipping Date",
+    "TITLE": "Waybills"
+  }
+}

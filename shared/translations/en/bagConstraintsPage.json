@@ -1,0 +1,15 @@
+{
+    "ADD_NEW_CONSTRAINT": "Add Constraint",
+    "CONSTRAINT_DETAIL": "Constraint Detail",
+    "EDIT_CONSTRAINT": "Edit Constraint Detail",
+    "ERR_CATEGORY_GROUPS_EMPTY": "Category Groups Cannot be Empty",
+    "ERR_DESCRIPTION_EMPTY": "Description Cannot be Empty!",
+    "FIRST_CONSTRAINT_TYPE_TEXT": "Should be packaged just in themselves with same bag",
+    "FIRST_GROUP": "1st Group",
+    "NEW_CONSTRAINT": "New Constraint",
+    "NON_BAGGED_PRODUCTS": "Non-bagged Products",
+    "RULE": "Rule",
+    "SECOND_CONSTRAINT_TYPE_TEXT": "They can/'t go in the same bag",
+    "SECOND_GROUP": "2nd Group",
+    "TITLE": "Bag Constraints"
+}

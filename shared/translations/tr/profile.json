@@ -1,0 +1,56 @@
+{
+  "COMPONENTS": {
+    "ACCOUNT_INFO": {
+      "COUNTRIES": "Ülkeleri",
+      "EMAIL_ADDRESS": "Eposta Adresi",
+      "TITLE": "Hesap Bilgileri"
+    },
+    "ACTIVE_SESSIONS": {
+      "BROWSER": "Tarayıcı",
+      "LAST_SEEN": "Son Görülme",
+      "LOGGED_ON": "Oturum Açılma",
+      "NOW": "şimdi",
+      "TITLE": "Oturumlar"
+    },
+    "EMPLOYEE_INFO": {
+      "BUSINESS_TITLE": "Ünvan",
+      "BUSINESS_UNIT": "İş Birimi",
+      "DEPARTMENT": "Departman",
+      "JOB_FAMILY": "İş ailesi",
+      "LOCATION": "Konum",
+      "PAYROLL_COUNTRY": "Bordro Ülkesi",
+      "PERSONAL_EMAIL": "Kişisel Email",
+      "SUPERVISOR": "Yönetici",
+      "TITLE": "Çalışan Bilgileri",
+      "WORKDAY_ID": "Workday Id",
+      "WORK_START_DATE": "İşe Giriş Tarihi"
+    },
+    "LEAVES": {
+      "TITLE": "İzinler"
+    },
+    "MY_ASSETS": {
+      "DATE_ASSIGNED_TO_EMPLOYEE": "Çalışanın Teslim Alma Tarihi",
+      "DATE_OF_WITHDRAWAL_FROM_EMPLOYEE": "Çalışanın Teslim Etme Tarihi",
+      "DEVICE_NAME": "Adı",
+      "DEVICE_TYPE": "Cihaz Türü",
+      "NEW_ASSET_REQUEST": "Yeni Zimmet Talebi",
+      "SERIAL_NUMBER": "Seri No",
+      "TITLE": "Çalışan Zimmetleri"
+    },
+    "VEHICLES": {
+      "CHASSIS_NUMBER": "Şasi Numarası",
+      "DATE_ASSIGNED_TO_EMPLOYEE": "Çalışanın Teslim Alma Tarihi",
+      "DATE_OF_WITHDRAWAL_FROM_EMPLOYEE": "Çalışanın Teslim Etme Tarihi",
+      "PLATE_NUMBER": "Plaka No",
+      "TITLE": "Şirket Araçları",
+      "VEHICLE_BRAND": "Araç Markası",
+      "VEHICLE_MODEL": "Araç Modeli"
+    }
+  },
+  "PAGE_TITLE": "Profil",
+  "TABS": {
+    "MY_PROFILE": "Profilim",
+    "PERMISSION_REQUESTS": "İzin Talepleri",
+    "SHORTCUTS": "Kısayollar"
+  }
+}

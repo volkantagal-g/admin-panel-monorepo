@@ -1,0 +1,1 @@
+export const getSelectedCountryTimezone = { getData: () => 'Europe/Istanbul' };

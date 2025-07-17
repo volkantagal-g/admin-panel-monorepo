@@ -1,0 +1,90 @@
+{
+  "BUFFER_1": "Buffer 1 (8:00 - 17:00)",
+  "BUFFER_2": "Buffer 2 (17:00 - 01:00)",
+  "CAP_DATE": "Cap Date",
+  "CAP_DATE_RANGE": "Cap Date Range",
+  "COURIER_PLAN_LIST": "End to End Courier Plan",
+  "COURIER_PLAN_STATES": {
+    "1": "Draft",
+    "2": "Ready",
+    "3": "Published",
+    "4": "Canceled"
+  },
+  "CURRENT_STEP": "Current Step",
+  "DELETE": "Delete",
+  "DELETE_QUESTION": "Are you sure? End to end plan will be deleted completely.",
+  "DOMAIN_TYPE": "Warehouse Domain Type",
+  "DOWNLOAD_EXCEL_FILE": "Download Excel File",
+  "EXCLUDED_DAYS": "Excluded Days",
+  "FORECAST_DATA": "Data Forecast",
+  "FORECAST_HYBRID": "Hybrid Forecast",
+  "FORECAST_OPERATIONAL": "Operational Forecast",
+  "FORECAST_TYPE": "Forecast Type",
+  "GETIR_FOOD_RATE": "GetirFood Rate",
+  "GETIR_LOCALS_RATE": "GetirLocals Rate",
+  "MERGE_DOMAIN_TYPE": "Merge",
+  "NEW_COURIER_PLAN": "New Process",
+  "PLAN_DATE": "Courier Plan Date",
+  "PLAN_NAME": "Plan Name",
+  "PLAN_TYPE": "Plan Type",
+  "PLAN_TYPES": {
+    "1": "Conservative",
+    "2": "Aggressive"
+  },
+  "PROCEED": "Proceed",
+  "PUBLISH_TYPE": {
+    "1": "Standard Plan",
+    "2": "Scheduled Plan"
+  },
+  "RATE_1": "Rate 1",
+  "RATE_2": "Rate 2",
+  "REFERENCE_DAY_1": "Reference Day 1",
+  "REFERENCE_DAY_2": "Reference Day 2",
+  "SAVE_STEP_QUESTION": "Are you sure? Next steps will be reset if exist.",
+  "STEP_LABELS": {
+    "1": {
+      "HINT": "Upload model inputs here",
+      "INPUT": "Select File",
+      "OUTPUT": "Output File"
+    },
+    "2": {
+      "HINT": "Upload hourly forecast for each warehouse",
+      "INPUT": "Hourly Forecast",
+      "OUTPUT": "Output File"
+    },
+    "3": {
+      "HINT": "Upload TTP file here",
+      "INPUT": "TTP File"
+    },
+    "4": {
+      "OUTPUT": "Output File"
+    },
+    "OUTPUT": "Output file",
+    "SELECT_FINAL_HINT": "Select Final file",
+    "SELECT_HINT": "Select file",
+    "UPLOAD_FINAL_HINT": "Upload Final file here",
+    "UPLOAD_HINT": "Upload file here"
+  },
+  "STEP_STATES": {
+    "1": "Draft",
+    "2": "In Progress",
+    "3": "Done",
+    "4": "Failed"
+  },
+  "STEP_TYPES": {
+    "1": "Step 1: Forecasting",
+    "2": "Step 2: TTP / OTP Ideal Plan",
+    "3": "Step 3: Shifted Plan",
+    "4": "Step 4: Publication"
+  },
+  "TTP_EXPAND_FACTOR": "Expansion/Contraction Factor",
+  "TTP_MAX": "Max TTP",
+  "TTP_MIN": "Min TTP",
+  "TTP_REFERENCE_DATE_1": "TP Reference Date 1",
+  "TTP_TYPE": "TP Type",
+  "TTP_TYPES": {
+    "1": "Data TTP",
+    "2": "Optimal TP"
+  },
+  "TTP_USE_SAME_ALL_DAY": "Use same TTP all day"
+}

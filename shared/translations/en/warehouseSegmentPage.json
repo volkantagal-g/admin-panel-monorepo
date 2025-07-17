@@ -1,0 +1,55 @@
+{
+  "CONFIRM": {
+    "IS_DEFAULT_CHECKED": "The segment information of the new warehouses to be opened will be this segment. Existing warehouses will not be affected by this change. Do you want to continue?",
+    "IS_DEFAULT_UNCHECKED": "Do you want to continue?"
+  },
+  "DELIVERY_FEE": "Delivery Fee",
+  "DETAIL": {
+    "FORM": {
+      "IS_DEFAULT": "Should this segment be used in warehouse openings?",
+      "NAME": "Segment Name",
+      "TITLE": "Segment Detail",
+      "TYPE": "Segment Type"
+    },
+    "PRODUCT_PRICING": "Product Pricing",
+    "TABLE": {
+      "TITLE": "Warehouse List"
+    }
+  },
+  "LIST": {
+    "DATE": "Created Date",
+    "IS_DEFAULT": "Default Segment of Warehouse Opening",
+    "NAME": "Segment Name",
+    "SEGMENT_TYPE": "Segment Type"
+  },
+  "NEW": {
+    "DELIVERY_FEE": {
+      "TITLE": "Delivery Fee Segment Definition"
+    },
+    "FORM": {
+      "IS_DEFAULT": "This Segment Should Be Used in Warehouse Openings",
+      "NAME": "Segment Name"
+    },
+    "PRODUCT_PRICING": {
+      "TITLE": "Product Pricing Segment Definition"
+    }
+  },
+  "PAGES": {
+    "NEW": "New Segment",
+    "UPLOAD": "Warehouse Segment Matching"
+  },
+  "PRODUCT_PRICING": "Product Pricing",
+  "UPLOAD": {
+    "DELIVERY_FEE": {
+      "TITLE": "Upload File of Delivery Fee Segment of Warehouse"
+    },
+    "PRODUCT_PRICING": {
+      "TITLE": "Upload File of Product Pricing Segment of Warehouse"
+    },
+    "WARNINGS": {
+      "NO_FILE": "No file",
+      "READY_TO_IMPORT": "Ready to import",
+      "UNSUPPORTED_FILE_TYPE": "Unsupported file type"
+    }
+  }
+}

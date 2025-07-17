@@ -1,0 +1,26 @@
+import { useTranslation } from 'react-i18next';
+{{#if wantRedux}}
+  import { useSelector } from 'react-redux'
+  import { {{ selectorNames }} } from '../../redux/selectors';
+{{/if}}
+
+const {{ properCase name }} = () => {
+  {{#if wantTranslation}}
+    const { t } = useTranslation(['global']);
+  {{/if}}
+
+  {{#if wantRedux}}
+    {{#each actions }}
+      const {{simpleActionNameCase this}}Data = useSelector({{simpleActionNameCase this}}Selector.getData);
+      const {{simpleActionNameCase this}}IsPending = useSelector({{simpleActionNameCase this}}Selector.getIsPending);
+    {{/each}}
+  {{/if}}
+
+  return (
+    <>
+      Happy Coding 🐼 ({{ properCase mainComponentName }})
+    </>
+  );
+}
+
+export default {{ properCase name }};

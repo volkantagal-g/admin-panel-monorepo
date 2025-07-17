@@ -1,0 +1,152 @@
+{
+  "ADDRESS_INFO": {
+    "ADDRESS": "Address",
+    "ADDRESS_DIRECTION": "Address Description",
+    "APARTMENT": "Apt No",
+    "CLIENT_NOTE": "Customer Note",
+    "DOOR": "Floor",
+    "DOOR_NO": "Floor No",
+    "NAME": "Name"
+  },
+  "CARD": {
+    "BANK": "Bank",
+    "INFO": "Card Information",
+    "NO": "Card Number",
+    "POS_BANK": "Pos Banka",
+    "TRANSACTION_ID": "Transaction id"
+  },
+  "CARD_INFO": {
+    "CLIENT": {
+      "G10_ORDER": "G10",
+      "GSM": "Gsm",
+      "NAME": "Name",
+      "TITLE": "Client",
+      "TOTAL_ORDER": "Su PY"
+    },
+    "COURIER": {
+      "GSM": "Gsm",
+      "NAME": "İsim",
+      "PERSONAL_GSM": "Personal Gsm",
+      "STATUS": "Status",
+      "STORE": "Store",
+      "TITLE": "Courier",
+      "TYPE": "Type",
+      "VENDOR_COURIER": "Vendor's Courier"
+    },
+    "VENDOR": {
+      "CITY": "City",
+      "COUNT": "Total",
+      "GSM": "Gsm",
+      "MINMAX": "Min Time - Max Time",
+      "NAME": "Name",
+      "TITLE": "Business"
+    }
+  },
+  "CUSTOMER_STATUS": {
+    "CANCELED": "Customer Canceled",
+    "DELIVERED": "Delivered to Customer",
+    "FREE": "Idle Customer",
+    "NONE": "No Customer Status Information",
+    "REACHED": "Arrived to Customer",
+    "WAITING_ORDER": "Customer Pending Order"
+  },
+  "IVR_ACTION": {
+    "BUSY": "Busy",
+    "CALL_NOT_STARTED": "Call Not Started",
+    "CALL_STATUS": "Call Status",
+    "CANCELLED": "Cancelled",
+    "COULDNT_BE_CHARGED": "Couldn't Be Charged",
+    "COULDNT_BE_REACHED": "Couldn't Be Reached",
+    "DATE": "Date",
+    "DIALING_STATUS": "Dialing Status",
+    "DIDNT_CALL": "Didn't Call",
+    "DIDNT_PICKED_UP": "Didn't Pick Up",
+    "ERROR_RECEIVED": "Error Received",
+    "INVALID_NUMBER": "Invalid Number",
+    "PHONE": "Phone",
+    "PICKED_UP": "Picked Up",
+    "TIMEOUT": "Timeout",
+    "TITLE": "IVR Actions"
+  },
+  "MAP": "Map",
+  "ORDER_DETAIL_JSON": "JSON",
+  "ORDER_NOTES": {
+    "TITLE": "Order Notes"
+  },
+  "ORDER_STATUS": {
+    "SCHEDULED": "Scheduled"
+  },
+  "OS": {
+    "ANDROID": "ANDROID",
+    "IOS": "IOS",
+    "UNKNOWN": "Unknown"
+  },
+  "PAYMENT_STATUS": {
+    "NONE": "No Payment Status Information",
+    "NOT_PAID": "Not Paid",
+    "ON_DELIVERY_PAYMENT": "On Delivery Payment",
+    "PAID": "Paid",
+    "PARTIAL_REFUND_SUCCEDED": "Partial Refund Succeded",
+    "PAYMENT_ERROR": "Payment Error",
+    "PENDING_PARTIAL_REFUND": "Pending Partial Refund",
+    "PENDING_PAYMENT": "Pending Payment",
+    "PENDING_REFUND": "Pending Refund",
+    "REFUNDED": "Refunded"
+  },
+  "PAYMENT_TYPE": {
+    "CASH_AT_DELIVERY": "Cash at Delivery",
+    "CREDIT_OR_DEBIT_CARD_AT_DELIVERY": "Card at Delivery",
+    "ONLINE_BKM": "Online BKM",
+    "ONLINE_CREDIT_CARD": "Online Credit Card"
+  },
+  "PREVIOUS_ORDER": {
+    "NAME": "Name",
+    "NOTE": "Note",
+    "PRICE": "Price",
+    "QUANTITY": "Quantity",
+    "TITLE": "Order List"
+  },
+  "REFUNDTABLE": {
+    "NUMBER": "Number",
+    "PRICE": "Amount",
+    "PRODUCT_NAME": "Item",
+    "TITLE": "Item Returns",
+    "TOTAL_PRICE": "Total Price"
+  },
+  "SCHEDULED_ORDER": "Scheduled Order",
+  "STATIC_IG": "İG",
+  "TIMELINE": {
+    "ADMIN_PARTIAL_REFUNDED": "Admin has partially refunded",
+    "ADMIN_REFUNDED": "Admin has refunded",
+    "BASKET": "Cart",
+    "CANCELED_BY_FULLNAME": "Canceled By : ",
+    "CANCELED_ORDER": "Order Canceled",
+    "CANCEL_NOTE": "Cancel Note : ",
+    "CANCEL_REASON": "Cancel Reason : ",
+    "CHECKOUT_ORDER_POSTFIX": "ordered",
+    "DELIVER_ORDER": "Order Delivered",
+    "DELIVER_ORDER_AUTO_DELIVERED": "The order is delivered automatically",
+    "DISCOUNTED_PRICE": "Discounted Price",
+    "FIRST_SHOWN_SHORT": "Vendor D.",
+    "ORDER_STATUS": "Order",
+    "ORDER_VISIBLE_ON_VP": "The order appears in the Vendor's Active Orders",
+    "PARTIAL_REFUNDED_ORDER": "The order is refunded partially",
+    "PREPARE_ORDER_POSTFIX": "prepared",
+    "REFUNDED_ORDER": "The order is refunded",
+    "REFUND_NOTE": "Refund Note : ",
+    "REFUND_REASON": "Refund Reason : ",
+    "SCHEDULED_ORDER_POSTFIX": "placed a scheduled order.",
+    "SCHEDULED_TIME": "Scheduled delivery time: ",
+    "TOTAL_PRICE": "Total Price",
+    "VERIFY_ORDER_POSTFIX": "order confirmed",
+    "WAITING_PARTIAL_REFUND_ORDER": "The order is waiting for partial refund",
+    "WAITING_REFUND_ORDER": "The order is waiting for refund"
+  },
+  "WATER_TABLE": {
+    "EMAIL": "E-mail",
+    "GSM": "Gsm",
+    "NAME": "Name",
+    "ROLE": "Role"
+  },
+  "WATER_USER_TABLE": "Vendor Users"
+}

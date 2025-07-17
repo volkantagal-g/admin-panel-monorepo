@@ -1,0 +1,47 @@
+{
+  "ACTIVE": "Active",
+  "ADD_ROLES": "Add Roles",
+  "ALL_ROLES_ARE_ADDED": "All roles you own are already given to this user",
+  "BATCH_WEBHELP_ID_UPDATE_LIMIT": "Up to {{max}} users can be updated at the one time",
+  "BRING_PAGES": "Bring Pages",
+  "BRING_ROLES": "Bring Roles",
+  "CAN_APPROVE_PERMISSION_REQUESTS": "Can approve permission requests",
+  "CLICK_TO_LOAD_PAGES": "Click to load the pages",
+  "CLICK_TO_LOAD_ROLES": "Click to load the roles",
+  "CONFIRM_REMOVE_WEBHELP_ID": "Are you sure you want to remove the user's webhelp id?",
+  "DEPARTMENT": "Department",
+  "EXPIRY_DATE": "Expiry Date",
+  "EXPORT_USER": "Export User",
+  "GET_USER_BY_ID": "Get user by ID",
+  "INACTIVE": "Inactive",
+  "JOIN_DATE": "Join Date",
+  "LISTING_MODALS": {
+    "COUNTRIES": {
+      "ACTION_TITLE": "Display Countries",
+      "TITLE": "Permitted Countries"
+    },
+    "ROLES": {
+      "ACTION_TITLE": "Display Roles",
+      "TITLE": "User Roles"
+    }
+  },
+  "NEW_USER": "New User",
+  "OK": "Ok",
+  "OWNER": "Owner",
+  "PAGE_PERMISSION_INFO": "Page Permission Information",
+  "PERMISSION_INFO": "Permission Info",
+  "ROLES": "Roles",
+  "ROLES_SEARCH_WILL_RESET": "Selecting a role should clear search text",
+  "ROLE_INFO": "User's Roles",
+  "SEARCH_PAGE": "Search Page",
+  "SELECT_THE_EXPORT_FILTERS": "Select the export filters",
+  "SUSTAIN_ROLE_SEARCH_TEXT": "Sustain Text",
+  "USERS": "Users",
+  "USER_COUNTRY_DIFF_GLOBAL": "Some countries's permissions may be excluded due to user's country based permissions",
+  "USER_COUNTRY_DIFF_SPECIFIC": "This country permission is excluded due to user's country based permissions",
+  "USER_INFO": "Account Information",
+  "USER_STATUS": "User's Status",
+  "WEBHELP_ID": "Webhelp Id",
+  "WEBHELP_ID_CSV_IMPORT_WARNING": "Batch update only supports adding webhelp Id if you want to delete webhelp id from a user you have to do it from table action",
+  "WEBHELP_ID_MUST_BE_FILLED": "Webhelp Id must be filled"
+}

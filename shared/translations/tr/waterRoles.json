@@ -1,0 +1,11 @@
+{
+  "ADMIN": "Yönetici",
+  "ADMIN_KEY_ACCOUNT_MANAGER": "Key Account Manager",
+  "ADMIN_OPERATIONAL_MANAGER": "Operasyon Yöneticisi",
+  "ADMIN_REGIONAL_MANAGER": "Bölge Yöneticisi",
+  "CARRIER": "Kurye",
+  "FIRM_MANAGER": "Firma Yöneticisi",
+  "GIS_EXPERT": "GIS Uzmanı",
+  "VENDOR_EMPLOYEE": "Bayi Çalışanı",
+  "VENDOR_MANAGER": "Bayi Yöneticisi"
+}

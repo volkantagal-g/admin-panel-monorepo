@@ -1,0 +1,35 @@
+{
+  "DATATABLE": {
+    "COLUMNS": {
+      "BARCODE": "Barcode",
+      "DEMAND_MULTIPLIER": "Demand Multiplier (%)",
+      "DEMAND_RANGE": "Demand Range",
+      "MAX_BOX_COUNT": "Maximum Box Count",
+      "MAX_COLI_COUNT_EXIST": "Maximum Coli Count Exists",
+      "MAX_STOCK_DAY": "Maximum Stock Day",
+      "PARAM_ENABLED": "Item Param Enabled",
+      "PRODUCT": "Product\\Store",
+      "STOCK_ORDER_DAY": "Past Stock Order Day",
+      "STOCK_TRANSFER_DAY": "Past Stock Transfer Day",
+      "STORE_TRANSFER_DAY": "Store Transfer Day"
+    }
+  },
+  "DEMAND_RANGE": "Demand Range",
+  "ERR_CSV_ROW_ERROR_MESSAGE": "There are invalid rows in your file. Rows: ",
+  "ERR_EMPTY_DATE": "Active Stock and Transfer Dates must be selected",
+  "ERR_EMPTY_STORE_VOLUMES": "Volume Info of Stores should be uploaded!",
+  "ERR_EMPTY_SUPPLIER": "Select Supplier",
+  "EXPORT_EXCEL": "Excel Export",
+  "FILE_WILL_BE_DELIVERED_WITH_EMAIL": "Your request is started. You will be notified via e-mail when it is completed.",
+  "GROWTH_RATE": "Demand Multiplier (%)",
+  "IMPORT_EXCEL": "Import Excel",
+  "ITEM_PARAM_ENABLED": "Item Param Enabled",
+  "MAXIMUM_COLI_COUNT": "Maximum Box Count",
+  "MAXIMUM_COLI_COUNT_EXISTS": "Maximum Coli Count Exists",
+  "MAXIMUM_STOCK_DAY": "Maximum Stock Day",
+  "PAST_PO_DAY": "Past Stock Order Day",
+  "PAST_ST_DAY": "Past Stock Transfer Day",
+  "STORE_TRANSFER_DAY": "Store Transfer Day",
+  "STORE_VOLUMES_EXCEL_UPLOADED": "Store Volumes Excel Uploaded!",
+  "SUPPLIER": "Supplier"
+}

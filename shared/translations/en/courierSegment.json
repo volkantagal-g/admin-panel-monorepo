@@ -1,0 +1,21 @@
+{
+    "COURIER_COUNT": "Courier Count",
+    "COURIER_RATING": "Courier Rating",
+    "COURIER_STAR_RATING": "Courier Star Rating",
+    "CREATION_DATE_TIME": "Creation Date And Time",
+    "DETAILS": "Details",
+    "DETAILS_MESSAGE": "Targeted Courier's will be :",
+    "DONE": "Done",
+    "FINAL": "Final",
+    "GENERAL": "General",
+    "GENERAL_FILTER": "General Filter",
+    "KPI_FILTERS": "Kpi Filters",
+    "MODAL_TEXT": "The next page might take some time to load everything as we will be finding all the courier Id's based on your selections.",
+    "MODAL_TITLE": "Are You Sure ?",
+    "SEGMENT_DETAILS": "Segment Details",
+    "SEGMENT_ID": "Segment Id",
+    "SEGMENT_LIST_FILTER": "Filter",
+    "SEGMENT_NAME": "Segment Name",
+    "TARGETED_COURIERS": "Targeted Couriers",
+    "TOTAL_ORDER_COUNT": "Total Order Count"
+}

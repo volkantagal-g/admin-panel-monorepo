@@ -1,0 +1,26 @@
+{
+  "BEFORE": "Before",
+  "DAY": "Day",
+  "DTS_LETTER": "DTS Letter Grade",
+  "DTS_TOTAL": "DTS Total Score",
+  "FETCH_DATA": "Fetch Data",
+  "FILTER": "Filter",
+  "MONTH": "Month",
+  "NOW": "Now",
+  "RANK": "Rank",
+  "RESET": "Reset",
+  "SELECT_ALL": "All",
+  "TITLE": "DTS Summary Table",
+  "UPLOAD": {
+    "WARNING": {
+      "NO_FILE": "No file",
+      "READY_TO_IMPORT": "Ready to import",
+      "UNSUPPORTED_FILE_TYPE": "Unsupported file type"
+    }
+  },
+  "UPLOAD_DTS_LOGS": "Upload DTS Logs",
+  "UPLOAD_DTS_LOGS_TITLE": "DTS Logs Updates",
+  "UPLOAD_PLACEHOLDER": "Click here or 'Select file' text to upload",
+  "WAREHOUSE": "Warehouse",
+  "WAREHOUSE_TYPE": "Warehouse Type"
+}

@@ -1,0 +1,34 @@
+{
+	"NO_DATA": "Veri bulunamadı",
+	"SEARCH_PARTNER": "Restoran Ara",
+	"SUMMARY": {
+		"CREATE_REPORT_FOR_ALL": "Tümü için Rapor Oluştur",
+		"EXCEL_EXPORT": "Excel İndir",
+		"EXPORT_SECTION_DESCRIPTION": "Aşağıdan filtreyi seçerek stopaj beyan dosyasını XML ya da Excel formatında indirebilirsiniz.",
+		"EXPORT_SECTION_TITLE": "Stopaj Beyan Çıktısı",
+		"FILTER_LABEL": "Filtre Seçimi",
+		"FILTER_TYPES": {
+			"ALL_RECORDS": "Tüm Kayıtlar",
+			"PAYMENT_AT_DOOR": "Kapıda Ödemeler",
+			"WITHHOLDING_TAX_INCLUDED": "Stopaja Tabi Olanlar",
+			"WITHHOLDING_TAX_NOT_INCLUDED": "Stopaja Tabi Olmayanlar"
+		},
+		"PAID_TOTAL_REVENUE_AMOUNT": "Toplam Yapılan Ödeme Tutarı",
+		"PARTNER_COUNT": "Toplam Restoran",
+		"TITLE": "Özet",
+		"TOTAL_COMPANY_COUNT": "Toplam Restoran Sayısı",
+		"TOTAL_WITHHOLDING_TAX": "Toplam Stopaj Tutarı",
+		"XML_EXPORT": "XML İndir"
+	},
+	"TABLE": {
+		"ACTIONS": "Aksiyonlar",
+		"CREATE_REPORT": "Rapor Oluştur",
+		"PARTNER_NAME": "Restoran",
+		"TOTAL_WITHHOLDING_TAX_AMOUNT": "Toplam Stopaj Tutarı"
+	},
+	"TABS": {
+		"CORPORATE": "Tüzel Restoranlar",
+		"INDIVIDUAL": "Bireysel Restoranlar",
+		"SIMPLE_PROCEDURE": "Basit Usulde Restoranlar"
+	}
+}

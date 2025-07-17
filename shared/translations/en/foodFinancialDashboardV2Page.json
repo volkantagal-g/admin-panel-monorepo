@@ -1,0 +1,68 @@
+{
+  "ALERT_MESSAGE": "The Daily Payment and Nightly Payment amounts are not displayed for “Unpaid” data. We cannot determine the daily payment amounts until the respective day ends. The numbers of restaurants and payment amounts in the table are approximate values.",
+  "BANK_DATA": {
+    "BANK": "Bank",
+    "BANK_ACCOUNT_INFO": "Bank Account Information",
+    "CURRENT_ACCOUNT_AMOUNT": "Current Account Amount",
+    "MIN_AMOUNT_TO_TRANSFER_LABEL": "Min. Requested Amount",
+    "TITLE": "Today's Data"
+  },
+  "ERROR_REPORT": "Error Report",
+  "PAYBACK_AMOUNT_CHART": {
+    "TITLE": "Restaurant Payback Amount"
+  },
+  "PAYBACK_DATA": {
+    "AFTERNOON": {
+      "ESTIMATED_PAYBACK_AMOUNT": "Estimated Afternoon Payback Amount",
+      "PAYBACK_AMOUNT": "Afternoon Payback Amount",
+      "PAYBACK_BANK": "Payment Bank",
+      "PAYBACK_STATUS": "Afternoon Payback Status",
+      "RESTAURANT_COUNT": "Restaurant Count (Afternoon Data)"
+    },
+    "ESTIMATED_PAYBACK_AMOUNT": "Estimated Payback Amounts",
+    "NIGHT": {
+      "ESTIMATED_PAYBACK_AMOUNT": "Estimated Overnight Payback Amount",
+      "PAYBACK_AMOUNT": "Overnight Payback Amount",
+      "PAYBACK_BANK": "Payment Bank",
+      "PAYBACK_STATUS": "Overnight Payback Status",
+      "RESTAURANT_COUNT": "Restaurant Count (Night Data)"
+    },
+    "PAID_AMOUNT": "Paid Amount",
+    "PAYBACK_DATE_LABEL": "Payback Date",
+    "TITLE": "Payment Data",
+    "TOOLTIP": "Payments are started at 03.00 and 13.00 every day. Payment data includes daily cumulative data.",
+    "TOTAL_PAID_PAYBACK_AMOUNT": "Total Paid Amount",
+    "TOTAL_PAYBACK_AMOUNT": "Total Payback Amount",
+    "TOTAL_RESTAURANT_COUNT": "Total Restaurant Count",
+    "TOTAL_UNPAID_PAYBACK_AMOUNT": "Total Unpaid Amount",
+    "UNPAID_AMOUNT": "Unpaid Amount"
+  },
+  "PAYBACK_DURATION_CHART": {
+    "TITLE": "Restaurant Payback Duration",
+    "Y_AXIS_LABEL": "min.",
+    "Y_AXIS_LABEL_SECONDS": "sec."
+  },
+  "PAYBACK_STATUS": {
+    "COMPLETED": "Completed",
+    "IN_PROGRESS": "On Progress",
+    "NOT_STARTED": "Not Started"
+  },
+  "PAYMENT_TABLE": {
+    "DEFERRED_PAYMENT_DATE": "Deferred Payment Date",
+    "DETAIL": "Detail",
+    "PAYMENT_STATUS": "Payment Status",
+    "RESTAURANT_COUNT": "Planned Restaurant Count",
+    "TITLE": "Payment Calendar",
+    "TOTAL_PAYMENT_AMOUNT": "Planned Payment Amount"
+  },
+  "RESTAURANT_COUNT_CHART": {
+    "PAID_RESTAURANT_COUNT_LEGEND": "Number of paid restaurants",
+    "TITLE": "Restaurant Number",
+    "TOTAL_RESTAURANT_COUNT_LEGEND": "Number of restaurants planned to be paid"
+  },
+  "TRANSACTION_TYPE_CHART": {
+    "DIRECT_TRANSFER_LEGEND": "Direct",
+    "EFT_TRANSFER_LEGEND": "Eft",
+    "TITLE": "Transaction Type (Eft/Direct)"
+  }
+}

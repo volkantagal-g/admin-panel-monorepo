@@ -1,0 +1,22 @@
+{
+  "ACTIVE_ORDERS_SUMMARY": "GY Aktif Sipariş Özet",
+  "ACTIVE_RESTAURANTS": "Satışa açık Restoran",
+  "AVAILABLE_RESTAURANTS": "Şu anda açık Restoran",
+  "AVAILABLE_RG": "Açık RestoranGetirsin Restoran",
+  "BUSY_RG_SHORT": "Yoğuna Alınmış RG Restoran",
+  "COURIER_OPEN_RG": "Kuryesi Açık RestoranGetirsin Restoran",
+  "FOOD_ACTIVE_ORDERS": "Siparişler",
+  "FOOD_GETIR_DELIVERY": "GetirGetirsin Sipariş",
+  "FOOD_RESTAURANT_DELIVERY": "RestoranGetirsin Sipariş",
+  "MOBILE_ORDER": "Mobil Sipariş",
+  "ONLINE": "Online",
+  "ON_DELIVERY": "Kapıda",
+  "PAYMENT_METHOD": "Ödeme Yöntemi",
+  "PENDING": "+7 dk Onay Bekleyen",
+  "RESTAURANT_SITUATION_SUMMARY": "GY Restoran Durum Özet",
+  "SCHEDULED_ORDER": "İleri tarihli bekleyen Sipariş",
+  "VALUE": "Değer",
+  "VIGO": "Vigo (Sanal Depo)",
+  "WEB_ORDER": "Website Sipariş",
+  "WITHOUT_PROMO": "Kampanyasız"
+}

@@ -1,0 +1,19 @@
+{
+  "ANSWER": "Yanıt",
+  "DECISION": "Karar",
+  "DECISION_ERROR": "Lütfen karar durumunu ve açıklamayı doldurunuz",
+  "DTS_DETAIL": "Dts Detayı",
+  "DTS_RECORDS": "Dts Kayıtları",
+  "EMPLOYEE": "Çalışan",
+  "EMPLOYEE_PLACEHOLDER": "Lütfen kişinin isminin ilk üç hanesini giriniz",
+  "FEEDBACK_SOURCE": "Bildirim Kaynağı",
+  "FILES": "Dosyalar",
+  "NEW_DTS": "Yeni Dts",
+  "NOTES": "Notlar",
+  "POINT": "Puan",
+  "REPORTER": "Kaydı Açan Kişi",
+  "RULE_CATEGORY": "Kural Kategorisi",
+  "RULE_DESCRIPTION": "Kural Açıklaması",
+  "RULE_NUMBER": "Kural No",
+  "RULE_PRIORITY": "Kural Derecesi"
+}

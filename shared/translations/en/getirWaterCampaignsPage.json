@@ -1,0 +1,229 @@
+{
+  "ACTIVENESS": "Activeness",
+  "ALL": "All",
+  "COLUMNS": {
+    "PRIORITY": "Priority",
+    "PROMO_CODE": "Promotion Code",
+    "STATUS": "Status",
+    "TITLE": "Title",
+    "TOTAL_USAGE_COUNT": "Total Usage Count",
+    "VALID_FROM": "Valid From",
+    "VALID_UNTIL": "Valid Until"
+  },
+  "CONFIRM_ACTIVATION": "Are you sure to ACTIVATE this announcement?",
+  "CONFIRM_INACTIVATION": "Are you sure to INACTIVATE this announcement?",
+  "DETAIL": "Campaign Detail",
+  "FILTER": "Filter",
+  "FORM": {
+    "AVAILABLE_TIMES": {
+      "TITLE": "Available Times"
+    },
+    "BANNER_DETAILS": {
+      "BANNER_ACTION": "Banner Action",
+      "GENERAL_INFO": "General Info",
+      "PICTURE": {
+        "CHANGE_EN": "Change (EN)",
+        "CHANGE_TR": "Change (TR)",
+        "TITLE_EN": "Picture URL (EN)",
+        "TITLE_TR": "Picture URL (TR)"
+      },
+      "PRIORITY": {
+        "TITLE": "Priority"
+      },
+      "REDIRECT": {
+        "TITLE": "Redirect to X"
+      },
+      "STATUS": {
+        "TITLE": "Status"
+      },
+      "TITLE": "Banner Details",
+      "TYPE": {
+        "TITLE": "Type"
+      }
+    },
+    "BUTTON_ACTION": {
+      "REDIRECT_TO": {
+        "TITLE": "Redirect To X"
+      },
+      "TEXT": {
+        "TITLE_EN": "Text (EN)",
+        "TITLE_TR": "Text (TR)"
+      },
+      "TITLE": "Button Action",
+      "TYPE": {
+        "TITLE": "Type"
+      }
+    },
+    "DATE_INFO": {
+      "END_DATE": {
+        "TITLE": "End Date"
+      },
+      "START_DATE": {
+        "TITLE": "Start Date"
+      },
+      "TITLE": "Date Information"
+    },
+    "FILTER": {
+      "BRANDS": {
+        "TITLE": "Brands"
+      },
+      "BTN_SHOW_CLIENT_NUMBER_TEXT": "Show Client Number",
+      "CITIES": {
+        "TITLE": "Cities"
+      },
+      "EXCLUDE_SEGMENTS": {
+        "DESCRIPTION_LABEL": "Excluded Client Count",
+        "TITLE": "Exclude Segments"
+      },
+      "G10_USERS_NUMBER": {
+        "TITLE": "User's Number of Getir10 MP Orders"
+      },
+      "GSU_USERS_NUMBER": {
+        "TITLE": "User's Number of GetirSu MP Orders"
+      },
+      "INCLUDE_SEGMENTS": {
+        "DESCRIPTION_LABEL": "Included Client Count",
+        "TITLE": "Include Segments"
+      },
+      "LOCAL_NUMBERS": {
+        "TITLE": "Show Only to Local Numbers"
+      },
+      "PAYMENT_METHODS": {
+        "TITLE": "Payment Methods"
+      },
+      "PLATFROM": {
+        "TITLE": "Platform"
+      },
+      "PROMOTION_ABUSIVES": {
+        "TITLE": "Except for Promotion Abusives"
+      },
+      "TITLE": "Filter",
+      "VENDORS": {
+        "TITLE": "Vendors"
+      }
+    },
+    "GENERAL_INFO": {
+      "ACCESS_LABEL": {
+        "TITLE": "Accessibility Label"
+      },
+      "AFFECTED_SEGMENTS": {
+        "TITLE": "Affected Segments"
+      },
+      "COLOR": {
+        "SELECT": "Select Color",
+        "TITLE": "Color"
+      },
+      "DESCRIPTION": {
+        "TITLE": "Description"
+      },
+      "DISTRIBUTION_TYPE": {
+        "FIRM_RATE": "Firm Rate",
+        "GETIRWATER_RATE": "GetirWater Rate",
+        "PLACEHOLDER": "Select Distribution Type",
+        "TITLE": "Distribution Type",
+        "TOTAL_VALUE_MUST_BE_ONE": "Total value must be equal to 1",
+        "VENDOR_RATE": "Vendor Rate"
+      },
+      "HEAD_TITLE": "General Info",
+      "MAX_ORDER_COUNT": {
+        "TITLE": "Maximum Order Count"
+      },
+      "PICTURE": {
+        "CHANGE_EN": "Change (EN)",
+        "CHANGE_TR": "Change (TR)",
+        "TITLE_EN": "Picture URL (EN)",
+        "TITLE_TR": "Picture URL (TR)"
+      },
+      "PRIORITY": {
+        "TITLE": "Priority"
+      },
+      "PROMO_CODE": {
+        "TITLE": "Promotion Code"
+      },
+      "PROMO_CONTENT_HTML": {
+        "TITLE_EN": "Promo Content HTML (EN)",
+        "TITLE_TR": "Promo Content HTML (TR)"
+      },
+      "PROMO_CONTENT_SECTION_TITLE": {
+        "TITLE_EN": "Promo Content Section Title (EN)",
+        "TITLE_TR": "Promo Content Section Title (TR)"
+      },
+      "PROMO_CONTENT_URL": {
+        "TITLE_EN": "Promo Content URL (EN)",
+        "TITLE_TR": "Promo Content URL (TR)"
+      },
+      "PROMO_PAGE_TITLE": {
+        "TITLE_EN": "Promo Page Title (EN)",
+        "TITLE_TR": "Promo Page Title (TR)"
+      },
+      "PROMO_TARGET": {
+        "TITLE": "Promotion Target"
+      },
+      "PROMO_TYPE": {
+        "PLACEHOLDER": "Select Promotion Type",
+        "TITLE": "Promotion Type"
+      },
+      "PROMO_URL": {
+        "TITLE_EN": "Promo URL (EN)",
+        "TITLE_TR": "Promo URL (TR)"
+      },
+      "THUMBNAIL": {
+        "CHANGE_EN": "Change (EN)",
+        "CHANGE_TR": "Change (TR)",
+        "TITLE_EN": "Thumbnail URL (EN)",
+        "TITLE_TR": "Thumbnail URL (TR)"
+      },
+      "TITLE": {
+        "TITLE": "Title"
+      }
+    },
+    "PROMO_DETAIL": {
+      "DISCOUNT_TOTAL_AMOUNT": {
+        "TITLE": "Discount Total Amount (0-1)"
+      },
+      "DISCOUNT_TOTAL_AMOUNT_UNIT": {
+        "TITLE": "Discount Total Amount"
+      },
+      "EXCLUDE_ITEMS": {
+        "TITLE": "Exclude Items"
+      },
+      "MAX_ITEM_COUNT": {
+        "TITLE": "Max Item Count"
+      },
+      "MAX_ORDER_AMOUNT": {
+        "TITLE": "Maximum Order Amount"
+      },
+      "MIN_ORDER_AMOUNT": {
+        "TITLE": "Minimum Order Amount"
+      },
+      "PRODUCT_TO_DISCOUNT": {
+        "TITLE": "Product to Discount"
+      },
+      "TITLE": "Promo Type Detail",
+      "TOTAL_USE_LIMIT": {
+        "TITLE": "Total Use Limit"
+      },
+      "USE_LIMIT_PER_DAY": {
+        "TITLE": "Use Limit Per Day"
+      }
+    },
+    "SEGMENT": {
+      "FILE": {
+        "TITLE": "Segment File"
+      },
+      "TITLE": "Segment",
+      "TYPE": {
+        "TITLE": "Segment Type"
+      }
+    },
+    "USAGE_INFO": {
+      "TITLE": "Usage Information",
+      "TOTAL_DISCOUNT_AMOUNT": "Total Discount Amount",
+      "UNIQUE_CLIENT_COUNT": "Unique Client Count",
+      "USED_COUNT": "Used Count"
+    }
+  },
+  "NEW": "New Campaign",
+  "PREVIEW": "Preview",
+  "SEARCH": "Search"
+}

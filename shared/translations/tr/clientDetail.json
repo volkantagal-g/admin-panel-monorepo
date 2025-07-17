@@ -1,0 +1,238 @@
+{
+  "ACTIONS": "Aksiyon",
+  "ACTIVE_DEVICE": "Aktif",
+  "ADD_CLIENT_FEEDBACK": "Müşteri Şikayeti/İndirim Ekle",
+  "AMOUNT": "Tutar",
+  "BLOCKED_DEVICE": "Engellendi",
+  "BLOCK_DEVICE": "Cihazı Engelle",
+  "CLIENT": "Müşteri",
+  "CLIENT_META": {
+    "CONTACT": "İrtibat No",
+    "FRAUD_SCORE": "Sustimal Skoru",
+    "FRAUD_SEGMENT": "Kampanya Kullanım",
+    "FRAUD_SEGMENT_TITLES": {
+      "ABUSER": "kötüye kullanım",
+      "FRAUDSTER": "suistimal",
+      "ORGANIC": "organik",
+      "SUSPICIOUS": "şüpheli"
+    },
+    "GETIRBITAKSI": "GetirBiTaksi",
+    "GSM": "GSM",
+    "MARKETING_COMMUNICATIONS": {
+      "EMAIL_COMMUNICATIONS": "E-posta İzini",
+      "NTF_COMMUNICATIONS": "Bildirim İzini",
+      "OPTED_IN": "Kayıtlı",
+      "OPTED_OUT": "Devre Dışı Bırakıldı",
+      "PHONE_COMMUNICATIONS": "Telefon İzini",
+      "SMS_COMMUNICATIONS": "SMS İzini"
+    },
+    "NOTE": {
+      "ADD": "Not ekle",
+      "EDIT": "Notu Düzenle",
+      "MESSAGE": "Mesaj",
+      "POST": "Gönder",
+      "UPDATE": "Notu güncelle"
+    },
+    "PAYMENT": "Ödeme",
+    "SIGNUP_DATE": "Kayıt Tarihi"
+  },
+  "CONFIRM_TEXT": {
+    "CLOSE_ACCOUNT": "Hesabı KAPATMAK istediğine emin misin?",
+    "DELETE_ACCOUNT": "Hesabı ANONİMLEŞTİRMEK istediğine emin misin?",
+    "REOPEN_ACCOUNT": "Hesabı YENİDEN AÇMAK istediğine emin misin?"
+  },
+  "COUNTRY_SELECTION": {
+    "NO_DATA_MESSAGE": "Bu müşterinin seçili ülkede verisi yok. Lütfen müşterinin verilerinin bulunduğu bu ülkelerden birini seçin.",
+    "SELECT_COUNTRY": "Ülke Seçiniz"
+  },
+  "DETAIL": "Detay",
+  "DEVICE": {
+    "TABLE": {
+      "COLUMNS": {
+        "ACTIONS": "Aksiyonlar",
+        "MODEL": "Model",
+        "STATUS": "Durum",
+        "USERS": "Kullanıcılar"
+      }
+    },
+    "TITLE": "Cihazlar"
+  },
+  "DISCOUNTS_TABLE": {
+    "TITLE": "İndirimler"
+  },
+  "DISCOUNT_TITLE": "Başlık",
+  "FEEDBACKS": {
+    "MODAL": {
+      "ADD_CLIENT_FEEDBACK": "Müşteri Şikayeti/İndirim Ekle",
+      "AMOUNT": "Miktar",
+      "DELIVERY_FEE": "Teslimat Ücreti",
+      "DISCOUNT": "İndirim",
+      "DO_NOT_APPLY_MINIMUM_BASKET_SIZE": "Minimum Sepet Olmasın",
+      "DO_NOT_CHARGE_DELIVERY_FEE": "Getirmesi Alınmasın",
+      "EXPIRE": "Süre",
+      "INTERESTED_USER": "Şikayeti Ekleyen",
+      "NOTE": "Not",
+      "PARTIAL": "Parçalı",
+      "RESOLVED_USER": "Şikayeti Çözümleyen",
+      "RESOLVE_NOTE": "Çözüm Notu",
+      "TITLE": "Başlık",
+      "UPDATE_CLIENT_FEEDBACK": "Müşteri Şikayeti Güncelle"
+    },
+    "TABLE": {
+      "COLUMNS": {
+        "ACTION": "Aksiyon",
+        "DATE": "Tarih",
+        "DISCOUNT": "İndirim",
+        "FEEDBACK": "Şikayet",
+        "NOTE": "Not",
+        "ORDER": "Sipariş",
+        "SOURCE": "Kaynak",
+        "STATUS": "Durum"
+      }
+    }
+  },
+  "FINANCE_TABLE": {
+    "CHECKOUT_DATE": "Sipariş Tarihi",
+    "STATUS": "Durum",
+    "TITLE": "Finans Siparişleri",
+    "VENDOR": "Bayi"
+  },
+  "FIRST_LOCATION": "İlk Konum",
+  "FOOD_TABLE": {
+    "CHECKOUT_DATE": "Sipariş Tarihi",
+    "COURIER": "Kurye",
+    "RESTAURANT": "Restoran",
+    "TITLE": "Yemek Siparişleri"
+  },
+  "FORBIDDEN_MATCHES": {
+    "TABLE": {
+      "COLUMNS": {
+        "ACTIVENESS": "Aktiflik",
+        "COURIER": "Kurye",
+        "CREATED_BY": "Engelleyen",
+        "DATE": "Tarih",
+        "DESCRIPTION": "Açıklama"
+      }
+    }
+  },
+  "GETIR_BI_TAKSI_TABLE": {
+    "TITLE": "BiTaksi Siparişleri",
+    "TRIP_DATE": "Yolculuk Tarihi"
+  },
+  "GETIR_FOOD_TABLE": {
+    "TABLE": {
+      "COLUMNS": {
+        "DATE": "Tarih",
+        "DISCOUNT_CODE": "İndirim Kodu",
+        "DISCOUNT_RATE": "İndirim Oranı",
+        "RESTAURANT_NAME": "Restoran",
+        "STATUS": "Durum",
+        "TIME": "Saat"
+      }
+    },
+    "TITLE": "GetirYemek Masa"
+  },
+  "GETIR_JOBS": {
+    "ACTIVE": "Aktif",
+    "CLOSED": "Kapalı",
+    "CONFIRM_DESCRIPTION": "Tüm Getirİş verileri silinecek ve bu işlem geri alınamaz.",
+    "CONFIRM_TITLE": "Bu kullanıcının Getirİş hesabını kapatmak istediğinize emin misiniz?",
+    "DELETED_BY": "tarafından silindi",
+    "DELETE_BUTTON": "Getirİş Hesabını Kapat",
+    "DELETE_TIP": "Getirİş Olmayan veya Kapalı Hesap",
+    "TITLE": "Getirİş"
+  },
+  "INVOICE": {
+    "FETCH": "Getir",
+    "TITLE": "Faturalar"
+  },
+  "LIST": "Liste",
+  "LOADING": "Yükleniyor",
+  "LOCALS_TABLE": {
+    "CHECKOUT_DATE": "Sipariş Tarihi",
+    "STORE": "İşletme",
+    "TITLE": "Çarşı Siparişleri"
+  },
+  "LOGOUT_ALL": "Tüm Oturumları Kapat",
+  "LOYALTY": {
+    "IS_GIFT_PROMOTION_DEFINED": "Müdavim hediyesi tanımlandı mı:",
+    "IS_GIFT_PROMOTION_USED": "Müdavim hediyesi kullanıldı mı:",
+    "LOYALTY_TYPE": "Müdavim Türü",
+    "NO_ORDER_MESSAGE": "Henüz sipariş vermediniz.",
+    "STAMP": "Çentik",
+    "TITLE": "Müdavim Detayları",
+    "VIRTUAL_STAMP_MESSAGE": "Bu adım bizden!"
+  },
+  "MARKET_ORDER_TABLE": {
+    "CHECKOUT_DATE": "Sipariş Tarihi",
+    "ERRORS": "Hatalar",
+    "PROMO": "Kampanya",
+    "TITLE": "Yeni Getir10, GetirBüyük, GetirSu Geçmiş Siparişler"
+  },
+  "OTP": {
+    "MODAL": {
+      "CHECK_CODE": "Kodu Kontrol Et",
+      "CODE": "Kod",
+      "CODE_NOT_VALID": "Girdiğiniz kod geçerli değil.",
+      "ENTER_CODE": "Lüften müşteri kodunu giriniz",
+      "SEND_CODE": "SMS Gönder",
+      "SEND_CODE_MESSAGE": "Bu müşteriyle aktif bir çağrınız veya chat ekranınız tespit edilemedi. Hala erişmek istiyorsanız müşteriye bir SMS onayı gönderilecek. Onaylıyorsanız 'SMS Gönder'e tıklayın.",
+      "TITLE": "OTP"
+    }
+  },
+  "PRICE": "Fiyat",
+  "PROMO": {
+    "ELIGIBLE_PROMOS": "Kullanabileceği Kampanyalar",
+    "LOAD": "Göster",
+    "PROMO": "Kampanya",
+    "SHOWN_PROMOS": "Gördüğü Kampanyalar (son 3 gün içerisinde)",
+    "TITLE": "Kampanyalar",
+    "USED_PROMOS": "Kullanılmış Kampanyalar"
+  },
+  "REFRESH": "Yenile",
+  "RESET": "Sıfırla",
+  "STATUS": "Durum",
+  "SUBSCRIPTIONS_TABLE": {
+    "COLUMNS": {
+      "END_DATE": "Bitiş tarihi",
+      "NEXT_RENEW_DATE": "Sonraki Yenileme Tarihi",
+      "PAYMENT_METHOD": "Ödeme şekli",
+      "PRICE": "Sonraki Yenileme Fiyatı",
+      "START_DATE": "Başlangıç ​​tarihi",
+      "STATUS": "Durum",
+      "SUBSCRIPTION": "Abonelik",
+      "TRANSACTIONS": "İşlemler",
+      "TYPE": "Tip"
+    },
+    "TITLE": "abonelik",
+    "TRANSACTIONS": {
+      "COLUMNS": {
+        "AMOUNT": "Miktar",
+        "CREDIT_CARD_NO": "KREDİ KARTI NUMARASI",
+        "PAYMENT_DATE": "Ödeme tarihi",
+        "PAYMENT_METHOD": "Ödeme şekli",
+        "SUCCEEDED": "Başarılı",
+        "TYPE": "Tip"
+      },
+      "TITLE": "İşlemler"
+    }
+  },
+  "TITLE": "Müşteri Detayı",
+  "TOTAL_PRICE": "Toplam Fiyat",
+  "UNBLOCK_DEVICE": "Cihazın Engellemesini Kaldır",
+  "UPDATE_CLIENT_FEEDBACK": "Müşteri Şikayeti Güncelle",
+  "WARNING": {
+    "OLD_VERSION_GETIR_ORDER": "Bu sipariş eski bir Getir versiyona aittir bu yüzden detay sayfası yoktur."
+  },
+  "WATER_MARKETPLACE": {
+    "TABLE": {
+      "COLUMNS": {
+        "CHECKOUT_DATE": "Sipariş Tarihi",
+        "FRANCHISE": "Su Bayisi",
+        "PRICE": "Fiyat",
+        "STATUS": "Durum"
+      }
+    },
+    "TITLE": "GetirSu Pazaryeri"
+  }
+}

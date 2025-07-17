@@ -1,0 +1,93 @@
+.liveMapOrderStats .g10Color {
+  color: #5d3ebc;
+}
+
+.liveMapOrderStats .foodColor {
+  color: #ff974a;
+}
+
+.liveMapOrderStats .g30Color {
+  color: #58666e;
+}
+
+.liveMapOrderStats .kuzeydenColor {
+  color: #198232;
+}
+
+.liveMapOrderStats .localsColor {
+  color: #79151e;
+}
+
+.liveMapOrderStats .gWaterMarketplaceColor {
+  color: #005FEE;
+}
+
+.liveMapOrderStats .pos {
+  color: #27c24c;
+}
+
+.liveMapOrderStats .neg {
+  color: #f05050;
+}
+
+.liveMapOrderStats .batchedRate {
+  color: #24b7e6;
+}
+
+.liveMapOrderStats .queued {
+  color: #191919;
+}
+
+.liveMapOrderStats .failedOrderCount {
+  color: #f05050;
+}
+
+.liveMapOrderStats .financialColor {
+  color: #27c24c;
+}
+
+.liveMapOrderStats .deliveryRate {
+  color: #245ae6;
+}
+
+.liveMapOrderStats .activeOrderCell {
+  width: 40px;
+}
+
+.liveMapOrderStats .ratios {
+  display: flex;
+  justify-content: flex-end;
+  width: 90px;
+}
+
+.liveMapOrderStats .financialCell {
+  width: 45px;
+  min-width: 45px;
+  max-width: 45px;
+}
+
+.liveMapOrderStats .financialGrowthCell {
+  width: 24px;
+  min-width: 24px;
+  max-width: 24px;
+}
+
+.liveMapOrderStats .orderCountCell {
+  width: 46px;
+  min-width: 46px;
+  max-width: 46px;
+}
+
+.liveMapOrderStats .orderGrowthCell {
+  width: 23px;
+  min-width: 23px;
+  max-width: 23px;
+}
+
+.liveMapOrderStats .right-border {
+  border-right: 1px solid #f5f5f5;
+}
+
+.liveMapOrderStats .text-align-left {
+  text-align: left;
+}

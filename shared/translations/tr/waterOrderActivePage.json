@@ -1,0 +1,54 @@
+{
+  "DATA_TABLE": {
+    "ACTION": "Aksiyon",
+    "BASKET": "Sepet",
+    "BRAND": "Marka",
+    "CHARGED_AMOUNT": "Çek.",
+    "CITY": "Şehir",
+    "CREATED_DATE": "Sepet Tar.",
+    "CUSTOMER_NAME": "Müşteri",
+    "DATE": "Tarih",
+    "DROP_OFF_AT_DOOR": {
+      "NO": "E",
+      "YES": "H"
+    },
+    "G10": "G10",
+    "GATE": "Kapı",
+    "GSU": "GSU MP",
+    "KUZEYDEN": "Kuzeyden",
+    "LAST_STATUS": "Sn Akt",
+    "ORDERS": "sipariş",
+    "ORDER_NO": "No",
+    "PAYMENT_DATE": "Sip. Tar.",
+    "PAYMENT_METHOD": "Ödeme Yöntemi",
+    "PROMOTION": "Kampanya",
+    "STATUS": "Durum",
+    "TOTAL": "Toplam",
+    "TOTAL_TIME": "Top",
+    "VENDOR": "Bayi",
+    "VENDORS_ORDERS": "B. Sip."
+  },
+  "FILTER": {
+    "BRAND": {
+      "DESC": "Marka Seçiniz",
+      "TITLE": "Marka"
+    },
+    "CITY": {
+      "DESC": "Sehir Seçiniz",
+      "TITLE": "Sehir"
+    },
+    "PAYMENT_METHOD": {
+      "DESC": "Ödeme Yöntemi Seçiniz",
+      "TITLE": "Ödeme Yöntemi"
+    },
+    "SEARCH": {
+      "DESC": "Müşteri, bayi veya promosyon kodu ara",
+      "TITLE": "Ara (en az 3 karakter)"
+    },
+    "VENDOR": {
+      "DESC": "Bayi Seçiniz",
+      "TITLE": "Bayi"
+    }
+  },
+  "TITLE": "GetirSu Aktif Siparişler"
+}

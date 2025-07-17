@@ -1,0 +1,109 @@
+{
+    "DETAILS": {
+        "ACTIVATION_ERRORS": "Recipe Activation Errors",
+        "COPY_RECIPE_ID": "Copy Recipe ID",
+        "ERRORS": "Errors",
+        "GALLERY": {
+            "MAIN_PAGE_IMAGE": "Main Page",
+            "RECIPE_DETAIL_IMAGE": "Recipe Detail",
+            "TITLE": "Gallery"
+        },
+        "INGREDIENTS": {
+            "EN": "En",
+            "TITLE": "Ingredients",
+            "TR": "Tr"
+        },
+        "NAME": "Name",
+        "PANEL_NAME": "Panel Name",
+        "PREPARATION": {
+            "EN": "En",
+            "TITLE": "Preparation",
+            "TR": "Tr"
+        },
+        "PRODUCTS": {
+            "ADD_PRODUCT": "Add Product",
+            "PRODUCT": "Product",
+            "SHOW_SUBSTITUTE_MODAL_BUTTON": "Substitute Products ({{substituteProductsCount}})",
+            "TABLE_TITLE": {
+                "DELETE": "Delete",
+                "IMAGE": "Image",
+                "MUST_HAVE": "Is Must Have?",
+                "PRODUCT": "Product",
+                "SORT": "Sort",
+                "SUBSTITUTE_PRODUCTS": "Substitute Products"
+            },
+            "TITLE": "Products"
+        },
+        "RECIPE_INFO": {
+            "DOMAINS": "Domains",
+            "NAME": "Name",
+            "PANEL_NAME": "Panel Name",
+            "TITLE": "Recipe Info"
+        },
+        "RECIPE_STATUS": {
+            "ACTIVE": "Active",
+            "MODAL_NEGATIVE": "Are you sure, you are about to deactivate this recipe?",
+            "MODAL_POSITIVE": "Are you sure, you are about to activate this recipe?",
+            "TITLE": "Recipe Status"
+        },
+        "SEGMENTS": {
+            "ALL_USERS": "All Users",
+            "TITLE": "Segments"
+        },
+        "TAGS": {
+            "ADD_TAG": "Add Tag",
+            "DURATION": "Duration",
+            "EN_TEXT": "EN Text",
+            "HOUR": "Hour",
+            "HOURS": "Hours",
+            "MINUTE": "Minute",
+            "MINUTES": "Minutes",
+            "SERVING": "Serving",
+            "SERVINGS": "Servings",
+            "SERVINGS_TITLE": "Servings",
+            "TITLE": "Tags",
+            "TR_TEXT": "TR Text"
+        },
+        "TIME_TABLE": {
+            "TITLE": "Available Times"
+        },
+        "TITLE": "Recipe Details"
+    },
+    "FILTERS": {
+        "DOMAINS": "Domains",
+        "SEARCH": "Search",
+        "STATUS": "Status",
+        "TITLE": "Filters"
+    },
+    "LIST_TABLE": {
+        "ACTION": "Action",
+        "DOMAINS": "Domains",
+        "ERRORS": "Errors",
+        "NAME": "Name",
+        "ORDERS": "Orders",
+        "PANEL_NAME": "Panel Name",
+        "SEGMENTS": "Segments",
+        "STATUS": "Status",
+        "TITLE": "Recipes"
+    },
+    "NEW_RECIPE": {
+        "BUTTON": "New Recipe"
+    },
+    "NEW_RECIPE_MODAL": {
+        "DOMAINS": "Domains",
+        "NAME": "Name",
+        "PANEL_NAME": "Panel Name",
+        "TITLE": "New Recipe"
+    },
+    "RECIPES": "Recipes",
+    "SORT": {
+        "BUTTON": {
+            "RECIPE_DETAIL": "Recipe Detail",
+            "RECIPE_DETAIL_SHORT": "CD"
+        },
+        "HIDE": "Hide",
+        "INACTIVES": "Inactives",
+        "SHOW": "Show",
+        "TITLE": "Recipes Sorting"
+    }
+}

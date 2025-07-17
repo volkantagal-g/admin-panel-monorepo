@@ -1,0 +1,14 @@
+{
+  "BARCODE": "Barkod",
+  "BRING_PRODUCTS": "Ürünleri Getir",
+  "CREATE_DELETE_CODE": "Silme Kodu Oluştur",
+  "CUSTOMER_SATISFACTION_REQUEST": "Müşteri Memnuniyeti Talebi",
+  "MAKE_NEW_REQUEST": "Yeni Talep Oluştur",
+  "OPERATION": "Operasyon",
+  "PICTURE": "Resim",
+  "QUANTITY": "Adet",
+  "SEARCH_PRODUCT": "Ürün Ara",
+  "SELECTED_PRODUCTS": "Seçili Ürünler",
+  "SELECT_WAREHOUSE": "Depo Seç",
+  "SUCCESS_CODE": "Talebiniz yaratıldı. Talep kodunuzu kopyalayabilirsiniz."
+}

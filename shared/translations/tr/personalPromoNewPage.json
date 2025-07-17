@@ -1,0 +1,20 @@
+{
+  "DELIVERY_FEE_HINT": "Boş bırakırsanız, varsayılan teslimat ücreti alınır.",
+  "GENERAL_INFO": "Genel",
+  "PAGE_TITLE": "Yeni Kişisel Kampanya Kodu",
+  "PROMO_FIELDS": {
+    "CLIENTS": "Müşteriler",
+    "DELIVERY_FEE_AMOUNT": "Teslimat Ücreti",
+    "DISCOUNT_AMOUNT": "İndirim Tutarı",
+    "DO_NOT_APPLY_MIN_BASKET_SIZE": "Minimum Sepet Tutarı Uygulanmasın",
+    "DO_NOT_CHARGE_DELIVERY_FEE": "Teslimat Ücreti Alınmasın",
+    "EXPIRE": "Geçerlilik Süresi",
+    "PARTIAL": "Kısmi",
+    "PIC_URL": "Resim Url",
+    "PIC_URL_MISSING": "PIC_URL bu ülke için eklenmemiş. /config/list sayfasından ekleyin.",
+    "PUSH_NOTIFICATION": "Push Bildirimi",
+    "TITLE": "Başlık",
+    "USE_LIMIT": "Kullanım Limiti"
+  },
+  "THIS_CODE_IS_SOLD": "Bu kod satıldı"
+}

@@ -1,0 +1,14 @@
+{
+    "ACCEPTANCE_POINT": "Acceptance Point",
+    "AUTO_CLOSE_MESSAGE": "Auto Close Message",
+    "AUTO_CLOSE_OPTION": "Auto Close Option",
+    "DEFAULT_NOTE": "Default Note",
+    "DTS_RULES": "DTS Rules",
+    "DTS_RULE_DETAIL": "DTS Rule Detail",
+    "NEW_DTS_RULE": "New DTS Rule",
+    "REJECTION_POINT": "Rejection Point",
+    "RULE_DESCRIPTION": "Rule Description",
+    "RULE_DETAIL": "Rule Detail",
+    "RULE_NUMBER": "Rule Number",
+    "WARNING_POINT": "Warning Point"
+}

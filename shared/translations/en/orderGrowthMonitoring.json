@@ -1,0 +1,100 @@
+{
+  "ACTIVE_CARBOY": "Active Carboy",
+  "ACTIVE_ORDERS": "Active Orders",
+  "ACTIVE_ORDERS_TOOLTIP": {
+    "1": "Active G10 order count",
+    "2": "Active GetirFood order count",
+    "3": "Active GetirMore order count",
+    "4": "Active GetirWater order count",
+    "6": "Active GetirLocal order count"
+  },
+  "BUSY_WAREHOUSE_TOOLTIP": "Inactive Warehouse",
+  "CITIES": "Cities",
+  "CITY_COURIER_STATS_TOOLTIP": {
+    "BUSY": "Total number of busy couriers in the city",
+    "DIFF": "Realized courier count - Planned courier count",
+    "FREE": "Total number of free couriers in the city",
+    "ON_ORDER": "Total number of on order couriers in the city",
+    "PLANNED": "Total number of planned couriers in the city",
+    "REALIZED": "Total number of realized couriers in the city",
+    "RETURNING": "Total number of returning couriers in the city"
+  },
+  "CITY_NAME": "City Name",
+  "COURIER_DIFF": "Diff.",
+  "COURIER_DIFF_TOOLTIP": "Realized courier count - Planned courier count",
+  "COURIER_UTILIZATION": "Courier Utilization",
+  "DURATION_TOOLTIP": "Number of the active orders whose total duration since checkout is  {{duration}} min, (% of all active orders)",
+  "FREE": "Free",
+  "GETIR_WATER_TP": "Speed",
+  "GETIR_WATER_TP_TOOLTIP": "Active order of the warehouse / Total orders delivered by the warehouse today / 4.8",
+  "GROWTH_RATE": "Growth Rate %",
+  "NET_REVENUE": "Net Revenue",
+  "NET_REVENUE_TAX_EXC": "Net Rev. (TE)",
+  "ORDER_DISTRIBUTION": "Order Distribution",
+  "ORDER_DISTRIBUTION_TOOLTIP": "Batched (%), Queue, Errors",
+  "ORDER_PER_COURIER": "Order per Courier",
+  "ORDER_PER_COURIER_TOOLTIP": "Order Count/Realized Courier Count",
+  "PAGE_TITLE": "Order Growth Monitoring",
+  "PLANNED": "Planned",
+  "REALIZED": "Realized",
+  "REFRESH_TIMER": "Refresh Timer",
+  "REFRESH_TIME_OPTIONS": {
+    "30000": "30s",
+    "60000": "1m",
+    "120000": "2m",
+    "300000": "5m"
+  },
+  "REFRESH_TIME_TOOLTIP": "Refresh Time",
+  "RESET": "Reset",
+  "RETURNING": "Returning",
+  "SEARCH": "Search",
+  "SEARCH_CITY_NAME": "Search City Name",
+  "SEARCH_WAREHOUSE_NAME": "Search Warehouse Name",
+  "TITLE": "Live Monitoring",
+  "TODAY_VS_LAST_WEEK": "Today vs Last Week",
+  "TODAY_VS_YESTERDAY": "Today vs Yesterday",
+  "TOTAL": "Total",
+  "TOTAL_CARBOY": "Total Carboy",
+  "TOTAL_ORDERS": "Total Orders",
+  "TOTAL_ORDERS_TOOLTIP": {
+    "1": "Total G10 orders in the city from 00:00",
+    "2": "Total GetirFood orders in the city from 00:00",
+    "3": "Total GetirMore orders in the city from 00:00",
+    "4": "Total GetirWater orders in the city from 00:00",
+    "6": "Total GetirLocal orders in the city from 00:00"
+  },
+  "TOTAL_REVENUE_TOOLTIP": "Today’s tax excluded revenue of all services (% comparison to yesterday, % comparison to previous week)",
+  "TOTAL_UTILIZATION_TOOLTIP": "Total utilization of all warehouses in the city",
+  "TP_TOOLTIP": "Order per courier / 4.8",
+  "UTILIZATION": "Utilization",
+  "UTILIZATION_TOOLTIP": {
+    "1": "Utilization of warehouses which contains G10 as a service type",
+    "2": "Utilization of warehouses which contains GetirFood as a service type",
+    "3": "Utilization of warehouses which contains GetirMore as a service type",
+    "4": "Utilization of warehouses which contains GetirWater as a service type",
+    "6": "Utilization of warehouses which contains GetirLocal as a service type"
+  },
+  "WAREHOUSE_ACTIVE_ORDERS_TOOLTIP": {
+    "1": "Active G10 order count",
+    "2": "Active GetirFood order count",
+    "3": "Active GetirMore order count",
+    "4": "Active GetirWater order count",
+    "6": "Active GetirLocal order count"
+  },
+  "WAREHOUSE_COURIER_STATS_TOOLTIP": {
+    "BUSY": "Total number of busy couriers in the warehouse",
+    "FREE": "Total number of free couriers in the warehouse",
+    "ON_ORDER": "Total number of on order couriers in the warehouse",
+    "PLANNED": "Total number of planned couriers in the warehouse",
+    "REALIZED": "Total number of realized couriers in the warehouse",
+    "RETURNING": "Total number of returning couriers in the warehouse"
+  },
+  "WAREHOUSE_TOTAL_ORDERS_TOOLTIP": {
+    "1": "Total G10 orders in the warehouse from 00:00",
+    "2": "Total GetirFood orders in the warehouse from 00:00",
+    "3": "Total GetirMore orders in the warehouse from 00:00",
+    "4": "Total GetirWater orders in the warehouse from 00:00",
+    "6": "Total GetirLocal orders in the warehouse from 00:00"
+  },
+  "WAREHOUSE_TOTAL_REVENUE_TOOLTIP": "Today’s tax excluded revenue of all services"
+}

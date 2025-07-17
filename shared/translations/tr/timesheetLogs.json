@@ -1,0 +1,89 @@
+{
+  "EMPLOYEE_TYPE": {
+    "1": "Kurye",
+    "2": "Toplayıcı"
+  },
+  "FILTER": {
+    "EMPLOYEE": "Çalışan",
+    "TITLE": "Filtre"
+  },
+  "TABLE": {
+    "HEADER": {
+      "ACTION": "Aksiyon",
+      "DETAILS": "Detaylar",
+      "EMPLOYEE_TYPE": "Çalışan tipi",
+      "USERNAME": "Kullanıcı adı",
+      "WHAT": "Ne",
+      "WHEN": "Ne zaman"
+    }
+  },
+  "TIMESHEET_LOGS_MODAL": {
+    "BREAK_TYPE": {
+      "100": "Ücretli Mola",
+      "200": "Ücretsiz Mola"
+    },
+    "CANCEL": "İptal",
+    "LEAVE_STATUSES": {
+      "0": "İptal Edildi",
+      "100": "Yanıt Bekleniyor",
+      "200": "Onaylandı",
+      "300": "Reddedildi",
+      "400": "Döküman Bekleniyor"
+    },
+    "LIST": {
+      "COLUMNS": {
+        "ACTION": "Aksiyon",
+        "ADD_NOTE": "Not Ekle",
+        "APPROVE": "Onayla",
+        "BREAKS": "Molalar",
+        "BREAKS_MIN": "Molalar (Min)",
+        "BUSY_REASON_2": "Busy Reason 2",
+        "BUSY_REASON_3": "Busy Reason 3",
+        "BUSY_REASON_4": "Busy Reason 4",
+        "CANCEL": "Kapat",
+        "CLOCKED_TIME": "Saat Saati",
+        "CLOCK_IN_TIME": "İş Başlangıcı",
+        "CLOCK_OUT_TIME": "İş Bitişi",
+        "CONTRACT_TYPE": "Kontrat Tipi",
+        "DATE": "Tarih",
+        "EDIT": "Düzenle",
+        "FINISH": "Bitiş",
+        "IS_LEAVE": "İzin Günü",
+        "LATE_CLOCK_IN": "Geç Giriş",
+        "LEAVE": "Terk etmek",
+        "LEAVE_DURATION": "İzin Süresi",
+        "LEAVE_STATUS": "İzin Statüsü",
+        "LEAVE_TYPE": "İzin tipi",
+        "NAME": "İsim",
+        "NOTE": "Not",
+        "PAID": "Ücretli",
+        "PAID_LEAVE": "Ücretli izin",
+        "PENDING_TIMESHEETS": "Bekleyen Çizelgeler",
+        "PICTURE": "Fotoğraf",
+        "SAVE": "Kaydet",
+        "SCHEDULED_TIME": "Planlanmış zaman",
+        "SCHEDULE_BREAK": "Planlanan Molası",
+        "SCHEDULE_END_TIME": "Planlanan İş Bitişi",
+        "SCHEDULE_START_TIME": "Planlanan İş Başlangıcı",
+        "SCHEDULE_TOTAL_TIME": "Planlanan Toplam Çalışma Süresi",
+        "START": "Başlama",
+        "STORE": "Depo",
+        "TIME_APPROVED": "Onaylandı mı?",
+        "TIME_TOTAL": "Toplam Çalışma Süresi",
+        "TOTAL_UNAVAILABLE_DURATION": "Toplam Meşgul Süre",
+        "TOTAL_VARIANCE": "Toplam Varyans",
+        "UNAPPROVE": "Onaylama",
+        "VARIANCE_TOTAL": "Toplam varyans (HR)"
+      },
+      "INFO": {
+        "LEAVE": "Zaman çizelgesi izin içerir",
+        "NO_INFORMATION": "Eksik bilgiler var",
+        "NO_SHOW": "Giriş yapılmadı",
+        "NO_SHOW_AND_LEAVE": "Giriş yapılmadı ve izin içerir"
+      }
+    },
+    "NEW": "Yeni",
+    "NO": "Hayır",
+    "OLD": "Eski"
+  }
+}

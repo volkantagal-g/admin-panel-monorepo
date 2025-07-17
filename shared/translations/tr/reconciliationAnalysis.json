@@ -1,0 +1,30 @@
+{
+  "BANK_DATA_SUMMARY": "Banka Data Özeti",
+  "DETAIL_ANALYSIS_TABLE": {
+    "COLUMNS": {
+      "PROCESSED_TRANSACTION_COUNT": "Toplam Sipariş Sayısı",
+      "TOTAL_CHARGED_TRANSACTION_AMOUNT": "Toplam Ödeme Tutarı",
+      "TOTAL_ORDER_AMOUNT": "Toplam Sipariş Tutarı"
+    }
+  },
+  "FILTER": {
+    "DOMAIN": {
+      "DESC": "Domain Seç",
+      "TITLE": "Domain"
+    },
+    "POS_BANK": {
+      "DESC": "Pos Bankası Seç",
+      "TITLE": "Pos Bankası"
+    }
+  },
+  "GENERAL_ANALYSIS_TABLE": {
+    "COLUMNS": {
+      "REFUND_TOTAL_ORDER_AMOUNT": "Toplam İade Tutarı",
+      "TOTAL_REFUNDED_COUNT": "Toplam İade Sayısı",
+      "TOTAL_REFUNDED_ORDER_AMOUNT": "Toplam Ödeme Tutarı",
+      "TOTAL_REFUND_AMOUNT": "Mutabakat Bekleyen Sipariş Tutarı",
+      "TOTAL_REFUND_JOB_COUNT": "Mutabakat Bekleyen Sipariş Sayısı"
+    }
+  },
+  "RECONCILIATION_SUMMARY": "Mutabakat Özet Raporu"
+}

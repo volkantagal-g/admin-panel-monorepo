@@ -1,0 +1,20 @@
+{
+    "ADD_NEW_COMMISSION": "Add Commission Rate",
+    "APPLY_CHANGES": "Apply",
+    "APPLY_CHANGES_DESCRIPTION": "The changes will be displayed to the customers. Are you sure to apply the changes? ",
+    "BUSINESS": "Business",
+    "CARD_USER_TYPE": "Card Type",
+    "CONFIRM_DELETE": "Sure to delete?",
+    "EXIST_CHANGES_DESCRIPTION": "If you run the filter, you will lose your changes since they are not applied. Is that OK to discard the changes and continue?",
+    "EXIST_CHANGES_TITLE": "There are changes on the page!",
+    "EXIST_DATA": "Installment Count already exists. Please edit the related comission from Installments.",
+    "INSTALLMENT_COUNT": "Installment Count",
+    "OPERATION": "Operation",
+    "PERSONAL": "Personal",
+    "POS_BANK": "Acquirer Bank",
+    "POS_ICA": "Acquirer Bank",
+    "TRANSACTION_COMMISSION": "Commission Rate Per Transaction",
+    "added": "Added",
+    "deleted": "Deleted",
+    "updated": "Updated"
+}

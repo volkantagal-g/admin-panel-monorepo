@@ -1,0 +1,23 @@
+{
+  "ACTIONS": {
+    "NEW_ALERT_CONDITION": "Yeni Alarm Koşulu"
+  },
+  "PAGE_TITLE": {
+    "ALERT_CONDITION": {
+      "LIST": "Alarm Koşulları"
+    }
+  },
+  "PLACEHOLDERS": {
+    "CHANNEL": "Kanal",
+    "CREATED_BY": "Oluşturan",
+    "PERMITTED_ROLE": "Rol",
+    "SEARCH": "İsim, Açıklama"
+  },
+  "TABLE": {
+    "COLUMNS": {
+      "CHANNELS": "Kanal(lar)",
+      "CREATED_BY": "Oluşturan",
+      "DESCRIPTION": "Açıklama"
+    }
+  }
+}

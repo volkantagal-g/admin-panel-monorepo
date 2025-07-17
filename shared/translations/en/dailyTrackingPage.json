@@ -1,0 +1,20 @@
+{
+  "BATCHED_ORDER": "Batched Order",
+  "BELOW_COURIER_PLAN": "Below Courier Plan",
+  "BUSY": "Busy",
+  "COMPLIANCE": "Compliance",
+  "COMPLIANCE_DESC": "Total realized courier count / total planned courier count",
+  "DELIVERY_DURATION_TOTAL": "Delivery Duration (Total)",
+  "DELIVERY_DURATION_UNBATCHED": "Delivery Duration (Unbatched)",
+  "DISCOUNTED_ORDER": "Discounted Order",
+  "DOMAIN_FILTER_TYPE": "Merge Warehouses",
+  "EXACT": "Excluded",
+  "INCLUDES": "Includes",
+  "MISSING_ORDER": "Missing Order",
+  "QUEUE_DURATION": "Queue Duration",
+  "QUEUE_ORDER": "Queue Order",
+  "RATING": "Rating",
+  "RED_BASKET": "Red Basket",
+  "TP": "TP",
+  "UTILIZATION": "Utilization"
+}

@@ -1,0 +1,20 @@
+{
+  "ADD_SEGMENT": "Add Segment",
+  "DEFAULT_SEGMENT": "Default Segment",
+  "DEFAULT_TARGET_SEGMENT": "Default Target Segment",
+  "DOMAIN": "Domain",
+  "ERRORS": {
+    "LOTTERY_SEGMENTS": "Please add lottery segments first"
+  },
+  "GENERAL_INFORMATION": "General Information",
+  "INCLUDE_DEFAULT_SEGMENT": "Include Default Segment",
+  "PROMO_CODE": "Promo Code",
+  "PROMO_CODE_STRING": "Promo Code String",
+  "SEGMENTS": "Segments",
+  "SEGMENT_PAIRS": "Segment Pairs",
+  "SHADOW_SEGMENT": "Shadow Segment",
+  "TARGET": "Target",
+  "TARGET_SEGMENT": "Target Segment",
+  "TITLE": "Title",
+  "VALID_DATE": "Valid Date"
+}

@@ -1,0 +1,75 @@
+{
+  "BULK_TRANSACTION": {
+    "BUTTON_LABELS": {
+      "PAYBACK": "İşletmeden Toplu Alacak",
+      "PAYMENT": "İşletmeye Toplu Ödeme"
+    },
+    "CHECK_UPLOADED_DOCUMENT": "Lütfen yüklenen dosyayı kontrol ediniz.",
+    "DOWNLOAD_TEMPLATE": "Örnek Dosya İndir",
+    "PAYBACK": {
+      "CONFIRMATION_MODAL": {
+        "CONTENT": "{{shopCount}} işletmeden toplam {{currency}}{{amount}} alınacaktır. Onaylıyor musunuz?",
+        "TITLE": "Toplu İşletmeden Alacak Onay"
+      },
+      "TITLE": "İşletmeden Toplu Alacak -"
+    },
+    "PAYMENT": {
+      "CONFIRMATION_MODAL": {
+        "CONTENT": "{{shopCount}} işletmeye toplam {{currency}}{{amount}} ödenecektir. Onaylıyor musunuz?",
+        "TITLE": "Toplu İşletmeye Ödeme Onay"
+      },
+      "TITLE": "İşletmeye Toplu Ödeme +"
+    },
+    "SUCCESS_MESSAGE": "Toplu işlem başladı ve arka planda devam ediyor. İşlem tamamlandığında slack kanalından bildirim gönderilecektir",
+    "TITLE": "Toplu İşletme Borç/Alacak İşlemleri",
+    "WARNING_MESSAGES": {
+      "PAYBACK": "İşletme tutarı ödeyecek ve işletme finansal hareketler sayfasına eksi bakiye tutarı olarak yansıyacaktır.",
+      "PAYMENT": "İşletmeye tutar ödenecek ve işletme finansal hareketler sayfasına artı bakiye tutarı olarak yansıyacaktır."
+    }
+  },
+  "CANCEL": "İptal",
+  "CONFIRM": "Onayla",
+  "PAGE_TITLE": "İşletme Borç/Alacak İşlemleri",
+  "SEARCH_PARTNER": "İşletme Ara",
+  "SHOP": "İşletme",
+  "SHOPS": "İşletmeler",
+  "SINGLE_TRANSACTION": {
+    "BUTTON_LABELS": {
+      "PAYBACK": "İşletmeden Alacak",
+      "PAYMENT": "İşletmeye Ödeme"
+    },
+    "FORM": {
+      "AMOUNT": "Tutar",
+      "CATEGORY": "Kategori",
+      "NOTE_TO_SHOP": "İşletme Notu",
+      "ORDER_ID": "Sipariş Id",
+      "PAYMENT_DATE": "Ödeme Tarihi",
+      "SHOP_ID": "İşletme Id"
+    },
+    "PAYBACK": {
+      "CONFIRMATION_MODAL": {
+        "CONTENT": "{{currency}}{{amount}}, \"{{shopName}}\" işletme bakiyesinden düşülecektir. Onaylıyor musunuz?",
+        "CONTENT_WITH_PAYMENT_DATE": "{{currency}}{{amount}}, \"{{shopName}}\" işletme bakiyesinden {{paymentDate}} tarihinde düşülecektir. Onaylıyor musunuz?",
+        "TITLE": "İşletmeden Alacak İşlem Onayı"
+      },
+      "TITLE": "İşletmeden Alacak -"
+    },
+    "PAYMENT": {
+      "CONFIRMATION_MODAL": {
+        "CONTENT": "\"{{shopName}}\" işletmesine {{currency}}{{amount}} ödeme yapılacaktır. Onaylıyor musunuz?",
+        "CONTENT_WITH_PAYMENT_DATE": "\"{{shopName}}\" işletmesine {{paymentDate}} tarihinde {{currency}}{{amount}} ödeme yapılacaktır. Onaylıyor musunuz?",
+        "TITLE": "İşletmeye Ödeme İşlem Onayı"
+      },
+      "TITLE": "İşletmeye Ödeme +"
+    },
+    "TITLE": "İşletme Borç/Alacak İşlemleri",
+    "WARNING_MESSAGES": {
+      "PAYBACK": "İşletme tutarı ödeyecek ve işletme finansal hareketler sayfasına eksi bakiye tutarı olarak yansıyacaktır.",
+      "PAYMENT": "İşletmeye tutar ödenecek ve işletme finansal hareketler sayfasına artı bakiye tutarı olarak yansıyacaktır."
+    }
+  },
+  "TRANSACTION_REPORT": {
+    "GET_REPORT": "Raporu Al",
+    "TITLE": "İşletme Borç/Alacak Raporu"
+  }
+}

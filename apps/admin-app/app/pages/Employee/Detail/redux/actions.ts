@@ -1,0 +1,67 @@
+import { createActions } from 'reduxsauce';
+
+import { REDUX_KEY } from '@shared/shared/constants';
+
+const prefix = `${REDUX_KEY.EMPLOYEE.DETAIL}_`;
+
+export const { Types, Creators } = createActions({
+  getEmployeeRequest: { employeeId: undefined } as any,
+  getEmployeeSuccess: { employee: null, organizationalInfoChangeLogs: null },
+  getEmployeeFailure: { error: null },
+  updateCompanyInfoRequest: { values: undefined, onSuccess: undefined } as any,
+  updateCompanyInfoSuccess: { data: null },
+  updateCompanyInfoFailure: { error: null },
+  updateContactInfoRequest: { values: undefined, onSuccess: undefined } as any,
+  updateContactInfoSuccess: { data: null },
+  updateContactInfoFailure: { error: null },
+  updateEmployeeInfoRequest: { values: undefined, onSuccess: undefined } as any,
+  updateEmployeeInfoSuccess: { data: null },
+  updateEmployeeInfoFailure: { error: null },
+  updateOrganizationInfoRequest: { values: undefined, effectiveDateInformation: undefined, onSuccess: undefined } as any,
+  updateOrganizationInfoSuccess: { data: null },
+  updateOrganizationInfoFailure: { error: null },
+  updatePersonalInfoRequest: { values: undefined, onSuccess: undefined, changedPicURL: undefined, imageType: undefined } as any,
+  updatePersonalInfoSuccess: { data: null },
+  updatePersonalInfoFailure: { error: null },
+  terminateEmployeeRequest: { values: undefined, onSuccess: undefined } as any,
+  terminateEmployeeSuccess: { data: null },
+  terminateEmployeeFailure: { error: null },
+  rehireEmployeeRequest: { values: undefined, onSuccess: undefined } as any,
+  rehireEmployeeSuccess: { data: null },
+  rehireEmployeeFailure: { error: null },
+  // education part
+  addEducationRequest: { values: undefined, onSuccess: undefined } as any,
+  addEducationSuccess: { data: null },
+  addEducationFailure: { error: null },
+  removeEducationRequest: { educationId: undefined } as any,
+  removeEducationSuccess: { data: null },
+  removeEducationFailure: { error: null },
+  updateEducationRequest: { values: undefined, educationId: undefined, onSuccess: undefined } as any,
+  updateEducationSuccess: { data: null },
+  updateEducationFailure: { error: null },
+  getEmployeeEducationsRequest: { employeeId: null, onSuccess: undefined } as any,
+  getEmployeeEducationsSuccess: { data: null },
+  getEmployeeEducationsFailure: { error: null },
+  // survey part
+  addSurveyRequest: { values: undefined, onSuccess: undefined } as any,
+  addSurveySuccess: { data: null },
+  addSurveyFailure: { error: null },
+  updateSurveyRequest: { values: undefined, id: undefined, onSuccess: undefined, employeeId: undefined } as any,
+  updateSurveySuccess: { data: null },
+  updateSurveyFailure: { error: null },
+  getEmployeeSurveyHistoryRequest: { values: undefined, onSuccess: undefined } as any,
+  getEmployeeSurveyHistorySuccess: { data: null },
+  getEmployeeSurveyHistoryFailure: { error: null },
+  checkEmailUsedStatusRequest: {
+    email: undefined,
+    onSuccess: undefined,
+    onError: undefined,
+  } as any,
+  checkUniqueIdentifierUsedStatusRequest: {
+    uniqueIdentifier: undefined,
+    onSuccess: undefined,
+    onError: undefined,
+  } as any,
+  initPage: null,
+  destroyPage: null,
+}, { prefix });

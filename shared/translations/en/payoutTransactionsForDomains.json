@@ -1,0 +1,19 @@
+{
+    "ACTIVITY_ID": {
+        "DESC": "Search by activity id",
+        "TITLE": "Activity ID"
+    },
+    "BANK_RESPONSE_CODE": "Bank Response Code",
+    "BANK_RESPONSE_MESSAGE": "Bank Response Message",
+    "COMPANY_NAME": "Company Name",
+    "EXPLANATION": "Explanation",
+    "PAYOUT_OPTIONS": {
+        "Completed": "Completed",
+        "Error": "Error",
+        "InProgress": "In Progress"
+    },
+    "PAYOUT_STATUS": {
+        "DESC": "Search by payout status",
+        "TITLE": "Payout Status"
+    }
+}

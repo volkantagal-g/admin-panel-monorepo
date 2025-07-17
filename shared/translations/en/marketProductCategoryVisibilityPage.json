@@ -1,0 +1,10 @@
+{
+  "CATEGORY_BASED_VISIBILITY_LIST": "Category Based Visibility List",
+  "CATEGORY_VISIBILITY_NOT_FOUND": "Category Visibility is not found.",
+  "ERROR": {
+    "WAREHOUSE_AND_CATEGORY_MUST_BE_SELECTED": "Warehouse and Category must be selected.",
+    "WAREHOUSE_MUST_BE_SELECTED_FOR_EACH_SELECTED_CITY": "Warehouse must be selected for each selected city. Add warehouse for cities that have no warehouses selected. OR Remove city that have no warehouses selected."
+  },
+  "NEW_CATEGORY_VISIBILITY": "New Category Visibility",
+  "REMOVE_BULK_CONFIRMATION": "Are you sure you want to delete selected rows {{ count }}?"
+}

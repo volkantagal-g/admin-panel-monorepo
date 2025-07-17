@@ -1,0 +1,15 @@
+{
+  "PAGE_EXPORT": {
+    "COMPONENT_ID": "Bileşen ID",
+    "COUNTRY": "Ülke",
+    "CREATION_DATE": "Yaratılma Tarihi",
+    "DESCRIPTION": "Açıklama",
+    "GLOBAL": "Global",
+    "PAGE_ID": "Sayfa ID",
+    "PAGE_OR_COMPONENT_NAME": "Sayfa/Bileşen İsmi",
+    "PAGE_OWNERS": "Sayfa Sahipleri",
+    "PAGE_URL": "Sayfa Linki",
+    "PERMISSION_KEY": "Yetki Anahtarı",
+    "RESPONSIBLE_SQUAD": "Sorumlu Takım"
+  }
+}

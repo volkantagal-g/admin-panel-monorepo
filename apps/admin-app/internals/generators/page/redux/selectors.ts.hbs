@@ -1,0 +1,12 @@
+import { REDUX_KEY } from '@app/shared/constants';
+import { State } from './reducer';
+
+const reduxKey = REDUX_KEY.{{reduxKey}};
+
+{{#each actions }}
+export const {{simpleActionNameCase this}}Selector = {
+  getIsPending: (state: {[reduxKey: string]: State}) => state[reduxKey].{{simpleActionNameCase this}}.isPending,
+  getData: (state: {[reduxKey: string]: State}) => state[reduxKey].{{simpleActionNameCase this}}.data,
+};
+
+{{/each}}

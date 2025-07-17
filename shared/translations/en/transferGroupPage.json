@@ -1,0 +1,14 @@
+{
+  "INACTIVATE_MESSAGE": "Are you sure to inactivate transfer group?",
+  "NEW": "New Transfer Group",
+  "PRODUCTS": "Products",
+  "PRODUCT_ID": "Product Id",
+  "PRODUCT_NAME": "Product Name",
+  "TRANSFER_GROUP": "Transfer Group",
+  "TRANSFER_GROUPS": "Transfer Groups",
+  "TRANSFER_GROUP_ID": "Transfer Group Id",
+  "TRANSFER_GROUP_NAME": "Transfer Group Name",
+  "WAREHOUSES": "Warehouses",
+  "WAREHOUSE_ID": "Warehouse Id",
+  "WAREHOUSE_NAME": "Warehouse Name"
+}

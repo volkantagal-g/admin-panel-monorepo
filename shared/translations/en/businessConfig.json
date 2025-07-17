@@ -1,0 +1,13 @@
+{
+  "AGGRESSION_LEVEL": "Aggression Level",
+  "COUNTRY_BASED": "Country-Based Settings",
+  "GLOBAL": "Global Settings",
+  "GLOBAL_VALUE": "Global Value",
+  "IS_ACTIVE": "Active",
+  "IS_CUSTOM_ENABLED": "Country Enabled",
+  "IS_SAME_AGGRESSION_LEVEL_ACTIVE": "Same Aggression Level Active",
+  "PAGE_TITLE": "Business Config",
+  "WARNING": {
+    "NO_ACTIVE_CONFIG_KEY": "This config key is not found!"
+  }
+}

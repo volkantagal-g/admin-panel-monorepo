@@ -1,0 +1,20 @@
+{
+  "BASKET_AMOUNT_SOURCE": "Basket Amount Source",
+  "BULK_UPDATE_LINK_TEXT": "Fee Bulk Update",
+  "ERRORS": {
+    "INVALID_BASKET_AMOUNT_AMOUNT": "You need to fill both min and max basket amount",
+    "INVALID_BASKET_AMOUNT_FEE_SOURCE": "You need to fill basket amount source",
+    "INVALID_MAXIMUM_BASKET_AMOUNT_AMOUNT": "Amount can either be 0 or more than min basket amount",
+    "INVALID_ZONE_BASED_BASKET_AMOUNT": "You need to fill both min and max basket amount for all levels"
+  },
+  "MAXIMUM_BASKET_AMOUNT": "Maximum Basket Amount",
+  "MINIMUM_BASKET_AMOUNT": "Minimum Basket Amount",
+  "TITLE": "Basket Configs",
+  "WAREHOUSE_ID": "Warehouse Id",
+  "WAREHOUSE_NAME": "Warehouse Name",
+  "WAREHOUSE_TYPE": "Warehouse Type",
+  "ZONE": {
+    "LABEL": "Zone",
+    "TITLE": "Zone Based Basket Amount"
+  }
+}

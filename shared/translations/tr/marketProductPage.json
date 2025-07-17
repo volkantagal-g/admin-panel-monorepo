@@ -1,0 +1,536 @@
+{
+  "ACTIVE_PRODUCTS": "Aktif Ürünler",
+  "ADDITIONAL_INFO": {
+    "ADDITIONAL": "Ek Bilgiler",
+    "DISCLAIMER": "Uyarı",
+    "TITLE": "Ek Bilgiler"
+  },
+  "ADDITIONAL_PROPERTY_INFO": {
+    "ADD_NEW_ITEM": "Yeni Öğe Ekle",
+    "ADD_NEW_SECTION": "Yeni Sekme Ekle",
+    "ADD_NEW_TABLE": "Yeni Tablo Ekle",
+    "EDIT_SECTION": "Sekmeyi Düzenle",
+    "EDIT_TABLE": "Tabloyu Düzenle",
+    "ERROR": {
+      "SECTION_TITLE": "Sekme başlığında eksik alanlar var.",
+      "TABLE_TITLE": "Tablo başlığında eksik alanlar var."
+    },
+    "INDEX": "İndeks",
+    "MAX_2_SECTIONS": "En fazla 2 sekme olabilir.",
+    "SECTION_TITLE": "Sekme Başlığı",
+    "TABLE_TITLE": "Tablo Başlığı",
+    "TITLE": "Ek Özellik Tabloları Bilgisi",
+    "UNIT": "Birim",
+    "VALUE": "Değer"
+  },
+  "ADD_BARCODE": "Barkod Ekle",
+  "AGE_RESTRICTION_INFO": {
+    "AGE": "Yaş",
+    "AGE_RESTRICTION": "Yaş Kısıtlaması",
+    "TITLE": "Yaş Kısıtlama Bilgileri"
+  },
+  "ALERT_COUNTRY_BADGE_TITLE": "Bu rozeti görebilmek için ülke olarak {{ countryName }} seçiniz.",
+  "ALERT_COUNTRY_PRODUCT_TITLE": "Bu ürünü görebilmek için ülke olarak {{ countryName }} seçiniz.",
+  "BARCODES": "Barkodlar",
+  "BRAND": "Marka",
+  "BRING_INACTIVE_PRODUCTS": "İnaktif Ürünleri Getir",
+  "BUNDLE": "Bundle",
+  "BUNDLE_DISPLAY_TYPE": "Bundle Gösterim Tipi",
+  "BUNDLE_INFO": {
+    "COUNT": "Sayı",
+    "DELETE_MODAL_MESSAGE": "Bundle Ürünü silmek istediğinize emin misiniz?",
+    "EDIT_BUNDLE_PRODUCT": "Bundle Ürünü Düzenle",
+    "ERROR": {
+      "ADD_2_OR_MORE_ITEMS": "2 ya da daha fazla ürün eklenmeli.",
+      "PRICE_HIGHER_THAN_OR_EQUAL_TO_STRUCK_PRICE": "Satış fiyatı çizili fiyattan yüksek veya çizili fiyata eşit olamaz.",
+      "PRODUCT_ALREADY_EXIST": "Bu ürün zaten var."
+    },
+    "FREE_PRODUCT": "Bedelsiz Ürün",
+    "MAX_BUNDLE_PRODUCT_FOR_FRESH_PRODUCT_WARNING": "Bu bundle taze bir bundle olduğundan, bu bundle'a en fazla bir tür ürün ekleyebilirsiniz.",
+    "NEW_BUNDLE_PRODUCT": "Yeni Bundle Ürün",
+    "PRICE": "Fiyat",
+    "PRICE_FOR_FRESH": "Son Fiyat",
+    "PRODUCT": "Ürün",
+    "PRODUCT_CHANGE": "Ürün Değişimleri",
+    "REDIRECT": "Bu bundle ürünün daha önceden tanımlanmış bir \"Ürün Depo Fiyatı\" olabilir. Eğer ürün depo fiyatı mevcut ise, yeni bir alt ürün eklediğiniz için ilgili sayfada bir aksiyon almanız gerekmektedir. Eğer gerekli güncellemeyi yapmaz iseniz ürününün depo fiyatı eklemiş olduğunuz fiyat üzerinden olacaktır.",
+    "SORT": "Sıra",
+    "SUPPLIER_SUPPORT_RATE": "Tedarikçi Desteği",
+    "THIRD_PARTY_SUPPORT_RATE": "3. Parti Desteği",
+    "TITLE": "Bundle Bilgisi"
+  },
+  "CATEGORIES": "Kategoriler",
+  "CATEGORY_TARGETS": "Kategori Hedefi",
+  "COPIED_PRODUCTS": "Kopyalanan Ürünler (geçici tablo)",
+  "COPY_PRODUCT_CONFIRMATION_TEXT": "Ürün, fiyat bilgileri dahil bir şekilde kopyalanacaktır, lütfen doğruluğunu kontrol edin.",
+  "COPY_THIS_PRODUCT_TO_ANOTHER_COUNTRY": "Bu ürünü başka bir ülkeye kopyala",
+  "CURRENT_PRODUCT_DATA": "Mevcut Ürün Verisi",
+  "DEMAND_AND_STORAGE_INFO": {
+    "DEMAND_TYPE": "Talep türü",
+    "PAYMENT_DUE_DAY": "Vade",
+    "REFRIGERATOR_TEMPERATURE": "Buzdolabı Sıcaklık Aralığı",
+    "STORAGE_TYPES": "Saklama Koşulları",
+    "TITLE": "Talep & Saklama Bilgisi"
+  },
+  "DESCRIPTION_OF_COPY_PRODUCT": "Ürünü hangi ülke için kopyalamak istersin?",
+  "DETAILS_INFO": {
+    "ADD_NEW_TAG": "Yeni Etiket Ekle",
+    "DESCRIPTION": "Açıklama",
+    "DESCRIPTION_TAGS": "Açıklama Etiketleri",
+    "EDIT_TAG": "Etiketi Düzenle",
+    "ERROR": {
+      "ADD_IMAGE": "Resim ekleyiniz."
+    },
+    "TITLE": "Detaylar Bilgisi"
+  },
+  "DISPLAY_TYPE_INFO": {
+    "DISPLAY_TYPE": "Gösterim Tipi",
+    "TITLE": "Gösterim Tipi Bigileri"
+  },
+  "DOMAIN_PRICE_INFO": {
+    "ACTION": "Aksiyon",
+    "ADD_DOMAIN_PRICE": "Servis Bazlı Fiyat Ekle",
+    "DELETE_MODAL_MESSAGE": "Silmek istediğinize emin misiniz?",
+    "DOMAIN_TYPE": "Servis Tipi",
+    "EDIT_DOMAIN_PRICE": "Servis Bazlı Fiyatı Düzenle",
+    "ERROR": {
+      "PRICE_HIGHER_THAN_OR_EQUAL_TO_STRUCK_PRICE": "Satış fiyatı çizili fiyattan yüksek veya çizili fiyata eşit olamaz."
+    },
+    "FREE_PRODUCT": "Bedelsiz Ürün",
+    "PRICE": "Fiyat",
+    "SHOW_UNDER_SPECIAL_OFFERS": "İndirimler Altında Göster",
+    "STRUCK_PRICE": "Çizili Fiyat",
+    "STRUCK_PRICE_ACTIVENESS": "Çizili Fiyat Aktifliği",
+    "SUPPLIER_SUPPORT_RATE": "Tedarikçi Desteği",
+    "THIRD_PARTY_SUPPORT_RATE": "3. Parti Desteği",
+    "TITLE": "Servis Bazlı Fiyat Bilgileri",
+    "WARNING_BUNDLE_DOMAIN_PRICES": "Bundle ürünlere domain bazlı fiyat girilemez.",
+    "WARNING_DOMAIN_PRICE": "Girdiğiniz fiyat, Alış fiyatı (KDV dahil) değerinden daha düşük. Bu fiyat ile devam etmek istediğinizden emin misiniz?"
+  },
+  "DOMAIN_STOCK_INFO": {
+    "ADD_DOMAIN_BASED_STOCK": "Domain Bazlı Stok Bilgisi Ekle",
+    "DELETE_MODAL_MESSAGE": "Silmek istediğinize emin misiniz?",
+    "DOMAIN_TYPE": "Servis Tipi",
+    "MAX_DOMAIN_BASED_ORDER_COUNT": "Maks Domain Bazlı Sipariş Miktarı",
+    "TITLE": "Servis Bazlı Stok Bilgileri"
+  },
+  "ERROR": {
+    "ALL_BARCODE_VALUES_MUST_BE_DIFFERENT": "Tüm barkod değerleri birbirinden farklı olmalı.",
+    "ALL_BARCODE_VALUES_MUST_BE_DIFFERENT_FROM_PACKAGING_INFO": "Tüm barkod değerleri birbirinden ve 'Ürün Paketleme Bilgileri' kısmındaki barkodlardan farklı olmalı.",
+    "DUPLICATE_DOMAIN_PRICE": "Bir ürünün aynı domainType için yalnızca bir fiyatı olabilir.",
+    "IDS_NOT_VALID": "Ürün ID geçerli değil.",
+    "MAX_DOMAIN_BASED_ORDER_COUNT_CAN_NOT_BE_EMPTY": "Maks Servis Bazlı Sipariş Miktarı boş olamaz.",
+    "MAX_DOMAIN_BASED_ORDER_COUNT_CAN_NOT_LOWER_THAN_ZERO": "Maks Servis Bazlı Sipariş Miktarı sıfırdan küçük olamaz.",
+    "PRICE_IS_GREATER": "Fiyat, çizili fiyattan daha büyük veya eşit olamaz.",
+    "STRUCK_PRICE_IS_LOWER": "Çizili fiyat daha düşük veya eşit olamaz.",
+    "SUPPORT_RATES_BETWEEN_ZERO_AND_ONE": "supplierSupportRate ve thirdPartySupportRate alanları 0 ile 1 arasında olmalıdır."
+  },
+  "EXPIRY_INFO": {
+    "ALLOWED": "İzin Verilen",
+    "DAY": "Gün",
+    "DEAD": "Son Verilen",
+    "EXPIRY_DATE_CONTROL": "SKT Kontrol",
+    "SHELF_LIFE": "Raf Ömrü",
+    "SWITCH": {
+      "ACTIVE": "Aktif",
+      "INACTIVE": "İnaktif"
+    },
+    "TITLE": "SKT Bilgileri",
+    "WARNING": "Uyarı Verilen"
+  },
+  "EXPORT_LIMIT_CSV": "Limitleri Aktar",
+  "EXPORT_PRODUCT_CATEGORY_POSITIONS_TO_EXCEL": "Ürün Kategori Pozisyonlarını Excel'e Aktar",
+  "EXPORT_PRODUCT_DETAILS_TO_EXCEL": "Ürün Detaylarını Excel'e Aktar",
+  "EXPORT_PRODUCT_DOMAIN_LIMITS_TO_EXCEL": "Ürün Kampanya Limitlerini Excel'e Aktar",
+  "EXPORT_PRODUCT_NUTRITIONAL_INFO_TO_EXCEL": "Ürün Besin Bilgilerini Excel'e Aktar",
+  "EXPORT_SERVICE_PRICES_TO_EXCEL": "Servis Fiyatlarını Excel'e Aktar",
+  "FILL_THIRD_PARTY_INFO": "Üçüncü Parti Bilgisini Doldur",
+  "FILTER": "Filtre",
+  "FILTER_OPTION": "Filtre seçeneğini seçin",
+  "FINAL_PRICE_FOR_FRESH_WARNING": "Bu bir taze üründür, nihai satış fiyatını girmelisiniz.",
+  "FRESH": "Taze",
+  "GENERAL_INFO": {
+    "ACCOUNT": "Hesap",
+    "BARCODES": "Barkodlar",
+    "BOOSTED_KEYWORDS": "Öne Çıkan Kelimeler",
+    "BRAND": "Marka",
+    "CATEGORIES": "Kategoriler",
+    "CATEGORIES_INFO": "'Pozisyon Bilgileri' bölümünden pozisyon öğesi ekleyerek veya silerek bu alanı güncelleyebilirsiniz.",
+    "CATEGORY": "Kategori",
+    "CATEGORY_INFO": "'Pozisyon Bilgileri' bölümündeki 'Ana Kategori Yap' butonunu kullanarak bu alanı güncelleyebilirsiniz.",
+    "CREATED_AT": "Oluşturulma Tarihi",
+    "DESCRIPTION": "Açıklama",
+    "DISPLAY_NAME": "Gösterim İsmi",
+    "ERROR": {
+      "INVALID_BARCODE": "Lütfen geçerli bir barkod giriniz.",
+      "SEARCH_MIN_2_CHARS": "Ana Ürün kısmında, arama için en az iki karakter girilmeli."
+    },
+    "KEYWORDS": "Anahtar Kelimeler",
+    "MANUFACTURER": "İmalatçı",
+    "MASTER_CATEGORY": "Master Kategori",
+    "MASTER_CATEGORY_V2": "Master Kategori V2",
+    "NAME": "İsim",
+    "PARENT_PRODUCT": "Ana Ürün",
+    "PRODUCT_SOURCE": "Ürün Kaynağı",
+    "PRODUCT_TARGETS": "Ürün Hedefleri",
+    "SEGMENTS": "Segmentler",
+    "SEGMENTS_2": "Segmentler-2 (Sınıflandırma)",
+    "SEGMENTS_INFO": "Sadece 1 segment seçilebilir.",
+    "SHORT_DESCRIPTION": "Kısa Açıklama",
+    "SHORT_NAME": "Kısa İsim",
+    "SUB_CATEGORIES": "Alt Kategoriler",
+    "SUB_CATEGORY": "Alt Kategori",
+    "SUPPLIER": "Firma",
+    "TITLE": "Genel Bilgiler",
+    "TRANSFER_ALLOWED_CITIES": "İzin Verilen Şehirler",
+    "TRANSFER_ALLOWED_WAREHOUSES": "İzin Verilen Depolar",
+    "TRANSFER_LIMIT_TYPE": "Transfer Kısıt Tipi"
+  },
+  "GROUP_PLACEMENT": "Grup Yerleşimi",
+  "GROUP_TARGET": "Hedef Grup",
+  "GROUP_TYPE": "Grup Tipi",
+  "HFSS_INFO": {
+    "HFSS_FOOD_CATEGORY": "HFSS Gıda Kategorisi",
+    "HFSS_FOOD_OR_DRINK": "HFSS Yiyecek veya İçecek",
+    "HFSS_INDICATOR": "HFSS Göstergesi",
+    "NUTRIENT_PROFILE_SCORE": "Besin Profili Skoru",
+    "TITLE": "HFSS Bilgisi"
+  },
+  "IMPERIAL_UNITS": "Emperyal Birimler",
+  "IMPERIAL_UNITS_SHORT": "EB",
+  "IMPORT_CSV_BUNDLE_WARNING": "Bundle ürünlerde fiyat ‘bundleProductPrices’ alanına; single ürünler için ise ‘price’ alanına girilmelidir.",
+  "IMPORT_PRODUCT_CATEGORY_POSITIONS_FROM_EXCEL": "Ürün Kategori Pozisyonlarını Excel'den Aktar",
+  "IMPORT_PRODUCT_DETAILS_FROM_EXCEL": "Ürün Detaylarını Excel'den Aktar",
+  "IMPORT_PRODUCT_DOMAIN_LIMITS_FROM_EXCEL": "Kampanya Limitlerini Excel'den Aktar",
+  "IMPORT_PRODUCT_NUTRITIONAL_INFO_FROM_EXCEL": "Ürün Besin Bilgilerini Excel'den Aktar",
+  "IMPORT_PRODUCT_TOGGLES_FROM_EXCEL": "Ürün Statüsünü Excel'den Aktar",
+  "IMPORT_SERVICE_PRICES_FROM_EXCEL": "Servis Fiyatlarını Csv'den Aktar",
+  "INACTIVE_PRODUCTS": "İnaktif Ürünler",
+  "INGREDIENTS_INFO": {
+    "INGREDIENTS": "İçindekiler",
+    "TITLE": "İçindekiler Bilgisi"
+  },
+  "MAIN_STORE_INFO": {
+    "SHIPMENT_TYPE": "Sevkiyat Tipi",
+    "TITLE": "Merkez Depo Bigileri",
+    "TRANSFER_COLI_COUNT": "Transfer Koli İçi Adedi"
+  },
+  "MANUFACTURER": "Üretici",
+  "MASTER_CATEGORY": "Master Kategori",
+  "MISSING_BARCODE": "Lütfen geçerli bir barkod giriniz",
+  "NET_INVOICE_PRICE_WITH_VAT": "Fatura Alış Fiyatı",
+  "NEW_PRODUCT": "Yeni Ürün",
+  "NEW_PRODUCT_CATEGORY": "Yeni Ürün Kategori",
+  "PACKAGING_INFO": {
+    "BARCODES": "Barkodlar",
+    "IMPERIAL_UNITS": {
+      "DEPTH": "Derinlik [inch]",
+      "GROSS_WEIGHT": "Brüt Ağırlık [oz]",
+      "HEIGHT": "Yükseklik [inch]",
+      "NET_WEIGHT": "Net Ağırlık [oz]",
+      "VOLUME": "Hacim (inch³)",
+      "WIDTH": "genişlik [inch]"
+    },
+    "INBOX_QUANTITY": "Birim",
+    "METRIC_UNITS": {
+      "DEPTH": "Derinlik [cm]",
+      "GROSS_WEIGHT": "Brüt Ağırlık [{{ weightUnitText }}]",
+      "HEIGHT": "Yükseklik [cm]",
+      "NET_WEIGHT": "Net Ağırlık [{{ weightUnitText }}]",
+      "VOLUME": "Hacim (cm³)",
+      "WIDTH": "genişlik [cm]"
+    },
+    "PICKING_TYPE": "Toplama Tipi",
+    "PLEASE_VERIFY_THAT_DIMENSION_IS_CORRECT": "Lütfen bu değerin doğru olduğunu doğrulayın.",
+    "TITLE": "Ürün Paketleme Bilgileri",
+    "WARNING_BARCODE": "Barkodlar alanı 'Genel Bilgiler' kısmından düzenlenebilir."
+  },
+  "PARENT_CATEGORY": "Ana Kategori",
+  "PLEASE_SPECIFY_VALUES_FOR_PRODUCT_WEIGHT_UNIT": "Lütfen bu alan için [{{ weightUnitText }}] başına değerler belirtin.",
+  "PLEASE_USE_PRODUCT_WEIGHT_UNIT": "Lütfen bu alan için [{{ weightUnitText }}] kullanın.",
+  "POSITION_INFO": {
+    "ACTIVE_CATEGORY": "Aktif Kategori",
+    "CATEGORY": "Kategori",
+    "CONFIRM_ADD_PRODUCT_POSITION": "Ürünü bu pozisyona eklemek istediğinize emin misiniz?",
+    "CONFIRM_ADD_PRODUCT_POSITION_LAST": "Pozisyon bilgisi hatalı veya girilmedi, ürünü listenin sonuna eklemek istediğinize emin misiniz?",
+    "CONFIRM_MAIN_CATEGORY": "Bu kategoriyi ana kategori yapmak istediğinize emin misiniz?",
+    "CONFIRM_PRODUCT_POSITION_REMOVE": "Ürünün pozisyonunu kaldırmak istediğinize emin misiniz?",
+    "DISCOUNTED_CATEGORY_CAN_NOT_BE_MAIN_CATEGORY_ERROR": "İndirimli kategori ana kategori olamaz.",
+    "EDIT_PRODUCT_POSITION": "Ürünün pozisyon bilgileri bu kısımdan güncellenebilir.",
+    "INACTIVE_CATEGORY": "İnaktif Kategori",
+    "MAIN_CATEGORY_CAN_NOT_BE_CHANGED_ERROR": "Ürün herhangi bir indirimli kategoriye eklendiğinde, ana kategori değiştirilemez.",
+    "MAKE_MAIN_CATEGORY": "Ana Kategori Yap",
+    "MISSING_POSITION_ITEMS_ERROR_MESSAGE": "En az bir pozisyon bilgisi girilmelidir",
+    "MISSING_POSITION_ITEMS_WARNING_MESSAGE": "Seçili alt kategoriye ait ürün yok",
+    "POSITION": "Pozisyon",
+    "PRODUCT_NAME": "Ürün Adı",
+    "SHOW_INACTIVE_CATEGORIES_SUBCATEGORIES": "İnaktif kategorileri / alt kategorileri göster",
+    "SUB_CATEGORY": "Alt Kategori",
+    "TITLE": "Pozisyon Bilgileri"
+  },
+  "POSITION_ORDER": "Posizyon Sırası",
+  "PRICE": "Fiyat",
+  "PRICE_INFO": {
+    "ERROR": {
+      "WHOLESALE_PRICE_EQUAL_TO_ZERO": "Toptan satış fiyatı sıfıra eşit olamaz.",
+      "WHOLESALE_PRICE_HIGHER_OR_EQUAL_TO_SALE_PRICE": "Alış fiyatı, satış fiyatından büyük ya da eşit olamaz."
+    },
+    "SELLING_VAT": "Satış KDV",
+    "TITLE": "Fiyat Bilgileri",
+    "WARNING_BUNDLE_SALE_PRICE_EDIT_MUST_BE_FROM_BUNDLE_INFO": "Bundle ürünlerin satış fiyatı bilgisi 'Bundle Bilgisi' kısmından girilmeli",
+    "WHOLESALE_PRICE_WARNING": "Satın alma bilgileri alanından düzenlenmeli!",
+    "WHOLESALE_VAT": "Alış KDV"
+  },
+  "PRICE_PER_KG": "Alış Kilogram Fiyatı",
+  "PRICE_PER_KG_WARNING": "Bu bir taze üründür, kilogram fiyatını girmelisiniz.",
+  "PRICE_VALIDATION_INFO": "Fiyat alanları için;\n1. 30.000, 30'dur ve 30000 değil\n2. 10.239, 10239 değil\n3. Ondalık kısım (.) bir sayıda yalnızca bir kez gelebilir\n4. 10.234.345 geçersiz bir değer",
+  "PRODUCT_ACTIVATION_VALIDATION_ERROR": "Bu ürünü aktifleştirebilmek için lütfen sayfanın üst kısmındaki validasyon hatalarını kontrol edin.",
+  "PRODUCT_CURRENT_PRICE": {
+    "TITLE": "Ürün Güncel Fiyatı"
+  },
+  "PRODUCT_SETTINGS": {
+    "ACTIVE": "Aktif",
+    "ACTIVE_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Ürünü inaktif etmek istediğinize emin misiniz?",
+      "MESSAGE_POSITIVE": "Ürünü aktif etmek istediğinize emin misiniz?"
+    },
+    "DELIVERY_FEE_DISCOUNT_PRODUCT": "Getirme ücreti alınmasın",
+    "DELIVERY_FEE_DISCOUNT_PRODUCT_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Emin misin?",
+      "MESSAGE_POSITIVE": "Emin misin?"
+    },
+    "ENABLED": "Etkin",
+    "ENABLED_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Ürünü devre dışı bırakmak istediğinize emin misiniz?",
+      "MESSAGE_POSITIVE": "Ürünü etkinleştirmek istediğinize emin misiniz?"
+    },
+    "ERROR": {
+      "ADD_2_OR_MORE_ITEMS_ON_BUNDLE_INFO": "Bundle Bilgisi tablosuna 2 ya da daha fazla ürün eklenmeli.",
+      "MISSING_POSITION_ITEMS_ON_POSITION_INFO": "Pozisyon Bilgisi tablosuna en az bir eleman girilmelidir"
+    },
+    "EXCLUDED_FROM_MINIMUM_BASKET_CALCULATION": "Minimum sepet tutarı hesabına dahil olmasın",
+    "EXCLUDED_FROM_MINIMUM_BASKET_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Emin misin?",
+      "MESSAGE_POSITIVE": "Emin misin?"
+    },
+    "FRESH": "Taze",
+    "MINIMUM_BASKET_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Emin misin?",
+      "MESSAGE_POSITIVE": "Emin misin?"
+    },
+    "MINIMUM_BASKET_NOT_REQUIRED": "Minimum sepet gerektirmesin",
+    "ONLY_PROMO": "Sadece kampanya",
+    "ONLY_PROMO_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Ürünü normal ürün yapmak istediğinize emin misiniz?",
+      "MESSAGE_POSITIVE": "Ürünü sadece kampanyalı ürün yapmak istediğinize emin misiniz?"
+    },
+    "OUT_OF_STOCK": "Stok tükendi",
+    "SHOW_LOCATION_FREE": "Lokasyon bağımsız göster",
+    "SHOW_LOCATION_FREE_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Ürünün uygulamada lokasyon bağımsız görünürlüğünü kapatmak istediğine emin misin?",
+      "MESSAGE_POSITIVE": "Ürünün uygulamada lokasyon bağımsız görünürlüğünü açmak istediğine emin misin?"
+    },
+    "SHOW_ON_APP": "Uygulamada göster",
+    "SHOW_ON_APP_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Ürünü uygulamada görünür yapmak istediğine emin misin?",
+      "MESSAGE_POSITIVE": "Ürünü uygulamada göstermemek istediğine emin misin?"
+    },
+    "SHOW_OUT_OF_STOCK_MODAL": {
+      "MESSAGE_NEGATIVE": "Ürünün 'Stok tükendi' alanını kapatmak istediğine emin misin?",
+      "MESSAGE_POSITIVE": "Ürünün 'Stok tükendi' alanını açmak istediğine emin misin?"
+    },
+    "SWITCH": {
+      "OFF": "Kapalı",
+      "ON": "Açık"
+    },
+    "TITLE": "Ürün Ayarları"
+  },
+  "PRODUCT_SLUGS_TITLE": "Ürün Slugları",
+  "PRODUCT_SORT": {
+    "CATEGORY_CHANGE": "\"{{ productName }}\" ürününün alt kategorisini değiştirmek istiyor musunuz?",
+    "HIDE": "Gizle",
+    "INACTIVES": "İnaktifler",
+    "PRODUCT_SORTING_INACTIVE_CHANGE_WARNING": "Sıralaması değişen inaktif ürün(ler) var. Lütfen doğruluğunu kontrol ediniz.",
+    "PRODUCT_SORTING_INACTIVE_WARNING": "İnaktif ürünü sıralamak için switch'i aktif hale getiriniz.",
+    "SHOW": "Göster",
+    "TITLE": "Ürün Sıralama"
+  },
+  "PRODUCT_SUB_TYPE": "Ürün Alt Tipi",
+  "PRODUCT_TARGETS": "Ürün Hedefleri",
+  "PRODUCT_TYPE": "Ürün Tipi",
+  "PRODUCT_UNIT": "Ürün Birimi",
+  "PURCHASING_INFO": {
+    "ERROR": {
+      "NET_NET_BUYING_PRICE_WITHOUT_VAT": "Net net alış fiyatı (KDV hariç)",
+      "WHOLESALE_HIGHER_THAN_SALE_PRICE": "Alış fiyatı, satış fiyatından büyük ya da eşit olamaz."
+    },
+    "LIST_PRICE_PER_KG": "Kilogram liste fiyatı (KDV hariç)",
+    "NET_INVOICE_PRICE_PER_KG_WITH_VAT": "Kilogram alış fiyatı (KDV dahil)",
+    "NET_INVOICE_PRICE_PER_WITHOUT_VAT": "Kilogram alış fiyatı (KDV hariç)",
+    "TITLE": "Satın Alma Bilgileri",
+    "TOTAL_PRICE_REDUCTION": "Fatura altı indirim oranı",
+    "WHOLESALE_VAT": "Alış KDV"
+  },
+  "REF_PRICE": "Ref. Fiyat",
+  "REVIEW_CHANGES": "Değişikleri Gözden Geçir",
+  "SAP_REFERENCE_CODE": "Sap Referans Kodu",
+  "SEARCH": "Ara",
+  "SEARCH_BY_IDS": "Ürün ID’lere göre ara",
+  "SELLING_VAT": "Satış KDV",
+  "SERVICE_TARGETS": "Servis Hedefi",
+  "SHOW_SLUGS": "Slugları Göster",
+  "SHOW_VALIDATIONS": "Validasyonları Göster",
+  "STATUS": "Durum",
+  "STOCK_INFO": {
+    "CRITICAL_AMOUNT_STORE": "Kritik Stok Miktarı (Depo)",
+    "ERROR": {
+      "ENABLED_BUT_NO_CRITICAL_STOCK": "'Kritik Stok Uyarısı' seçili ancak 'Kritik Stok Bilgi'si girilmemiş.",
+      "MAX_STOCK_DAY_LESS_THAN_MIN": "'Maksimum Kaç Günlük Stok' değeri 'Minimum Kaç Günlük Stok' değerinden az olamaz.",
+      "MAX_STOCK_LESS_THAN_MIN": "'Maksimum Stok Miktarı' 'Minimum Stok Miktarı'ndan az olamaz."
+    },
+    "INVENTORY_CHECK_PERIOD": "Stok Kontrol Sıklığı (Gün)",
+    "IS_ALLOWED_FOR_SELF_PURCHASED_ORDER": "Öz Tedarik İzni",
+    "IS_ALLOWED_FOR_SELF_TRANSFER": "Öz Transfer İzni",
+    "IS_CONSUMABLE": "Sarf Ürün",
+    "IS_CRITICAL_STOCK_WARNING_ENABLED": "Kritik Stok Uyarısı",
+    "IS_EQUIPMENT": "Ekipman",
+    "IS_INCLUDED_TO_GENERAL_INVENTORY": "Genel Stok Kontrolü",
+    "IS_IN_FROZEN_LOCATION": "Donuk Lokasyon Ürünü",
+    "IS_PICKED_TO_ZERO": "Picked To Zero",
+    "MAX_ORDER_COUNT": "Maks Sipariş Miktarı",
+    "MAX_ORDER_WEIGHT_MUST_BE_MORE_OR_EQUAL_STARTING_WEIGHT": "Maksimum Sipariş Ağırlığı, Başlangıç Ağırlığından (Ağırlık Bilgisi) eşit veya daha büyük olmalıdır. (Başlangıç Ağırlığı boş olmadığı sürece)",
+    "MAX_STOCK": "Maks Stok Miktarı",
+    "MAX_STOCK_DAY": "Maks Kaç Günlük Stok",
+    "MIN_STOCK_DAY": "Min Kaç Günlük Stok",
+    "MODAL_MESSAGE_SUM_OF_STARTING_AND_INCREASE_DECREASE_WEIGHT": "'Maksimum Sipariş Ağırlığı', 'Başlangıç Ağırlığı ve Artırma / Azaltma Ağırlığı' toplamına eşit veya büyük olmalıdır. Devam etmek istediğinize emin misiniz?",
+    "MODAL_TITLE_SUM_OF_STARTING_AND_INCREASE_DECREASE_WEIGHT": "Maksimum Sipariş Ağırlığı >= Başlangıç Ağırlığı + 1 X Artırma / Azaltma Ağırlığı",
+    "TITLE": "Stok Bilgileri"
+  },
+  "STRUCK_PRICE_INFO": {
+    "ERROR": {
+      "STRUCK_PRICE_IS_LOWER": "Çizili fiyat, fiyat'tan daha düşük veya eşit olamaz.",
+      "SUPPLIER_SUPPORT_RATE": "Destek oranı 0 ile 1 arasında veya 1'e eşit olmalıdır.",
+      "THIRD_PARTY_SUPPORT_RATE": "Destek oranı 0 ile 1 arasında veya 1'e eşit olmalıdır.",
+      "WHOLESALE_PRICE_HIGHER_OR_EQUAL_TO_SALE_PRICE": "Alış fiyatı, satış fiyatından büyük ya da eşit olamaz."
+    },
+    "SHOW_UNDER_SPECIAL_OFFERS": "İndirimler Altında Göster",
+    "STRUCK_PRICE_ACTIVENESS": "Çizili Fiyat Aktifliği",
+    "STRUCK_PRICE_PROVIDER": "Çizili Fiyat Destekçisi",
+    "SUPPORT_RATE": "Destek Oranı",
+    "TITLE": "Çizili Fiyat Bilgileri"
+  },
+  "SUB_CATEGORIES": "Alt Kategoriler",
+  "SUB_CATEGORY": "Alt Kategori",
+  "SUPPLIERS": "Tedarikçiler",
+  "SWITCH": {
+    "NO": "Hayır",
+    "YES": "Evet"
+  },
+  "THIRD_PARTY_INFO": "Üçüncü Parti Bilgisi",
+  "THIRD_PARTY_PRODUCT_DATA": "Üçüncü Parti Ürün Verisi",
+  "TOOLTIP": {
+    "HFSS_FOOD_CATEGORY": "Bu alan, ürünün HFSS yönetmeliklerine göre 'Schedule 1' kategorisinin belirlenmesi için kullanılmaktadır.",
+    "HFSS_FOOD_OR_DRINK": "Bu alan, ürünün HFSS yönetmeliklerine göre Yiyecek veya İçecek olarak sınıflandırılıp sınıflandırılmadığını belirlemek için kullanılır.",
+    "HFSS_INDICATOR": "Bu alan, ürünün HFSS düzenlemeleri kapsamında olup olmadığını belirlemek için kullanılır.",
+    "INCREASING_DECREASING_WEIGHT": "Sepet içindeki ürünün ağırlığını ayarlamak için ağırlık artış/azalma miktarı.",
+    "MINIMUM_WEIGHT": "Müşteri tarafından satın alınabilecek bir ürünün minimum ağırlığı.",
+    "NUTRIENT_PROFILE_SCORE": "Bu alan, ürünün HFSS yönetmeliklerine göre puanını belirlemek için kullanılır.",
+    "PRODUCT_SUB_TYPE": "Bu alan ürün alt tiplerini ayırt etmek için kullanılır.\nÖnceden Paketlenmiş - birim bazında satılan ağırlık ürünleri.\nTaze Et ve Peynir - ağırlık bazında satılan et ve peynir ürünleri.\nTaze Meyve ve Sebzeler - ağırlık bazında satılan meyve ve sebze ürünleri.",
+    "PRODUCT_TYPE": "Bu alan ürün tiplerini ayırt etmek için kullanılır.\n1.Adet - birim bazında yönetilen ürünler.\n2.Ağırlık - ağırlık bazında yönetilen ürünler.",
+    "PRODUCT_UNIT": "Bu alan ürün birimini yönetmek için kullanılır.",
+    "STARTING_WEIGHT": "Mobil uygulamada varsayılan olarak müşterinin sepetine eklenecek bir ürünün ağırlığı."
+  },
+  "TRANSFER_GROUP_INFO": {
+    "TITLE": "Transfer Grup Bigileri",
+    "TRANSFER_GROUPS": "Transfer Grupları"
+  },
+  "TYPE_BASED": {
+    "1": {
+      "DOMAIN_PRICE_INFO": {
+        "PRICE": "Fiyat",
+        "STRUCK_PRICE": "Çizili Fiyat"
+      },
+      "PRICE_INFO": {
+        "DEPOSIT": "Depozito",
+        "ECO_CONTRIBUTION_FEE": "Çevre Katılım Bedeli",
+        "PRICE": "Fiyat",
+        "WHOLESALE_PRICE": "Alış Fiyatı (KDV dahil)"
+      },
+      "PURCHASING_INFO": {
+        "LIST_PRICE": "Liste fiyatı (KDV hariç)",
+        "NET_INVOICE_PRICE_WITHOUT_VAT": "Alış fiyatı (KDV hariç)",
+        "NET_INVOICE_PRICE_WITH_VAT": "Alış fiyatı (KDV dahil)",
+        "NET_NET_BUYING_PRICE_WITHOUT_VAT": "Net net alış fiyatı (KDV hariç)",
+        "NET_NET_BUYING_PRICE_WITH_VAT": "Net net alış fiyatı (KDV dahil)"
+      },
+      "STOCK_INFO": {
+        "MAX_ORDER_COUNT": "Maks Sipariş Miktarı",
+        "MAX_STOCK": "Maks Stok Miktarı",
+        "MIN_STOCK": "Min Stok Miktarı"
+      },
+      "STRUCK_PRICE_INFO": {
+        "STRUCK_PRICE": "Çizili Fiyat"
+      }
+    },
+    "2": {
+      "DOMAIN_PRICE_INFO": {
+        "PRICE": "Fiyat [{{ weightUnitText }} başına]",
+        "STRUCK_PRICE": "Çizili Fiyat [{{ weightUnitText }} başına]"
+      },
+      "PRICE_INFO": {
+        "DEPOSIT": "Depozito [{{ weightUnitText }} başına]",
+        "ECO_CONTRIBUTION_FEE": "Çevre Katılım Bedeli [{{ weightUnitText }} başına]",
+        "PRICE": "Fiyat [{{ weightUnitText }} başına]",
+        "WHOLESALE_PRICE": "Alış Fiyatı [{{ weightUnitText }} başına] (KDV dahil)"
+      },
+      "PURCHASING_INFO": {
+        "LIST_PRICE": "Liste fiyatı [{{ weightUnitText }} başına] (KDV hariç)",
+        "NET_INVOICE_PRICE_WITHOUT_VAT": "Alış fiyatı [{{ weightUnitText }} başına] (KDV hariç)",
+        "NET_INVOICE_PRICE_WITH_VAT": "Alış fiyatı [{{ weightUnitText }} başına] (KDV dahil)",
+        "NET_NET_BUYING_PRICE_WITHOUT_VAT": "Net net alış fiyatı [{{ weightUnitText }} başına] (KDV hariç)",
+        "NET_NET_BUYING_PRICE_WITH_VAT": "Net net alış fiyatı [{{ weightUnitText }} başına] (KDV dahil)"
+      },
+      "STOCK_INFO": {
+        "MAX_ORDER_COUNT": "Maksimum Sipariş Ağırlığı [{{ weightUnitText }}]",
+        "MAX_STOCK": "Maksimum Stok Ağırlığı [{{ weightUnitText }}]",
+        "MIN_STOCK": "Minimum Stok Ağırlığı [{{ weightUnitText }}]"
+      },
+      "STRUCK_PRICE_INFO": {
+        "STRUCK_PRICE": "Çizili Fiyat [{{ weightUnitText }} başına]"
+      }
+    }
+  },
+  "UNIT_PRICE_INFO": {
+    "IMPERIAL_UNITS": "Emperyal Birimler (US)",
+    "METRIC_UNITS": "Metrik Birimler (TR, UK, EU)",
+    "MIN_ONE_BUNDLE_PRODUCT_WARNING": "Birim Fiyatı Bilgilerini düzenleyebilmek için, min. 1 paket ürün eklenmelidir.",
+    "PER_UNIT_NUMERIC_VALUE": "Birim Başına Değer",
+    "PREVIEW_UNIT_PRICE": "Birim Fiyatı Önizleme",
+    "PRICE": "Fiyat",
+    "TITLE": "Birim Fiyatı Bilgileri",
+    "UNIT": "Birim",
+    "UNIT_NUMERIC_VALUE": "Birim Değeri",
+    "UNIT_PRICE": "Birim Fiyatı"
+  },
+  "USAGE_INFO": {
+    "TITLE": "Kullanım Bilgisi",
+    "USAGE": "Kullanım Bilgisi"
+  },
+  "VALIDATION_ERRORS_DESCRIPTION": "Lütfen doğrulama hatalarına göre gerekli alanları doldurunuz.",
+  "VALIDATION_ERRORS_MESSAGE": "Bu ürünü etkinleştirmek için Validasyon Hataları",
+  "WEIGHT_INFO": {
+    "ERROR": {
+      "STARTING_WEIGHT_MUST_BE_GREATER_OR_EQUAL_MINIMUM_WEIGHT": "Başlangıç Ağırlığı, Minimum Ağırlığa eşit veya daha büyük olmalıdır.",
+      "STARTING_WEIGHT_MUST_BE_LESS_OR_EQUAL_MAX_ORDER_WEIGHT": "Başlangıç Ağırlığı, Maksimum Sipariş Ağırlığına (Stok Bilgileri) eşit veya daha az olmalıdır. (Maksimum Sipariş Ağırlığı boş olmadığı sürece)"
+    },
+    "INCREASING_DECREASING_WEIGHT": "Artırma / Azaltma Ağırlığı",
+    "MINIMUM_WEIGHT": "Minimum Ağırlık",
+    "MODAL_MESSAGE_SUM_OF_STARTING_AND_INCREASE_DECREASE_WEIGHT": "'Başlangıç Ağırlığı ve Artırma / Azaltma Ağırlığı' toplamı, 'Maksimum Sipariş Ağırlığı'a eşit veya küçük olmalıdır. Devam etmek istediğinize emin misiniz?",
+    "MODAL_TITLE_SUM_OF_STARTING_AND_INCREASE_DECREASE_WEIGHT": "Başlangıç Ağırlığı + 1 X Artırma / Azaltma Ağırlığı <= Maksimum Sipariş Ağırlığı",
+    "STARTING_WEIGHT": "Başlangıç Ağırlığı",
+    "TITLE": "Ağırlık Bilgisi"
+  },
+  "WHOLESALE_PRICE": "Alış Fiyatı",
+  "WHOLESALE_PRICE_PER_KG": "Alış fiyatı (KDV dahil)",
+  "WHOLESALE_PRICE_WARNING": "Türkiye, Avrupa ve UK için vergi dahil fiyatı; ABD için vergi hariç fiyatı giriniz.",
+  "WHOLESALE_VAT": "Alış KDV"
+}

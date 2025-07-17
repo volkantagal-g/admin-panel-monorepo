@@ -1,0 +1,10 @@
+{
+  "SLOTTED_STATES": {
+    "ON_DEMAND": "On-demand",
+    "SCHEDULED": "Randevulu"
+  },
+  "SLOTTED_STATE_COLUMN_TOOLTIP": "Randevulu Sipariş",
+  "SLOTTED_STATE_LABEL": "Teslimat Tipi",
+  "SLOTTED_STATE_SHORT": "Rndv",
+  "SLOTTED_TOTAL_DURATION_TOOLTIP": "'Doğrulanıyor' statüsünden itibaren toplam süresi / Siparişin Toplam Süresi"
+}

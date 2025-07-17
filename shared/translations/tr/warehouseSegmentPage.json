@@ -1,0 +1,55 @@
+{
+  "CONFIRM": {
+    "IS_DEFAULT_CHECKED": "Yeni açılacak depoların segment bilgisi bu segment olacaktır. Mevcut depolar bu değişiklikten etkilenmeyecektir. Devam etmek istiyor musunuz?",
+    "IS_DEFAULT_UNCHECKED": "Devam etmek istiyor musunuz?"
+  },
+  "DELIVERY_FEE": "Getirme Ücreti",
+  "DETAIL": {
+    "FORM": {
+      "IS_DEFAULT": "Depo açılışlarında bu segment kullanılsın mı?",
+      "NAME": "Segment İsmi",
+      "TITLE": "Segment Detayı",
+      "TYPE": "Segment Tipi"
+    },
+    "PRODUCT_PRICING": "Ürün Ücretlendirme",
+    "TABLE": {
+      "TITLE": "Depo Listesi"
+    }
+  },
+  "LIST": {
+    "DATE": "Oluşturulma Tarihi",
+    "IS_DEFAULT": "Varsayılan Depo Açılış Segmenti",
+    "NAME": "Segment İsmi",
+    "SEGMENT_TYPE": "Segment Türü"
+  },
+  "NEW": {
+    "DELIVERY_FEE": {
+      "TITLE": "Getirme Ücreti Segment Tanımlama"
+    },
+    "FORM": {
+      "IS_DEFAULT": "Depo Açılışlarında Bu Segment Kullanılsın",
+      "NAME": "Segment İsmi"
+    },
+    "PRODUCT_PRICING": {
+      "TITLE": "Ürün Ücretlendirme Segment Tanımlama"
+    }
+  },
+  "PAGES": {
+    "NEW": "Yeni Segment",
+    "UPLOAD": "Depo Segment Eşleştirme"
+  },
+  "PRODUCT_PRICING": "Ürün Ücretlendirme",
+  "UPLOAD": {
+    "DELIVERY_FEE": {
+      "TITLE": "Getirme Ücreti Segmenti İçin Dosya Yükle"
+    },
+    "PRODUCT_PRICING": {
+      "TITLE": "Ürün Ücretlendirme Segmenti İçin Dosya Yükle"
+    },
+    "WARNINGS": {
+      "NO_FILE": "Dosya yok",
+      "READY_TO_IMPORT": "Yüklemeye hazır",
+      "UNSUPPORTED_FILE_TYPE": "Desteklenmeyen dosya türü"
+    }
+  }
+}

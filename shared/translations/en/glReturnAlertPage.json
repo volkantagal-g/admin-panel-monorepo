@@ -1,0 +1,47 @@
+{
+  "ALERT_COUNT": "Alert Count",
+  "ALERT_DATE": "Alert Date",
+  "ALERT_TYPE": "Alert Type",
+  "ASSIGNED_COURIER": "Assigned Courier",
+  "BUTTON_RESOLVE_ALERT": "Resolve Alert",
+  "BUTTON_TRY_COURIER_REASSIGN": "Retry Courier Assignment ",
+  "CITY": "City",
+  "DURATION": "Duration (min)",
+  "FAILED_ASSIGNMENT_ALERT": "Failed Assignment Alert (%)",
+  "FILTER": {
+    "ALERT_TYPE": {
+      "DESC": "Select Alert Type",
+      "TITLE": "Alert Type"
+    },
+    "CITY_DESC": "Select City",
+    "SLOT_DATE": "Slot Date",
+    "VEHICLE_TYPE": {
+      "DESC": "Select Vehicle Type",
+      "TITLE": "Vehicle Type"
+    },
+    "WAREHOUSE_DESC": "Select Warehouse"
+  },
+  "LAST_ASSIGN_DATE": "Last Assign",
+  "LAST_UPDATED": "Last Updated",
+  "NEXT_ASSIGN_DATE": "Next Assign",
+  "PLANNED_COURIER": "Planned Courier",
+  "PLANNED_RETURN": "Planned Return",
+  "PLANNED_ROUTE": "Planned Route",
+  "RETRY_COURIER_ASSIGNMENT_MESSAGE": "Retry Courier Assignment Failed",
+  "RETURN_DELAY": "Return Delay",
+  "SLOT": "Slot",
+  "SLOT_ALERT": "Slot Full Alert (%)",
+  "SLOT_DATE": "Slot Date",
+  "SLOT_END": "Slot End",
+  "SLOT_OCCUPANCY": "Slot Occupancy (%)",
+  "SLOT_START": "Slot Start",
+  "TOOLTIP_FAILED_ASSIGNMENT_ALERT": "Courier assignment failed alert rate",
+  "TOOLTIP_PLANNED_RETURN": "Number of return order requests received",
+  "TOOLTIP_PLANNED_ROUTE": "Total number of routes/couriers to be executed in this slot",
+  "TOOLTIP_RETURN_DELAY": "Delayed refund rate due to late starting slots",
+  "TOOLTIP_SLOT_ALERT": "More than x% occupancy per day",
+  "TOOLTIP_SLOT_OCCUPANCY": "Slot occupancy rate",
+  "UPDATE_COURIER_PLAN": "Update Courier Plan",
+  "UPDATE_COURIER_PLAN_ERROR_MESSAGE": "Update Courier Plan Failed",
+  "WAREHOUSE": "Warehouse"
+}

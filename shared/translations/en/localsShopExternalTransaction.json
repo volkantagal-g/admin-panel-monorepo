@@ -1,0 +1,75 @@
+{
+  "BULK_TRANSACTION": {
+    "BUTTON_LABELS": {
+      "PAYBACK": "Bulk Shop Payback",
+      "PAYMENT": "Bulk Shop Payment"
+    },
+    "CHECK_UPLOADED_DOCUMENT": "Please check uploaded file.",
+    "DOWNLOAD_TEMPLATE": "Download Template",
+    "PAYBACK": {
+      "CONFIRMATION_MODAL": {
+        "CONTENT": "{{currency}}{{amount}} will be deducted from {{shopCount}} shops. Do you confirm?",
+        "TITLE": "Bulk Shop Payback Confirmation"
+      },
+      "TITLE": "Bulk Shop Payback -"
+    },
+    "PAYMENT": {
+      "CONFIRMATION_MODAL": {
+        "CONTENT": "{{currency}}{{amount}} will be paid to {{shopCount}} shops. Do you confirm?",
+        "TITLE": "Bulk Shop Payment Confirmation"
+      },
+      "TITLE": "Bulk Shop Payment +"
+    },
+    "SUCCESS_MESSAGE": "Bulk transaction has started and is running in the background. When the process is completed the service will send a notification to the slack channel",
+    "TITLE": "Bulk Shop External Transactions",
+    "WARNING_MESSAGES": {
+      "PAYBACK": "Shop will be paying the amount and shops will see a negative transaction on the financial transactions page.",
+      "PAYMENT": "Shop will get paid the amount and shops will see a positive transaction on the financial transactions page."
+    }
+  },
+  "CANCEL": "Cancel",
+  "CONFIRM": "Confirm",
+  "PAGE_TITLE": "Shop External Transaction",
+  "SEARCH_PARTNER": "Search Shop",
+  "SHOP": "Shop",
+  "SHOPS": "Shops",
+  "SINGLE_TRANSACTION": {
+    "BUTTON_LABELS": {
+      "PAYBACK": "Shop Payback",
+      "PAYMENT": "Shop Payment"
+    },
+    "FORM": {
+      "AMOUNT": "Amount",
+      "CATEGORY": "Category",
+      "NOTE_TO_SHOP": "Note to Shop",
+      "ORDER_ID": "Order Id",
+      "PAYMENT_DATE": "Payment Date",
+      "SHOP_ID": "Shop Id"
+    },
+    "PAYBACK": {
+      "CONFIRMATION_MODAL": {
+        "CONTENT": "{{currency}}{{amount}} will be deducted from \"{{shopName}}\" shop. Do you confirm?",
+        "CONTENT_WITH_PAYMENT_DATE": "{{currency}}{{amount}} will be deducted from \"{{shopName}}\" shop on {{paymentDate}}. Do you confirm?",
+        "TITLE": "Shop Payback Confirmation"
+      },
+      "TITLE": "Shop Payback -"
+    },
+    "PAYMENT": {
+      "CONFIRMATION_MODAL": {
+        "CONTENT": "{{currency}}{{amount}} will be paid to \"{{shopName}}\" shop. Do you confirm?",
+        "CONTENT_WITH_PAYMENT_DATE": "{{currency}}{{amount}} will be paid to \"{{shopName}}\" shop on {{paymentDate}}. Do you confirm?",
+        "TITLE": "Shop Payment Confirmation"
+      },
+      "TITLE": "Shop Payment +"
+    },
+    "TITLE": "Shop External Transactions",
+    "WARNING_MESSAGES": {
+      "PAYBACK": "Shop will be paying the amount and shop will see a negative transaction on the financial transactions page.",
+      "PAYMENT": "Shop will get paid the amount and shop will see a positive transaction on the financial transactions page."
+    }
+  },
+  "TRANSACTION_REPORT": {
+    "GET_REPORT": "Get Report",
+    "TITLE": "Shop External Transactions Report"
+  }
+}

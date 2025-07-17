@@ -1,0 +1,38 @@
+{
+  "ACTIONS": {
+    "CANCEL": "İptal",
+    "DISABLE": "Devre Dışı Bırak",
+    "EDIT": "Düzenle",
+    "SAVE": "Kaydet"
+  },
+  "COLUMNS": {
+    "ACTIONS": "İşlemler",
+    "CLIENT": "Müşteri",
+    "END_DATE": "Bitiş Tarihi",
+    "STATUS": "Durum",
+    "TITLE": "Başlık",
+    "USED_AMOUNT": "Kullanılan Miktar",
+    "USED_ORDER_COUNT": "Kullanılan Sipariş Sayısı"
+  },
+  "CONFIRM": {
+    "ARE_YOU_SURE_TO_DISABLE": "Kampanyayı devre dışı bırakmak istediğinizden emin misiniz"
+  },
+  "EDIT_CODES": "Düzenle",
+  "GENERAL_INFO": "Genel Bilgisi",
+  "GO_BACK_TO_ORDER": "Siparişe git",
+  "PAGE_TITLE": "İndirim Kodu Detayı",
+  "PERSONAL_PROMO_LIST_PAGE_TITLE": "Kişisel İndirim Kodları Arama",
+  "PROMO_FIELDS": {
+    "CLIENT": "Müşteri",
+    "DESCRIPTION": "Açıklama",
+    "DISCOUNT_AMOUNT": "İndirim miktarı",
+    "DISCOUNT_CODE": "İndirim Kodu",
+    "DISCOUNT_TYPE": "İndirim türü",
+    "PRIORITY": "Öncelik",
+    "STATUS": "Durum",
+    "TITLE": "Başlık",
+    "VALID_FROM": "Başlangıç Tarihi",
+    "VALID_UNTIL": "Bitiş Tarihi"
+  },
+  "THIS_CODE_IS_SOLD": "Bu kod satıldı"
+}

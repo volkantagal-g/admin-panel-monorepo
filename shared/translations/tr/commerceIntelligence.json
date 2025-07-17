@@ -1,0 +1,47 @@
+{
+    "BRAND": "Marka",
+    "CANCEL": "İptal",
+    "CATEGORY": "Kategori",
+    "CLEAR_SELECTIONS": "Seçimleri Temizle",
+    "COMPETITOR": "Rakip",
+    "CONFIDENCE": "Güven",
+    "CONFIDENCE_LEVELS": {
+        "HIGH": "Yüksek",
+        "LOW": "Düşük",
+        "MEDIUM": "Orta",
+        "VERY_HIGH": "Çok Yüksek"
+    },
+    "DELETE": "Sil",
+    "DELETE_MATCH": "Eşleştirmeyi Sil",
+    "DIRECT_MATCH": "Direkt Eşleştir",
+    "EDIT": "Düzenle",
+    "ERROR_BOUNDARY": {
+        "DESCRIPTION": "Bir şeyler ters gitti. Lütfen daha sonra tekrar deneyin.",
+        "TITLE": "Bir hata oluştu",
+        "TRY_AGAIN": "Tekrar dene"
+    },
+    "EXPORT": "Dışa Aktar",
+    "FAILED_TO_FETCH_L4_CATEGORIES": "API'den L4 kategorileri alınamadı",
+    "INDIRECT_MATCH": "Dolaylı Eşleştir",
+    "MATCH": "Eşleştir",
+    "MATCHED": "Eşleşmiş Ürünler",
+    "MATCHINGS_SELECTED": "eşleştirme seçildi",
+    "PRODUCT": "Ürün",
+    "PRODUCT_ID": "Ürün ID",
+    "PRODUCT_MATCHING": "Ürün Eşleştirme",
+    "QTY": "Adet",
+    "SEARCH": "Ara",
+    "SELECT_ALL": "Tümünü Seç",
+    "SMART_PRICING": {
+        "GETIR": "Getir",
+        "GETIR_MORE": "Getirbüyük",
+        "INDEX": "Endeks",
+        "INDEX_CHART": "Endeks Grafiği",
+        "INDEX_CHART_DESCRIPTION": "Seçilen hücreye göre ürün listesini görüntüle",
+        "RULESETS_AND_GUARDRAILS": "Kural Setleri ve Korumalar"
+    },
+    "SUB_CATEGORY": "Alt Kategori",
+    "UNIT": "Birim",
+    "UNKNOWN_ERROR": "Bilinmeyen bir hata oluştu",
+    "UNMATCHED": "Eşleşmemiş Ürünler"
+}

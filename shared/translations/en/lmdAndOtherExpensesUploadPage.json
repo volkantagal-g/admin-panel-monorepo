@@ -1,0 +1,32 @@
+{
+  "DOWNLOAD_TEMPLATE": "Download Template",
+  "ERROR_MESSAGES": {
+    "INVALID_DATA": "There is missing or incorrect information in the lines: {{invalidLineNumbers}}",
+    "INVALID_HEADERS": "Check the column headings in the uploaded file.",
+    "INVALID_UPLOAD": "An error occurred during file upload.",
+    "UNIQUE_MONTH_YEAR": "The uploaded file must contain data for a single month only.",
+    "UNIQUE_MONTH_YEAR_DOMAIN": "The uploaded file contains data that have same month, year and domain.",
+    "UNIQUE_MONTH_YEAR_DOMAIN_WAREHOUSE": "The uploaded file contains data that have same month, year, domain and warehouse id."
+  },
+  "EXPENSE_TYPE": {
+    "LMD_COST": "Last Mile Delivery Cost",
+    "LOGISTIC_COST": "Logistic Cost",
+    "OTHER_COST": "Other Cost"
+  },
+  "EXPENSE_TYPE_LABEL": "Expense Type",
+  "FILE_TO_BE_UPLOADED_DESCRIPTION": "Important instructions for the file to be uploaded;",
+  "PAGE_TITLE": "LMD & Other Expenses",
+  "SUCCESS_MESSAGES": {
+    "UPLOAD_CSV": "The data has been successfully saved to {{uploadedMonth}}/{{uploadedYear}}."
+  },
+  "WARNING_MESSAGES": {
+    "LOADABLE_FILES": "3 different cost files can be uploaded. These files; LMD Cost, Logistics Cost, Other Costs.",
+    "LOADABLE_FILE_FORMAT": "It must be in CSV format and must not contain empty cells.",
+    "LOADABLE_FILE_HEADERS": "It should contain the headings specified in the sample format, and the heading names should not be changed.",
+    "LOAD_LOGIC": "If the same month, year and domain data is uploaded in different files, only the data in the last file is processed into the system and the old data is deleted regardless of considering the included warehouse IDs.",
+    "LOAD_MONTH_RESTRICTION": "Only 1 month of data should be uploaded at a time.",
+    "VALID_DOMAINS": "Domain names should be Getir10, GetirMore, GetirFood, GetirLocals, GetirWater and GetirWaterMarketplace (For Other Cost).",
+    "VALID_FINANCIAL_VALUES": "Financial values must not contain negative data and the decimal separator of the values must be dot (.).",
+    "VALID_YEAR_AND_MONTH": "Month selection must be between 1 and 12, and year selection must be between 2016 and 2050."
+  }
+}

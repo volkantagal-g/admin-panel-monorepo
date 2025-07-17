@@ -1,0 +1,18 @@
+{
+  "COUNTRY": "Country",
+  "DESCRIPTION": "Description",
+  "DETAIL": {
+    "TITLE": "Marketing Approval Detail"
+  },
+  "DOMAINS": "Domains",
+  "LIST": {
+    "APPROVER": "Approver",
+    "ASSET_TYPE": "Asset Type",
+    "INPUT_NOTIF_TITLE": "Input Notification",
+    "SEARCH": "Search",
+    "STATUS": "Status",
+    "TITLE": "Marketing Approval List"
+  },
+  "PROMO_CODE": "Promo Code",
+  "VALIDATION": "You must select at least one content in each segment."
+}

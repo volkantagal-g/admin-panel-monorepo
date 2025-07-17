@@ -1,0 +1,33 @@
+{
+  "ALL_CITIES": "Tüm Şehirler",
+  "AVERAGE": "Genel Ortalama",
+  "BAR_CHART_TITLE": "Harf Notu Dağılımı",
+  "BAR_YAXIS_TITLE": "Dağılım Oranı",
+  "CHARTS": "Grafikler",
+  "DDS": "DDS",
+  "DPS": "DPS",
+  "DTS": "DTS",
+  "DYS": "DYS",
+  "HIGH_LEVEL_RECORDS": "Genel Dys Kaydı",
+  "KDS": "KDS",
+  "LETTER_GRADE": "Harf Notu",
+  "LINE_CHART_TITLE": "Depoların Ortalama Puanları",
+  "LINE_CHART_Y_AXIS_TITLE": "Ağırlık Puanı",
+  "PERFORMANCE_SYSTEMS": "Performans Sistemleri",
+  "POINT": "Puan",
+  "SELECETED_DATE": "Seçilen Tarih",
+  "SELECT_PERFORMANCE": {
+    "SPS": "DYS",
+    "SPS_NEW": "DPS"
+  },
+  "SELECT_SERVICE_TYPE": {
+    "G10": "Getir10",
+    "GB": "GetirBüyük",
+    "GM": "GetirMarket",
+    "GW": "GetirSu",
+    "SC": "Store Conversion"
+  },
+  "SERVICE_TYPES": "Servis Tipleri",
+  "STS": "STS",
+  "TWO_MONTHS": "2 Ay"
+}

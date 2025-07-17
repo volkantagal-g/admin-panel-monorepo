@@ -1,0 +1,24 @@
+{
+	"CHAIN": {
+		"TABLE": {
+			"DEFERRED_PAYMENT_DATE": "Ödeme Tarihi",
+			"NAME": "Zincir Adı",
+			"PAYBACK_TYPE": "Ödeme Türü",
+			"PAYMENT_AMOUNT": "Ödeme Tutarı",
+			"PAYMENT_STATUS": "Ödeme Durumu",
+			"UNPAYMENT_REASON": "Ödenmeme Sebebi"
+		},
+		"TITLE": "Zincir Restoranlar"
+	},
+	"SINGLE": {
+		"TABLE": {
+			"DEFERRED_PAYMENT_DATE": "Ödeme Tarihi",
+			"NAME": "Restoran Adı",
+			"PAYBACK_TYPE": "Ödeme Türü",
+			"PAYMENT_AMOUNT": "Ödeme Tutarı",
+			"PAYMENT_STATUS": "Ödeme Durumu",
+			"UNPAYMENT_REASON": "Ödenmeme Sebebi"
+		},
+		"TITLE": "Tekil Restoranlar"
+	}
+}

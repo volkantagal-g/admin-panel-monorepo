@@ -1,0 +1,33 @@
+{
+  "AMOUNT": "Tutar",
+  "CHECKOUT_DATE": "Sipariş Zamanı",
+  "CLIENT": "Müşteri",
+  "CLIENT_ID": "Kullanıcı ID'si",
+  "COURIER": "Kurye",
+  "DEVICE_TYPES": "Cihaz türleri",
+  "DURATION_TOOLTIP": "Seçilen başlangıç durumu ile teslim arasında geçen süre",
+  "ERRORS": "Hatalar",
+  "ERROR_TYPE": "Hata Tipi",
+  "FOOD_ORDER": "GY",
+  "G10_ORDER": "G10",
+  "GETIR_MARKET_ORDER": "GB",
+  "GETIR_VOYAGER": "GS",
+  "MAX_BIGGER_MIN": "Maks. süre, min. süreden büyük olmalıdır.",
+  "MAX_DURATION": "Maks. Süre (dk)",
+  "MIN_DURATION": "Min. Süre (dk)",
+  "MIN_MAX_AT_LEAST_ONE_DURATION_REQUIRED": "Min. ve maks. sürelerden en az biri gereklidir.",
+  "ON_DEMAND": "Hemen Getir",
+  "ORDER_TYPE": "Sipariş Türü",
+  "PLATFORM": "Platform",
+  "PROMO": "Kampanya",
+  "PROVISION": "Provizyon",
+  "PROVISION_FILTER": {
+    "NO": "Hayır",
+    "YES": "Evet"
+  },
+  "SLOTTED_ORDERS": "Slotlu Getir",
+  "STARTING_STATUS": "Başlangıç Durumu (Teslime Kadar)",
+  "STORE": "Depo",
+  "TITLE": "Filtrelenmiş Siparişler",
+  "WAREHOUSE": "Depo"
+}

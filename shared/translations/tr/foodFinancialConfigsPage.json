@@ -1,0 +1,16 @@
+{
+    "CONFIRM_MODAL_SUBTITLE": "Aşağıdaki değişiklikler uygulanacaktır. Devam etmek istiyor musunuz?",
+    "CONFIRM_MODAL_TITLE": "Uyarı mesajı",
+    "CONFIRM_WARNING": "Lütfen en az bir değişiklik yapın!",
+    "PAGE_TITLE": "Finansal Parametreler",
+    "TABLE": {
+        "HEADERS": {
+            "CONFIG_DETAILS": "Parametre Detayı",
+            "CONFIG_NAME": "Parametre Adı",
+            "CONFIG_VALUE": "Parametre Değeri",
+            "NEW_VALUE": "Yeni Değer",
+            "PREVIOUS_VALUE": "Eski Değer"
+        }
+    },
+    "UPDATE_CONFIG_SUCCESS": "Parametreler başarıyla güncellendi."
+}

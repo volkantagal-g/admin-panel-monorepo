@@ -1,0 +1,53 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: admin-panel-frontend
+  title: Admin Panel Frontend
+  description: This is the frontend application of getir domain Admin Panel. It communicates with the admin-panel-api-gateway.
+  tags:
+    - typescript
+    - reactjs
+    - redux
+    - antdesign
+  links:
+    - title: Dashboard - New Relic (Prod)
+      url: 
+        https://one.newrelic.com/nr1-core/browser-entity-preview/browser-application-preview/MTQ2MDE3MXxCUk9XU0VSfEFQUExJQ0FUSU9OfDExMzM5NzY4MDI?account=1460171&duration=1800000&filters=%28name%20LIKE%20%27admin-panel%27%20OR%20id%20%3D%20%27admin-panel%27%20OR%20domainId%20%3D%20%27admin-panel%27%29%20AND%20%28domain%20IN%20%28%27BROWSER%27%2C%20%27BROWSER%27%29%20AND%20type%20IN%20%28%27APPLICATION%27%2C%20%27MICRO_FRONTEND%27%29%29&state=589fb7e2-06a4-a5f4-86a7-86372cf2682e
+      icon: dashboard
+    - title: SonarCloud
+      url: https://sonarcloud.io/project/overview?id=getirdev_admin-panel-frontend
+      icon: language
+    - title: Jira Project
+      url: https://getirdev.atlassian.net/jira/software/c/projects/CRPL/boards/236
+      icon: group
+    - title: Slack support channel
+      url: https://getir-dev.slack.com/archives/C02QMAZU2F3
+      icon: group
+    - title: Dev Admin Panel Link
+      url: https://admin.develop.getirapi.com
+      icon: dashboard
+    - title: Prod Admin Panel Link
+      url: https://admin.getir.com
+      icon: dashboard
+    - title: Service Diagram
+      url: https://getirdev.atlassian.net/wiki/x/TQAsng
+      icon: diagram
+spec:
+  namespaces:
+    - zeus
+  environments:
+    - dev
+    - prod
+  regions:
+    - eu-west-1
+  slackChannel: intra-argocd-notifications
+  type: frontend
+  lifecycle: production
+  owner: intra/admin-platform
+  jiraProject:
+    - CRPL
+  dependsOn:
+    - Component:admin-panel-api-gateway
+  consumesApis:
+    - admin-panel-api-gateway-api
+  tier: T1

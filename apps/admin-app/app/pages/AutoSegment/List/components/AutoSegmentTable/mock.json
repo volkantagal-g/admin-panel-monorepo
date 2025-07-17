@@ -1,0 +1,837 @@
+[
+    {
+        "__v": 0,
+        "_id": "5f707c4399907a92e4091f22",
+        "actions": [
+            {
+                "actionDate": "2020-09-27T11:49:23.338Z",
+                "actionUser": "5954bf829a16f60004b53890",
+                "clientList": "5f6dda895cfaf330294cd565",
+                "version": 1
+            },
+            {
+                "actionDate": "2020-10-13T14:41:10.108Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f85bb0b86e76bc78d3e6a8b",
+                "version": 2
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "5f85bb0b86e76bc78d3e6a8b",
+        "createdAt": "2020-09-27T11:49:23.344Z",
+        "description": {
+            "en": "Descriptiongdfg",
+            "tr": "Açıklamafgdf"
+        },
+        "interval": 1,
+        "intervalType": 4,
+        "lastCalculationDate": "2020-09-27T11:49:23.338Z",
+        "name": "oldu teşekkürler",
+        "segment": 498,
+        "status": 100,
+        "type": 1,
+        "version": 2
+    },
+    {
+        "__v": 0,
+        "_id": "5f71bc77178dfc17b62850ba",
+        "actions": [
+            {
+                "actionDate": "2020-09-28T10:35:35.319Z",
+                "actionUser": "5954bf829a16f60004b53890",
+                "clientList": "5f6dda895cfaf330294cd565",
+                "version": 1
+            },
+            {
+                "actionDate": "2020-09-28T12:25:52.055Z",
+                "actionUser": "5954bf829a16f60004b53890",
+                "clientList": "5f705f1e0dd23690e2e70090",
+                "version": 2
+            },
+            {
+                "actionDate": "2020-09-28T14:06:39.667Z",
+                "actionUser": "5954bf829a16f60004b53890",
+                "clientList": "5f6dda895cfaf330294cd565",
+                "version": 3
+            },
+            {
+                "actionDate": "2020-09-28T14:06:57.744Z",
+                "actionUser": "5954bf829a16f60004b53890",
+                "clientList": "5f705f1e0dd23690e2e70090",
+                "version": 4
+            },
+            {
+                "actionDate": "2020-09-28T14:07:18.506Z",
+                "actionUser": "5954bf829a16f60004b53890",
+                "clientList": "5f6dda895cfaf330294cd565",
+                "version": 5
+            },
+            {
+                "actionDate": "2020-09-28T14:09:31.674Z",
+                "actionUser": "5954bf829a16f60004b53890",
+                "clientList": "5f705f1e0dd23690e2e70090",
+                "version": 6
+            },
+            {
+                "actionDate": "2020-09-28T14:09:44.832Z",
+                "actionUser": "5954bf829a16f60004b53890",
+                "clientList": "5f6dda895cfaf330294cd565",
+                "version": 7
+            },
+            {
+                "actionDate": "2020-09-28T14:10:47.692Z",
+                "actionUser": "5954bf829a16f60004b53890",
+                "clientList": "5f705f1e0dd23690e2e70090",
+                "version": 8
+            },
+            {
+                "actionDate": "2020-10-13T14:41:02.993Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f6dda895cfaf330294cd565",
+                "version": 9
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "5f6dda895cfaf330294cd565",
+        "createdAt": "2020-09-28T10:35:35.319Z",
+        "description": {
+            "en": "there will be edited soon",
+            "tr": "buralar falan hep editlenecek"
+        },
+        "interval": 1,
+        "intervalType": 3,
+        "lastCalculationDate": "2020-09-28T10:35:35.310Z",
+        "name": "bunu editliycem",
+        "segment": 499,
+        "status": 300,
+        "type": 1,
+        "version": 9
+    },
+    {
+        "__v": 0,
+        "_id": "5f7490639397bcd70a4be92b",
+        "actions": [
+            {
+                "actionDate": "2020-09-30T14:04:19.752Z",
+                "actionUser": "5dada10f3928f176c13d9cd3",
+                "clientList": "5f6dda895cfaf330294cd565",
+                "version": 1
+            },
+            {
+                "actionDate": "2020-10-13T14:40:15.095Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f705f1e0dd23690e2e70090",
+                "version": 2
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "5f705f1e0dd23690e2e70090",
+        "createdAt": "2020-09-30T14:04:19.759Z",
+        "description": {
+            "en": "BRUH MOMENT OYLE BIR ANDIR KI",
+            "tr": "BRUH MOMENT OYLE BIR ANDIR KI"
+        },
+        "interval": 1,
+        "intervalType": 3,
+        "lastCalculationDate": "2020-09-30T14:04:19.752Z",
+        "name": "BRUHMOMENT",
+        "segment": 507,
+        "status": 300,
+        "type": 1,
+        "version": 2
+    },
+    {
+        "__v": 0,
+        "_id": "5f855cc991e1d282fb90f964",
+        "actions": [
+            {
+                "actionDate": "2020-10-13T07:52:41.607Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f6dda895cfaf330294cd565",
+                "version": 1
+            },
+            {
+                "actionDate": "2020-10-13T07:54:58.647Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f855d4591e1d2781390f9bb",
+                "version": 2
+            },
+            {
+                "actionDate": "2020-10-13T07:55:30.239Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f6dda895cfaf330294cd565",
+                "version": 3
+            },
+            {
+                "actionDate": "2020-10-13T07:55:49.073Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f6dda895cfaf330294cd565",
+                "version": 4
+            },
+            {
+                "actionDate": "2020-10-13T07:56:01.793Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f855d4591e1d2781390f9bb",
+                "version": 5
+            },
+            {
+                "actionDate": "2020-10-13T07:56:19.578Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f6dda895cfaf330294cd565",
+                "version": 6
+            },
+            {
+                "actionDate": "2020-10-13T08:02:42.758Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f855d4591e1d2781390f9bb",
+                "version": 7
+            },
+            {
+                "actionDate": "2020-10-13T08:03:39.721Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f855f5591e1d2fd9790fa2b",
+                "version": 8
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "5f855f5591e1d2fd9790fa2b",
+        "createdAt": "2020-10-13T07:52:41.616Z",
+        "description": {
+            "en": "ŞOROLOP",
+            "tr": "HOROLOP"
+        },
+        "interval": 1,
+        "intervalType": 3,
+        "lastCalculationDate": "2020-10-13T07:52:41.607Z",
+        "name": "HADİ BİSMİLLAH",
+        "segment": 509,
+        "status": 100,
+        "type": 1,
+        "version": 8
+    },
+    {
+        "__v": 0,
+        "_id": "5f85bc1786e76b589f3e6ad6",
+        "actions": [
+            {
+                "actionDate": "2020-10-13T14:39:19.436Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f85bb0b86e76bc78d3e6a8b",
+                "version": 1
+            },
+            {
+                "actionDate": "2020-10-13T14:39:56.347Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f855f4e91e1d2667190fa27",
+                "version": 2
+            },
+            {
+                "actionDate": "2020-10-13T14:40:06.155Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f85bb0b86e76bc78d3e6a8b",
+                "version": 3
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "5f85bb0b86e76bc78d3e6a8b",
+        "createdAt": "2020-10-13T14:39:19.451Z",
+        "description": {
+            "en": "lobaafsdfsd",
+            "tr": "hobaafsdfds"
+        },
+        "interval": 1,
+        "intervalType": 1,
+        "lastCalculationDate": "2020-10-13T14:39:19.436Z",
+        "name": "gg",
+        "segment": 513,
+        "status": 100,
+        "type": 1,
+        "version": 3
+    },
+    {
+        "__v": 0,
+        "_id": "5f86fdf95fed95a3e06af22a",
+        "actions": [
+            {
+                "actionDate": "2020-10-14T13:32:41.570Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f86c804bd132ff2f680ba97",
+                "version": 1
+            },
+            {
+                "actionDate": "2020-10-14T13:32:56.172Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f868c6fb7e8997e6d95bfb2",
+                "version": 2
+            },
+            {
+                "actionDate": "2020-10-14T13:33:12.285Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f86c804bd132ff2f680ba97",
+                "version": 3
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "5f86c804bd132ff2f680ba97",
+        "createdAt": "2020-10-14T13:32:41.576Z",
+        "description": {
+            "en": "eni vici vokke",
+            "tr": "eni vokke"
+        },
+        "interval": 1,
+        "intervalType": 4,
+        "lastCalculationDate": "2020-10-14T13:32:41.570Z",
+        "name": "enivicivokke",
+        "segment": 521,
+        "status": 100,
+        "type": 1,
+        "version": 3
+    },
+    {
+        "__v": 0,
+        "_id": "5f9005540eabdb4e77294e50",
+        "actions": [
+            {
+                "actionDate": "2020-10-21T09:54:28.644Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f6dda895cfaf330294cd565",
+                "version": 1
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "5f6dda895cfaf330294cd565",
+        "createdAt": "2020-10-21T09:54:28.650Z",
+        "description": {
+            "en": "vghn",
+            "tr": "gdfghj"
+        },
+        "interval": 5,
+        "intervalType": 1,
+        "lastCalculationDate": "2020-10-21T09:54:28.644Z",
+        "name": "sdfgh",
+        "segment": 523,
+        "status": 100,
+        "type": 2,
+        "version": 1
+    },
+    {
+        "__v": 0,
+        "_id": "5f916f0ced841860391c8f68",
+        "actions": [
+            {
+                "actionDate": "2020-10-22T11:37:48.194Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f916ef1ed841842dc1c8f60",
+                "version": 1
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "5f916ef1ed841842dc1c8f60",
+        "createdAt": "2020-10-22T11:37:48.201Z",
+        "description": {
+            "en": "fdsfsd",
+            "tr": "xvdf"
+        },
+        "interval": 1,
+        "intervalType": 3,
+        "lastCalculationDate": "2020-10-22T11:37:48.194Z",
+        "name": "sorunlu gb açan",
+        "segment": 524,
+        "status": 300,
+        "type": 2,
+        "version": 1
+    },
+    {
+        "__v": 0,
+        "_id": "5f9bc769b9e300145d7e5808",
+        "actions": [
+            {
+                "actionDate": "2020-10-30T07:57:29.166Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f6dda895cfaf330294cd565",
+                "version": 1
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "5f6dda895cfaf330294cd565",
+        "createdAt": "2020-10-30T07:57:29.172Z",
+        "description": {
+            "en": "G10 Zorunlu sekme açma",
+            "tr": "G10 Zorunlu sekme açma"
+        },
+        "forcedTabOpenFlowType": 1,
+        "interval": 1,
+        "intervalType": 3,
+        "lastCalculationDate": "2020-10-30T07:57:29.165Z",
+        "name": "G10 Zorunlu sekme açma",
+        "segment": 525,
+        "status": 300,
+        "type": 1,
+        "version": 1
+    },
+    {
+        "__v": 0,
+        "_id": "5f9bc782b9e300b3537e5815",
+        "actions": [
+            {
+                "actionDate": "2020-10-30T07:57:54.356Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f705f1e0dd23690e2e70090",
+                "version": 1
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "5f705f1e0dd23690e2e70090",
+        "createdAt": "2020-10-30T07:57:54.360Z",
+        "description": {
+            "en": "G30 Zorunlu sekme açma",
+            "tr": "G30 Zorunlu sekme açma"
+        },
+        "forcedTabOpenFlowType": 3,
+        "interval": 1,
+        "intervalType": 3,
+        "lastCalculationDate": "2020-10-30T07:57:54.356Z",
+        "name": "G30 Zorunlu sekme açma",
+        "segment": 526,
+        "status": 300,
+        "type": 1,
+        "version": 1
+    },
+    {
+        "__v": 0,
+        "_id": "5f9bc795b9e3008fb07e581c",
+        "actions": [
+            {
+                "actionDate": "2020-10-30T07:58:13.216Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f7b1c9c7a76f59e7a70e346",
+                "version": 1
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "5f7b1c9c7a76f59e7a70e346",
+        "createdAt": "2020-10-30T07:58:13.222Z",
+        "description": {
+            "en": "GYemek Zorunlu sekme açma",
+            "tr": "GYemek Zorunlu sekme açma"
+        },
+        "forcedTabOpenFlowType": 2,
+        "interval": 1,
+        "intervalType": 3,
+        "lastCalculationDate": "2020-10-30T07:58:13.216Z",
+        "name": "GYemek Zorunlu sekme açma",
+        "segment": 527,
+        "status": 300,
+        "type": 1,
+        "version": 1
+    },
+    {
+        "__v": 0,
+        "_id": "5f9bc7a4b9e30008f57e5824",
+        "actions": [
+            {
+                "actionDate": "2020-10-30T07:58:28.139Z",
+                "actionUser": "5e2ecacf6bdc9774329c5c5b",
+                "clientList": "5f855d4591e1d2781390f9bb",
+                "version": 1
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "5f855d4591e1d2781390f9bb",
+        "createdAt": "2020-10-30T07:58:28.141Z",
+        "description": {
+            "en": "GSu Zorunlu sekme açma",
+            "tr": "GSu Zorunlu sekme açma"
+        },
+        "forcedTabOpenFlowType": 4,
+        "interval": 1,
+        "intervalType": 3,
+        "lastCalculationDate": "2020-10-30T07:58:28.138Z",
+        "name": "GSu Zorunlu sekme açma",
+        "segment": 528,
+        "status": 300,
+        "type": 1,
+        "version": 1
+    },
+    {
+        "__v": 0,
+        "_id": "607007a43a9fb54f2c87608d",
+        "actions": [
+            {
+                "actionDate": "2021-04-09T07:52:04.285Z",
+                "actionUser": "5e2591ec1f3f894592e3b971",
+                "clientList": "5f6dda895cfaf330294cd565",
+                "version": 1
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "5f6dda895cfaf330294cd565",
+        "createdAt": "2021-04-09T07:52:04.294Z",
+        "description": {
+            "en": "test123",
+            "tr": "test123"
+        },
+        "interval": 1,
+        "intervalType": 3,
+        "lastCalculationDate": "2021-04-09T07:51:58.700Z",
+        "name": "test123",
+        "segment": 86,
+        "status": 100,
+        "type": 1,
+        "version": 1
+    },
+    {
+        "__v": 0,
+        "_id": "6074390ae91199638c64e86d",
+        "actions": [
+            {
+                "actionDate": "2021-04-12T12:11:54.800Z",
+                "actionUser": "5f3136ce575b6d11713c9684",
+                "clientList": "5f6dda895cfaf330294cd565",
+                "version": 1
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "5f6dda895cfaf330294cd565",
+        "createdAt": "2021-04-12T12:11:54.810Z",
+        "description": {
+            "en": "test",
+            "tr": "test"
+        },
+        "interval": 4,
+        "intervalType": 3,
+        "lastCalculationDate": "2021-04-12T12:11:54.800Z",
+        "name": "test dilara",
+        "segment": 10132,
+        "status": 100,
+        "type": 1,
+        "version": 1
+    },
+    {
+        "__v": 0,
+        "_id": "6076946ab72d8f212f0b7ad3",
+        "actions": [
+            {
+                "actionDate": "2021-04-14T07:06:18.835Z",
+                "actionUser": "5f3136ce575b6d11713c9684",
+                "clientList": "60757ffe3c3b991110cd6e46",
+                "version": 1
+            }
+        ],
+        "clientCount": 100000,
+        "clientList": "60757ffe3c3b991110cd6e46",
+        "createdAt": "2021-04-14T07:06:18.845Z",
+        "description": {
+            "en": "test",
+            "tr": "test den"
+        },
+        "interval": 3,
+        "intervalType": 3,
+        "lastCalculationDate": "2021-04-14T07:06:18.835Z",
+        "name": "testdenemelast",
+        "segment": 34881,
+        "status": 100,
+        "type": 1,
+        "version": 1
+    },
+    {
+        "__v": 0,
+        "_id": "60b64f6eba8fe5cbf6b2e394",
+        "actions": [
+            {
+                "actionDate": "2021-06-01T15:17:02.386Z",
+                "actionUser": "602e78635bd94974aeda5948",
+                "clientList": "60b64e07ba8fe52d9cb2e2a7",
+                "version": 1
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "60b64e07ba8fe52d9cb2e2a7",
+        "createdAt": "2021-06-01T15:17:02.395Z",
+        "description": {
+            "en": "testyy",
+            "tr": "testyy"
+        },
+        "interval": 1,
+        "intervalType": 3,
+        "lastCalculationDate": "2021-06-01T15:17:02.386Z",
+        "name": "5379826367",
+        "segment": 16118,
+        "status": 100,
+        "type": 2,
+        "version": 1
+    },
+    {
+        "__v": 0,
+        "_id": "60b76a91ba8fe5c87fb314ce",
+        "actions": [
+            {
+                "actionDate": "2021-06-02T11:25:05.768Z",
+                "actionUser": "602e78635bd94974aeda5948",
+                "clientList": "60b76a32ba8fe543f8b31469",
+                "version": 1
+            },
+            {
+                "actionDate": "2021-07-05T12:07:01.663Z",
+                "actionUser": "5fe1c8b32b49de69fa1c667b",
+                "clientList": "60b4fdcfd7c922c042fa1f84",
+                "version": 2
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "60b4fdcfd7c922c042fa1f84",
+        "createdAt": "2021-06-02T11:25:05.772Z",
+        "description": {
+            "en": "ueueu",
+            "tr": "ueueu"
+        },
+        "interval": 1,
+        "intervalType": 3,
+        "lastCalculationDate": "2021-06-02T11:25:05.768Z",
+        "name": "testdi",
+        "segment": 16119,
+        "status": 300,
+        "type": 1,
+        "version": 2
+    },
+    {
+        "__v": 0,
+        "_id": "60bf56a09090a445723d9e80",
+        "actions": [
+            {
+                "actionDate": "2021-06-08T11:38:08.807Z",
+                "actionUser": "600699553711e9b8c311fc4c",
+                "clientList": "5f7b1c9c7a76f59e7a70e346",
+                "version": 1
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "5f7b1c9c7a76f59e7a70e346",
+        "createdAt": "2021-06-08T11:38:08.815Z",
+        "description": {
+            "en": "a",
+            "tr": "a"
+        },
+        "interval": 1,
+        "intervalType": 3,
+        "lastCalculationDate": "2021-06-08T11:38:08.807Z",
+        "name": "aa",
+        "segment": 16130,
+        "status": 100,
+        "type": 2,
+        "version": 1
+    },
+    {
+        "__v": 0,
+        "_id": "60bf8bf29090a481b03dbef7",
+        "actions": [
+            {
+                "actionDate": "2021-06-08T15:25:38.866Z",
+                "actionUser": "600699553711e9b8c311fc4c",
+                "clientList": "6083d81b417345cbd1cc54f3",
+                "version": 1
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "6083d81b417345cbd1cc54f3",
+        "createdAt": "2021-06-08T15:25:38.871Z",
+        "description": {
+            "en": "çarşı",
+            "tr": "çarşı"
+        },
+        "interval": 1,
+        "intervalType": 3,
+        "lastCalculationDate": "2021-06-08T15:25:38.865Z",
+        "name": "Çarşı deneme",
+        "segment": 16135,
+        "status": 100,
+        "type": 2,
+        "version": 1
+    },
+    {
+        "__v": 0,
+        "_id": "61163ae1da9c304253cb9ec7",
+        "actions": [
+            {
+                "actionDate": "2021-08-13T09:26:57.428Z",
+                "actionUser": "600699553711e9b8c311fc4c",
+                "clientList": "5f855d4591e1d2781390f9bb",
+                "version": 1
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "5f855d4591e1d2781390f9bb",
+        "createdAt": "2021-08-13T09:26:57.436Z",
+        "description": {
+            "en": "a",
+            "tr": "a"
+        },
+        "interval": 1,
+        "intervalType": 3,
+        "lastCalculationDate": "2021-08-13T09:26:57.428Z",
+        "name": "batudenem",
+        "segment": 16219,
+        "status": 300,
+        "type": 1,
+        "version": 1
+    },
+    {
+        "__v": 0,
+        "_id": "6166831763b809c4e20091c3",
+        "actions": [
+            {
+                "actionDate": "2021-10-13T06:56:23.733Z",
+                "actionUser": "600699553711e9b8c311fc4c",
+                "clientList": "60abcf9d9b247e3b53ec8061",
+                "version": 1
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "60abcf9d9b247e3b53ec8061",
+        "createdAt": "2021-10-13T06:56:23.743Z",
+        "description": {
+            "en": "wfw",
+            "tr": "swfd"
+        },
+        "interval": 1,
+        "intervalType": 3,
+        "lastCalculationDate": "2021-10-13T06:56:23.733Z",
+        "name": "debemnebatu",
+        "segment": 21948,
+        "status": 300,
+        "type": 1,
+        "version": 1
+    },
+    {
+        "__v": 0,
+        "_id": "6166832763b809a9b10091c7",
+        "actions": [
+            {
+                "actionDate": "2021-10-13T06:56:39.698Z",
+                "actionUser": "600699553711e9b8c311fc4c",
+                "clientList": "5f868c0eb7e899e52895bfa2",
+                "version": 1
+            },
+            {
+                "actionDate": "2021-10-14T15:31:03.460Z",
+                "actionUser": "60053f298e7df64211d793bf",
+                "clientList": "5f868beeb7e89930df95bf99",
+                "version": 2
+            },
+            {
+                "actionDate": "2021-11-25T11:18:37.797Z",
+                "actionUser": "60053f298e7df64211d793bf",
+                "clientList": "5f85bae386e76bf5a63e6a7b",
+                "version": 3
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "5f85bae386e76bf5a63e6a7b",
+        "createdAt": "2021-10-13T06:56:39.717Z",
+        "description": {
+            "en": "sfvs",
+            "tr": "dvd"
+        },
+        "interval": 1,
+        "intervalType": 3,
+        "lastCalculationDate": "2021-10-13T06:56:39.698Z",
+        "name": "vdb",
+        "segment": 21949,
+        "status": 300,
+        "type": 1,
+        "version": 3
+    },
+    {
+        "__v": 0,
+        "_id": "6166d859c0f72b402e3491a4",
+        "actions": [
+            {
+                "actionDate": "2021-10-13T13:00:09.284Z",
+                "actionUser": "60053f298e7df64211d793bf",
+                "clientList": "5f6dda895cfaf330294cd565",
+                "version": 1
+            },
+            {
+                "actionDate": "2021-10-14T15:12:34.419Z",
+                "actionUser": "60053f298e7df64211d793bf",
+                "clientList": "5f7b1c9c7a76f59e7a70e346",
+                "version": 2
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "5f7b1c9c7a76f59e7a70e346",
+        "createdAt": "2021-10-13T13:00:09.295Z",
+        "description": {
+            "en": "Mertcan Test",
+            "tr": "Mertcan Test"
+        },
+        "interval": 30,
+        "intervalType": 3,
+        "lastCalculationDate": "2021-10-13T13:00:09.284Z",
+        "name": "Whale List 300",
+        "segment": 21951,
+        "status": 100,
+        "type": 1,
+        "version": 2
+    },
+    {
+        "__v": 0,
+        "_id": "6166f218664d76759aa59e94",
+        "actions": [
+            {
+                "actionDate": "2021-10-13T14:50:00.007Z",
+                "actionUser": "600699553711e9b8c311fc4c",
+                "clientList": "5f855f4e91e1d2667190fa27",
+                "version": 1
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "5f855f4e91e1d2667190fa27",
+        "createdAt": "2021-10-13T14:50:00.017Z",
+        "description": {
+            "en": "wefw",
+            "tr": "sefw"
+        },
+        "interval": 1,
+        "intervalType": 3,
+        "lastCalculationDate": "2021-10-13T14:50:00.007Z",
+        "name": "sfwf",
+        "segment": 21952,
+        "status": 300,
+        "type": 1,
+        "version": 1
+    },
+    {
+        "__v": 0,
+        "_id": "618133ee4fead01b88ab192c",
+        "actions": [
+            {
+                "actionDate": "2021-11-02T12:49:50.987Z",
+                "actionUser": "60053f298e7df64211d793bf",
+                "clientList": "5f6dda895cfaf330294cd565",
+                "version": 1
+            },
+            {
+                "actionDate": "2021-11-03T12:16:42.660Z",
+                "actionUser": "60053f298e7df64211d793bf",
+                "clientList": "5f7b1c9c7a76f59e7a70e346",
+                "version": 2
+            }
+        ],
+        "clientCount": 0,
+        "clientList": "5f7b1c9c7a76f59e7a70e346",
+        "createdAt": "2021-11-02T12:49:50.996Z",
+        "description": {
+            "en": "Whale Liste 1",
+            "tr": "Whale Liste 1 32123123"
+        },
+        "interval": 1,
+        "intervalType": 3,
+        "lastCalculationDate": "2021-11-02T12:49:50.986Z",
+        "name": "Whale Segment 1",
+        "segment": 22041,
+        "status": 300,
+        "type": 1,
+        "version": 2
+    }
+]

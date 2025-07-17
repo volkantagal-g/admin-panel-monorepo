@@ -1,0 +1,30 @@
+import { PageHeader, Col, Row, Button } from 'antd';
+import { PlusOutlined } from '@ant-design/icons';
+import { useTranslation } from 'react-i18next';
+import { Link } from 'react-router-dom';
+
+import { ROUTE } from '@app/routes';
+
+const Header = () => {
+  const { t } = useTranslation('transferGroupPage');
+
+  return (
+    <Row>
+      <Col flex={1}>
+        <PageHeader
+          className="p-0 page-title"
+          title={t('PAGE_TITLE.TRANSFER_GROUP.LIST')}
+        />
+      </Col>
+      <Col>
+        <Link to={ROUTE.TRANSFER_GROUP_NEW.path}>
+          <Button type="primary" icon={<PlusOutlined />}>
+            {t('transferGroupPage:NEW')}
+          </Button>
+        </Link>
+      </Col>
+    </Row>
+  );
+};
+
+export default Header;

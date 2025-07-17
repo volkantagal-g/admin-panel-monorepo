@@ -1,0 +1,68 @@
+{
+  "ALERT_MESSAGE": "Günlük Ödeme ve Günlük Gece Ödemesi tutarları “Ödenmemiş” veriler için gösterilmemektedir. İlgili gün sonlanana kadar günlük ödeme tutarlarını belirleyemeyiz. Tablo içerisindeki restoran sayıları ve ödeme tutarları yaklaşık değerlerdir.",
+  "BANK_DATA": {
+    "BANK": "Banka",
+    "BANK_ACCOUNT_INFO": "Banka Hesap Bilgileri",
+    "CURRENT_ACCOUNT_AMOUNT": "Güncel Hesap Bakiyesi",
+    "MIN_AMOUNT_TO_TRANSFER_LABEL": "Bankaya Yatırılacak Min. Tutar",
+    "TITLE": "Günün Verileri"
+  },
+  "ERROR_REPORT": "Hata raporu",
+  "PAYBACK_AMOUNT_CHART": {
+    "TITLE": "Restoran Ödeme Tutarı"
+  },
+  "PAYBACK_DATA": {
+    "AFTERNOON": {
+      "ESTIMATED_PAYBACK_AMOUNT": "Tahmini Öğlen Ödeme Tutarı",
+      "PAYBACK_AMOUNT": "Öğlen Ödeme Tutarı",
+      "PAYBACK_BANK": "Ödeme Yapılan Banka",
+      "PAYBACK_STATUS": "Öğlen Ödemeleri Durum",
+      "RESTAURANT_COUNT": "Restoran Sayısı (Öğlen Verisi)"
+    },
+    "ESTIMATED_PAYBACK_AMOUNT": "Tahmini Ödeme Tutarları",
+    "NIGHT": {
+      "ESTIMATED_PAYBACK_AMOUNT": "Tahmini Gece Ödeme Tutarı",
+      "PAYBACK_AMOUNT": "Gece Ödeme Tutarı",
+      "PAYBACK_BANK": "Ödeme Yapılan Banka",
+      "PAYBACK_STATUS": "Gece Ödemeleri Durum",
+      "RESTAURANT_COUNT": "Restoran Sayısı (Gece Verisi)"
+    },
+    "PAID_AMOUNT": "Ödenen Tutar",
+    "PAYBACK_DATE_LABEL": "Ödeme Tarihi",
+    "TITLE": "Ödeme Verileri",
+    "TOOLTIP": "Ödemeler her gün 03.00 ve 13.00 olacak şekilde başlatılmaktadır. Ödeme verileri günlük kümülatif veriyi içermektedir.",
+    "TOTAL_PAID_PAYBACK_AMOUNT": "Toplam Ödenen Tutar",
+    "TOTAL_PAYBACK_AMOUNT": "Toplam Ödeme Tutarı",
+    "TOTAL_RESTAURANT_COUNT": "Toplam Restoran Sayısı",
+    "TOTAL_UNPAID_PAYBACK_AMOUNT": "Toplam Kalan Tutar",
+    "UNPAID_AMOUNT": "Kalan Tutar"
+  },
+  "PAYBACK_DURATION_CHART": {
+    "TITLE": "Restoran Ödeme Süresi",
+    "Y_AXIS_LABEL": "dk.",
+    "Y_AXIS_LABEL_SECONDS": "sn."
+  },
+  "PAYBACK_STATUS": {
+    "COMPLETED": "Tamamlandı",
+    "IN_PROGRESS": "Devam Ediyor",
+    "NOT_STARTED": "Başlamadı"
+  },
+  "PAYMENT_TABLE": {
+    "DEFERRED_PAYMENT_DATE": "Planlanan Ödeme Tarihi",
+    "DETAIL": "Detay",
+    "PAYMENT_STATUS": "Ödeme Durumu",
+    "RESTAURANT_COUNT": "Planlanan Restoran Sayısı",
+    "TITLE": "Ödeme Takvimi",
+    "TOTAL_PAYMENT_AMOUNT": "Planlanan Ödeme Tutarı"
+  },
+  "RESTAURANT_COUNT_CHART": {
+    "PAID_RESTAURANT_COUNT_LEGEND": "Ödemesi gerçekleşen restoran sayısı",
+    "TITLE": "Restoran Sayısı",
+    "TOTAL_RESTAURANT_COUNT_LEGEND": "Ödeme planlanan restoran sayısı"
+  },
+  "TRANSACTION_TYPE_CHART": {
+    "DIRECT_TRANSFER_LEGEND": "Havale",
+    "EFT_TRANSFER_LEGEND": "Eft",
+    "TITLE": "İşlem Tipi (Eft/Havale)"
+  }
+}

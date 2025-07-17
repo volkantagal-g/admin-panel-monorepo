@@ -1,0 +1,45 @@
+import { createUseStyles } from 'react-jss';
+
+export default createUseStyles(theme => ({
+  table: {
+    minHeight: '20rem',
+    touchAction: 'none',
+    width: '100%',
+    backgroundColor: '#FAFAFA',
+    '& table': { width: '100% !important' },
+    '& .ant-table-expanded-row-fixed': { width: '100% !important' },
+    '& .ant-table-container': { overflowX: 'scroll' },
+    '& .ant-table-tbody > tr > td': { border: '1px solid #f0f0f0' },
+  },
+  thickBordersLeft: { borderLeft: '3px solid #EDEDED' },
+  citySelectButton: {
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    width: 'calc(100% + 12px)',
+    height: '100%',
+    background: 'transparent',
+    border: '0',
+    textAlign: 'start',
+    borderRadius: '4px',
+    transition: 'all 200ms ease',
+    margin: '0 -6px',
+    '&:hover': {
+      boxShadow: 'rgb(93 62 188 / 15%) 0px 0px 8px',
+      '& $selectIcon': { display: 'block' },
+    },
+  },
+  selectIcon: { display: 'none' },
+  cellPaddingReset: { borderLeft: '3px solid #EDEDED' },
+  alignRight: { textAlign: 'right' },
+  exportBtn: {
+    position: 'absolute',
+    right: 8,
+    top: 8,
+    cursor: 'pointer',
+    color: '#757575',
+    fontSize: 21,
+    '&:hover, &:active': { color: theme.color.primary },
+  },
+  busyWarehouse: { color: 'red' },
+}));

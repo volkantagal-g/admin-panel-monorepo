@@ -1,0 +1,14 @@
+{
+  "INACTIVATE_MESSAGE": "Transfer grubunu inaktif yapmak istediğine emin misin?",
+  "NEW": "Yeni Transfer Grubu",
+  "PRODUCTS": "Ürünler",
+  "PRODUCT_ID": "Ürün Id",
+  "PRODUCT_NAME": "Ürün Adı",
+  "TRANSFER_GROUP": "Transfer Grubu",
+  "TRANSFER_GROUPS": "Transfer Grupları",
+  "TRANSFER_GROUP_ID": "Transfer Grup Id",
+  "TRANSFER_GROUP_NAME": "Transfer Grup Adı",
+  "WAREHOUSES": "Depolar",
+  "WAREHOUSE_ID": "Depo Id",
+  "WAREHOUSE_NAME": "Depo Adı"
+}

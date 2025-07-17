@@ -1,0 +1,49 @@
+{
+  "ACTIONS": "Actions",
+  "ADD_OR_EDIT_PHOTOS": "Add or Edit Photos",
+  "ADD_OR_EDIT_VIDEOS": "Add or Edit Videos",
+  "APPLICANT": {
+    "IS_PROPERTY_OWNER": "Is Property Owner?",
+    "TITLE": "Applicant"
+  },
+  "CONFIRM": {
+    "SET_NOT_SUITABLE": "The proposal status will be change to not suitable with the evaluation. Do you want to continue?",
+    "SET_SUITABLE": "The proposal status will be change to suitable with the evaluation. Do you want to continue?"
+  },
+  "ENTER_PROPOSAL_NAME": "Enter proposal name",
+  "ERRORS": {
+    "PHONE_NUMBER_MUST_BE_10_DIGITS": "Phone number must be 10 digits.",
+    "PHOTOS_MUST_BE_IMAGE": "Photos must be image format."
+  },
+  "IS_CREATED_BY_ADMIN": "Show Only Created By Admin",
+  "LAND": "Land",
+  "NOT_SUITABLE": "Not Suitable",
+  "PROPERTY": {
+    "ADDRESS_DESCRIPTION": "Address Description",
+    "BASEMENT_NET_SQUARE_METER": "Basement Net Size (m²)",
+    "GROUND_FLOOR_NET_SQUARE_METER": "Ground Floor Net Size (m²)",
+    "HAS_BUILDING_USE_PERMIT": "Is there a building use permit?",
+    "HAS_REGISTRATION_CERTIFICATE": "Is there a building registration certificate?",
+    "IMMOVABLE_PROPERTY": "Immovable Property",
+    "MEZZANINE_NET_SQUARE_METER": "Mezzanine Net Size (m²)",
+    "OUTER_DOOR_NO": "Outer Door No",
+    "TAX_TYPE": "Tax Type",
+    "TITLE": "Property Info",
+    "TOTAL_NET_SQUARE_METER": "Total Net Size (m²)"
+  },
+  "PROPERTY_LOCATION": "Property Location",
+  "PROPOSAL": {
+    "INFO": "Proposal Info",
+    "NAME": "Proposal Name"
+  },
+  "PROPOSAL_DATE": "Proposal Date",
+  "PROPOSAL_NAME": "Proposal Name",
+  "STOPPAGE": "Stoppage",
+  "STORE": "Store",
+  "SUITABLE": "Suitable",
+  "TAX": "KDV",
+  "TOTAL_NET_SQUARE_METER": "Total Net Square Meter",
+  "WAREHOUSE_PROPOSAL_CREATED_ERROR": "An error occurred while creating the warehouse proposal.",
+  "WAREHOUSE_PROPOSAL_CREATED_SUCCESS": "Warehouse proposal created successfully.",
+  "WAREHOUSE_PROPOSAL_UPDATED_SUCCESS": "Warehouse proposal updated successfully."
+}

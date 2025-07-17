@@ -1,0 +1,88 @@
+export const mockedVKNId = '3940482658';
+
+export const mockedGetTobbGibRequest = {
+  failedRequests: [
+    47605195984,
+    49315195636,
+    3891809534,
+  ],
+  invalidRequests: [
+    30683923778,
+  ],
+  successRequests: [
+    {
+      ad: 'Anonim İsim',
+      adresBilgileri: [
+        {
+          adresTipi: '1',
+          adresTipiAciklamasi: 'İkametgah Adresi',
+          beldeBucak: '',
+          caddeSokak: 'AKIŞ SK.',
+          disKapiNo: '14',
+          icKapiNo: '15',
+          ilAdi: 'İSTANBUL',
+          ilKodu: '34',
+          ilceAdi: 'KADIKÖY',
+          ilceKodu: '1421',
+          koy: '',
+          mahalleSemt: 'GÖZTEPE MAH.',
+        },
+        {
+          adresTipi: '2',
+          adresTipiAciklamasi: 'İşyeri Adresi',
+          beldeBucak: '',
+          caddeSokak: 'KAZIM ÖZALP SK.',
+          disKapiNo: '23 A',
+          icKapiNo: '',
+          ilAdi: 'İSTANBUL',
+          ilKodu: '34',
+          ilceAdi: 'KADIKÖY',
+          ilceKodu: '1421',
+          koy: '',
+          mahalleSemt: 'SUADİYE MAH.',
+        },
+      ],
+      babaAdi: 'Baba',
+      dogumYeri: '1313',
+      durum: {
+        durumKodAciklamasi: 'işlem Başarılı.',
+        durumKodu: '1000',
+        hataDetayBilgisi: '',
+        sonuc: true,
+      },
+      faalTerkDurumu: '1',
+      iseBaslamaTarihi: '20230801',
+      isiBirakmaTarihi: '',
+      kimlikPotansiyel: '1',
+      kimlikUnvani: 'Anonim Kişi',
+      kurulusTarihi: '19940615',
+      NACEFaaliyetKoduveTanimi: [
+        {
+          faaliyetAdi: 'YİYECEK AĞIRLIKLI HİZMET VEREN KAFE VE KAFETERYALARIN FAALİYETLERİ',
+          faaliyetKodu: '561019',
+          sira: '1',
+        },
+        {
+          faaliyetAdi: 'DİĞER LOKANTA VE RESTORANLARIN (İÇKİLİ VE İÇKİSİZ) FAALİYETLERİ',
+          faaliyetKodu: '561008',
+          sira: '2',
+        },
+        {
+          faaliyetAdi: 'RADYO, TV, POSTA YOLUYLA VEYA İNTERNET ÜZERİNDEN YAPILAN PERAKENDE TİCARET',
+          faaliyetKodu: '479114',
+          sira: '3',
+        },
+      ],
+      sirketinTuru: '1',
+      soyad: 'Anonimoğlu',
+      tamDarMukellefiyet: '1',
+      tckn: 'anonim-tc',
+      unvan: '',
+      vergiDairesiAdi: 'ERENKÖY VERGİ DAİRESİ MÜD.',
+      vergiDairesiKodu: '034255',
+      vkn: '7730298162',
+      mersisNo: '1412630175000001',
+      mersisDurum: '3',
+    },
+  ],
+};

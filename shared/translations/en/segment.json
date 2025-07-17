@@ -1,0 +1,43 @@
+{
+  "ADD_CLIENTS_TO_SEGMENT": "Add Clients to Segment",
+  "ADD_CLIENT_IDS": "Add Client IDs",
+  "ADD_OR_REMOVE_CLIENTS": "Add/Remove",
+  "ADD_SEGMENT_ID": "Add Segment ID",
+  "CLIENTS_ADDED_TO_SEGMENT_SUCCESSFULLY": "Clients added to segment successfully.",
+  "CLIENTS_REMOVED_FROM_SEGMENT_SUCCESSFULLY": "Clients removed from segment successfully.",
+  "CLIENT_COUNT": "Client Count",
+  "CONFIRM": {
+    "ADDING_SEGMENT_TO_CLIENTS": "You are going to add this segment to imported clients. Are you sure?",
+    "ARE_YOU_SURE_TO_DELETE": "Are you sure to delete segment?",
+    "REMOVING_SEGMENT_FROM_CLIENTS": "You are going to remove this segment from imported clients. Are you sure?",
+    "RESET_CLIENTS_OF_SEGMENT": "This action will remove this segment from all clients. Are you sure?"
+  },
+  "CSV_UPLOAD": "CSV UPLOAD",
+  "ERR_CHECK_CSV_FORMAT": "Check CSV format!",
+  "EXPIRATION_STATUS_FORM": "Expiration Status Info",
+  "EXPIRED_AT": "Expired At",
+  "EXPIRES_AT": "Expires At",
+  "FRAUD_SEGMENT_MANAGEMENT": "Fraud Segment Management",
+  "GET_CLIENT_COUNT": "Get Client Count",
+  "IMPORT_CLIENTS_FROM_CSV": "Import clients from CSV",
+  "INDEFINITE_EXPIRATION_FORM": "Indefinite Expiration Info",
+  "INVALID_SEGMENT_ID_PLEASE_CHECK_VALUES": "Invalid segment ID. Please check values.",
+  "IS_EXPIRED": "Is Expired?",
+  "IS_INDEFINITE_EXPIRATION_ENABLED": "Is Indefinite Expiration Enabled?",
+  "NEW_SEGMENT": "New Segment",
+  "REMOVE_CLIENTS_FROM_SEGMENT": "Remove Clients from Segment",
+  "REMOVE_SEGMENT_FROM_CLIENTS_PENDING_MESSAGE": "Removing segment from clients in batches of {{chunkSize}}. This may take a while.",
+  "RESET_CLIENTS_OF_SEGMENT": "Reset",
+  "SEGMENT": "Segment",
+  "SEGMENT_INFO": "Segment Info",
+  "SEGMENT_STATS_REQUEST_SUCCESSFULLY_SENT": "Segment content information will be sent to your email address as soon as possible.",
+  "SEGMENT_TYPE": "Segment Type",
+  "SEGMENT_TYPES": {
+    "CLIENT": "Client",
+    "POPUP": "Popup",
+    "PROMO": "Promo"
+  },
+  "SEND": "Send",
+  "SEND_SEGMENT_INFO_EMAIL": "Send Segment Stats Email",
+  "TEST_EMAIL_DOMAIN_ALERT": "Email domain should be under @getir.com domain"
+}

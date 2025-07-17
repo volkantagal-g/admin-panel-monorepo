@@ -1,0 +1,123 @@
+{
+  "ATTENDANCE_LEGEND": {
+    "ANATOLIAN_OFFICE": "Anadolu Yakası Ofis",
+    "ANKARA_OFFICE": "Ankara Ofis",
+    "ETILER_OFFICE": "Etiler Ofis",
+    "FIELD": "Saha",
+    "IZMIR_OFFICE": "İzmir Ofis",
+    "REMOTE": "Uzaktan"
+  },
+  "AT_OFFICE_DAYS": "Ofis Günü",
+  "BUSINESS_UNIT": "İş Birimi",
+  "CANNOT_BE_EMPTY": "Bu alan boş bırakılamaz!",
+  "CAPACITY_PLAN_EXCLUSION_WARNING": "Yüklediğiniz plan resmi tatil tarihi, hafta sonu ve/veya geçmiş veri içermektedir.",
+  "CAPACITY_SUCCESSFULLY_UPLOADED": "Kapasite başarıyla yüklendi",
+  "CHECKIN_CHECKOUT_TYPES": {
+    "100": "Giriş",
+    "200": "Çıkış",
+    "300": "Giriş-Çıkış"
+  },
+  "CHECKIN_OFFICE": "Giriş Yaptığı Ofis",
+  "CONFIRMATION": {
+    "ARE_YOU_SURE": "Kapasite Planını yüklemek istediğinize emin misiniz?",
+    "DELETE_A_PLAN": "Plan silinecek, onaylıyor musun?",
+    "PAST_DATE": "Kapasite Planı geçmiş tarihe ilişkin bir gün içeriyor. Onaylıyor musunuz?",
+    "WEEKEND": "Kapasite Planı hafta sonuna denk gelen bir gün içeriyor. Onaylıyor musunuz?"
+  },
+  "CSV_HEADERS": {
+    "ARRIVAL": "Giriş",
+    "BUSINESS_UNIT": "İş Birimi",
+    "DATE": "Tarih",
+    "DEPARTMENT": "Departman",
+    "DURATION": "Süre",
+    "EMPLOYEE_EMAIL": "Çalışan Email",
+    "EMPLOYEE_NAME": "Çalışan",
+    "EXIT": "Çıkış",
+    "LINE_MANAGER": "Yönetici",
+    "OFFICE": "Ofis",
+    "POSITION_LEVEL": "Pozisyon Seviyesi",
+    "SUPERVISOR": "Yönetici"
+  },
+  "DAILY_STATS_INVITE_STATUSES": {
+    "INVITED": "Davetli",
+    "NOT_INVITED": "Davetli Değil",
+    "NOT_PLANNED": "Planlanmadı"
+  },
+  "DAILY_STATS_STATUSES": {
+    "NOT_PLANNED": "Planlanmadı",
+    "NO_SHOW": "Gelmedi",
+    "ON_LEAVE": "İzinli",
+    "ON_SITE": "Ofiste",
+    "REMOTE": "Uzaktan"
+  },
+  "DATE_FILTER_INTERVALS": {
+    "LAST_7_DAYS": "7 Gün",
+    "TODAY": "Bugün",
+    "YESTERDAY": "Dün"
+  },
+  "DAY_LIMITATION_FOR_CSV_DOWNLOAD": "1 aydan uzun süreli geçmiş veri indirilememektedir. Lütfen daha kısa bir zaman aralığı ile tekrar deneyiniz.",
+  "DOWNLOAD_TEMPLATE": "Örnek Dosya İndir",
+  "EMPLOYEE_DAILY_STAT_STATUS": "Durum",
+  "EMPLOYEE_DAILY_STAT_STATUSES": {
+    "AT_ANOTHER_OFFICE": "Başka Ofiste",
+    "AT_OFFICE": "Ofiste",
+    "ON_LEAVE": "İzinli",
+    "REMOTE": "Uzaktan"
+  },
+  "EVENTS": "Etkinlik",
+  "EXCLUDE_PAST_DATA": "Geçmiş Tarihleri Kaldır",
+  "EXCLUDE_PUBLIC_HOLIDAYS": "Resmi Tatilleri Kaldır",
+  "EXCLUDE_WEEKENDS": "Haftasonlarını Kaldır",
+  "INVALID_DATE_COLUMN": "Sütun adı olması gerekenden farklı, lütfen kontrol edip tekrar yükleyiniz. Tarih kolonu formatı YYYY/AA/GG şeklinde olmalı.",
+  "INVALID_EMAILS_MESSAGE": "Aşağıdaki e-mail adresi / adresleri bulunamadı, lütfen kontrol edip tekrar yükleyiniz.",
+  "INVITATION_STATUS": "Davet Durumu",
+  "INVITED": "Davetli",
+  "INVITED_OFFICE": "Davet Edildiği Ofis",
+  "LAST_ATTENDED_OFFICE": "Giriş Yaptığı Ofis",
+  "LAST_ATTENDED_OFFICE_SHORT": "Giriş Yap. Ofis",
+  "LAST_DATA_FETCH_TIME": "Sayfa Güncelleme Zamanı",
+  "LAST_DATA_UPDATE_TIME": "Veri Güncelleme Zamanı",
+  "LOCATION": "Lokasyon",
+  "MAIL_LOCATION": "Ana Lokasyon",
+  "MALFORMED_EMAIL_ADDRESSES": "Geçersiz e-posta formatı tespit edildi. Satır numarası: {{ formattedInvalidEmails }}",
+  "MAX_LIMIT_VALIDATION": "{{ employeeCount }} kişi için planlama yapılabilecek gün sayısı maksimum {{ maxAllowedDayCount }}  olabilir.",
+  "NO_SHOW": "Gelmedi",
+  "OFFICE_ARRIVAL_TIME": "Giriş",
+  "OFFICE_EXIT_TIME": "Çıkış",
+  "ON_LEAVE": "İzinli",
+  "ON_SITE": "Ofiste",
+  "PH_BUSINESS_UNIT_SELECTION": "İş Birimi Seçimi",
+  "PH_TOP_MANAGER_SELECTION": "Tepe Yönetici Seçimi",
+  "PRESENCE_RATIO": "Gelme Oranı",
+  "PRESENCE_RATIO_TOOLTIP": "Bu oran ofise davetli çalışanlar için gösterilmektedir.<br /><br />(Davetliyken ofiste olunan gün sayısı) / (Davet edilen gün sayısı - izinli - ofis dışı çalışma) %",
+  "STATS": {
+    "AVERAGE_DURATION_SPENT_AT_THE_OFFICE": "Ortalama Süre",
+    "EMPLOYEES_AT_THE_OFFICE_COUNT": "Ofiste",
+    "EMPLOYEES_CURRENTLY_AT_THE_OFFICE_COUNT": "Anlık",
+    "EMPLOYEES_SHOULD_BE_AT_THE_OFFICE_COUNT": "Davetli",
+    "PRESENCE_RATIO": "Gelme Oranı"
+  },
+  "SWITCH_OWN_OFFICE": "Kendi Ofisi",
+  "SWITCH_VISITOR": "Ziyaretçi",
+  "TOOLTIP": {
+    "AVERAGE_DURATION": "Yalnızca ofise davetli çalışanlar için hesaplanır",
+    "DOWNLOAD_CSV_WITH_FILTERS": "Veriler ekrandaki filtreler baz alınarak indirilecektir.",
+    "INVITED": "İzinli {{onLeave}} ve uzaktan çalışan {{noShowExcuse}} kişiler ile beraber toplam planlanan kişi sayısı {{invited}}",
+    "INVITED_ANOTHER_OFFICE_BUT_AT_SELECTED_OFFICE": "{{count}} - başka ofise davet edildi ama seçilen ofiste",
+    "INVITED_SELECTED_OFFICE_BUT_AT_ANOTHER_OFFICE": "{{count}} - seçilen ofise davet edildi ama başka ofiste",
+    "IN_OFFICE_WHERE_THEY_ARE_INVITED": "{{count}} - davet edildiği ofiste",
+    "IN_OFFICE_WHERE_THEY_ARE_NOT_INVITED": "{{count}} - davet edilmediği ofiste",
+    "LAST_ATTENDED_OFFICE": "Seçili gün için son giriş yaptığı ofis bilgisini göstermektedir.",
+    "MANIPULATED_DAILY_STAT": "Admin kullanıcı tarafından Business Partner’ın bilgisi dahilinde değişiklik yapılmıştır.",
+    "NOT_INVITED_BUT_AT_SELECTED_OFFICE": "{{count}} - davet edilmedi ama seçilen ofiste",
+    "ONLY_INVITED_AND_ON_LEAVE_PEOPLE_COUNTED": "Davetli listesinden çıkarılan izinliler",
+    "ON_SITE_BUT_NOT_INVITED": "{{count}} - herhangi bir ofiste ama davet edilmedi",
+    "TOTAL_NUMBER_OF_ON_SITE": "{{count}} - ofise giriş yapmış toplam çalışan sayısı"
+  },
+  "TRANSACTION_SOURCE_TYPES": {
+    "1": "Turnike",
+    "2": "VPN",
+    "3": "QR"
+  },
+  "UNACCEPTED_VALUE": "Geçersiz bir değer girdiniz ({{ value }})"
+}

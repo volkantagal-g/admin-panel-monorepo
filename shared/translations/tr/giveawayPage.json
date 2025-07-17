@@ -1,0 +1,20 @@
+{
+  "COLUMN": {
+    "DEVICE_STATUS": "Cihaz Statüsü",
+    "FRAUD_STATUS": "Suistimal Statüsü",
+    "GIVEAWAY_PRODUCT": "Çekiliş Ürünü",
+    "MOBILE_NUMBER": "Mobil Numarası",
+    "PRODUCT_STATUS": "Ürün Statüsü"
+  },
+  "FRAUD": "Suistimal",
+  "GET_DISCOUNT_CODE": "İndirim Kodunu Çek",
+  "NOTIFICATIONS": {
+    "DELIVER_SUCCESS": "Ödülü teslim edebilirsin."
+  },
+  "NOT_FRAUD": "Suistimal Değil",
+  "NOT_REDEEMED": "Toplanmadı",
+  "REDEEM": "Topla",
+  "REDEEMED": "Toplandı",
+  "REDEEMED_PRODUCT": "Ürün teslim edilmiş",
+  "TITLE": "Çekiliş Kazananları"
+}

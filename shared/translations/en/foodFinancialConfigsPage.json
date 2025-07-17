@@ -1,0 +1,16 @@
+{
+    "CONFIRM_MODAL_SUBTITLE": "The following changes will be applied. Do you want to continue?",
+    "CONFIRM_MODAL_TITLE": "Warning Message",
+    "CONFIRM_WARNING": "Please make at least one change!",
+    "PAGE_TITLE": "Financial Configs",
+    "TABLE": {
+        "HEADERS": {
+            "CONFIG_DETAILS": "Config Details",
+            "CONFIG_NAME": "Config Name",
+            "CONFIG_VALUE": "Config Value",
+            "NEW_VALUE": "New Value",
+            "PREVIOUS_VALUE": "Previous Value"
+        }
+    },
+    "UPDATE_CONFIG_SUCCESS": "The configs has been updated successfully."
+}

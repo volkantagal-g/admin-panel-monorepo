@@ -1,0 +1,52 @@
+{
+  "DATE_RANGE_TYPE_TITLE": "Date Range Type",
+  "DRAWER": {
+    "APPLY_STYLE": "Apply Style",
+    "CLASSES": "Classes",
+    "SELECT_CLASSIFICATION_TYPE": "Select classification type",
+    "SELECT_PALETTE_TYPE": "Select palette type",
+    "TITLE": "Style Designer"
+  },
+  "FETCH_RESULT": "Fetch Result",
+  "GEOBOUNDARY_TYPES_TITLE": "Geoboundary Types",
+  "GETIR_POLYGON_TYPES": {
+    "0": "None",
+    "1": "Subregion",
+    "2": "Get Items disabled",
+    "5": "Promo disabled",
+    "7": "Checkout disabled",
+    "9": "Extended Region",
+    "10": "Vehicle type based disabled",
+    "17": "Delivery Slots"
+  },
+  "GETIR_SUBREGION_INTERVAL_TYPES": {
+    "1100": "Daytime",
+    "2100": "Early Night",
+    "2200": "Late Night",
+    "2300": "Early Morning"
+  },
+  "GET_POLYGONS": "Get Polygons",
+  "LEGEND_TITLE": "Legend",
+  "POLYGON_ID": "Polygon ID",
+  "RANGE_PICKER_TITLE": "Date Range",
+  "REMOVE_POLYGONS": "Remove Polygons",
+  "SELECT_CITY_TOOLTIP": "You must select a city to see the warehouses on map",
+  "SELECT_DATE_RANGE_TYPE": "Please select date range type.",
+  "SELECT_GEOBOUNDARY_TYPE": "Please select geoboundary type.",
+  "SELECT_INTERVAL": "Please select a date interval",
+  "SELECT_INTERVAL_TYPE": "Subregion Interval Type",
+  "SELECT_STAT_TYPES": "Please select statistics types.",
+  "SHOW_WAREHOUSE_MARKERS_OF_MAP": "Hide Warehouses",
+  "SHOW_WAREHOUSE_MARKERS_ON_MAP": "Show Warehouses",
+  "STAT_TYPES": {
+    "appOpen": "Application Open Count",
+    "downloads": "Application Downloads Count",
+    "missedOrder": "Missed Order Count",
+    "missedOrderRatio": "Missed Order Ratio",
+    "order": "Order Count",
+    "selectAll": "Select All"
+  },
+  "STAT_TYPES_TITLE": "Statistic Types",
+  "SUBREGION_INTERVAL_TYPE_TITLE": "Subregion Intervals",
+  "TITLE": "Location Intelligence"
+}

@@ -1,0 +1,27 @@
+{
+  "CHANGING_FIELD": {
+    "COUNTRYGSMCODE": "Personelin GSM Ülke Kodu",
+    "HOMEADDRESS_DESCRIPTION": "Açık Adres",
+    "PERSONALGSM": "Kişisel GSM",
+    "RELATIVE_COUNTRYGSMCODE": "Yakının GSM Ülke Kodu",
+    "RELATIVE_GSM": "Yakın GSM",
+    "RELATIVE_NAME": "Yakın İsmi",
+    "RELATIVE_RELATION": "Yakınlık Derecesi"
+  },
+  "COLUMNS": {
+    "CHANGING_FIELD": "Değişen Bilgi",
+    "FRANCHISE": "Bayi",
+    "PERSON_NAME": "Personel Adı",
+    "REQUEST_DATE": "Talep Tarihi",
+    "REQUEST_STATUS": "Talep Durumu"
+  },
+  "FRANCHISE": "Bayi",
+  "INFORMATION_EDIT_REQUESTS": "Bilgi Değişiklik Talepleri",
+  "INFORMATION_TO_BE_CHANGED": "Değiştirilecek Bilgi",
+  "NEW_PERSON_APPLICATIONS": "Personel Başvuruları",
+  "NEW_VALUE": "Güncel",
+  "OLD_VALUE": "Mevcut",
+  "REJECT_NOTE": "İptal Notu",
+  "REJECT_NOTE_ERROR": "Bu alan zorunludur",
+  "WORKER_TYPE": "Çalışan Tipi"
+}

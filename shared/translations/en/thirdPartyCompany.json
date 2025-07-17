@@ -1,0 +1,70 @@
+{
+  "ADD_ROUTE": "Add Route",
+  "BACK_TO_COMPANY_CHANGE_LOGS": "< Back to Company Change Logs",
+  "BUTTONS": {
+    "ACTIVATE": "Activate",
+    "DELETE": "Delete",
+    "DETAIL": "Detail",
+    "INACTIVATE": "Inactivate",
+    "NEW_THIRD_PARTY_COMPANY": "New 3rd Party Company"
+  },
+  "CHANGE_LOG_TABLE": {
+    "ACTION_TAKEN_BY": "Action Taken By",
+    "ACTION_TYPE": "Type",
+    "OLD_AND_NEW_VALUE": "Old/New Value",
+    "TIMESTAMP_UTC": "Timestamp (UTC)",
+    "UNIQUE_IDENTIFIER": "Unique Identifier"
+  },
+  "CHANGE_LOG_TYPE_TITLES": {
+    "COMPANY": "Company Change Logs",
+    "CREDENTIAL": "Credential Change Logs"
+  },
+  "CREDENTIALS_CHANGE_LOG_TITLE_MESSAGE": "Credential logs are fetched by the Credentials Section buttons above",
+  "NEW_VALUE": "New Value",
+  "OLD_VALUE": "Old Value",
+  "PAGE": {
+    "DETAIL": {
+      "ACTIVATED": "Active",
+      "ACTIVATE_CREDENTIAL": "Activate this credential",
+      "CANNOT_GENERATE_SIGNATURE": "Cannot Generate Signature: Credential is inactive!",
+      "COPIED": "Copied",
+      "COPY": "Copy",
+      "CREDENTIALS": "Credentials",
+      "DEACTIVATED": "Inactive",
+      "DEACTIVATE_CREDENTIAL": "Inactivate this credential",
+      "DELETE": "Delete",
+      "DELETE_CREDENTIAL": "Delete this credential",
+      "ENVIRONMENT_KEY": "Environment Key",
+      "GENERAL_INFO": "General Info",
+      "GENERAL_INFO_LAST_UPDATE": "Last updated date",
+      "GENERATE_SIGNATURE": "Generate Signature",
+      "JSON": "JSON",
+      "NEW_CREDENTAL_PLACEHOLDER": "Select an environment",
+      "NEW_CREDENTIAL": "New Credential",
+      "SIGNATURE": "Signature",
+      "SIGNATURE_DISPLAY_WARNING": "Will be disappeared in {{ displayTimer }} seconds"
+    },
+    "LIST": {
+      "COLS": {
+        "ACTION": "Action",
+        "DESCRIPTION": "Description",
+        "NAME": "Name",
+        "STATUS": "Status"
+      }
+    },
+    "NEW": {
+      "ALLOWED_ROUTES": "Allowed Routes",
+      "FORM_VALIDATION": {
+        "AT_LEAST_1": "At least 1",
+        "REQUIRED": "Required"
+      },
+      "INFO_TITLE": "3rd Party Company Info"
+    }
+  },
+  "ROUTE_GUIDANCE": [
+    "Your route should look like \"GET:/kustomer/client\".",
+    "First choose your HTTP method, then continue entering the route.",
+    " If your route contains parameters (e.g. orders/[order_id]/products), use .* in the place of [id]. For example, orders/.*/products."
+  ],
+  "SHOW_LOGS": "Show Logs"
+}

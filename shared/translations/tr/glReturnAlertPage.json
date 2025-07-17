@@ -1,0 +1,47 @@
+{
+  "ALERT_COUNT": "Alert Adedi",
+  "ALERT_DATE": "Alert Saati",
+  "ALERT_TYPE": "Alert Tipi",
+  "ASSIGNED_COURIER": "Atanan Kurye",
+  "BUTTON_RESOLVE_ALERT": "Uyarıyı Çöz",
+  "BUTTON_TRY_COURIER_REASSIGN": "Kurye Atamayı Yeniden Dene",
+  "CITY": "Şehir",
+  "DURATION": "Süre (dk)",
+  "FAILED_ASSIGNMENT_ALERT": "Başarısız Atama Uyarısı (%)",
+  "FILTER": {
+    "ALERT_TYPE": {
+      "DESC": "Alert Tipi Seçiniz",
+      "TITLE": "Alert Tipi"
+    },
+    "CITY_DESC": "Şehir Seçiniz",
+    "SLOT_DATE": "Slot Tarihi",
+    "VEHICLE_TYPE": {
+      "DESC": "Araç Tipi Seçiniz",
+      "TITLE": "Araç Tipi"
+    },
+    "WAREHOUSE_DESC": "Depo Seçiniz"
+  },
+  "LAST_ASSIGN_DATE": "Son Atama Denemesi",
+  "LAST_UPDATED": "Son Güncelleme",
+  "NEXT_ASSIGN_DATE": "Bir Sonraki Atama",
+  "PLANNED_COURIER": "Planlanan Kurye",
+  "PLANNED_RETURN": "Planlanan İade",
+  "PLANNED_ROUTE": "Planlanan Rota",
+  "RETRY_COURIER_ASSIGNMENT_MESSAGE": "Kurye Atamayı Yeniden Dene Başarısız",
+  "RETURN_DELAY": "Geciken İade",
+  "SLOT": "Slot",
+  "SLOT_ALERT": "Slot Doldu Uyarısı (%)",
+  "SLOT_DATE": "Slot Tarihi",
+  "SLOT_END": "Slot Bitiş",
+  "SLOT_OCCUPANCY": "Slot Doluluk (%)",
+  "SLOT_START": "Slot Başlangıç",
+  "TOOLTIP_FAILED_ASSIGNMENT_ALERT": "Kurye atama gerçekleştirilemedi alert oranı",
+  "TOOLTIP_PLANNED_RETURN": "Alınan iade sipariş talep adedi",
+  "TOOLTIP_PLANNED_ROUTE": "Bu slotta gerçekleştirlecek toplam rota adedi/kurye adedi",
+  "TOOLTIP_RETURN_DELAY": "Geç başlayan slotlar sebebiyle geciken iade oranı",
+  "TOOLTIP_SLOT_ALERT": "Günlük x%'den fazla doluluk oranı",
+  "TOOLTIP_SLOT_OCCUPANCY": "Slot doluluk oranı",
+  "UPDATE_COURIER_PLAN": "Kurye Planını Güncelle",
+  "UPDATE_COURIER_PLAN_ERROR_MESSAGE": "Kurye Planı Güncelle Başarısız",
+  "WAREHOUSE": "Depo"
+}

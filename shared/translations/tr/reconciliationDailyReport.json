@@ -1,0 +1,19 @@
+{
+  "FILTER": {
+    "DOMAIN": {
+      "DESC": "Domain",
+      "TITLE": "Domain"
+    },
+    "POS_BANK": {
+      "DESC": "Pos Banka",
+      "TITLE": "Pos Banka"
+    },
+    "REPORT_CHECK_DATE": {
+      "TITLE": "Rapor Kontrol Tarihi"
+    },
+    "REPORT_REQUEST_DATE": {
+      "TITLE": "Rapor İletim Tarihi"
+    }
+  },
+  "STATEMENT_DATA_STATUS": "Durum"
+}

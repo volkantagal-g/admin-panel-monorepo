@@ -1,0 +1,30 @@
+{
+  "CODE": {
+    "COUNT": "Üretilecek Kod Sayısı",
+    "DESCRIPTION": "Kod Açıklaması",
+    "PREFIX": "Ön Ek",
+    "SEARCH_PROMO": "Kampanya Arayın",
+    "SYLLABLE_COUNT": "Hece Sayısı",
+    "TITLE": "Kod Başlığı",
+    "USE_LIMIT": "Kod Kullanım Limiti",
+    "VALIDITY_RANGE": "Kod Kullanım Geçerlilik Aralığı"
+  },
+  "CODE_ACTION_TYPES": {
+    "ASSIGN_SEGMENT": "Segment Tanımla",
+    "DEFINE_PROMOTION": "Kampanya Tanımla",
+    "SHOW_ANNOUNCEMENT": "Duyuru Göster"
+  },
+  "ERRORS": {
+    "IF_SYLLABLE_COUNT_0_THEN_COUNT_MUST_BE_1": "Eğer hece sayısı 0 olursa yalnızca 1 tane kod üretilebilir"
+  },
+  "SEGMENTED_CODE_GENERATOR_FORM": "Segmentli Kod Üretme Formu",
+  "SEGMENT_CREATED": "Oluşturulan segment: {{createdSegmentNumber}}",
+  "SEGMENT_NOT_FOUND": "Segment bulunamadı",
+  "SEGMENT_NUMBER": "Segment No",
+  "SELECT_ANNOUNCEMENT": "Duyuru Seçin",
+  "SELECT_CODE_ACTION_TYPE": "Girilen Kodun Yapacağı İşlemi Seçin",
+  "SELECT_PROMO_TARGET_DOMAIN_TYPE": "Kampanyanın Hedef Servis Tipini Seçin",
+  "SELECT_TIMEZONE": "Zaman Dilimi Seçimi",
+  "THIS_CODE_IS_SOLD": "Bu kod satıldı",
+  "TIMEZONE": "Zaman Dilimi"
+}

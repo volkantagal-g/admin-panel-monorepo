@@ -1,0 +1,43 @@
+export const THIRD_PARTY_COMPANY_CREDENTIAL_ENVIRONMENTS = {
+  DEV: 1,
+  PROD: 2,
+  TEST: 3,
+  STAGE: 4,
+};
+
+export const THIRD_PARTY_COMPANY_CREDENTIAL_ENVIRONMENTS_IN_STRINGS = {
+  DEV: 'dev',
+  PROD: 'prod',
+  TEST: 'test',
+  STAGE: 'stage',
+};
+
+export const THIRD_PARTY_COMPANY_STATUSES = {
+  DELETED: 0,
+  INACTIVE: 1,
+  ACTIVE: 2,
+};
+
+export const FORM_VALIDATION_RULES = {
+  REQUIRED: 0,
+  MIN_SELECTED_ITEMS: 1,
+  MIN_CHAR_LENGTH: 3,
+  MAX_CHAR_LENGTH: 4,
+};
+
+export const CHANGE_LOG_TYPE_ENUM = {
+  COMPANY: 'COMPANY',
+  CREDENTIAL: 'CREDENTIAL',
+};
+
+export const HTTP_VERBS = {
+  GET: 'GET:/',
+  HEAD: 'HEAD:/',
+  POST: 'POST:/',
+  PUT: 'PUT:/',
+  DELETE: 'DELETE:/',
+  CONNECT: 'CONNECT:/',
+  OPTIONS: 'OPTIONS:/',
+  TRACE: 'TRACE:/',
+  PATCH: 'PATCH:/',
+};

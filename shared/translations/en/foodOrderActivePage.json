@@ -1,0 +1,69 @@
+{
+  "DATA_TABLE": {
+    "ACTION": "Action",
+    "BASKET_SHORT": "Bskt",
+    "CHARGE_SHORT": "Chrg",
+    "CITY": "City",
+    "COURIER": "Courier",
+    "CUSTOMER": "Customer",
+    "G10": "G10",
+    "GATE": "Door",
+    "GL": "GL",
+    "LAST_ACT_SHORT": "L. Act",
+    "NOT_QUEUED": "Not Queued",
+    "ORDER": "Order",
+    "PAYMENT_METHOD": "Payment Method",
+    "PLATFORM_SHORT": "P",
+    "PROMO": "Promo",
+    "QUEUED": "Queued",
+    "QUEUE_INFO": "Queue Info",
+    "RESTAURANT": "Restaurant",
+    "RESTAURANT_ORDER_SHORT": "R.Ord.",
+    "STATUS": "Status",
+    "STRINGS": {
+      "DROP_OFF_AT_DOOR": {
+        "NO": "N",
+        "YES": "Y"
+      }
+    },
+    "SUM": "Sum",
+    "TIME": "Date",
+    "TITLE": "Active Orders"
+  },
+  "ERROR": {
+    "NO_CITY": "City must be selected for fetching active orders.",
+    "SEARCH_MIN_2_CHARS": "Min 2 chars must be entered for Restaurants search."
+  },
+  "FILTER": {
+    "CITY_DESC": "Select City",
+    "COURIER_TRACKABILITY": {
+      "DESC": "Select Tracking Type",
+      "TITLE": "Restaurant Courier Trackability"
+    },
+    "COURIER_TYPE": {
+      "DESC": "Select Courier Type",
+      "TITLE": "Courier Type"
+    },
+    "DELIVERY_TYPE": {
+      "DESC": "Select Delivery Type",
+      "TITLE": "Delivery Type"
+    },
+    "PAYMENT_METHOD": {
+      "DESC": "Select Payment Method",
+      "TITLE": "Payment Method"
+    },
+    "PLATFORM": {
+      "DESC": "Select Platform",
+      "TITLE": "Platform"
+    },
+    "RESTAURANTS": {
+      "DESC": "Select Restaurants",
+      "TITLE": "Restaurants"
+    },
+    "SEARCH_DESC": "Customer Restaurants Courier PromoCode",
+    "TRACKABLE_COURIER": "Trackable Courier",
+    "UNTRACKABLE_COURIER": "Untrackable Courier"
+  },
+  "LATE_REASON": "Late Reason",
+  "TITLE": "GetirFood Active Orders"
+}

@@ -1,0 +1,15 @@
+{
+    "ADD_NEW_CONSTRAINT": "Yeni Kısıt Ekle",
+    "CONSTRAINT_DETAIL": "Kısıt Detayları",
+    "EDIT_CONSTRAINT": "Kısıtlama Detayı Düzenleme",
+    "ERR_CATEGORY_GROUPS_EMPTY": "Kategori Grupları Boş Olamaz!",
+    "ERR_DESCRIPTION_EMPTY": "Açıklama Boş Olamaz!",
+    "FIRST_CONSTRAINT_TYPE_TEXT": "Sadece kendileri içinde aynı poşet ile gidebilirler",
+    "FIRST_GROUP": "1. Grup",
+    "NEW_CONSTRAINT": "Yeni Kısıtlama",
+    "NON_BAGGED_PRODUCTS": "Poşetlenmeyecek Ürünler",
+    "RULE": "Rule",
+    "SECOND_CONSTRAINT_TYPE_TEXT": "Aynı poşete giremezler",
+    "SECOND_GROUP": "2. Grup",
+    "TITLE": "Poşet Kısıtları"
+}

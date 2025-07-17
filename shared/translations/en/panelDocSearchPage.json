@@ -1,0 +1,16 @@
+{
+  "ADMIN_GUIDES": "Admin Panel Guides",
+  "GUIDE_PAGE_STARTING_DESCRIPTION": "A starting guide for the documentation search.",
+  "GUIDE_PAGE_STARTING_TITLE": "Starting Guide",
+  "GUIDE_PERMISSIONS_DESCRIPTION": "Permissions for the documentation search.",
+  "GUIDE_PERMISSIONS_TITLE": "Permissions",
+  "HIGHLIGHTED_DOCUMENTS": "Highlighted Documents",
+  "NO_ADMIN_GUIDES": "No admin guides found.",
+  "NO_FAV_DOCUMENTS": "No favorite documents found.",
+  "NO_HIGHLIGHTED_DOCUMENTS": "No highlighted documents found.",
+  "NO_RESULTS": "No documentations.",
+  "PAGE": "Page",
+  "PAGE_TITLE": "Documentation Homepage",
+  "SEARCH_PLACEHOLDER": "You can search documentation name, description, file titles etc.",
+  "SQUAD": "Squad"
+}

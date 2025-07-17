@@ -1,0 +1,66 @@
+{
+  "ACCEPT": {
+    "CONFIRM": {
+      "UPDATE": "İtiraz kaydını onaylıyorsunuz. Devam etmek istiyor musunuz?"
+    }
+  },
+  "HEADER": {
+    "MODAL": {
+      "CANCEL": "Kapat",
+      "CONFIRM": {
+        "CANCEL": "Vazgeç",
+        "OK": "Evet",
+        "TITLE": "İtiraz etmek istediğine emin misin?"
+      },
+      "SAVE": "Kaydet",
+      "TITLE": "İtiraz İsteği Oluştur"
+    },
+    "OBJECT": "İtiraz Et",
+    "TAG": {
+      "NEGATIVE": "Reddedildi",
+      "POSITIVE": "Kabul Edildi",
+      "WAITING": "Bekleniyor"
+    }
+  },
+  "INFO": {
+    "DATE": "Gerçekleşme Tarihi",
+    "PICKER_NAME": "Toplayıcı",
+    "REASON": "Neden",
+    "SCORE": "Puan",
+    "TITLE": "Kayıt Bilgisi",
+    "TRANSFER_ID": "Transfer ID"
+  },
+  "ORDER": {
+    "CANCELATION_DESCRIPTION": "İptal Açıklaması",
+    "CANCELATION_REASON": "İptal Nedeni",
+    "DESCRIPTION": "Açıklama",
+    "DETAIL": "Sipariş Detayı",
+    "PRODUCT_NAME": "Ürün İsmi",
+    "REASON": "Sebep",
+    "TITLE": "Sipariş Bilgileri"
+  },
+  "REASON": {
+    "TITLE": {
+      "DENIED": "Red Sebebi",
+      "OBJECTION": "İtiraz Sebebi"
+    }
+  },
+  "REJECT": {
+    "CONFIRM": {
+      "UPDATE": "İtiraz kaydını reddediyorsunuz. Devam etmek istiyor musunuz?"
+    }
+  },
+  "WAYBILLS": {
+    "ACCEPTABLE_SHIPPING_DATE": "Beklenen En Geç Mal Kabul Tarihi",
+    "INFO": "{{threshold}} saatten geç olduğu için eksi puan aldınız",
+    "RECEIVING_DURATION": "Mal Kabul Süresi",
+    "RECEIVING_END": "Mal Kabul Bitiş Tarihi",
+    "RECEIVING_START": "Mal Kabule Başlama Tarihi",
+    "RULES": {
+      "RULE": "Kural",
+      "SCORE": "Puan"
+    },
+    "SHIPPING_DATE": "Transfer Gönderim Tarihi",
+    "TITLE": "İrsaliye"
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "ACTION": {
+    "CANCEL_ORDER": "Cancel the Order",
+    "CHANGE_SLOT": "Change Slot",
+    "TITLE": "Actions"
+  },
+  "ADDRESS_INFO": {
+    "ADDRESS": "Address",
+    "APARTMENT": "Apt No",
+    "CLIENT_NOTE": "Client Note",
+    "DIRECTIONS": "Directions",
+    "DOOR_NO": "Door No",
+    "FLOOR": "Floor",
+    "NAME": "Name"
+  },
+  "AGENT_ACTIONS": {
+    "ADD_ORDER_FEEDBACK": "Add Order Feedback/Discount",
+    "FORM_ERROR": "Missing: ",
+    "MODAL": {
+      "DISCOUNT": {
+        "AMOUNT": "Amount",
+        "BASKET_SIZE": "Do not apply min. basket size",
+        "COUNTRY": "Country",
+        "DELIVERY_FEE": "Delivery Fee",
+        "DELIVERY_FEE_CHECKBOX": "Do not charge delivery fee",
+        "DELIVERY_FEE_HINT": "If empty, default delivery fee will be charged",
+        "DELIVERY_FEE_INFO": "Delivery Fee charged is ",
+        "DELIVERY_FEE_NOT_CHARGED": "No Delivery Fee charged for this order",
+        "DELIVERY_FEE_REFUNDED": "& is already refunded",
+        "DO_NOT_APPLY_MINIMUM_BASKET_SIZE": "Do not apply minimum basket size",
+        "DO_NOT_CHARGE_DELIVERY_FEE": "Do not charge delivery fee",
+        "EXPIRY": "Expiry",
+        "EXPIRY_DATE": "Discount will expire on ",
+        "MAX_AMOUNT_MESSAGE": "Amount should be less than Total Price ",
+        "MAX_DISCOUNT_WARNING": "DISCOUNT_AMOUNTORDER_CURRENCY is too high for the discount, Are you sure you want to proceed?",
+        "ORDER_COUNTRY": "Discount is only valid for the order country",
+        "SUCCESS": "Discount Created Successfully",
+        "TITLE": "Discount",
+        "TITLE_EN": "Title - English",
+        "TITLE_TEMPLATE": "SYMBOLAMOUNT discount for you!",
+        "TITLE_TR": "Title - Turkish"
+      },
+      "FEEDBACK": {
+        "CREATED_DETAILS": "Feedback created by {{createdBy}} on {{createdAt}}",
+        "EXCHANGE": "Exchange",
+        "FRANCHISE_FAULT": "Do not Charge on Franchise",
+        "MAIN_REASON": "Main Reason",
+        "NOTE": "Note",
+        "NOTE_PLACEHOLDER": "Add a note..",
+        "SOURCE": "Source",
+        "SUB_REASON": "Sub Reason"
+      },
+      "REFUND": {
+        "QUANTITY_ERROR": "Must select a product quantity or other fee to refund",
+        "REASON": "Refund Reason",
+        "REFUND_ORDER_STATUS_ERROR": "Cannot refund products if the order is not delivered. Use missing products page for undelivered orders",
+        "TABLE": {
+          "ALERT_BAG_FEE_REFUNDED": "Bag Fee was refunded",
+          "ALERT_DELIVERY_FEE_REFUNDED": "Delivery Fee was refunded",
+          "ALERT_FULLY_REFUNDED": "Fully refunded",
+          "ALERT_SERVICE_FEE_REFUNDED": "Service Fee was refunded",
+          "AMOUNT": "Amount",
+          "BAG_PRICE": "Bag Price",
+          "COUNT": "Count",
+          "DATE": "Date",
+          "DELIVERY_FEE": "Delivery Fee",
+          "FULL_REFUND": "Full Refund",
+          "PRODUCT": "Product",
+          "QTY_ORDER": "Quantity Ordered",
+          "QTY_REFUND": "Refunded Quantity",
+          "QTY_REMAINING": "Quantity To Refund",
+          "REFUNDED": "Refunded",
+          "REFUND_BAG_FEE": "Refund Bag Fee",
+          "REFUND_DELIVERY_FEE": "Refund Delivery Fee",
+          "REFUND_SERVICE_FEE": "Refund Service Fee",
+          "TOTAL_PRICE": "Total Price",
+          "TOTAL_PRODUCT_REFUND_AMOUNT": "Total Refund Amount"
+        },
+        "TITLE": "Refund Type"
+      },
+      "REQUIRED_FIELD": "required",
+      "TITLE": "Market Order Feedback"
+    }
+  },
+  "A_AND_M_TAX_EXCLUDED": "A&M",
+  "BAG_PRICE": "Bag Price",
+  "BASKET_AMOUNT": "Basket Amount",
+  "BASKET_LOGS": {
+    "ACTION": "Action",
+    "DETAIL": "Detail",
+    "TIME": "Time",
+    "TITLE": "Basket Logs"
+  },
+  "BATCHED_ORDERS": {
+    "BATCH_INDEX": "Batch Index #",
+    "CHECKOUT_DATE": "Checkout date",
+    "TITLE": "Batched With Orders"
+  },
+  "CANCEL_SOURCES": {
+    "CUSTOMER": "Customer",
+    "GETIR": "Getir"
+  },
+  "CARD": {
+    "CARD_BANK": "Bank",
+    "CARD_NO": "Card Number",
+    "INFO": "Card Info",
+    "POS_BANK": "Pos Bank",
+    "TRANSACTION_ID": "Transaction id"
+  },
+  "CARD_AMOUNT": "Card Charged amount",
+  "CARD_INFO": {
+    "CLIENT": {
+      "FOOD_ORDER": "Food",
+      "G10_ORDER": "G10",
+      "GETIR_VOYAGER": "GetirWater",
+      "GSM": "Gsm",
+      "MARKET_ORDER": "GetirMore",
+      "NAME": "Name",
+      "PHONE_MASKING_CODE": "Phone Masking Code",
+      "TITLE": "Client",
+      "TOTAL_ORDER": "Total"
+    },
+    "COURIER": {
+      "DELIVERY_CODE": "Delivery Code",
+      "GSM": "Gsm",
+      "NAME": "Name",
+      "PERSONAL_GSM": "Personal Gsm",
+      "STATUS": "Status",
+      "TITLE": "Courier",
+      "VEHICLE": "Vehicle"
+    },
+    "VENDOR": {
+      "GSM": "Gsm",
+      "NAME": "Name",
+      "PERSONAL_GSM": "Personal Gsm",
+      "PICKER": "Picker",
+      "TITLE": "Store",
+      "TYPE": "Type"
+    }
+  },
+  "CART_AMOUNT": "Cart Amount",
+  "CHANNEL": "Channel",
+  "CHARGED_AMOUNT": "Charged Amount",
+  "CHECKOUT_AMOUNT": "Checkout Amount",
+  "CLIENT_FEEDBACK_TABLE": {
+    "CREATED_BY": "Created by",
+    "DATE": "Date",
+    "DISCOUNT": "Discount",
+    "FEEDBACK": "Feedback",
+    "FEEDBACK_SOURCE": "Source",
+    "NOTE": "Note",
+    "ORDER": "Order",
+    "STATUS": "Status"
+  },
+  "CONFIRM_MESSAGE": "Are you sure?",
+  "CUSTOMER_STATUS": {
+    "CANCELED": "Customer Canceled",
+    "DELIVERED": "Delivered to Customer",
+    "FREE": "Idle Customer",
+    "NONE": "No Customer Status Information",
+    "REACHED": "Arrived to Customer",
+    "WAITING_ORDER": "Customer Pending Order"
+  },
+  "DELIVERY_FEE": "Delivery Fee",
+  "DISCOUNT_AMOUNT": "Discount Amount",
+  "DROP_OFF_AT_DOOR": "Door",
+  "DURATION": {
+    "DAY": "d",
+    "HOUR": "h",
+    "MINUTE": "min",
+    "SECOND": "s"
+  },
+  "ERRORS": {
+    "CANCEL_ERROR_MESSAGE": "Order status is not valid to make this action.",
+    "CANCEL_NOTE": "Cancel Note is required.",
+    "CANCEL_REASON": "Cancel Reason is required.",
+    "CANCEL_SHOP": "Please Fill In The Empty Fields.",
+    "CANCEL_SOURCE_ONE_OF": "Cancel Source should be one of Getir, Customer",
+    "CANCEL_SOURCE_REQUIRED": "Cancel Source is required."
+  },
+  "FINAL_AMOUNT": "Final Amount",
+  "FORBIDDEN_MATCH": "Forbidden Match",
+  "FRAUD_ORDER_STATUS": {
+    "FRAUD_ORDER": "Fraud Order",
+    "LEGITIMATE_ORDER": "Legitimate order",
+    "TITLE": "Fraud Order Status",
+    "UNDER_REVIEW": "Under review",
+    "UNDETERMINED": "Undetermined",
+    "WAITING_FOR_PROCESSING": "Waiting for processing"
+  },
+  "FRESH_ORDER_TAG": "Fresh",
+  "GETIR_MONEY_TEXT": "GetirMoney",
+  "GORILLAS": {
+    "ORDER_INFO_TEXT": "This order has been placed on Gorillas App. In order to take any action regarding this order, please visit Gorillas Hub.",
+    "ORDER_INFO_TITLE": "Gorillas Order Info",
+    "REDIRECT_TEXT": "Go to Gorillas Hub",
+    "SALES_TAX_AMOUNT": "Sales Tax Amount"
+  },
+  "GROSS_MARGIN": "Gross Margin",
+  "INTEGRATION": {
+    "GORILLAS": "Gorillas Order",
+    "GRUBHUB": "Grubhub Order",
+    "JET": "Jet Order",
+    "N11": "N11",
+    "UBER": "Uber Order"
+  },
+  "INVOICE_INFO": {
+    "GIB_STATUS": "GIB Status",
+    "INVOICE_INFO": "Invoice Information",
+    "INVOICE_LINK": "Invoice Link",
+    "INVOICE_NO": "Invoice No",
+    "LOGO_STATUS": "LOGO Status",
+    "POS_BANK": "Pos Bank",
+    "SHOW_INVOICE": "Show Invoice"
+  },
+  "JET_ORDER_INFO": "Jet Order Info",
+  "MAP": "Map",
+  "MODAL": {
+    "CANCEL_ORDER": {
+      "CANCEL_REASON": "Cancel Reason",
+      "CANCEL_REASON_SOURCE": "Cancel Reason Source",
+      "CANCEL_SOURCE": "Cancel Source",
+      "NOTE": "Note"
+    },
+    "CHANGE_SLOT": {
+      "DESCRIPTION": "Choose preferred time periods",
+      "PREFERRED_TIME_DESCRIPTION": "Preferred time slot",
+      "SLOTS_NOT_FOUND": "There are no available time slots",
+      "TITLE": "Delivery Time Options"
+    }
+  },
+  "NAME": "Name",
+  "NET_REVENUE": "Net Revenue",
+  "ORDER_ACTIONS": {
+    "ACTION": "Action",
+    "DETAIL": "Detail",
+    "TIME": "Time",
+    "TITLE": "Order Actions"
+  },
+  "ORDER_DETAIL_JSON": "JSON",
+  "ORDER_DETAIL_NOTE": "Note is required",
+  "ORDER_DETAIL_SUPPORT": "Order Detail JSON",
+  "ORDER_FEEDBACK_TABLE": {
+    "DATE": "Date",
+    "DISCOUNT": "Discount",
+    "FEEDBACK": "Feedback",
+    "FEEDBACK_SOURCE": "Source",
+    "NOTE": "Note",
+    "ORDER": "Order",
+    "SKT_DATE": "BBD",
+    "STATUS": "Status"
+  },
+  "ORDER_ID": "Order ID",
+  "ORDER_NOTES": {
+    "PLACEHOLDER": "Add a note...",
+    "POST": "Post",
+    "TITLE": "Order Notes"
+  },
+  "PARTIAL_REFUND": {
+    "AMOUNT": "Amount",
+    "COUNT": "Count",
+    "DATE": "Date",
+    "PRODUCT": "Product",
+    "TITLE": "Partial Refunds"
+  },
+  "PAYMENT_INFO": "Payment Info",
+  "PAYMENT_STATUS": {
+    "NONE": "No Payment Status Information",
+    "NOT_PAID": "Not Paid",
+    "ON_DELIVERY_PAYMENT": "On Delivery Payment",
+    "PAID": "Paid",
+    "PARTIAL_REFUND_SUCCEEDED": "Partial Refund Succeeded",
+    "PAYMENT_ERROR": "Payment Error",
+    "PENDING_PARTIAL_REFUND": "Pending Partial Refund",
+    "PENDING_PAYMENT": "Pending Payment",
+    "PENDING_REFUND": "Pending Refund",
+    "REFUNDED": "Refunded"
+  },
+  "PAYMENT_TYPE": {
+    "CASH_AT_DELIVERY": "Cash at Delivery",
+    "CREDIT_OR_DEBIT_CARD_AT_DELIVERY": "Card at Delivery",
+    "ONLINE_BKM": "Online BKM",
+    "ONLINE_CREDIT_CARD": "Online Credit Card"
+  },
+  "PREVIOUS_ORDER": {
+    "NAME": "Name",
+    "NOTE": "Note",
+    "PRICE": "Price",
+    "QUANTITY": "Quantity",
+    "TITLE": "Order List"
+  },
+  "PRICE": "Price",
+  "PRODUCTS": "Products",
+  "QTY": "Quantity",
+  "REFERENCE_ID": "Reference ID",
+  "SALES_TAX": "Sales Tax",
+  "SERVICE_FEE": "Service Fee",
+  "SERVICE_FEE_TOOLTIP_INFO": "For Gorillas orders, this fee refers to the small order fee",
+  "SLOTTED_ORDER_MESSAGE": "Order delivery is scheduled for <strong>{{deliveryDay}}</strong> between <strong>{{deliveryStartTime}}</strong>  and  <strong>{{deliveryEndTime}}</strong>",
+  "SLOTTED_ORDER_TAG": "Slotted Order",
+  "SLOTTED_TIME_TAG": "Slot Time",
+  "SUBSCRIPTION_BENEFIT_INFO": {
+    "AMOUNT": "Amount",
+    "BENEFIT_TITLE": "Benefits Used",
+    "PROMO_TITLE": "GetirSelect Promotion",
+    "STATUS": "GetirSelect",
+    "TITLE": "GetirSelect Information"
+  },
+  "TIMELINE": {
+    "ABORT_ORDER": "aborts the order",
+    "ADMIN_PARTIAL_REFUNDED": "Admin has partially refunded",
+    "ADMIN_REFUNDED": "Admin has refunded",
+    "BAGS": "Bags",
+    "BASKET": "Basket",
+    "BASKET_AMOUNT": "Basket Amount",
+    "CANCELED_BY_FULL_NAME": "Canceled By : ",
+    "CANCELED_ORDER": "Order Canceled",
+    "CANCEL_MESSAGE": "Cancel Message: ",
+    "CANCEL_NOTE": "Cancel Note: ",
+    "CANCEL_SOURCE": "Cancel Source: ",
+    "CANCEL_TITLE": "Cancel Title: ",
+    "CETA": "CETA",
+    "CHECKOUT_ORDER": "checkouts the order",
+    "CLIENT_FEEDBACKS": "Client Feedbacks",
+    "DELIVERY_FEE": "Delivery fee",
+    "DELIVER_ORDER": "delivers the order",
+    "DISCOUNTED_PRICE": "Discounted Price",
+    "FIRST_ETA": "First ETA",
+    "GETIR_MONEY_CHARGED_AMOUNT": "GetirMoney Charged Amount",
+    "HANDOVER_ORDER": "The order is handed over to",
+    "LAST_ETA": "Last ETA",
+    "LATEST_TETA_DATE": "Latest TETA Date",
+    "ORDER_COMMENT": "Comment: ",
+    "ORDER_DATE": "Order Date",
+    "ORDER_FEEDBACKS": "Order Feedbacks",
+    "ORDER_LATE": "Order Late? ",
+    "ORDER_RATE": "Rate: ",
+    "ORDER_STATUS": "Orders",
+    "PARTIAL_REFUNDED_ORDER": "The order is refunded partially",
+    "PICKER_ASSIGNED": "Picker Assigned",
+    "PREPARE_ORDER": "prepares the order",
+    "RATED_ORDER": "rates the Getir experiment",
+    "REACH_LOCATION": "reaches the delivery location",
+    "REFUNDED_ORDER": "The order is refunded",
+    "REFUND_NOTE": "Refund Note : ",
+    "REFUND_REASON": "Refund Reason : ",
+    "TETA": "TETA",
+    "TOTAL_CHARGED_AMOUNT": "Total Charged Amount",
+    "UPDATED_BASKET_AMOUNT": "Updated Basket Amount",
+    "VERIFY_ORDER": "verifies the order",
+    "VOLUME": "Volume",
+    "WATER_CETA": "Customer Accepted ETA",
+    "WATER_LATEST_TETA_DATE": "TETA Calculation Date",
+    "WATER_ORDER_LATE": "Is the order delayed? ",
+    "WATER_TETA": "Estimated Time of Arrival (TETA)",
+    "WEIGHT": "Weight"
+  },
+  "TIP_AMOUNT": "Tip Amount",
+  "TOOLTIP": {
+    "COURIER_CASE_SCAN": "Courier Case Scan",
+    "COURIER_VERIFY": "Courier Verify",
+    "DELIVER": "Order Deliver",
+    "PICKER_VERIFY": "Picker Verify",
+    "PREPARE": "Items Prepare",
+    "REACH": "Order Reach",
+    "WAIT_COURIER_ASSIGN": "Waiting Courier Assig",
+    "WAIT_PICKER": "Waiting Picker"
+  },
+  "TOTAL_PRICE": "Total Price",
+  "TOTAL_TIME": "Total Time",
+  "UPDATED_BASKET_AMOUNT": "Updated Basket Amount",
+  "VAT": "VAT"
+}

@@ -1,0 +1,11 @@
+{
+  "TIMESHEET_ACTION": {
+    "LOCK": "Lock Timesheets",
+    "UNLOCK": "Unlock Timesheets"
+  },
+  "TIMESHEET_ACTION_CONFIRM": {
+    "LOCK": "Are you sure to lock all timesheets for selected dates?",
+    "UNLOCK": "Are you sure to unlock all timesheets for selected dates?"
+  },
+  "TIMESHEET_ACTION_SUCCESS": "Timesheets updated successfully"
+}

@@ -1,0 +1,69 @@
+{
+  "DATA_TABLE": {
+    "ACTION": "Aksiyon",
+    "BASKET_SHORT": "Spt",
+    "CHARGE_SHORT": "Çek.",
+    "CITY": "Şehir",
+    "COURIER": "Kurye",
+    "CUSTOMER": "Müşteri",
+    "G10": "G10",
+    "GATE": "Kapı",
+    "GL": "GÇ",
+    "LAST_ACT_SHORT": "Sn akt",
+    "NOT_QUEUED": "Sıraya Girmedi",
+    "ORDER": "Sipariş",
+    "PAYMENT_METHOD": "Ödeme Metodu",
+    "PLATFORM_SHORT": "P",
+    "PROMO": "Kampanya",
+    "QUEUED": "Sıraya Girdi",
+    "QUEUE_INFO": "Sıra Bilgisi",
+    "RESTAURANT": "Restaurant",
+    "RESTAURANT_ORDER_SHORT": "R.Sip",
+    "STATUS": "Durum",
+    "STRINGS": {
+      "DROP_OFF_AT_DOOR": {
+        "NO": "H",
+        "YES": "E"
+      }
+    },
+    "SUM": "Top",
+    "TIME": "Tarih",
+    "TITLE": "Aktif Siparişler"
+  },
+  "ERROR": {
+    "NO_CITY": "Aktif siparişler verisini çekmek için Şehir seçilmeli.",
+    "SEARCH_MIN_2_CHARS": "Restoran araması için en az iki karakter girilmeli."
+  },
+  "FILTER": {
+    "CITY_DESC": "Şehir Seçiniz",
+    "COURIER_TRACKABILITY": {
+      "DESC": "Takip Tipi Seçiniz",
+      "TITLE": "Restoran Kurye Takip Edilebilirliği"
+    },
+    "COURIER_TYPE": {
+      "DESC": "Kurye Tipi Seçiniz",
+      "TITLE": "Kurye Tipi"
+    },
+    "DELIVERY_TYPE": {
+      "DESC": "Teslimat Tipi Seçiniz",
+      "TITLE": "Teslimat Tipi"
+    },
+    "PAYMENT_METHOD": {
+      "DESC": "Ödeme Yöntemi Seçiniz",
+      "TITLE": "Ödeme Yöntemi"
+    },
+    "PLATFORM": {
+      "DESC": "Platform Seçiniz",
+      "TITLE": "Platform"
+    },
+    "RESTAURANTS": {
+      "DESC": "Restoran Seçiniz",
+      "TITLE": "Restoran"
+    },
+    "SEARCH_DESC": "Müşteri Restoran Kurye Promosyon Kodu",
+    "TRACKABLE_COURIER": "Takip Edilebilen Kurye",
+    "UNTRACKABLE_COURIER": "Takip Edilemeyen Kurye"
+  },
+  "LATE_REASON": "Gecikme Sebebi",
+  "TITLE": "GetirYemek Aktif Siparişler"
+}

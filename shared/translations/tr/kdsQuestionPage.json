@@ -1,0 +1,27 @@
+{
+  "ANSWER_OPTION": "Soru Seçenekleri",
+  "ASK_TO_MAIN_WAREHOUSES": "Ana Depolara Sor",
+  "ASK_TO_SC_WAREHOUSES": "Store Conversion Depolarına Sor",
+  "AUDIT_FORM_TYPE": "Denetim Formu Tipi",
+  "FORM_TITLE": "Soru Oluştur",
+  "HAS_DEFAULT_NOT_APPLICABLE": "Denetlenemedi Seçimi Ekle",
+  "HIGHLIGHT": "Cevabı vurgula",
+  "IS_PHOTO_FORCED": "Fotoğraf Zorunluluğu",
+  "LIST": {
+    "NEW_KDS_QUESTION": "Yeni Soru",
+    "TABLE": {
+      "QUESTION_GROUP_NAME": "Soru Grubu Adı",
+      "QUESTION_NAME": "Soru Adı"
+    }
+  },
+  "NUMBER_INPUT": "Number Input",
+  "NUMBER_OPTION": "Sayı Seçeneği",
+  "OPTIONS_DESCRIPTION": "Soru seçenekleri düşük puandan yüksek puana doğru sıralanmaktadır.",
+  "QUESTION": "KDS Sorusu",
+  "QUESTION_GROUP": "Soru Grubu",
+  "QUESTION_TYPE": "Soru Tipi",
+  "RESPONSIBLE_DOMAIN": "Sorumlu Domain",
+  "SCORE_MAPPING": "Puan Eşleşmesi",
+  "SELECTION_COUNT": "Seçim Sayısı",
+  "TOOLTIP": "İpucu"
+}

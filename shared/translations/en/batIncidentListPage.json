@@ -1,0 +1,12 @@
+{
+  "PAGE_TITLE": {
+    "INCIDENT": {
+      "LIST": "Incoming Alerts"
+    }
+  },
+  "TABLE": {
+    "COLUMNS": {
+      "DURATION": "Duration"
+    }
+  }
+}

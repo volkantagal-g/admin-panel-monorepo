@@ -1,0 +1,19 @@
+{
+  "FORM": {
+    "DURATION": "Duration (sec)",
+    "LONGEST_EDGE": "Longest Edge (cm)",
+    "TAGS": "Tags",
+    "TAG_LABELS": {
+      "FRAGILE": "Fragile",
+      "SENSITIVE": "Sensitive"
+    },
+    "VOLUME": "Volume (ml)",
+    "WEIGHT": "Weight (gr)"
+  },
+  "LIST": {
+    "FILTER": {
+      "STATUS": "Vehicle Status",
+      "TYPE": "Vehicle Type"
+    }
+  }
+}

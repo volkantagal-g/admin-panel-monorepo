@@ -1,0 +1,107 @@
+{
+  "ACCOUNT_ID": "Account ID",
+  "AMOUNT_TO_BE_REFUNDED": "Amount to be refunded",
+  "AUTHORIZED_AMOUNT": "Authorized Amount",
+  "BALANCE": "Balance",
+  "BUILD_NUMBER": "Build Number",
+  "CLIENT_ID": "Client ID",
+  "COLUMNS": "Columns",
+  "CONFIRM_TEXT": "I confirm the refund",
+  "DEVICE_DETAILS": "Device Details",
+  "DEVICE_ID": "Device Id",
+  "DEVICE_TYPE": "Device Type",
+  "DUPLICATE_PAYMENT": "Duplicate Payment",
+  "FILTER": {
+    "DEVICE_TYPE": {
+      "DESC": "Device Type",
+      "TITLE": "Device Type"
+    },
+    "EVENT_ID": {
+      "DESC": "Event ID",
+      "TITLE": "Event ID"
+    },
+    "MERCHANT": {
+      "DESC": "Merchant Name",
+      "TITLE": "Merchant Name"
+    },
+    "MERCHANT_ID": {
+      "DESC": "Merchant ID",
+      "TITLE": "Merchant ID"
+    },
+    "MERCHANT_KEY": {
+      "DESC": "Merchant Key",
+      "TITLE": "Merchant Key"
+    },
+    "MERCHANT_ORDER_ID": {
+      "DESC": "Merchant Order ID",
+      "TITLE": "Merchant Order ID"
+    },
+    "MERCHANT_REFERENCE": {
+      "DESC": "Merchant Reference",
+      "TITLE": "Merchant Reference"
+    },
+    "MIXED": {
+      "DESC": "Mixed",
+      "TITLE": "Mixed"
+    },
+    "PAYMENT_METHOD": {
+      "DESC": "Payment Method",
+      "TITLE": "Payment Method"
+    },
+    "PAYMENT_PROVIDER": {
+      "DESC": "Payment Provider",
+      "TITLE": "Payment Provider"
+    },
+    "PSP_REFERENCE": {
+      "DESC": "PSP Reference ID",
+      "TITLE": "PSP Reference ID"
+    },
+    "SHOPPER_ID": {
+      "DESC": "Shopper ID",
+      "TITLE": "Shopper ID"
+    },
+    "STATUS": {
+      "DESC": "Status",
+      "TITLE": "Status"
+    },
+    "TRANSACTION_ID": {
+      "DESC": "Transaction ID",
+      "TITLE": "Transaction ID"
+    }
+  },
+  "FULL_REFUND": "Full Refund",
+  "LESS_FILTER": "Less Filter",
+  "LOCATION": "Location",
+  "MIXED_PAYMENT": "Mixed Payment",
+  "MODE": "Mode",
+  "MORE_FILTER": "More Filter",
+  "OTHER_REASON": "Other - Please Specify",
+  "PAYMENT_EVENTS": "Payment Events",
+  "PSP_MERCHANT_ID": "PSP Merchant ID",
+  "RECONCILIATION_FAILURE": "Reconciliation Failure",
+  "REFUND": "Refund",
+  "REFUND_REASON": "Refund Reason",
+  "REFUND_TRANSACTION": "Refund Transaction",
+  "REQUESTED_AMOUNT": "Requested Amount",
+  "RETURN": "Return",
+  "SHOPPER_DETAILS": "Shopper Details",
+  "SINGLE_PAYMENT": "Single Payment",
+  "TABLE": {
+    "COLUMNS": {
+      "ACQUIRER_RESPONSE": "Acquirer Response",
+      "AMOUNT": "Amount",
+      "EVENT_ID": "Event ID",
+      "MERCHANT_ID": "Merchant ID",
+      "MERCHANT_KEY": "Merchant Key",
+      "MERCHANT_ORDER_ID": "Merchant Order ID",
+      "MERCHANT_REFERENCE": "Merchant Reference",
+      "ORDER_STATUS": "Order Status",
+      "PROVIDER_AND_METHOD": "Provider / Method",
+      "SHOPPER_ID": "Shopper ID",
+      "STATUS": "Status",
+      "TRANSACTION_ID": "Transaction ID"
+    }
+  },
+  "TOTAL_REFUND": "Total Refund",
+  "VERSION": "Version"
+}

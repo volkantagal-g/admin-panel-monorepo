@@ -1,0 +1,22 @@
+body, #root {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+nav li{
+  padding: 8px;
+  margin-bottom: 4px;
+  background-color: #fff;
+  color: black;
+  font-size: 14px;
+
+  &.sub-item {
+    padding-left: 16px;
+    font-size: 13px;
+  }
+
+  a {
+    display: block;
+    text-decoration: none;
+  }
+}

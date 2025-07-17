@@ -1,0 +1,30 @@
+{
+  "ARRAY": {
+    "MIN": "En az {{min}} içermeli."
+  },
+  "DATE": {
+    "MAX": "En geç bu tarih olabilir {{max}}.",
+    "MIN": "En erken bu tarih olabilir {{min}}.",
+    "REQUIRED": "Zorunludur."
+  },
+  "MIXED": {
+    "DEFAULT": "Geçersiz.",
+    "NOT_TYPE": "Geçersiz.",
+    "REQUIRED": "Zorunludur."
+  },
+  "NUMBER": {
+    "INTEGER": "Tamsayı olmalı.",
+    "LESS_THAN": "{{less}} değerinden daha küçük olmalı.",
+    "MAX": "En fazla {{max}} olmalı.",
+    "MIN": "En az {{min}} olmalı.",
+    "MORE_THAN": "{{more}} değerinden daha büyük olmalı.",
+    "POSITIVE": "0'dan büyük olmalı."
+  },
+  "STRING": {
+    "EMAIL": "Geçerli bir e-posta olmalı.",
+    "MAX": "En çok {{max}} karakter içermeli.",
+    "MIN": "En az {{min}} karakter içermeli.",
+    "OBJECT_ID": "Geçerli object ID girilmeli.",
+    "REQUIRED": "Zorunludur."
+  }
+}

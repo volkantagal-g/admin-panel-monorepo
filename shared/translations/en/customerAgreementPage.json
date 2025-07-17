@@ -1,0 +1,54 @@
+{
+  "FILTER": {
+    "DOCUMENT_TYPE": {
+      "DESC": "Select agreement type",
+      "TITLE": "Agreement type"
+    }
+  },
+  "LATEST_AGREEMENT": {
+    "ADD_AGREEMENT_MODAL": {
+      "CONFIRM_TEXT": "You are creating a new version in the system, do you want to continue?",
+      "TABLE": {
+        "COLUMNS": {
+          "ACTION": "Action",
+          "AGREEMENT_FILE": "Agreement File",
+          "LANGUAGE": "Language"
+        }
+      },
+      "TITLE": "Add Agreement",
+      "UPLOAD_MESSAGE": "You can only upload HTML file"
+    },
+    "COLUMNS": {
+      "DOCUMENTS": "Documents",
+      "FORCED": "Forced",
+      "UPLOADED_BY": "Uploaded By",
+      "UPLOADED_DATE": "Uploaded Date",
+      "VERSION": "Version"
+    },
+    "MESSAGES": {
+      "UPLOAD": {
+        "ERROR": "An error has occured while uploading, please try again!",
+        "READY": "File is ready to be uploaded!"
+      }
+    },
+    "TABLE_HEADER": {
+      "ACTIONS": {
+        "ADD_AGREEMENT": "Add Agreement"
+      }
+    },
+    "TABLE_TITLE": "Latest Agreements"
+  },
+  "PREVIOUS_AGREEMENTS": {
+    "BRING_AGREEMENTS": "Bring Agreements",
+    "COLUMNS": {
+      "DOCUMENTS": "Documents",
+      "IS_FORCED": "Is Forced",
+      "LAST_FORCED_DATE": "Forced Date",
+      "LAST_UN_FORCED_DATE": "Un Forced Date",
+      "UPLOADED_BY": "Uploaded By",
+      "UPLOAD_DATE": "Upload Date",
+      "VERSION": "Version"
+    },
+    "TABLE_TITLE": "Previous Agreements"
+  }
+}

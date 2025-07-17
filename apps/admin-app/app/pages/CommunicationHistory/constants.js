@@ -1,0 +1,51 @@
+export const COMMUNICATION_CHANNEL_TYPES = {
+  NOTIF: 1,
+  SMS: 2,
+  EMAIL: 3,
+};
+
+export const NOTIFICATION_TYPES = {
+  TXN: 'TXN',
+  CMPGN: 'CMPGN',
+};
+
+export const SMS_TYPES = {
+  SMS: 'SMS',
+  OTP: 'OTP',
+  MARKETING: 'MARKETING',
+};
+
+export const SMS_DELIVERY_STATUSES = {
+  SENDING: 'SENDING',
+  SENT: 'SENT',
+  DELIVERED: 'DELIVERED',
+  FAILED: 'FAILED',
+};
+
+export const EMAIL_STATUS = {
+  RECEIVED: 1,
+  QUEUED: 2,
+  SENT_TO_PROVIDER: 3,
+  IN_PROVIDER_PROGRESS: 4,
+  SUCCESS: 5,
+  FAIL: 6,
+  OPEN: 7,
+};
+
+export const EMAIL_FAIL_REASON = {
+  SG_DROPPED: 'SG_DROPPED',
+  SG_DEFERRED: 'SG_DEFERRED',
+  SG_BLOCKED: 'SG_BLOCKED',
+  SG_BOUNCE: 'SG_BOUNCE',
+  PROVIDER_ERROR: 'PROVIDER_ERROR',
+  INVALID: 'INVALID',
+  UNKNOWN: 'UNKNOWN',
+};
+
+export const EMAIL_TYPES = {
+  TXN: 'TXN',
+  CMPGN: 'CMPGN',
+};
+
+export const SENDING_MINIMUM_DATE_DIFF = 366;
+export const DATE_FORMAT = 'YYYY/MM/DD HH:mm';

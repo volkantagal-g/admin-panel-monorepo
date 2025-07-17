@@ -1,0 +1,210 @@
+{
+  "AMOUNT": "Amount",
+  "COUNTRY_CODE": "Country Code",
+  "CURRENCY_CODE": "Currency Code",
+  "DISAGREEMENT_NOTES": {
+    "AlthoughOrderStatusIsNotSuitableTransactionHasBeenCameFromBank": "Online payment exists but order status is not compatible",
+    "AmountInTheOrderAndTransactionFromTheBankDoesNotMatch": "Amount different in domain and bank",
+    "DespiteThePaidOnDeliveryTheTransactionsCameFromBank": "Paid on delivery but online payment exists",
+    "FreeOrder": "Not paid order",
+    "MultipleTransaction": "Duplicate payment",
+    "None": "None",
+    "ReturnDecisionHasBeenMadeByAnotherDomain": "Domain decision is pending refund"
+  },
+  "DOMAINS": {
+    "GETIR10": "Getir10",
+    "GETIR30": "Getir30",
+    "Getir10": "Getir10",
+    "Getir30": "Getir30",
+    "GetirBiTaksi": "GetirBiTaksi",
+    "GetirDrive": "GetirDrive",
+    "GetirFood": "GetirFood",
+    "GetirJobs": "GetirJobs",
+    "GetirLocal": "GetirLocals",
+    "GetirLocals": "GetirLocals",
+    "GetirSubscription": "GetirSubscription",
+    "GetirUnSpecified": "GetirUnSpecified",
+    "GetirWater": "GetirWater",
+    "GetirWaterMarketPlace": "GetirWaterMarketplace",
+    "GetirWaterMarketplace": "GetirWaterMarketplace"
+  },
+  "EXCEL": {
+    "BANK_CHARGED_AMOUNT": "Bank - Charged Amount",
+    "BANK_POS_BANK_LIST": "Bank - Pos Bank List",
+    "BANK_PROVISION_NUMBERS": "Bank - Provision Numbers",
+    "BANK_REFUND_AMOUNT": "Bank - Refund Amount",
+    "DOMAIN_AMOUNT_TO_BE_REFUNDED": "Domain - Amount To Be Refunded",
+    "DOMAIN_CHARGED_AMOUNT": "Domain - Charged Amount",
+    "DOMAIN_CHECKOUT_DATE": "Domain - Checkout Date",
+    "DOMAIN_ORDER_STATUS": "Domain - Order Status",
+    "DOMAIN_PAYMENT_METHOD": "Domain - Payment Method",
+    "DOMAIN_REFUND_AMOUNT": "Domain - Refund Amount",
+    "DOMAIN_REFUND_STATUS": "Domain - Refund Status",
+    "GETIR_MONEY_AMOUNT_TO_BE_REFUNDED": "GetirMoney - Amount To Be Refunded",
+    "GETIR_MONEY_CHARGED_AMOUNT": "GetirMoney - Charged Amount",
+    "GETIR_MONEY_REFUND_AMOUNT": "GetirMoney - Refund Amount",
+    "GETIR_MONEY_REFUND_STATUS": "GetirMoney - Refund Status",
+    "PAYMENT_SOURCE_CHARGED_AMOUNT": "Payment Source - Charged Amount",
+    "PAYMENT_SOURCE_PAYMENT_TYPES": "Payment Source - Payment Types",
+    "PAYMENT_SOURCE_REFUND_AMOUNT": "Payment Source - Refund Amount"
+  },
+  "FILTER": {
+    "BASKET_ID": {
+      "DESC": "Search by basket ID ",
+      "TITLE": "Basket ID"
+    },
+    "CHECKOUT_DATE": {
+      "DESC": "Search by Checkout Date",
+      "TITLE": "Checkout Date"
+    },
+    "DOMAIN": {
+      "DESC": "Select Domain",
+      "TITLE": "Domain"
+    },
+    "EVENT_ID": {
+      "DESC": "Search by event ID ",
+      "TITLE": "Event ID"
+    },
+    "EXTERNAL_PAYMENT_TOKEN": {
+      "DESC": "Search by External Payment Token",
+      "TITLE": "External Payment Token"
+    },
+    "IS_RECONCILED": "Reconciled",
+    "IS_REFUNDABLE": "Refundable",
+    "ORDER_ID": {
+      "DESC": "Search by Order ID",
+      "TITLE": "Order ID"
+    },
+    "ORDER_STATUS": {
+      "DESC": "Select Order Status",
+      "TITLE": "Order Status"
+    },
+    "ORIGINAL_TRANSACTION_ID": {
+      "DESC": "Search by event ID ",
+      "TITLE": "Transaction ID"
+    },
+    "PAYMENT_ID": {
+      "DESC": "Search by payment ID",
+      "TITLE": "Payment ID"
+    },
+    "POS_BANK": {
+      "DESC": "Select Pos Bank",
+      "TITLE": "Pos Bank"
+    },
+    "RECONCILIATION_CHECK_DATE": {
+      "DESC": "Search by Reconciliation Check Date",
+      "TITLE": "Reconciliation Check Date"
+    },
+    "RECONCILIATION_DATE": {
+      "DESC": "Search by Reconciliation Date",
+      "TITLE": "Reconciliation Date"
+    },
+    "REFUND_STATUS": {
+      "DESC": "Search by refunds status ",
+      "TITLE": "Refund Status"
+    },
+    "RENT_ID": {
+      "DESC": "Search by rent ID ",
+      "TITLE": "Rent ID"
+    },
+    "TRANSACTION_DATE": {
+      "DESC": "Search by Transaction Date",
+      "TITLE": "Transaction Date"
+    }
+  },
+  "GETIR_DRIVE_TRANSACTIONS": "GetirDrive Transactions",
+  "MANUAL_REFUND": "Mark as Manually Refunded",
+  "MANUAL_REFUND_CONFIRM": "Selected orders will be marked as refunded.",
+  "MANUAL_REFUND_ERROR_ALL": "All refunds failed!",
+  "MANUAL_REFUND_ERROR_SOME": "Some refunds failed!",
+  "ORDER": "Order",
+  "ORIGINAL_TRANSACTION_TYPE": "Original Transaction Type",
+  "REFUND": "Refund",
+  "REFUND_CONFIRM": "Selected transactions will be refunded.",
+  "REFUND_ERROR": "Refund not completed successfully!",
+  "REFUND_STATUS_TYPES": {
+    "AlreadyRefunded": "Already Refunded",
+    "Completed": "Completed",
+    "Failed": "Failed",
+    "None": "Pending",
+    "Pending": "Pending",
+    "Processing": "Processing"
+  },
+  "REFUND_SUCCESS": "Refund completed successfully.",
+  "REFUND_WARNING": "Please select at least one transaction!",
+  "REPORTS": "Reports",
+  "REPORT_DETAIL": {
+    "ALL_SUITABLE_REASONS": "All Suitable Reasons",
+    "GENERAL_INFO": "General Info",
+    "INCREMENT": "Increment",
+    "MACHINE": "Machine",
+    "MAIN_TITLE": "Report Detail",
+    "ORDER_ID": "Order ID",
+    "REASON_FOR_DISAGREEMENT": "Reason for Disagreement",
+    "RECONCILIATION_RESPONSE": "Reconciliation Response",
+    "REFUND_RESPONSE_DETAIL": "Refund Response Detail",
+    "TIMESTAMP": "Timestamp",
+    "TRANSACTIONS": "Transactions"
+  },
+  "SEARCH_RESULT_ERROR": "No data for selected filters.",
+  "SOURCE_OF_STATEMENT": "Source of Statement",
+  "STATS": {
+    "ORDER_COUNT": "Total Order Count",
+    "REFUND_AMOUNT": "Total Refund Amount",
+    "REFUND_JOB_COUNT": "Total Refund JobCount"
+  },
+  "TABLE": {
+    "COLUMNS": {
+      "ADDITIONAL_PAYMENT_AMOUNT": "Additional Payment Amount",
+      "AMOUNT_TO_BE_REFUNDED": "Amount To Be Refunded",
+      "BANK": "BANK",
+      "BANK_AMOUNT": "Bank Amount",
+      "BASKET_ID": "Basket ID",
+      "CHARGED_AMOUNT": "Charged Amount",
+      "CHECKOUT_DATE": "Checkout Date",
+      "CHECK_DATE": "Reconciliation Date",
+      "CREATION_DATE": "Creation Date",
+      "DOMAIN_AMOUNT": "Domain Amount",
+      "DOMAIN_TYPE": "Domain",
+      "EVENT_ID": "Event ID",
+      "EXTERNAL_PAYMENT_TOKEN": "External Payment Token",
+      "GETIRMONEY": "GETIRMONEY",
+      "INSERTED_DATE": "Inserted Date",
+      "IS_RECONCILED": "Reconciled",
+      "ORDER_AMOUNT": "Order Amount",
+      "ORDER_ID": "Order ID",
+      "ORDER_STATUS": "Order Status",
+      "ORDER_TIP": "Order/Tip",
+      "ORIGINAL_TRANSACTION_ID": "Transaction ID",
+      "PAYMENT_ID": "Payment ID",
+      "PAYMENT_METHOD": "Payment Method",
+      "PAYMENT_SOURCE": "PAYMENT SOURCE",
+      "PAYMENT_TYPES": "Payment Types",
+      "POS_BANK": "Pos Bank",
+      "POS_BANK_LIST": "Pos Bank List",
+      "PROVISION_NUMBERS": "Provision Numbers",
+      "REASON": "Reason for Inconsistency",
+      "RECONCILIATION_DATE": "Reconciliation Date",
+      "REFUND_AMOUNT": "Refund Amount",
+      "REFUND_RESPONSE": "Refund Response",
+      "REFUND_STATUS": "Refund Status",
+      "RENT_ID": "Rent ID",
+      "TOTAL_CHARGE": "Total Charge",
+      "TOTAL_REFUNDABLE_AMOUNT": "Total Refund Amount",
+      "TRANSACTION_BEHAVIOUR_TYPE": "Transaction Type",
+      "TRANSACTION_DATE": "Transaction Date",
+      "UPDATED_DATE": "Updated Date"
+    }
+  },
+  "TOTAL_COUNTS": "Total Counts",
+  "TRANSACTION_BEHAVIOUR_TYPE": "Transaction Behaviour Type",
+  "TRANSACTION_BEHAVIOUR_TYPE_OPTIONS": {
+    "ChargeBack": "Chargeback",
+    "None": "None",
+    "PreProvision": "PreProvision",
+    "PreProvisionClosing": "PreProvisionClosing",
+    "Refund": "Refund",
+    "Sale": "Sale",
+    "Sales": "Sale"
+  }
+}

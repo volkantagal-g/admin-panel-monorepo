@@ -1,0 +1,28 @@
+import moment from 'moment';
+
+export const initialValues = {
+  inspectionValidityDate: moment(),
+  firstRegistrationDate: moment(),
+  registrationDate: moment(),
+  ownershipType: null,
+  tags: [],
+  engineNumber: null,
+  identityNumber: null,
+  chasis: null,
+  kind: null,
+  color: null,
+  modelYear: null,
+  licenceOwner: null,
+  licenceSerial: null,
+  licenceNumber: null,
+  licenceImage: null,
+  brand: null,
+  tradeName: null,
+  constraintId: null,
+  plate: null,
+  franchise: null,
+  franchiseName: null,
+  city: null,
+  isCreatingAnotherVehicle: false,
+  warehouse: null,
+};

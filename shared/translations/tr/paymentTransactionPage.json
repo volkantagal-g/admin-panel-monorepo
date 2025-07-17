@@ -1,0 +1,107 @@
+{
+  "ACCOUNT_ID": "Hesap ID",
+  "AMOUNT_TO_BE_REFUNDED": "İade Edilecek Tutar",
+  "AUTHORIZED_AMOUNT": "Onaylanmış Tutar",
+  "BALANCE": "Kalan Tutar",
+  "BUILD_NUMBER": "Build Numarası",
+  "CLIENT_ID": "Kullanıcı ID",
+  "COLUMNS": "Sütünlar",
+  "CONFIRM_TEXT": "İadeyi kabul ediyorum",
+  "DEVICE_DETAILS": "Cihaz Detayı",
+  "DEVICE_ID": "Cihaz Id",
+  "DEVICE_TYPE": "Cihaz Tipi",
+  "DUPLICATE_PAYMENT": "Mükerrer Ödeme",
+  "FILTER": {
+    "DEVICE_TYPE": {
+      "DESC": "Cihaz Tipi",
+      "TITLE": "Cihaz Tipi"
+    },
+    "EVENT_ID": {
+      "DESC": "Event ID",
+      "TITLE": "Event ID"
+    },
+    "MERCHANT": {
+      "DESC": "Satıcı Adı",
+      "TITLE": "Satıcı Adı"
+    },
+    "MERCHANT_ID": {
+      "DESC": "Satıcı ID",
+      "TITLE": "Satıcı ID"
+    },
+    "MERCHANT_KEY": {
+      "DESC": "Satıcı Key",
+      "TITLE": "Satıcı Key"
+    },
+    "MERCHANT_ORDER_ID": {
+      "DESC": "Satıcı Sipariş ID",
+      "TITLE": "Satıcı Sipariş ID"
+    },
+    "MERCHANT_REFERENCE": {
+      "DESC": "Satıcı Referansı",
+      "TITLE": "Satıcı Referansı"
+    },
+    "MIXED": {
+      "DESC": "Karışık",
+      "TITLE": "Karışık"
+    },
+    "PAYMENT_METHOD": {
+      "DESC": "Ödeme Yöntemi",
+      "TITLE": "Ödeme Yöntemi"
+    },
+    "PAYMENT_PROVIDER": {
+      "DESC": "Ödeme Sağlayıcı",
+      "TITLE": "Ödeme Sağlayıcı"
+    },
+    "PSP_REFERENCE": {
+      "DESC": "PSP Reference ID",
+      "TITLE": "PSP Reference ID"
+    },
+    "SHOPPER_ID": {
+      "DESC": "Müşteri ID",
+      "TITLE": "Müşteri ID"
+    },
+    "STATUS": {
+      "DESC": "Durum",
+      "TITLE": "Durum"
+    },
+    "TRANSACTION_ID": {
+      "DESC": "İşlem ID",
+      "TITLE": "İşlem ID"
+    }
+  },
+  "FULL_REFUND": "Tamamını İade Et",
+  "LESS_FILTER": "Daha Az Filtre",
+  "LOCATION": "Location",
+  "MIXED_PAYMENT": "Karma Ödeme",
+  "MODE": "Mod",
+  "MORE_FILTER": "Daha Fazla Filtre",
+  "OTHER_REASON": "Diğer - Lütfen Belirtiniz",
+  "PAYMENT_EVENTS": "Ödeme Eventleri",
+  "PSP_MERCHANT_ID": "PSP Satıcı ID",
+  "RECONCILIATION_FAILURE": "Mutabakat hatası",
+  "REFUND": "İade",
+  "REFUND_REASON": "İade Nedeni",
+  "REFUND_TRANSACTION": "İşlem İade",
+  "REQUESTED_AMOUNT": "Talep Edilen Tutar",
+  "RETURN": "İade",
+  "SHOPPER_DETAILS": "Müşteri Ayrıntıları",
+  "SINGLE_PAYMENT": "Tekli Ödeme",
+  "TABLE": {
+    "COLUMNS": {
+      "ACQUIRER_RESPONSE": "Alıcı Yanıtı",
+      "AMOUNT": "Tutar",
+      "EVENT_ID": "Event ID",
+      "MERCHANT_ID": "Satıcı ID",
+      "MERCHANT_KEY": "Satıcı Key",
+      "MERCHANT_ORDER_ID": "Satıcı Sipariş ID",
+      "MERCHANT_REFERENCE": "Satıcı Referansı",
+      "ORDER_STATUS": "Sipariş Durum",
+      "PROVIDER_AND_METHOD": "Sağlayıcı / Yöntem",
+      "SHOPPER_ID": "Müşteri ID",
+      "STATUS": "Durum",
+      "TRANSACTION_ID": "İşlem ID"
+    }
+  },
+  "TOTAL_REFUND": "Toplam İade",
+  "VERSION": "Versiyon"
+}

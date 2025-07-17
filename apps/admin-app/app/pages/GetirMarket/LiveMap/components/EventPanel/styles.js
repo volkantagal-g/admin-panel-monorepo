@@ -1,0 +1,73 @@
+import { createUseStyles } from 'react-jss';
+
+export default createUseStyles({
+  container: {
+    zIndex: 998,
+    right: '0',
+    backgroundColor: '#fff',
+    marginTop: '.5rem',
+    boxShadow: '-2px -2px 10px rgb(0 0 0 / 20%)',
+    transition: 'all 0.4s cubic-bezier(0.65, 0.05, 0.36, 1)',
+    borderRadius: 5,
+    pointerEvents: 'auto',
+  },
+  header: {
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    backgroundColor: '#F6F6F6',
+    padding: '4px',
+    borderRadius: '5px 5px 0 0',
+  },
+  title: { marginBottom: '0 !important' },
+  buttonsContainer: {
+    display: 'flex',
+    alignItems: 'center',
+  },
+  domainTypeTag: {
+    fontSize: '10px',
+    lineHeight: 'initial',
+    marginRight: '4px',
+    padding: '0 4px',
+  },
+  baseButton: {
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    lineHeight: '16px !important',
+    height: '20px !important',
+  },
+  detailButton: {
+    composes: ['$baseButton'],
+    border: '1px solid #697488',
+    color: '#697488',
+    marginRight: '.5rem',
+  },
+  closeButton: {
+    composes: ['$baseButton'],
+    width: '20px !important',
+    minWidth: '20px !important',
+    fontSize: '11px !important',
+  },
+  closeButtonIcon: { marginTop: 3 },
+  marginRight: { marginRight: '.5rem' },
+  table: {
+    width: '100%',
+    maxHeight: '240px',
+    overflow: 'auto',
+    '& tr:nth-of-type(2n)': { backgroundColor: '#F9F9F9' },
+    '& table': { width: '100% !important' },
+    '& table td': { padding: '2px 4px !important' },
+    '& table th': { padding: '2px 4px !important' },
+    '& .ant-table-expanded-row-fixed': { width: '100% !important' },
+    '& .ant-table-footer': { display: 'none' },
+  },
+  btnXS: {
+    height: '20px',
+    fontSize: '12px',
+    fontWeight: 500,
+    marginLeft: '2px',
+    padding: '0px 5px',
+    borderRadius: '4px',
+  },
+});

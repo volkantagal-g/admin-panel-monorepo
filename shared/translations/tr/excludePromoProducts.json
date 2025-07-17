@@ -1,0 +1,26 @@
+{
+  "COLUMNS": {
+    "ACTION": "Eylem",
+    "EXCLUDE": "Hariç tut",
+    "INCLUDE": "Dahil et",
+    "PROMO_CODE": "Kampanya Kodu",
+    "PROMO_ID": "Kampanya ID"
+  },
+  "DEPARTMENT_TYPE": "Departman Türü",
+  "ERR_EMPTY_PRODUCT_IDS": "Ürünler boş. Lütfen önce ürün içeren CSV yükleyin.",
+  "ERR_EMPTY_PROMOS": "Kampanyalar boş. Lütfen önce kampanya filtreleyin.",
+  "ERR_INVALID_CSV_FILE": "Geçersiz CSV dosyası",
+  "EXCLUDE_PRODUCT_ACTIONS": {
+    "1": "Yazıldı",
+    "2": "Çıkart",
+    "3": "Ekle"
+  },
+  "IS_FREE_PRODUCT": "Ürün ücretsiz mi",
+  "RUN_SCRIPT": "İşlemi başlat",
+  "SUCCESS_MESSAGE_EXCLUDED": "{PROMOS_COUNT} kampanyadan toplam {PRODUCTS_COUNT} ürün başarıyla çıkartıldı",
+  "SUCCESS_MESSAGE_INCLUDED": "{PROMOS_COUNT} kampanyaya toplam {PRODUCTS_COUNT} ürün başarıyla dahil edildi",
+  "SUCCESS_MESSAGE_OVERRIDE": "{PROMOS_COUNT} kampanyaya toplam {PRODUCTS_COUNT} ürün başarıyla yazıldı",
+  "SUCCESS_PRODUCTS_IMPORT": "Toplam {productsCount} ürün başarıyla içe aktarıldı",
+  "TITLE": "Kampanyadan Ürün Çıkar",
+  "USAGE_TYPE": "Kullarım Türü"
+}

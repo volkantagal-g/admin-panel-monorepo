@@ -1,0 +1,20 @@
+{
+  "ADD_SEGMENT": "Segment Ekle",
+  "DEFAULT_SEGMENT": "Varsayılan Segment",
+  "DEFAULT_TARGET_SEGMENT": "Varsayılan Hedef Segmenti",
+  "DOMAIN": "Alan",
+  "ERRORS": {
+    "LOTTERY_SEGMENTS": "Lütfen önce piyango segmentlerini ekleyin"
+  },
+  "GENERAL_INFORMATION": "Genel Bilgiler",
+  "INCLUDE_DEFAULT_SEGMENT": "Varsayılan Segmenti Dahil Et",
+  "PROMO_CODE": "Promo kodu",
+  "PROMO_CODE_STRING": "Promo Kodu (Metin)",
+  "SEGMENTS": "Segmentler",
+  "SEGMENT_PAIRS": "Segment Çiftleri",
+  "SHADOW_SEGMENT": "Gölge Segmenti",
+  "TARGET": "Hedef",
+  "TARGET_SEGMENT": "Hedef Segmentler",
+  "TITLE": "Başlık",
+  "VALID_DATE": "Geçerli tarih"
+}

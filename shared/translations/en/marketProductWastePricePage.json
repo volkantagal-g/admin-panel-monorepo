@@ -1,0 +1,46 @@
+{
+  "ACTIVENESS": "Activeness",
+  "ALERT_COUNTRY_WASTE_PRICE_TITLE": "Select {{ countryName }} as the country to view this product waste price.",
+  "BADGE_IMAGE": "Badge Image",
+  "CURRENT_WAREHOUSE_LIMIT_INFO": "Current Warehouse Limit Info",
+  "GENERAL_INFO": {
+    "ERROR": {
+      "LIMIT_IS_LOWER": "Limit cannot be lower than 1 or equal to 0.",
+      "LIMIT_TRANSACTION_ERROR": "Something went wrong for limit transactions.",
+      "PRICE_IS_HIGHER": "Price cannot be higher than or equal to struck price.",
+      "WASTE_PRICE_TRANSACTION": "Something went wrong for waste price transactions."
+    },
+    "PRICE": "Price",
+    "SUCCESS": {
+      "LIMIT_TRANSACTION_SUCCESS": "Limit transactions successful.",
+      "WASTE_PRICE_TRANSACTION": "Waste Price transactions successful."
+    },
+    "TITLE": "General Info"
+  },
+  "LIMIT": "Limit",
+  "PRICE": "Price",
+  "PRICING_SEGMENT_ID": "Pricing Segment Id",
+  "PRODUCT_ID": "Product Id",
+  "SEARCH_BY_NAME": "Search by name",
+  "SEARCH_BY_PRICING_SEGMENT_ID": "Search by pricing segment ID",
+  "SEARCH_BY_PRODUCT_IDS": "Search by product IDs",
+  "SHOW_UNDER_SPECIAL_OFFERS": "Show under Special Offers",
+  "STRUCK_PRICE_ACTIVENESS": "Struck Price Activeness",
+  "STRUCK_PRICE_INFO": {
+    "ERROR": {
+      "STRUCK_PRICE_IS_LOWER": "Struck price cannot be lower than or equal to price.",
+      "SUPPLIER_SUPPORT_RATE": "The support rate must be between 0 and 1 or equal to 1.",
+      "THIRD_PARTY_SUPPORT_RATE": "The support rate must be between 0 and 1 or equal to 1."
+    },
+    "STRUCK_PRICE": "Struck Price",
+    "STRUCK_PRICE_ACTIVENESS": "Struck Price Activeness",
+    "STRUCK_PRICE_PROVIDER": "Struck Price Provider",
+    "SUPPORT_RATE": "Support Rate",
+    "TITLE": "Struck Price Info"
+  },
+  "STRUCK_PRICE_PROVIDER": "Struck Price Provider",
+  "UPDATE_WAREHOUSE_LIMIT_INFO": "To Update Warehouse Limit Info",
+  "WAREHOUSE": "Warehouse",
+  "WAREHOUSES_LIMIT_INFO": "Warehouses Limit Info",
+  "WASTE_PRICE": "Waste Price"
+}

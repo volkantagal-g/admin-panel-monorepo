@@ -1,0 +1,8 @@
+export const AUDIT_FORM_STATUSES = {
+  COMPLETE: 100,
+  SENT_TO_FRANCHISE: 200,
+  INACTIVE: 300,
+  IN_PROGRESS: 400,
+};
+
+export const AUDIT_TYPE_NAME_COLOR = 'rgb(120, 73, 247)';

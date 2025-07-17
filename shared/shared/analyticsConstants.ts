@@ -1,0 +1,132 @@
+export const PANEL_EVENTS = {
+  LOGIN_REQUEST: {
+    EVENT_NAME: 'Login - Button Clicked',
+    METHOD: {
+      MAGIC_LINK: 'Magic link',
+      GOOGLE_AUTH: 'Google Auth',
+    },
+  },
+  LOGIN_SUCCESS: {
+    EVENT_NAME: 'Successful login with method',
+    METHOD: {
+      MAGIC_LINK: 'Magic link',
+      GOOGLE_AUTH: 'Google Auth',
+    },
+  },
+  LOGOUT: { EVENT_NAME: 'Successful logout and identity reset' },
+  SIDEBAR_MENU_COLLAPSED: { EVENT_NAME: 'Menu collapse status changes' },
+  USER_COUNTRY_CHANGED: { EVENT_NAME: 'Selected country change event' },
+  APP_LANGUAGE_CHANGED: { EVENT_NAME: 'Language change event' },
+  PAGE_LIST: {
+    EVENT_NAME: 'Page List - Button Clicked',
+    BUTTON: {
+      NEW_COMPONENT: 'New Component',
+      PAGES: 'Pages',
+      MY_PAGES: 'My Pages',
+      EXPORT_PAGES: 'Export Pages',
+    },
+  },
+  PAGE_DETAIL: {
+    EVENT_NAME: 'Page Detail - Button Clicked',
+    BUTTON: {
+      PAGE_INFO_EDIT: 'Page Info Edit',
+      ROLE_INFO_ADD: 'Role Info Add',
+      ROLE_INFO_REMOVE: 'Role Info Remove',
+      ROLE_INFO_UPDATE: 'Roles Info Update',
+      ROLE_INFO_EXPORT: 'Roles Info Export',
+      DOC_INFO_DETAIL: 'Document Info Detail',
+      DOC_INFO_ADD: 'Document Info Add',
+      DOC_INFO_REMOVE: 'Document Info Remove',
+      DOC_INFO_ACTIVE_INACTIVE: 'Document Info Active-Inactive',
+    },
+  },
+  USER_LIST: {
+    EVENT_NAME: 'User List - Button Clicked',
+    BUTTON: {
+      GET_USER_BY_ID: 'Get User by ID',
+      DISPLAY_ROLES: 'Display Roles',
+      DISPLAY_COUNTRIES: 'Display Countries',
+    },
+  },
+  USER_DETAIL: {
+    EVENT_NAME: 'User Detail - Button Clicked',
+    BUTTON: { USER_INFO_EDIT: 'User Info Edit' },
+  },
+  USERS_INFO_EXPORT: {
+    EVENT_NAME: 'Users Info Export - Button Clicked',
+    BUTTON: { USERS_INFO_EXPORT: 'Users Info Export' },
+  },
+  ROLE_LIST: {
+    EVENT_NAME: {
+      SEARCH: 'Role List - Searched',
+      BUTTON: 'Role List - Button Clicked',
+      TAB_CHANGED: 'Role List - Tab Changed',
+    },
+    TAB: {
+      ROLES: 'Role List Tab - Roles',
+      MY_ROLES: 'Role List Tab - My Roles',
+      TEAMMATES_ROLES: 'Role List Tab - Roles Of My Teammates',
+      REQUESTS: 'Role List Tab - Requests',
+    },
+    BUTTON: {
+      ROLES: 'Roles',
+      MY_ROLES: 'My Roles',
+      EXPORT_ROLES: 'Export Roles',
+      ROLE_JOIN: 'Role Join',
+      SEND_REQUEST: 'Send Request',
+      REQUESTS: 'Requests',
+      MY_REQUESTS: 'My Requests',
+      MY_REQUESTS_CANCEL_REQUEST: 'My Request - Cancel Request',
+      MY_REQUESTS_VIEW_REPLY: 'My Request - View Reply',
+      MY_REQUESTS_STATUS: 'My Request - Status',
+      MY_REQUESTS_ROLES: 'My Request - Roles',
+      PENDING_APPROVAL: 'Pending Approval',
+      PENDING_APPROVAL_REPLY: 'Pending Approval - Reply',
+      PENDING_APPROVAL_APPROVE_REQUEST: 'Pending Approval - Approve Request',
+      PENDING_APPROVAL_REJECT_REQUEST: 'Pending Approval - Reject Request',
+      PENDING_APPROVAL_STATUS: 'Pending Approval - Status',
+      PENDING_APPROVAL_ROLES: 'Pending Approval - Roles',
+      ALL_ROLES_JOIN_ROLE: 'button: All Roles - Join Role',
+      TEAMMATES_ROLES_JOIN_ROLE: 'button: Teammates Roles - Join Role',
+      DISPLAY_TEAMMATE: 'button: Teammates Roles - Display Teammate',
+    },
+  },
+  ROLE_DETAIL: {
+    EVENT_NAME: 'Role Detail - Button Clicked',
+    BUTTON: {
+      ROLE_INFO_EDIT: 'Role Info Edit',
+      PAGES_ADD_PERMISSION: 'Pages Add Permission',
+      PAGES_REMOVE: 'Pages Remove',
+      PAGES_UPDATE: 'Pages Update',
+      USERS_INFO_ADD: 'Users Info Add',
+      USERS_INFO_EXPORT: 'Users Info Export',
+      USERS_INFO_REMOVE: 'User Info Remove',
+    },
+  },
+  DOCUMENTATION: {
+    EVENT_NAME: 'Documentation',
+    BUTTON: {
+      DOCUMENTATION: 'Documentation',
+      DOCUMENTATION_SEARCH: 'Documentation Search',
+      DOCUMENTATION_DETAIL: 'Documentation Detail',
+    },
+  },
+  DOCUMENTATION_DETAIL: {
+    EVENT_NAME: 'Documentation Detail',
+    BUTTON: {
+      ROLE_INFO_JOIN: 'Role Info Join',
+      PAGES_EXPORT: 'Pages Export',
+      DOCUMENT_EDIT: 'Document Edit',
+      DOCUMENT_ACTIVE_INACTIVE: 'Document Active-Inactive',
+      ADD_FIRST_FILE: 'Add First File',
+      ADD_FIRST_FAQ: 'Add First FAQ',
+      HIGHLIGHT_STATUS_CHANGED: 'Document Highlight Status Changed',
+      SAVE: 'Document - Save',
+      CANCEL: 'Document - Cancel',
+    },
+  },
+  PROFILE: {
+    EVENT_NAME: 'PROFILE',
+    BUTTON: { MY_PROFILE: 'My Profile' },
+  },
+} as const;

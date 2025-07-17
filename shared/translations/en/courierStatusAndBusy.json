@@ -1,0 +1,42 @@
+{
+  "BUSY_REASON": "Busy Reason",
+  "COURIER_ID": "Courier Id",
+  "DOMAINS": {
+    "ARTISAN": "Artisan",
+    "AVM": "AVM",
+    "GETIR10": "Getir 10",
+    "GETIR30": "Getir 30",
+    "Getir10": "Getir 10",
+    "Getir30": "Getir 30",
+    "GetirBiTaksi": "GetirBiTaksi",
+    "GetirDrive": "Getir Drive",
+    "GetirFood": "Getir Food",
+    "GetirJobs": "Getir Jobs",
+    "GetirLocal": "Getir Locals",
+    "GetirLocals": "Getir Locals",
+    "GetirMarket": "Getir Market",
+    "GetirSubscription": "Getir Subscription",
+    "GetirUnSpecified": "Getir UnSpecified",
+    "GetirWater": "Getir Water",
+    "GetirWaterMarketPlace": "Getir Water Market Place"
+  },
+  "HOURS": "hrs",
+  "REASONS": {
+    "ACCIDENT": "Accident",
+    "CANCELLED_FOOD_ORDER": "Cancelled Food order",
+    "FIBABANK_DELIVERY": "Fibabank Delivery",
+    "GETIR_WATER_REFILL": "Getir Water Refill",
+    "LUNCH_BREAK": "Lunch Break",
+    "LUNCH_BREAK_START": "Lunch Break Start",
+    "MAINTENANCE": "Maintenance",
+    "MISSING_PRODUCT_OR_RETURN": "Missing Product/Return",
+    "OTHER": "Other",
+    "REFUELING": "Refueling",
+    "SHIFT_IS_OVER": "Shift Is Over",
+    "SHIFT_OVER_IN_WAREHOUSE": "Shift Over In Warehouse",
+    "TRAINING": "Training",
+    "VEHICLE_BREAKDOWN": "Vehicle Breakdown",
+    "WAREHOUSE_SWITCH": "Warehouse Switch"
+  },
+  "Time_SPENT_ON_LAST_STATUS_HRS": "Time Spent on Last Status"
+}

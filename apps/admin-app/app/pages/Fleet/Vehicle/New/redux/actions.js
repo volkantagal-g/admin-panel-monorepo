@@ -1,0 +1,41 @@
+import { createActions } from 'reduxsauce';
+
+import { REDUX_KEY } from '@shared/shared/constants';
+
+export const { Types, Creators } = createActions({
+  createVehicleRequest: {
+    plate: '',
+    constraintId: '',
+    warehouse: '',
+    franchise: '',
+    city: '',
+    licenceOwner: '',
+    licenceImage: '',
+    licenceSerial: '',
+    firstRegistrationDate: '',
+    registrationDate: '',
+    tradeName: '',
+    brand: '',
+    chasis: '',
+    kind: '',
+    color: '',
+    engineNumber: '',
+    identityNumber: '',
+    inspectionValidityDate: '',
+    tags: [],
+    ownershipType: null,
+    licenceNumber: '',
+    modelYear: '',
+    isCreatingAnotherVehicle: false,
+  },
+  createVehicleRequestSuccess: { },
+  createVehicleRequestFailure: { error: null },
+  getVehicleType: {},
+  getVehicleTypeSuccess: { data: [] },
+  getVehicleTypeFailure: { error: null },
+  getFranchisesRequest: {},
+  getFranchisesSuccess: { data: [] },
+  getFranchisesFailure: { error: null },
+  initPage: null,
+  destroyPage: null,
+}, { prefix: `${REDUX_KEY.VEHICLE.NEW}_` });

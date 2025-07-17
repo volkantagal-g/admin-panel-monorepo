@@ -1,0 +1,210 @@
+{
+  "AMOUNT": "Tutar",
+  "COUNTRY_CODE": "Ülke Kodu",
+  "CURRENCY_CODE": "Para Birimi Kodu",
+  "DISAGREEMENT_NOTES": {
+    "AlthoughOrderStatusIsNotSuitableTransactionHasBeenCameFromBank": "Online ödeme var fakat sipariş statüsü uygun değil",
+    "AmountInTheOrderAndTransactionFromTheBankDoesNotMatch": "Tutar domain ve bankada farklı",
+    "DespiteThePaidOnDeliveryTheTransactionsCameFromBank": "Kapıda ödeme seçilmiş fakat online ödeme bulunuyor",
+    "FreeOrder": "Ödeme alınmamış ürün/sipariş",
+    "MultipleTransaction": "Çoklu çekim",
+    "None": "Bulunmuyor",
+    "ReturnDecisionHasBeenMadeByAnotherDomain": "Domain kararı iade bekleniyor"
+  },
+  "DOMAINS": {
+    "GETIR10": "Getir10",
+    "GETIR30": "Getir30",
+    "Getir10": "Getir10",
+    "Getir30": "Getir30",
+    "GetirBiTaksi": "GetirBiTaksi",
+    "GetirDrive": "GetirAraç",
+    "GetirFood": "GetirYemek",
+    "GetirJobs": "Getirİş",
+    "GetirLocal": "GetirÇarşı",
+    "GetirLocals": "GetirÇarşı",
+    "GetirSubscription": "GetirÖzel",
+    "GetirUnSpecified": "GetirUnSpecified",
+    "GetirWater": "GetirSu",
+    "GetirWaterMarketPlace": "GetirSuPazaryeri",
+    "GetirWaterMarketplace": "GetirSuPazaryeri"
+  },
+  "EXCEL": {
+    "BANK_CHARGED_AMOUNT": "Bank - Sipariş Tutarı",
+    "BANK_POS_BANK_LIST": "Bank - Pos Banka Listesi",
+    "BANK_PROVISION_NUMBERS": "Bank - Provizyon Numaraları",
+    "BANK_REFUND_AMOUNT": "Bank - İade Tutarı",
+    "DOMAIN_AMOUNT_TO_BE_REFUNDED": "Domain - İade Edilecek Tutar",
+    "DOMAIN_CHARGED_AMOUNT": "Domain - Sipariş Tutarı",
+    "DOMAIN_CHECKOUT_DATE": "Domain - Sipariş Tarihi",
+    "DOMAIN_ORDER_STATUS": "Domain - Sipariş Durumu",
+    "DOMAIN_PAYMENT_METHOD": "Domain - Ödeme Yöntemi",
+    "DOMAIN_REFUND_AMOUNT": "Domain - İade Tutarı",
+    "DOMAIN_REFUND_STATUS": "Domain - İade Durumu",
+    "GETIR_MONEY_AMOUNT_TO_BE_REFUNDED": "GetirMoney - İade Edilecek Tutar",
+    "GETIR_MONEY_CHARGED_AMOUNT": "GetirMoney - Sipariş Tutarı",
+    "GETIR_MONEY_REFUND_AMOUNT": "GetirMoney - İade Tutarı",
+    "GETIR_MONEY_REFUND_STATUS": "GetirMoney - İade Durumu",
+    "PAYMENT_SOURCE_CHARGED_AMOUNT": "Ödeme Kaynağı - Sipariş Tutarı",
+    "PAYMENT_SOURCE_PAYMENT_TYPES": "Ödeme Kaynağı - Ödeme Tipleri",
+    "PAYMENT_SOURCE_REFUND_AMOUNT": "Ödeme Kaynağı - İade Tutarı"
+  },
+  "FILTER": {
+    "BASKET_ID": {
+      "DESC": "Sepet ID ye göre ara",
+      "TITLE": "Sepet ID"
+    },
+    "CHECKOUT_DATE": {
+      "DESC": "Sipariş Tarihi",
+      "TITLE": "Sipariş Tarihi"
+    },
+    "DOMAIN": {
+      "DESC": "Domain",
+      "TITLE": "Domain"
+    },
+    "EVENT_ID": {
+      "DESC": "Event ID",
+      "TITLE": "Event ID"
+    },
+    "EXTERNAL_PAYMENT_TOKEN": {
+      "DESC": "Harici Ödeme Tokeni",
+      "TITLE": "Harici Ödeme Tokeni"
+    },
+    "IS_RECONCILED": "Mutabık",
+    "IS_REFUNDABLE": "İade Edilebilir",
+    "ORDER_ID": {
+      "DESC": "Sipariş ID ye göre ara",
+      "TITLE": "Sipariş ID"
+    },
+    "ORDER_STATUS": {
+      "DESC": "Sipariş durumuna göre ara",
+      "TITLE": "Sipariş Durumu"
+    },
+    "ORIGINAL_TRANSACTION_ID": {
+      "DESC": "İşlem ID ye göre ara",
+      "TITLE": "İşlem ID"
+    },
+    "PAYMENT_ID": {
+      "DESC": "Ödeme ID ye göre ara",
+      "TITLE": "Ödeme ID"
+    },
+    "POS_BANK": {
+      "DESC": "Pos Banka",
+      "TITLE": "Pos Banka"
+    },
+    "RECONCILIATION_CHECK_DATE": {
+      "DESC": "Mutabakat Tarihi",
+      "TITLE": "Mutabakat Tarihi"
+    },
+    "RECONCILIATION_DATE": {
+      "DESC": "Mutabakat Tarihine göre ara",
+      "TITLE": "Mutabakat Tarihi"
+    },
+    "REFUND_STATUS": {
+      "DESC": "İade durumuna göre ara",
+      "TITLE": "İade Durumu"
+    },
+    "RENT_ID": {
+      "DESC": "Kiralama ID ye göre ara",
+      "TITLE": "Kiralama ID"
+    },
+    "TRANSACTION_DATE": {
+      "DESC": "İşlem Tarihine göre ara",
+      "TITLE": "İşlem Tarihi"
+    }
+  },
+  "GETIR_DRIVE_TRANSACTIONS": "GetirAraç İşlemler",
+  "MANUAL_REFUND": "Manuel İadeyi Tamamla",
+  "MANUAL_REFUND_CONFIRM": "Seçilen siparişler iadeleri tamamlanmış olarak kaydedilecektir.",
+  "MANUAL_REFUND_ERROR_ALL": "Tüm iadeler başarısız oldu!",
+  "MANUAL_REFUND_ERROR_SOME": "Bazı iadeler başarısız oldu!",
+  "ORDER": "Sipariş",
+  "ORIGINAL_TRANSACTION_TYPE": "Orijinal İşlem Tipi",
+  "REFUND": "İade",
+  "REFUND_CONFIRM": "Seçilen işlemler iade edilecektir.",
+  "REFUND_ERROR": "İade işlemi başarısız oldu.",
+  "REFUND_STATUS_TYPES": {
+    "AlreadyRefunded": "İade Edilmiş",
+    "Completed": "Tamamlandı",
+    "Failed": "İnceleme",
+    "None": "Bekliyor",
+    "Pending": "Bekliyor",
+    "Processing": "Aksiyon Alınıyor"
+  },
+  "REFUND_SUCCESS": "İade işlemi başarılı oldu.",
+  "REFUND_WARNING": "Lütfen en az bir işlem seçin!",
+  "REPORTS": "Raporlar",
+  "REPORT_DETAIL": {
+    "ALL_SUITABLE_REASONS": "Tüm Uygun Nedenler",
+    "GENERAL_INFO": "Genel Bilgi",
+    "INCREMENT": "Artmak",
+    "MACHINE": "Makine",
+    "MAIN_TITLE": "Rapor Detayı",
+    "ORDER_ID": "Sipariş Kimliği",
+    "REASON_FOR_DISAGREEMENT": "Anlaşmazlık Nedeni",
+    "RECONCILIATION_RESPONSE": "Mutabakat Yanıtı",
+    "REFUND_RESPONSE_DETAIL": "İade Detayı",
+    "TIMESTAMP": "Zaman damgası",
+    "TRANSACTIONS": "İşlemler"
+  },
+  "SEARCH_RESULT_ERROR": "Seçili filtreler için veri yok.",
+  "SOURCE_OF_STATEMENT": "İfadenin Kaynağı",
+  "STATS": {
+    "ORDER_COUNT": "Toplam Sipariş Sayısı",
+    "REFUND_AMOUNT": "Toplam Geri Ödeme Tutarı",
+    "REFUND_JOB_COUNT": "Toplam Geri Ödeme JobCount"
+  },
+  "TABLE": {
+    "COLUMNS": {
+      "ADDITIONAL_PAYMENT_AMOUNT": "İlave Ödeme Tutarı",
+      "AMOUNT_TO_BE_REFUNDED": "İade Edilecek Tutar",
+      "BANK": "BANKA",
+      "BANK_AMOUNT": "Banka Tutarı",
+      "BASKET_ID": "Sepet ID",
+      "CHARGED_AMOUNT": "Sipariş Tutarı",
+      "CHECKOUT_DATE": "Sipariş Tarihi",
+      "CHECK_DATE": "Kontrol Tarihi",
+      "CREATION_DATE": "Oluşturma Tarihi",
+      "DOMAIN_AMOUNT": "Domain Tutarı",
+      "DOMAIN_TYPE": "Domain",
+      "EVENT_ID": "Event ID",
+      "EXTERNAL_PAYMENT_TOKEN": "Harici Ödeme Tokeni",
+      "GETIRMONEY": "GETIRPARA",
+      "INSERTED_DATE": "Eklenme Tarihi",
+      "IS_RECONCILED": "Mutabık",
+      "ORDER_AMOUNT": "Sipariş Tutarı",
+      "ORDER_ID": "Sipariş ID",
+      "ORDER_STATUS": "Sipariş Durumu",
+      "ORDER_TIP": "Sipariş/Bahşiş",
+      "ORIGINAL_TRANSACTION_ID": "İşlem ID",
+      "PAYMENT_ID": "Ödeme ID",
+      "PAYMENT_METHOD": "Ödeme Yöntemi",
+      "PAYMENT_SOURCE": "ÖDEME KAYNAĞI",
+      "PAYMENT_TYPES": "Ödeme Tipleri",
+      "POS_BANK": "Pos Bankası",
+      "POS_BANK_LIST": "Pos Banka Listesi",
+      "PROVISION_NUMBERS": "Provizyon Numaraları",
+      "REASON": "Uyuşmazlık Sebebi",
+      "RECONCILIATION_DATE": "Mutabakat Tarihi",
+      "REFUND_AMOUNT": "İade Tutarı",
+      "REFUND_RESPONSE": "Geri Ödeme Yanıtı",
+      "REFUND_STATUS": "İade Durumu",
+      "RENT_ID": "Kiralama ID",
+      "TOTAL_CHARGE": "Toplam Ücretlendirme",
+      "TOTAL_REFUNDABLE_AMOUNT": "Toplam Geri Ödeme Tutarı",
+      "TRANSACTION_BEHAVIOUR_TYPE": "İşlem Tipi",
+      "TRANSACTION_DATE": "İşlem Tarihi",
+      "UPDATED_DATE": "Güncelleme Tarihi"
+    }
+  },
+  "TOTAL_COUNTS": "Toplam Sayı",
+  "TRANSACTION_BEHAVIOUR_TYPE": "İşlem Davranış Türü",
+  "TRANSACTION_BEHAVIOUR_TYPE_OPTIONS": {
+    "ChargeBack": "Ters İbraz",
+    "None": "Yok",
+    "PreProvision": "PreProvision",
+    "PreProvisionClosing": "PreProvisionClosing",
+    "Refund": "İade",
+    "Sale": "Satış",
+    "Sales": "Satış"
+  }
+}

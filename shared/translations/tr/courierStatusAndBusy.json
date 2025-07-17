@@ -1,0 +1,42 @@
+{
+  "BUSY_REASON": "Meşgul Nedeni",
+  "COURIER_ID": "Kurye Kimliği",
+  "DOMAINS": {
+    "ARTISAN": "esnaf",
+    "AVM": "avm",
+    "GETIR10": "Getir10",
+    "GETIR30": "Getir30",
+    "Getir10": "Getir10",
+    "Getir30": "Getir30",
+    "GetirBiTaksi": "GetirBiTaksi",
+    "GetirDrive": "GetirAraç",
+    "GetirFood": "GetirYemek",
+    "GetirJobs": "Getirİş",
+    "GetirLocal": "GetirÇarşı",
+    "GetirLocals": "GetirÇarşı",
+    "GetirMarket": "Getir Pazarı",
+    "GetirSubscription": "GetirÖzel",
+    "GetirUnSpecified": "GetirUnSpecified",
+    "GetirWater": "GetirSu",
+    "GetirWaterMarketPlace": "GetirSuPazaryeri"
+  },
+  "HOURS": "saat",
+  "REASONS": {
+    "ACCIDENT": "Kaza",
+    "CANCELLED_FOOD_ORDER": "İptal edilen Yemek siparişi",
+    "FIBABANK_DELIVERY": "Fibabank Teslimatı",
+    "GETIR_WATER_REFILL": "Getir Su Dolumu",
+    "LUNCH_BREAK": "Öğlen arası",
+    "LUNCH_BREAK_START": "Öğle Arası Başlangıcı",
+    "MAINTENANCE": "Bakım",
+    "MISSING_PRODUCT_OR_RETURN": "Eksik Ürün/İade",
+    "OTHER": "Diğer",
+    "REFUELING": "Yakıt ikmali",
+    "SHIFT_IS_OVER": "Vardiya Bitti",
+    "SHIFT_OVER_IN_WAREHOUSE": "Depoda Vardiya",
+    "TRAINING": "Eğitim",
+    "VEHICLE_BREAKDOWN": "Araç Arızası",
+    "WAREHOUSE_SWITCH": "Depo Anahtarı"
+  },
+  "Time_SPENT_ON_LAST_STATUS_HRS": "Son Durumda Harcanan Süre"
+}

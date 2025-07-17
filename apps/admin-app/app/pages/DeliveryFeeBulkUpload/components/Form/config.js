@@ -1,0 +1,58 @@
+export const exampleCsv = {
+  warehouse_id: '559831e0b1dc700c006a71b0',
+  city_name: 'Adiyaman',
+  warehouse_name: 'AdıyamanAltınşehir SC',
+  delfee_segment: 'low',
+  service: 'G10',
+  min_basket: 35,
+  high: 0,
+  high_delfee: 6.99,
+  mid: 0,
+  mid_delfee: 3.99,
+  highmid: 0,
+  highmid_delfee: 3.99,
+  low: 0,
+  low_delfee: 5.99,
+  yazlik1: 0,
+  yazlik1_delfee: 10.99,
+  yazlik2: 0,
+  yazlik2_delfee: 9.99,
+  yazlik2_minbasket: 100,
+  yazlik1_minbasket: 100,
+  high_minbasket: 100,
+  mid_minbasket: 100,
+  low_minbasket: 100,
+  highmid_minbasket: 100,
+};
+
+export const exampleCsvPeakHours = {
+  warehouse_id: '559831e0b1dc700c006a71b0',
+  city_name: 'Adiyaman',
+  warehouse_name: 'AdıyamanAltınşehir SC',
+  peak_delfee_segment: 'low',
+  service: 'G10',
+  peak_min_basket: 35,
+  peak_high: 0,
+  peak_high_delfee: 6.99,
+  peak_mid: 0,
+  peak_mid_delfee: 3.99,
+  peak_highmid: 0,
+  peak_highmid_delfee: 3.99,
+  peak_low: 0,
+  peak_low_delfee: 5.99,
+  peak_yazlik1: 0,
+  peak_yazlik1_delfee: 10.99,
+  peak_yazlik2: 0,
+  peak_yazlik2_delfee: 9.99,
+  peak_yazlik2_minbasket: 100,
+  peak_yazlik1_minbasket: 100,
+  peak_high_minbasket: 100,
+  peak_mid_minbasket: 100,
+  peak_low_minbasket: 100,
+  peak_highmid_minbasket: 100,
+};
+
+export const exampleCsvUrl = 'https://docs.google.com/spreadsheets/d/1Wh9k_FGcRxbf-RUqalgdJnOjNVP3GOm-dvJPuCWf0Do/edit#gid=825039444';
+export const exampleCsvUrlPeakHours = 'https://docs.google.com/spreadsheets/d/1gEgeQ-66oocppsyGAILSmoG_9Q6_k2pqm7em67V2tMc/edit#gid=657657437';
+
+export const WAREHOUSE_LIST_MIN = 4;

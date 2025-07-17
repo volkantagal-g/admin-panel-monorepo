@@ -1,0 +1,63 @@
+.liveMapPageContainer .ant-table-row:last-of-type > td {
+  border-bottom: none;
+}
+
+.liveMapPageContainer .ant-table-row-level-1 {
+  background-color: #f6f6f6;
+}
+
+.liveMapPageContainer .ant-table-cell-with-append {
+  background-color: transparent;
+}
+
+.liveMapPageContainer .ant-table-row-level-1 .ant-table-cell-with-append {
+  padding: 0 4px !important;
+}
+
+.liveMapPageContainer .ant-table-expanded-row-level-1 > .ant-table-cell {
+  padding: 0 !important;
+}
+
+.liveMapPageContainer .ant-table-row-level-1 > td:first-of-type {
+  background: transparent;
+  cursor: auto;
+}
+
+.liveMapPageContainer .ant-table.ant-table-small .ant-table-tbody .ant-table-wrapper:only-child .ant-table {
+  margin: 0;
+}
+
+.liveMapPageContainer .ant-table-row-level-1 > td:first-of-type > .nameColumn {
+  font-weight: 400;
+  color: #2A00AA;
+  user-select: auto;
+}
+
+.liveMapPageContainer .ant-table-row-level-1 .ant-table-cell-with-append .ant-table-row-expand-icon-spaced {
+  display: none;
+}
+
+.liveMapPageContainer .ant-tabs-small > .ant-tabs-nav .ant-tabs-tab {
+  padding: 2px 0;
+}
+
+.liveMapPageContainer .ant-tabs-top > .ant-tabs-nav, .ant-tabs-bottom > .ant-tabs-nav, .ant-tabs-top > div > .ant-tabs-nav, .ant-tabs-bottom > div > .ant-tabs-nav {
+  margin-bottom: 4px;
+}
+
+.liveMapPageContainer .ant-table-row-indent {
+  padding-left: 0 !important;
+}
+
+.liveMapPageContainer .ant-list-header {
+  background-color: #f7f7f7;
+  padding: 4px !important;
+  font-size: 12px;
+}
+
+.liveMapPageContainer .ant-table-title {
+  color: black;
+  padding: 6px 0 !important;
+  font-size: 12px;
+  font-weight: 600;
+}

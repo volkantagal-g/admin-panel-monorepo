@@ -1,0 +1,21 @@
+{
+  "ARCHIVED": "Arşivlendi",
+  "ARCHIVE_ALERT_BANNER": "Bu sayfa arşivlenmiştir ve artık düzenlenemez.",
+  "ARCHIVE_CONFIRMATION": "Bu sayfayı arşivlemek istediğinizden emin misiniz? Arşivelendiğinde bu sayfa artık düzenlenemez.",
+  "CAR_COUNT": "Araç Sayısı",
+  "DEFAULT_EQUIPMENTS": "Varsayılan Ekipmanlar",
+  "EQUIPMENT_NAME": "Ekipman",
+  "FRANCHISE_EQUIPMENT": "Bayi-Depo Ekipman Hakkı",
+  "FRANCHISE_EQUIPMENT_DETAIL": "Bayi-Depo Ekipman Hakkı Detayı",
+  "FRANCHISE_NAME": "Bayi Adı",
+  "INITIAL_COUNT": "Başlangıç Ekipman Hak Edişi",
+  "MOTO_COUNT": "Motor Sayısı",
+  "NEW_EQUIPMENT_AGREEMENT": "Yeni Ekipman Sözleşmesi",
+  "NEW_EQUIPMENT_RIGHT_VALUE": "Yeni Ekipman Hak Edişi",
+  "OLD_EQUIPMENT_RIGHT_VALUE": "Eski Ekipman Hak Edişi",
+  "OPENING_DATE": "Bayi Açılış Tarihi",
+  "PAGE_TITLE": "Bayi Ekipmanları",
+  "REMAINING_RIGHT": "Kalan Hak Ediş",
+  "VEHICLE_COUNT": "Araç Sayısı",
+  "WAREHOUSE_NAME": "Depo Adı"
+}

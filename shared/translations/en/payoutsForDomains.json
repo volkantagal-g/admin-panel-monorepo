@@ -1,0 +1,20 @@
+{
+    "BANK_ICA": "Bank ICA",
+    "DETAIL": "Detail",
+    "EFT_COUNT": "Eft Count",
+    "ERRORS": "Errors",
+    "ERROR_EXPLANATION": "Error Explanation",
+    "FOOD": "GetirFood",
+    "GENERAL": "General",
+    "IN_PROGRESS": "In Progress",
+    "LOCAL": "GetirLocal",
+    "MONEY_ORDER": "Money Order",
+    "RATE": "Rate",
+    "STATUS_CODE": "Status Code",
+    "SUCCESSFUL": "Successful",
+    "TIP": "Tip",
+    "TOTAL_AMOUNT": "Total Amount",
+    "TOTAL_COUNT": "Total Count",
+    "VERTICAL": "Vertical",
+    "WATER": "GetirWater"
+}

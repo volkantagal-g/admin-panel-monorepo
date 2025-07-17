@@ -1,0 +1,19 @@
+{
+    "BOUNDARY": "Boundary",
+    "CITY_LIST": "City List",
+    "CONFIRM_MODAL_TITLE": "Are you sure you want to submit changes?",
+    "COUNTRY_LIST": "Country List",
+    "CREATE_CITY": "Create City",
+    "CREATE_CITY_BOUNDARY": "Create City Boundary",
+    "CREATE_CITY_FORM": "Create City Form",
+    "CREATE_COUNTRY": "Create Country",
+    "CREATE_COUNTRY_BOUNDARY": "Create Country Boundary",
+    "CREATE_COUNTRY_FORM": "Create Country Form",
+    "EDIT": "Edit",
+    "INFO": "Info",
+    "PAGE_TITLE": "Country City Management",
+    "UPDATE_CITY": "Update City",
+    "UPDATE_CITY_BOUNDARY": "Update City Boundary",
+    "UPDATE_COUNTRY": "Update Country",
+    "UPDATE_COUNTRY_BOUNDARY": "Update Country Boundary"
+}

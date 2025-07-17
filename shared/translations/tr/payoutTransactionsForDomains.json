@@ -1,0 +1,19 @@
+{
+    "ACTIVITY_ID": {
+        "DESC": "Aktivite numarasina göre ara",
+        "TITLE": "Aktivite No"
+    },
+    "BANK_RESPONSE_CODE": "Banka Yanıt Kodu",
+    "BANK_RESPONSE_MESSAGE": "Banka Yanıt Mesajı",
+    "COMPANY_NAME": "Şirket Adı",
+    "EXPLANATION": "Açıklama",
+    "PAYOUT_OPTIONS": {
+        "Completed": "Tamamlandı",
+        "Error": "Hata",
+        "InProgress": "Devam Ediyor"
+    },
+    "PAYOUT_STATUS": {
+        "DESC": "Ödeme statusune göre ara",
+        "TITLE": "Ödeme Statusu"
+    }
+}

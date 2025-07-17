@@ -1,0 +1,28 @@
+{
+  "APP_OPEN_LOCATIONS": "Uygulama Açma",
+  "DATE_RANGE": "Gün Aralığı",
+  "DOWNLOAD_LOCATIONS": "Uygulama Indirme",
+  "GETIR_POLYGON_TYPES": {
+    "0": "Hiçbiri",
+    "1": "Alt Bölge",
+    "2": "Ürün görme engelli",
+    "5": "Kampanya engelli",
+    "7": "Sipariş engelli",
+    "9": "Genişletilmiş Bölge",
+    "10": "Araç tipi bazlı engelli",
+    "17": "Zaman Ayarlı teslimat"
+  },
+  "GETIR_SUBREGION_INTERVAL_TYPES": {
+    "1100": "Gündüz",
+    "2100": "Erken Gece",
+    "2200": "Geç Gece",
+    "2300": "Erken Sabah"
+  },
+  "HOUR_RANGE": "Saat Aralığı",
+  "MISSED_ORDERS_LOCATIONS": "Kaçan Siparişler",
+  "POLYGON_TYPE": "Poligon Tipi",
+  "SELECT_CITY": "Depoları haritada görmek için şehir seçmelisin",
+  "SELECT_INTERVAL_TYPE": "Alt Bölge Aralığı",
+  "SHOW_WAREHOUSE": "Depoları Haritada Göster",
+  "SUCCESS_ORDERS_LOCATIONS": "Başarılı Siparişler"
+}

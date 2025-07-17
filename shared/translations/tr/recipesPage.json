@@ -1,0 +1,109 @@
+{
+    "DETAILS": {
+        "ACTIVATION_ERRORS": "Tarif Aktivasyon Hataları",
+        "COPY_RECIPE_ID": "Tarif ID'sini Kopyala",
+        "ERRORS": "Hatalar",
+        "GALLERY": {
+            "MAIN_PAGE_IMAGE": "Ana Sayfa",
+            "RECIPE_DETAIL_IMAGE": "Tarif Detayı",
+            "TITLE": "Galeri"
+        },
+        "INGREDIENTS": {
+            "EN": "En",
+            "TITLE": "Malzemeler",
+            "TR": "Tr"
+        },
+        "NAME": "Ad",
+        "PANEL_NAME": "Panel Adı",
+        "PREPARATION": {
+            "EN": "En",
+            "TITLE": "Tarif Adımları",
+            "TR": "Tr"
+        },
+        "PRODUCTS": {
+            "ADD_PRODUCT": "Ürün Ekle",
+            "PRODUCT": "Ürün",
+            "SHOW_SUBSTITUTE_MODAL_BUTTON": "Alternatif Ürünler ({{substituteProductsCount}})",
+            "TABLE_TITLE": {
+                "DELETE": "Sil",
+                "IMAGE": "Fotoğraf",
+                "MUST_HAVE": "Olmazsa Olmaz mı?",
+                "PRODUCT": "Ürün",
+                "SORT": "Sırala",
+                "SUBSTITUTE_PRODUCTS": "Alternatif Ürünler"
+            },
+            "TITLE": "Ürünler"
+        },
+        "RECIPE_INFO": {
+            "DOMAINS": "Dikeyler",
+            "NAME": "Ad",
+            "PANEL_NAME": "Panel Adı",
+            "TITLE": "Tarif Bilgisi"
+        },
+        "RECIPE_STATUS": {
+            "ACTIVE": "Aktif",
+            "MODAL_NEGATIVE": "Bu tarifi deaktive etmek istediğinizden emin misiniz?",
+            "MODAL_POSITIVE": "Bu tarifi aktif duruma getirmek istediğinizden emin misiniz?",
+            "TITLE": "Tarif Durumu"
+        },
+        "SEGMENTS": {
+            "ALL_USERS": "Tüm Kullanıcılar",
+            "TITLE": "Segmentler"
+        },
+        "TAGS": {
+            "ADD_TAG": "Etiket Ekle",
+            "DURATION": "Süre",
+            "EN_TEXT": "EN Metni",
+            "HOUR": "Saat",
+            "HOURS": "Saat",
+            "MINUTE": "Dakika",
+            "MINUTES": "Dakika",
+            "SERVING": "Kişilik",
+            "SERVINGS": "Kişilik",
+            "SERVINGS_TITLE": "Porsiyonlar",
+            "TITLE": "Etiketler",
+            "TR_TEXT": "TR Metni"
+        },
+        "TIME_TABLE": {
+            "TITLE": "Aktif Zamanlar"
+        },
+        "TITLE": "Tarif Detayı"
+    },
+    "FILTERS": {
+        "DOMAINS": "Dikeyler",
+        "SEARCH": "Arama",
+        "STATUS": "Durum",
+        "TITLE": "Filtreler"
+    },
+    "LIST_TABLE": {
+        "ACTION": "Aksiyonlar",
+        "DOMAINS": "Dikeyler",
+        "ERRORS": "Errors",
+        "NAME": "Ad",
+        "ORDERS": "Sıralamalar",
+        "PANEL_NAME": "Panel Adı",
+        "SEGMENTS": "Segmentler",
+        "STATUS": "Durum",
+        "TITLE": "Tarifler"
+    },
+    "NEW_RECIPE": {
+        "BUTTON": "Yeni Tarif"
+    },
+    "NEW_RECIPE_MODAL": {
+        "DOMAINS": "Dikeyler",
+        "NAME": "Ad",
+        "PANEL_NAME": "Panel Adı",
+        "TITLE": "Yeni Tarif"
+    },
+    "RECIPES": "Tarifler",
+    "SORT": {
+        "BUTTON": {
+            "RECIPE_DETAIL": "Tarif Detayı",
+            "RECIPE_DETAIL_SHORT": "TD"
+        },
+        "HIDE": "Gizle",
+        "INACTIVES": "İnaktifler",
+        "SHOW": "Göster",
+        "TITLE": "Tarif Sıralama"
+    }
+}

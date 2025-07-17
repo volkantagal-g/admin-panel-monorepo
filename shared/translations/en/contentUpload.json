@@ -1,0 +1,10 @@
+{
+  "ADD_TIMESTAMP": "Add Timestamp",
+  "BUCKET": "Bucket",
+  "ERR_FILE_EMPTY": "Select file!",
+  "ERR_UPLOAD_TYPE_MESSAGE": "You can only upload JPEG/PNG/PDF/DOC/DOCX/VIDEO file!",
+  "FILENAME": "Filename",
+  "LINK": "Link",
+  "TITLE": "Content Upload",
+  "USE_ORIGINAL_FILE_NAME": "Use original file name"
+}

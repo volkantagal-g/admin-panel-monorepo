@@ -1,0 +1,1319 @@
+{
+  "ACCEPT": "Onayla",
+  "ACRONYM": "Kısaltma",
+  "ACTION": "Aksiyon",
+  "ACTION_SHORT": "Aks",
+  "ACTIVE": "Aktif",
+  "ACTIVENESS": "Aktiflik",
+  "ACTIVES": "Aktifler",
+  "ACTIVE_CATEGORY": "Aktif Kategori",
+  "ACTIVE_ORDERS": "Aktif Siparişler",
+  "ACTIVE_RETURNS": "Aktif İadeler",
+  "ACTIVE_TRIPS": "Aktif Yolculuklar",
+  "ADD": "Ekle",
+  "ADDRESS": "Adres",
+  "ADD_IMAGE": "Resim Ekle",
+  "AFTER": "Sonra",
+  "AGGRESSION_LEVELS": "Agresiflik Seviyeleri",
+  "ALL": "Tümü",
+  "ALL_DOCUMENTS": "Tüm Dokümanlar",
+  "AMOUNT": "Tutar",
+  "AND": "ve",
+  "APPLY": "Uygula",
+  "APPROVE": "Onayla",
+  "APPROVED_BY": "Onaylayan",
+  "APPROVED_DATE": "Onaylama Tarihi",
+  "APP_LANGUAGE": "Uygulama Dili",
+  "ARTISAN": "İşletme",
+  "AUTO_COUNTRY_CHANGE": "Panel ülken otomatik olarak değişecek.",
+  "AUTO_COUNTRY_CHANGE_ACCESS_ERROR": "Geçerli panel ülkesine iznin yok. Bu yüzden otomatik bir geçiş olmayacak.",
+  "AVAILABILITY": "Bulunurluk",
+  "AVERAGE": "Ortalama",
+  "BACK": "Geri",
+  "BASKET": "Sepet",
+  "BASKET_AMOUNT": "Sepet Tutarı",
+  "BEFORE": "Önce",
+  "BRAND": "Marka",
+  "BRING": "Getir",
+  "BUSY": "Meşgul",
+  "CALLBACK_URL": "Callback Url",
+  "CANCEL": "Vazgeç",
+  "CANCELED_BY": "İptal Eden",
+  "CANCELED_DATE": "İptal Tarihi",
+  "CANCEL_REASON": "İptal Nedeni",
+  "CATEGORY": "Kategori",
+  "CHAIN": "Zincir",
+  "CHAIN_RESTAURANT": "Zincir Restoran",
+  "CHANGE_COUNTRY": "Ülke Değiştir",
+  "CHANGE_IMAGE": "Resim Değiştir",
+  "CHANGE_LANGUAGE": "Switch to English",
+  "CHANNEL_PLATFORM": {
+    "Mobile": "Mobil",
+    "Web": "Web"
+  },
+  "CHARGED_AMOUNT": "Tahsilat",
+  "CHOOSE_FILE": "Dosya Seç",
+  "CITIES": "Şehirler",
+  "CITY": "Şehir",
+  "CITY_NAME": "Şehir Adı",
+  "CITY_PLATE": "Plaka Kodu",
+  "CLEAR": "Temizle",
+  "CLIENT": "Müşteri",
+  "CLOSE": "Kapat",
+  "CLOSED": "Kapalı",
+  "COMMERCE_INTELLIGENCE": "Commerce Intelligence",
+  "COMMERCE_INTELLIGENCE_SMART_PRICING": "Akıllı Fiyatlandırma",
+  "COMMERCE_INTELLIGENCE_SMART_PRICING_INDEX": "Endeks",
+  "COMMON_CONFIRM_TEXT": "Bu işlemi yapmak istediğinize emin misiniz?",
+  "CONFIGS": "Ayarlar",
+  "CONFIRM": "Onayla",
+  "CONFIRMATION_DATE": "Onay Tarihi",
+  "CONTINUE": "Devam Et",
+  "COPIED_TO_CLIPBOARD": "Panoya kopyalandı",
+  "COPY": "Kopyala",
+  "COPY_TO_CLIPBOARD": "Panoya kopyala",
+  "CORRECT_COUNTRY": "Seçilmesi Gereken Ülke",
+  "COUNT": "Sayı",
+  "COUNTRIES": "Ülkeler",
+  "COUNTRY": "Ülke",
+  "COUNTRY_BASED": "Ülke Bazlı",
+  "COUNTRY_CHANGING": "Oturum ülkeniz değiştiriliyor",
+  "COUNTY": "İlçe",
+  "COURIER": "Kurye",
+  "COURIER_DOMAIN_TYPES": {
+    "DEDICATED": "Dedike Kuryeler",
+    "POOL": "Havuz Kuryeler"
+  },
+  "COURIER_NAME": "Kurye Adı",
+  "COURIER_TYPES": {
+    "2": "Motor",
+    "3": "Yaya",
+    "4": "Bisiklet",
+    "5": "Doblo",
+    "6": "Araç",
+    "7": "Mitu",
+    "8": "Gezen",
+    "9": "GB & G10 & GSu"
+  },
+  "CREATE": "Oluştur",
+  "CREATED_AT": "Oluşturulma Zamanı",
+  "CREATED_BY": "Oluşturan",
+  "CREATION_DATE": "Oluşturma tarihi",
+  "CRITERIA": "Kriter",
+  "CRITICAL_AVAILABILITY": "Kritik Bulunurluk",
+  "CSV_FILE": "CSV Dosyası",
+  "CSV_UPLOAD_TEST_TYPE": "CSV Yükle",
+  "CURRENCY": "Para Birimi",
+  "CURRENCY_DETAIL": {
+    "CODE_ALPHA2": "Alpha2 Kodu",
+    "CODE_ALPHA3": "Alpha3 Kodu",
+    "CODE_NAME": "Kod Adı",
+    "CODE_NUMERIC": "Sayısal Kod",
+    "DECIMAL_SEPARATOR": "Ondalık Ayırıcı",
+    "PRECISION": "Hassasiyet",
+    "PREFIX_SYMBOL": "Ön Ek Sembolü",
+    "SUFFIX_SYMBOL": "Son Ek Sembolü",
+    "SYMBOL": "Sembol",
+    "THOUSAND_SEPARATOR": "Binleri Ayırıcı"
+  },
+  "CURRENT_COUNTRY": "Mevcut Ülke",
+  "CUSTOM_ELEMENTS": {
+    "PAGINATION": {
+      "HIDE_EXTRA": "Opsiyonları gizle",
+      "SHOW_EXTRA": "Opsiyonları göster"
+    },
+    "TITLE": {
+      "IMPORT_EXPORT": "İçe/Dışa Aktar",
+      "TABLE_SUB_TITLE_PLURAL": "{{ totalCountData }} adet kayıt bulunuyor.",
+      "TABLE_SUB_TITLE_SINGLE": "{{ totalCountData }} adet kayıt bulunuyor."
+    }
+  },
+  "DATA_CALLBACK_URL_ENABLED": "Data Callback Url Etkin",
+  "DATA_CALLBACK_URL_ENABLED_TOOLTIP": "Notification/Sms datasının besleneceği URL'i giriniz.",
+  "DATA_LOADING": "Veri Yükleniyor...",
+  "DATE": "Tarih",
+  "DATE_RANGE": "Tarih Aralığı",
+  "DAY": "Gün",
+  "DAYS": "Gün",
+  "DAY_OF_WEEKS": {
+    "0": "Pazar",
+    "1": "Pazartesi",
+    "2": "Salı",
+    "3": "Çarşamba",
+    "4": "Perşembe",
+    "5": "Cuma",
+    "6": "Cumartesi"
+  },
+  "DAY_OF_WEEKS_SHORT": {
+    "0": "P",
+    "1": "P",
+    "2": "S",
+    "3": "Ç",
+    "4": "P",
+    "5": "C",
+    "6": "C"
+  },
+  "DELETE": "Sil",
+  "DELETED": "Silindi",
+  "DELETE_SELECTED_ROWS_CONFIRM_TEXT": "Seçili satırları silmek istediğinizden emin misiniz?",
+  "DELIVERY_FEE": "Getirmesi",
+  "DELIVERY_FEE_BULK_UPLOAD_BUTTON": "Getirme Ücreti Toplu Yükleme",
+  "DELIVERY_TYPE": "Teslimat Tipi",
+  "DEPARTMENT": "Departman",
+  "DESCRIPTION": "Açıklama",
+  "DETAIL": "Detay",
+  "DETAIL_SHORT": "D",
+  "DIFFERENCE": "Fark",
+  "DISABLE": "Etkisizleştir",
+  "DISCOUNT": "İndirim",
+  "DISTRICT": "İlçe",
+  "DIVISION": "Division",
+  "DIVISIONS": "Divisions",
+  "DOCUMENTATION": "Dokümantasyon",
+  "DOCUMENTATIONS": "Dokümantasyonlar",
+  "DOMAIN": "Domain",
+  "DOMAIN_TYPE": "Servis Tipi",
+  "DOMAIN_TYPES": "Servis Tipleri",
+  "DOWNLOAD": "İndir",
+  "DOWNLOAD_AS_CSV": "CSV Olarak İndir",
+  "DOWNLOAD_LIST": "Listeyi İndir",
+  "DRAG_AND_DROP_FILE": "Dosya yüklemek için tıklayın veya bu alana sürükleyin",
+  "DURATION": "Süre",
+  "EDIT": "Düzenle",
+  "EMAIL": "E-posta",
+  "EMPLOYEE_LIST": "Getirliler",
+  "EMPLOYEE_SELECT_DEPARTMENT": "Departman Seçimi",
+  "EMPLOYEE_SELECT_LOCATION": "Konum Seçimi",
+  "END_DATE": "Bitiş Tarihi",
+  "ERROR": "Hata",
+  "ERROR_TITLE": "Bir hata oluştu",
+  "EXACT": "Birebir",
+  "EXAMPLE_CSV": "Örnek Csv",
+  "EXAMPLE_EXCEL": "Örnek Excel",
+  "EXECUTE": "Uygulamak",
+  "EXISTS": "Var",
+  "EXPORT_CSV": "Csv'yi Dışa Aktar",
+  "EXPORT_EXCEL": "Excel'e Aktar",
+  "EXPORT_PAGES": "Sayfaları dışa aktar",
+  "FAST_FORWARD": "Hızlı İlerle",
+  "FAV_DOCUMENTS": "Favori Dokümanlar",
+  "FAX": "Faks",
+  "FEE": "Ücret",
+  "FEEDBACKS": "Şikayetler",
+  "FETCH_DATA": "Veri Çek",
+  "FIELD_MANAGER": "Saha Yöneticisi",
+  "FILE_NAME": "Dosya Adı",
+  "FILE_WILL_BE_SENT": "Talebiniz oluşturuldu. Dosya eposta adresinize gönderilecektir.",
+  "FILTER": "Filtre",
+  "FINANCE": "Finans",
+  "FINANCIALS": "Finansallar",
+  "FOOD": {
+    "LIVE_MAP": {
+      "TITLE": "GetirYemek Canlı Harita"
+    }
+  },
+  "FOOD_DELIVERY_TYPES": {
+    "1": "Getir Getirsin",
+    "2": "Restoran Getirsin",
+    "IN_SHORT": {
+      "1": "GG",
+      "2": "RG"
+    }
+  },
+  "FORBIDDEN_MATCHES": "Eşleşme Engelleri",
+  "FORM_ELEMENTS": {
+    "INFO": {
+      "CLEAN": "Temizle",
+      "REMOVE": "Kaldır"
+    },
+    "PLACEHOLDER": {
+      "SELECT": "Seçiniz",
+      "TEXT": "Kelime yazabilirsiniz"
+    }
+  },
+  "FRANCHISE": "Bayi",
+  "FRANCHISES": "Bayiler",
+  "FRANCHISE_TYPES": "Bayi Tipleri",
+  "FREE_COURIER": "Müsait",
+  "GENERAL_INFO": "Genel Bilgiler",
+  "GETIRIAN": "Getirli",
+  "GETIR_DELIVERY": "Getir Getirsin",
+  "GETIR_DRIVE": "GetirAraç",
+  "GETIR_DRIVE_EXTERNAL_SOURCE": {
+    "BITAKSI": "BiTaksi",
+    "GETIR": "Getir",
+    "MOOV": "Moov"
+  },
+  "GETIR_FOOD": "GetirYemek",
+  "GETIR_GROCERY": "GetirMarket",
+  "GETIR_GROCERY_SHORT": "GM",
+  "GETIR_LOCALS": "GetirÇarşı",
+  "GETIR_MARKET": "GetirMarket",
+  "GETIR_MARKET_DOMAIN_TYPES": {
+    "1": "Getir10",
+    "2": "GetirYemek",
+    "3": "GetirBüyük",
+    "4": "GetirSu",
+    "5": "GetirAVM",
+    "6": "GetirÇarşı",
+    "7": "GetirBiTaksi",
+    "8": "GetirSu Pazaryeri",
+    "9": "GetirAraç",
+    "11": "Getirİş",
+    "12": "GetirN11",
+    "13": "GetirN11 Çabuk",
+    "14": "GetirFinans",
+    "15": "GetirÖzel",
+    "17": "GetirGorillas",
+    "18": "N11(Her Şey)"
+  },
+  "GETIR_MARKET_INTEGRATION_TYPES": {
+    "GETIR": "Getir",
+    "GORILLAS": "Gorillas",
+    "JET": "Jet",
+    "N11": "n11",
+    "N11QUICK": "N11Çabuk",
+    "UBER": "Uber"
+  },
+  "GETIR_MARKET_POLYGON_TYPES": {
+    "0": "Hiçbiri",
+    "1": "Alt Bölge",
+    "2": "Ürün görme engelli",
+    "5": "Kampanya engelli",
+    "7": "Sipariş engelli",
+    "9": "Genişletilmiş Bölge",
+    "10": "Araç tipi bazlı engelli",
+    "17": "Zaman Ayarlı teslimat"
+  },
+  "GET_MORE_DATA": "Daha Fazla Veri Çek",
+  "GLOBAL": "GLOBAL",
+  "GLOBAL_ACCESS": "Global Erişim",
+  "GO_TO_HOME_PAGE": "Ana Sayfaya Git",
+  "GROSS_MARGIN": "Brüt Marj",
+  "GSM": "Gsm",
+  "HAS_GLOBAL_ACCESS_VALUE": "Global Erişime Sahip",
+  "HOUR": "Saat",
+  "HOURS": "Saat",
+  "HTTP_STATUS_MESSAGE": {
+    "404": "Sayfa bulunamadı.",
+    "500": "Ups, Bir şeyler ters gitti."
+  },
+  "ID": "ID",
+  "IDENTIFICATION_NUMBER": "Kimlik Numarası",
+  "IMAGE": "Resim",
+  "IMPORT": "Yükle",
+  "IMPORT_CSV": "Csv'yi İçe Aktar",
+  "IMPORT_CSV_FILE": "CSV Dosya Yükle",
+  "IMPORT_EXCEL": "Excel'i İçe Aktar",
+  "INACTIVE": "İnaktif",
+  "INACTIVES": "İnaktifler",
+  "INACTIVE_CATEGORY": "İnaktif Kategori",
+  "INCLUDES": "İçeren",
+  "INTEGRATION_TYPE": "Entegrasyon Tipi",
+  "INVALID": "Geçersiz",
+  "INVALID_CSV": "Hatalı CSV dosyası",
+  "KUZEYDEN": "Kuzeyden",
+  "LANGUAGE": "Dil",
+  "LAST7DAYS": "7 Gün",
+  "LAST_COORD_TIME": "Son Lok",
+  "LAST_STATUS": "Son Durum",
+  "LAST_UPDATED": "Son Güncelleme",
+  "LAST_WEEK": "Geçen Hafta",
+  "LEVEL": "Seviye",
+  "LIMIT": "Limit",
+  "LIMIT_TRANSACTION_ERROR": "Limit işlemleri için hata oluştu.",
+  "LINE": "Satır",
+  "LIVE_AVAILABILITY": "Anlık Bulunurluk",
+  "LOADED": "Yüklü",
+  "LOADING_TIP": "Yükleniyor...",
+  "LOCALS_DELIVERY_TYPES": {
+    "1": "Getir Getirsin",
+    "2": "İşletme Getirsin",
+    "IN_SHORT": {
+      "1": "GG",
+      "2": "İG"
+    }
+  },
+  "LOCATION": "Konum",
+  "LOGOUT": "Çıkış Yap",
+  "MAIN_IMAGE": "Ana Resim",
+  "MAIN_STORE": "Merkez Depo",
+  "MAIN_WAREHOUSES": "Merkez Depolar",
+  "MAKE_MAIN": "Ana Resim Yap",
+  "MANAGER": "Yönetici",
+  "MAP": "Harita",
+  "MARKET": "Market",
+  "MARKET_FRANCHISE_TYPES": {
+    "1": "Getir",
+    "2": "Standart Bayi",
+    "3": "Store Conversion"
+  },
+  "MARKET_ORDER_STATUSES": {
+    "HANDOVER": "Kuryeye teslim edildi",
+    "ONWAY": "Yolda",
+    "PREPARED": "Hazırlandı",
+    "PREPARING": "Hazırlanıyor",
+    "REACHED": "Ulaştı",
+    "RESERVED": "Rezerve",
+    "VERIFYING": "Doğrulanıyor",
+    "WAITING_FOR_PICKER": "Toplayıcı Bekliyor"
+  },
+  "MARKET_ORDER_STATUSES_SHORT": {
+    "HANDOVER": "El Değişti",
+    "ONWAY": "Yolda",
+    "PREPARED": "Hazırlandı",
+    "PREPARING": "Hazırlanıyor",
+    "REACHED": "Ulaştı",
+    "RESERVED": "Rezerve",
+    "VERIFYING": "Doğrulanıyor",
+    "WAITING_FOR_PICKER": "Top.Bekliyor"
+  },
+  "MARKET_VEHICLE_TYPES": {
+    "100": "Yaya",
+    "200": "Motor",
+    "250": "Motor (50cc)",
+    "300": "MiTu",
+    "400": "Araç",
+    "500": "E-Bisiklet",
+    "600": "E-Moto",
+    "700": "Test"
+  },
+  "MAX": "Maks.",
+  "MEMBERSHIP_TYPE": "Üyelik Tipi",
+  "MERCHANT": "Tüccar",
+  "MERCHANT_TYPE": "Tüccar Türü",
+  "MESSAGE": "Mesaj",
+  "MILLION": "Milyon",
+  "MILLION_SHORT": "m",
+  "MIN": "Min.",
+  "MINUTE_SHORT": "dk",
+  "MIN_THREE_CHARACTERS": "Minimum 3 karakter!",
+  "MISSED_ORDER": "Kaçan Sipariş",
+  "MISSED_ORDERS": "Kaçan Siparişler",
+  "MISSED_ORDER_RATIO": "Kaçan Sipariş Oranı",
+  "MIXPANEL_DATA_FEED": "Mix Panel Data Feed",
+  "MONTH": "Ay",
+  "NAME": "Adı",
+  "NAME_1": "İsim",
+  "NEIGHBORHOOD": "Mahalle",
+  "NET_REVENUE": "Net Ciro",
+  "NET_REVENUE_SHORT": "NC",
+  "NET_REVENUE_TAX_EXCLUDED": "Net Ciro (Vergi Hariç)",
+  "NET_REVENUE_TAX_EXCLUDED_RATIO": "Net Ciro Oranı (Vergi Hariç)",
+  "NET_REVENUE_TAX_EXCLUDED_SHORT": "NC(VH)",
+  "NEW": "Yeni",
+  "NEW_CITIES": "Yeni Şehirler",
+  "NEW_MARKET_FRANCHISE": "Yeni Bayi",
+  "NEW_WAREHOUSE": "Yeni Getir Deposu",
+  "NEW_YEAR": "Yeni Yıl",
+  "NEXT": "Sonraki",
+  "NO": "Hayır",
+  "NONE": "Hiçbiri",
+  "NON_ISTANBUL": "Yeni Şehirler",
+  "NOTE": "Not",
+  "NOT_DONE": "Yapılmadı",
+  "NOT_EXISTS": "Yok",
+  "NOT_FOUND": "Bulunamadı",
+  "NOT_FOUND_PLEASE_TYPE_FOR_SEARCH": "Bulunamadı: Arama yapmak için en az {{ letterCount }} harf girişi yapınız.",
+  "NO_ACCESS": "Erişimi Yok",
+  "NO_DATA": "Veri Yok",
+  "NO_DOCUMENTS": "Doküman yok",
+  "NO_SUPPLIER": "Tedarakçi Yok",
+  "NPS_DOMAIN_TYPES": {
+    "1": "Getir10",
+    "2": "GetirYemek",
+    "3": "GetirBüyük",
+    "4": "GetirSu",
+    "6": "GetirÇarşı",
+    "8": "GetirSu Pazaryeri",
+    "9": "GetirAraç",
+    "9__GETIR": "GetirAraç",
+    "9__MOOV": "Moov"
+  },
+  "OFF": "Kapalı",
+  "OK": "Tamam",
+  "OLD_COUNTRIES": "Eski Ülkeler",
+  "ON": "Açık",
+  "ONLY": "Sadece",
+  "ON_ORDER": "Siparişte",
+  "OPEN": "Açık",
+  "OR": "veya",
+  "ORDER": "Sipariş",
+  "ORDERS": "Siparişler",
+  "ORDER_COUNTER": "Sipariş Sayacı",
+  "ORDER_IN_QUEUE": "Sıraya Alındı",
+  "ORDER_RATIO": "Sipariş Oranı",
+  "ORDER_SHORT": "S",
+  "ORDER_STATUS_TEXT": "Sipariş Durumu",
+  "ORGANIC": "Organik",
+  "OTHER_INFO": "Diğer Bilgiler",
+  "OVERWRITE": "Kopyala",
+  "PAGE": "Sayfa",
+  "PAGES": "Sayfalar",
+  "PAGES_FOR_CONFIG": "Sayfa Ayarları (Yetki, yönetici bilgilerine erişmek için)",
+  "PAGE_COMPONENTS": "Sayfa Bileşenleri",
+  "PAGE_DESCRIPTION": "Açıklama",
+  "PAGE_DETAILS": "Daha fazla bilgi için, detay sayfasını ziyaret edebilirsiniz",
+  "PAGE_DOCUMENTS": "Sayfa Dokümanları",
+  "PAGE_INFO": "Sayfa Bilgileri",
+  "PAGE_NAME": "İsim",
+  "PAGE_OWNERS": "Yöneticiler",
+  "PAGE_TITLE": {
+    "AB_TEST": {
+      "CREATE": "A/B Test Oluşturma",
+      "DETAIL": "A/B Test - Detay Sayfası",
+      "LIST": "A/B Test Listeleme"
+    },
+    "AB_TEST_V2": {
+      "CREATE": "AB Test Kitlesi Oluşturma",
+      "DETAIL": "AB Test - Detay",
+      "LIST": "AB Test Kitlesi Listeleme"
+    },
+    "ARTISAN_ORDER": {
+      "FILTER": "GetirÇarşı Sipariş Filtresi"
+    },
+    "ARTISAN_ORDER_LIVE_MAP": "GetirÇarşı Canlı Harita",
+    "ASSET": {
+      "DASHBOARD": "IT Zimmet Dashboard",
+      "DETAIL": "Çalışan Zimmet Detayı",
+      "LIST": "Çalışan Zimmet Listesi",
+      "NEW": "Yeni Çalışan Zimmeti"
+    },
+    "AUTO_GROWTH": "Auto Growth",
+    "BANK_RECONCILIATION": {
+      "LIST": "Banka Mutabakat Raporu"
+    },
+    "BANK_RECONCILIATION_SUMMARY": "Banka Mutabakatı (Özet)",
+    "BRAND": {
+      "DETAIL": "Marka Detay",
+      "LIST": "Markalar",
+      "NEW": "Yeni Marka"
+    },
+    "CLIENT_ATTACHMENTS_DETAIL": "Müşteri Chat Ek Görüntüleme",
+    "CLIENT_LIST": "Müşteriler",
+    "CLIENT_LIST_DOUBLE_CHECKER": "Müşteri Listesi Kontrol",
+    "CLIENT_TARGETING": "Müşteri Hedefleme",
+    "COMPLIANCE_REPORT": {
+      "HOME": "Teknoloji Uyumluluk Raporu",
+      "NODE": {
+        "VERSIONS": "Versiyon Raporu (Node.js)",
+        "VULNERABILITIES": "Güvenlik Açığı Raporu (Node.js)",
+        "VULNERABILITY_DETAILS": "Güvenlik Açığı Detayları (Node.js)"
+      }
+    },
+    "COMPONENT": {
+      "DETAIL": "Bileşen Detay",
+      "NEW": "Yeni Bileşen"
+    },
+    "CONFIG": {
+      "LIST": "Konfigürasyonlar",
+      "LOG": "Konfigürasyon Log",
+      "MOBILE_ANIMATION": "Animasyon Konfigürasyonları",
+      "NEW": "Yeni Konfigürasyon",
+      "PEAK_HOURS": "Yoğun Saatler",
+      "WORKING_HOURS": "Çalışma Saatleri"
+    },
+    "COURIER": {
+      "DETAIL": "Kurye Detay",
+      "LIST": "Kurye Listesi"
+    },
+    "COURIER_COMMUNICATION": {
+      "CREATE": "Bildirim Yarat",
+      "CREATE_SEGMENT": "Create Notification Segment",
+      "DETAIL": "Bildirim Detayı",
+      "LIST": "Bildirim Listesi",
+      "SEGMENT_LIST": "Segment Listesi"
+    },
+    "COURIER_FEEDBACK": {
+      "LIST": "Kurye Geribildirim Listesi"
+    },
+    "COURIER_GAMIFICATION_TASK": {
+      "CREATE": "Kurye GMFC Görev Oluşturma",
+      "DETAIL": "Kurye GMFC Görev Detay Görüntüleme",
+      "LIST": "Kurye GMFC Görev Listesi",
+      "SUMMARY": "Kurye GMFC Görev Özeti"
+    },
+    "COURIER_LIVE_MONITORING": "Kurye Durum Takip",
+    "COURIER_LOYALTY": {
+      "DETAILS": "Kurye Sadakat Detayları",
+      "LIST": "Kurye Sadakat Listesi"
+    },
+    "COURIER_PLAN": {
+      "LIST": "Uçtan Uca Kurye Planı Listesi",
+      "NEW": "Yeni Uçtan Uca Kurye Planı",
+      "PROCEED": "Uçtan Uca Kurye Planı Süreci"
+    },
+    "COURIER_STATUS_AND_BUSY": {
+      "LIST": "Kurye Durumu Ve Meşgul İlanı"
+    },
+    "CUSTOMER_AGREEMENT": "Müşteri Onay",
+    "DAILY_SUMMARY": {
+      "COUNTRY": "ÖzetHızlı - Ülke",
+      "FOUNDERS_CUSTOM": "ÖzetHızlı - Yönetim",
+      "GLOBAL": "ÖzetHızlı - Global"
+    },
+    "DAILY_TRACKING": {
+      "INSTANT": "Kurye KPI Takip",
+      "ORDER": "Sipariş KPI Takip"
+    },
+    "DDS": {
+      "OBJECTION": {
+        "DETAIL": "Depo Değerlendirme Sistemi İtiraz Detay",
+        "LIST": "Depo Değerlendirme Sistemi İtiraz Listesi"
+      }
+    },
+    "DELIVERY_FEE": {
+      "BULK_UPLOAD": "Getirme Ücreti Toplu Yükleme (Normal Saatler)",
+      "BULK_UPLOAD_PEAK_HOURS": "Getirme Ücreti Toplu Yükleme (Yoğun Saatler)"
+    },
+    "DTS": {
+      "GENERAL": {
+        "DETAIL": "Disiplin Takip Sistemi Detayı",
+        "LIST": "Disiplin Takip Sistemi Listesi",
+        "NEW": "Yeni Disiplin Takip Sistemi"
+      },
+      "RULE": {
+        "DETAIL": "Disiplin Takip Sistemi Kural Detayı",
+        "LIST": "Disiplin Takip Sistemi Kural Listesi",
+        "NEW": "Yeni Disiplin Takip Sistemi Kuralı"
+      },
+      "SETTING": {
+        "CATEGORY": {
+          "DETAIL": "Disiplin Takip Sistemi Kategori Ayarı Detayı",
+          "LIST": "Disiplin Takip Sistemi Kategori Ayarı Listesi",
+          "NEW": "Yeni Disiplin Takip Sistemi Kategori Ayarı"
+        },
+        "FEEDBACK_SOURCE": {
+          "DETAIL": "Disiplin Takip Sistemi Bildirim Kaynağı Ayarı Detayı",
+          "LIST": "Disiplin Takip Sistemi Bildirim Kaynağı Ayarı Listesi",
+          "NEW": "Yeni Disiplin Takip Sistemi Bildirim Kaynağı Ayarı"
+        },
+        "PRIORITY": {
+          "DETAIL": "Disiplin Takip Sistemi Derecelendirme Ayarı Detayı",
+          "LIST": "Disiplin Takip Sistemi Derecelendirme Ayarı Listesi",
+          "NEW": "Yeni Disiplin Takip Sistemi Derecelendirme Ayarı"
+        }
+      },
+      "SUMMARY": "Disiplin Takip Sistemi Özeti"
+    },
+    "EMPLOYEE": {
+      "DETAIL": "Çalışan Detayı",
+      "HOME": "Getirli Ana Sayfası",
+      "LIST": "Çalışan Listesi",
+      "LOGS": "Çalışan Logları",
+      "NEW": "Yeni Çalışan",
+      "OFFICE_ATTENDANCE_TRACKING": {
+        "CAPACITY_MANAGEMENT": "Ofise Gelme Takip Kapasite Yönetimi",
+        "DASHBOARD": "Ofise Gelme Takip Paneli",
+        "EMPLOYEE_TRANSACTIONS": "Ofis Çalışan Giriş Çıkış Kayıtları",
+        "TREND": "Ofise Gelme Trendi"
+      },
+      "PERMIT_LIST": "Yıllık İzin Listesi"
+    },
+    "EU_GROWTH_COMPARISON": "EU Büyüme Karşılaştırması",
+    "EVENT": {
+      "DETAIL": "Etkinlik Detayı"
+    },
+    "FINANCE": {
+      "ORDER_DETAIL": "Getir Finans Sipariş Detayları "
+    },
+    "FLEET": {
+      "TMS": {
+        "DETAIL": "TMS Araç Detayı",
+        "NEW": "Yeni TMS Aracı"
+      },
+      "TMS_DRIVER": {
+        "DETAIL": "TMS Sürücü Detayı",
+        "LIST": "TMS Sürücü Listesi"
+      },
+      "VEHICLE": {
+        "DETAIL": "Araç detayları",
+        "LIST": "Araç Listesi",
+        "NEW": "Yeni Araç",
+        "UPLOAD": "Araç CSV Listesini Yükle"
+      },
+      "VEHICLE_CONSTRAINT": {
+        "DETAIL": "Araç Limiti Detayı",
+        "LIST": "Araç Limitleri Listesi",
+        "NEW": "Yeni Araç Limiti"
+      }
+    },
+    "FOOD": {
+      "MEAL_CARD_RECONCILIATION": "Yemek Kartı Mutabakatı",
+      "ORDER_ACTIVE": "GetirYemek Aktif Siparişler",
+      "RESTAURANT_EXTERNAL_TRANSACTION": "Restoran Borç/Alacak İşlemleri",
+      "RESTAURANT_PAYBACK_STATUS": "Restoran Ödeme Durumu"
+    },
+    "FRANCHISE_BILL_MANAGEMENT": {
+      "DETAIL": "Bayi Fatura Detayı",
+      "LIST": "Bayi Fatura Listesi"
+    },
+    "FRANCHISE_DYNAMIC_CONFIG": {
+      "LIST": "Franchise Dinamik Konfigürasyon Listesi"
+    },
+    "FRANCHISE_EARNINGS": {
+      "LIST": {
+        "TITLE": "Bayi Gelir Listesi"
+      }
+    },
+    "FRANCHISE_EQUIPMENT": {
+      "DETAIL": "Bayi-Depo Yeni Ekipman Hak Detayı",
+      "NEW": "Bayi-Depo Yeni Ekipman Hakkı"
+    },
+    "FRANCHISE_LEGAL": {
+      "LIST": "Bayi Sözleşme Listesi"
+    },
+    "FRANCHISE_REQUEST": {
+      "LIST": "Bayilik Başvuru Listesi"
+    },
+    "FRAUD_CONTROL": {
+      "LIST": "Fraud Kontrol Panel",
+      "SEGMENT_MANAGEMENT": "Fraud Segment Yönetimi"
+    },
+    "GETIR_DRIVE": {
+      "DASHBOARD": "GetirAraç Dashboard"
+    },
+    "GETIR_MARKET": {
+      "COMMERCIAL_MONITORING": "GetirMarket - Ticari Takip"
+    },
+    "GIS": {
+      "BANNED_AREAS": "Bölge Banlama",
+      "COUNTRY_CITY_MANAGEMENT": "Ülke City Yönetimi",
+      "HEATMAP": "Dağılım Haritası",
+      "LOCATION_INTELLIGENCE": "Mekansal Bilgi",
+      "WEATHER_MAP": "Hava Durumu Haritası",
+      "WMS": "GIS Haritası"
+    },
+    "GL_GROWTH_COMPARISON": "GÇ Büyüme Karşılaştırma",
+    "GL_RETURN": {
+      "ALERT": "İade Slot Uyarıları",
+      "DETAIL": "İade Slot Uyarıları Detay"
+    },
+    "HIGH_LEVEL_DYS": "Genel DPS Özet",
+    "INSTALLMENTS": "Taksitler",
+    "INTERNAL_AUTHENTICATION": {
+      "REPOSITORY_DETAIL": "Repo Bilgileri",
+      "REPOSITORY_LIST": "Tüm Repoların Listesi",
+      "TEAM_DETAIL": "iç Teknoloji Takım Detayı",
+      "TEAM_LIST": "İç Teknoloji Takım Listesi"
+    },
+    "KDS": {
+      "AUDIT_FORM_TYPE": {
+        "DETAIL": "Denetim Form Tipi Detayı",
+        "LIST": "Denetim Form Tipi Listesi",
+        "NEW": "Yeni Denetim Form Tipi"
+      },
+      "QUESTION": {
+        "DETAIL": "Soru Detayı",
+        "LIST": "Soru Listesi",
+        "NEW": "Yeni Soru"
+      },
+      "QUESTION_GROUP": {
+        "DETAIL": "Soru Grup Detayı",
+        "LIST": "Soru Grup Listesi",
+        "NEW": "Yeni Soru Grup"
+      },
+      "SCORE_MAPPING": "Skor Eşleştirme"
+    },
+    "LEAVE_MANAGEMENT": {
+      "DETAIL": "İzin İstekleri Listesi",
+      "LIST": "İzin İsteği Detayı"
+    },
+    "LIVE_MONITORING": {
+      "LIST": "Sipariş Büyüme Takip",
+      "OPERATIONS": "Depo Operasyon Takip"
+    },
+    "LOCALS": {
+      "ACTIVE": "GetirÇarşı Aktif Sipariş"
+    },
+    "LOCATION_WRITE_OFF": {
+      "DETAIL": "Lokasyon Hareketi Detayı",
+      "LIST": "Lokasyon Hareketleri",
+      "NEW": "Yeni Lokasyon Hareketi Talebi"
+    },
+    "LOTTERY": {
+      "DETAIL": "Piyango Detay",
+      "NEW": "Yeni Piyango"
+    },
+    "MARKET": {
+      "LIVE_MAP": "Canlı Harita"
+    },
+    "MARKET_AUTO_GROWTH_OPERATIONS": "Market Growth Operasyon Servis Ayarları",
+    "MARKET_FRANCHISE": {
+      "DETAIL": "Bayi Detay",
+      "LIST": "Bayi Listesi",
+      "NEW": "Yeni Bayi"
+    },
+    "MARKET_FRANCHISE_USER": {
+      "DETAIL": "Bayi Kullanıcı Detayı",
+      "LIST": "Bayi Kullanıcı Listesi",
+      "NEW": "Yeni Bayi Kullanıcısı"
+    },
+    "MARKET_FRANCHISE_USER_ROLE": {
+      "DETAIL": "Bayi Kullanıcı Rol Detayı",
+      "LIST": "Bayi Kullanıcı Rol Listesi",
+      "NEW": "Yeni Bayi Kullanıcı Rolü"
+    },
+    "MARKET_FRANCHISE_USER_ROLE_GROUP": {
+      "DETAIL": "Bayi Kullanıcı Yetki Grubu Detayı",
+      "LIST": "Bayi Kullanıcı Yetki Grubu Listesi",
+      "NEW": "Yeni Bayi Kullanıcı Yetki Grubu"
+    },
+    "MARKET_INTELLIGENCE_PRICE_INDEX": "Market Zekası Fiyat İndeksi",
+    "MARKET_INTELLIGENCE_PRICE_RECOMMENDATION": "Market Zekası Fiyat Önerileri",
+    "MARKET_INTELLIGENCE_PRODUCTS": "Market Zekası Ürünleri",
+    "MARKET_ORDER_ANALYTICS": {
+      "ACTIVE_ORDERS_FOR_EXECUTIVE_DASHBOARD": "Aktif Siparişler - Yönetim Paneli",
+      "ACTIVE_ORDERS_FOR_GROWTH": "Aktif Siparişler - Growth",
+      "ACTIVE_ORDERS_FOR_MANAGEMENT": "Aktif Siparişler - Yönetim",
+      "ACTIVE_ORDERS_FOR_OPERATION": "Aktif Siparişler - Operasyon",
+      "ACTIVE_ORDERS_SUMMARY": "Aktif Siparişler - Özet"
+    },
+    "MARKET_PRODUCT": {
+      "DETAIL": "Ürün Detay",
+      "LIST": "Ürünler",
+      "NEW": "Yeni Ürün"
+    },
+    "MARKET_PRODUCT_BADGE": {
+      "DETAIL": "Rozet Detay",
+      "LIST": "Rozetler",
+      "NEW": "Yeni Rozet"
+    },
+    "MARKET_PRODUCT_CATEGORY": {
+      "DETAIL": "Ürün Kategori Detay",
+      "LIST": "Ürün Kategorileri",
+      "NEW": "Yeni Ürün Kategori",
+      "VISIBILITY": {
+        "DETAIL": "Kategori Görünürlük Detay",
+        "LIST": "Kategori Görünürlük Listesi",
+        "NEW": "Yeni Kategori Görünürlük"
+      }
+    },
+    "MARKET_PRODUCT_CHAIN_MANAGEMENT": {
+      "WAREHOUSES_LIST": "Depolar"
+    },
+    "MARKET_PRODUCT_GROUP": {
+      "DETAIL": "Ürün Grup Detay",
+      "LIST": "Ürün Grupları",
+      "NEW": "Yeni Ürün Grup"
+    },
+    "MARKET_PRODUCT_MASTER_CATEGORY": {
+      "DETAIL": "Ürün Master Kategori Detay",
+      "LIST": "Ürün Master Kategorileri",
+      "NEW": "Yeni Ürün Master Kategori"
+    },
+    "MARKET_PRODUCT_WAREHOUSE_PRICE": {
+      "DETAIL": "Ürün Depo Fiyat Detay",
+      "LIST": "Ürün Depo Fiyatları"
+    },
+    "MARKET_PRODUCT_WASTE_PRICE": {
+      "DETAIL": "Atık Önleyici Ürün Fiyat Detay",
+      "LIST": "Atık Önleyici Ürün Fiyatları"
+    },
+    "MERCHANT": {
+      "DETAIL": "Satıcı Detayı",
+      "LIST": "Satıcı Listesi",
+      "NEW": "Yeni Satıcı"
+    },
+    "ON_OFF_PROMO_CONFIG": "Promo Aç-Kapa Config",
+    "PAGE": {
+      "DETAIL": "Sayfa Detay",
+      "LIST": "Sayfalar",
+      "NEW": "Yeni Sayfa"
+    },
+    "PAYMENTS": {
+      "DETAIL": "Ödeme Detay",
+      "LIST": "Ödemeler"
+    },
+    "PAYOUTS_FOR_DOMAINS": "Domain Ödemeleri (Özet)",
+    "PAYOUTS_TRANSACTIONS_FOR_DOMAINS": "Domain Ödemeleri (İşlem Detay)",
+    "PERSON": {
+      "DETAIL": "Kişi Detayı",
+      "LIST": "Kişi Listesi",
+      "NEW": "Yeni Kişi"
+    },
+    "PERSONAL_PROMO": {
+      "GENERATOR": "Kişisel Kampanya Kodu Üretici"
+    },
+    "PERSON_CANDIDATE": {
+      "LIST": "Yeni Personel Talepleri"
+    },
+    "PERSON_REQUEST": {
+      "DETAIL": "Bilgi Değişiklik Talep Detayı",
+      "LIST": "Bayi Çalışan Talepleri"
+    },
+    "PICKER": {
+      "LIST": "Toplayıcı Listesi"
+    },
+    "PLANOGRAM": {
+      "CATEGORIES": {
+        "DETAIL": "Planogram Kategori Detay",
+        "LIST": "Planogram Kategoriler ",
+        "NEW": "Yeni Planogram Kategori"
+      },
+      "LIST": "Planogramlar",
+      "NEW": "Yeni Planogram",
+      "PRODUCTS_LIST": "Ürünler",
+      "WAREHOUSES_LIST": "Depolar"
+    },
+    "POLYGON": {
+      "MAP": "Harita",
+      "MAPS": "Haritalar"
+    },
+    "POS_REPORT": {
+      "DETAIL": "Banka Mutabakat Rapor Detayı",
+      "LIST": "Banka Mutabakat Raporu "
+    },
+    "PRICING_TOOL": "Fiyatlama Aracı",
+    "PRODUCT_MATCHING": "Ürün Eşleştirme",
+    "PROMO": {
+      "LIST": "Kampanyalar"
+    },
+    "RECIPES": {
+      "DETAIL": "Tarif Detayı",
+      "LIST": "Tarifler",
+      "SORTING": "Tarif Sıralaması"
+    },
+    "RECONCILIATION_DAILY_REPORT": {
+      "LIST": "Pos Banka Dosya Durumu"
+    },
+    "RENT": "Kira",
+    "RESOLVE": "çözmek",
+    "RETURNS": "İadeler",
+    "ROLE": {
+      "DETAIL": "Rol Detay",
+      "HIERARCHY": "PAGE_TITLE.ROLE.HIERARCHY",
+      "LIST": "Roller",
+      "NEW": "Yeni Rol"
+    },
+    "RUNNER": {
+      "LIST": "Runnerlar"
+    },
+    "SEGMENT": {
+      "DETAIL": "Segment Detay Sayfası",
+      "LIST": "Segment Listesi",
+      "NEW": "Segment Oluştur"
+    },
+    "SEGMENTED_CODE_GENERATOR": "Segmentli Kod Listesi Yaratma",
+    "SERVICE_AVAILABILITY_AREA": {
+      "DETAIL": "Servis Alanı",
+      "EDIT": "Servis Alanı Düzenle",
+      "LIST": "Servis Alanları",
+      "NEW": "Yeni Servis Alanı Oluştur"
+    },
+    "SERVICE_FEE": {
+      "BULK_UPLOAD": "Hizmet Ücreti Toplu Yükleme (Normal Saatler)",
+      "BULK_UPLOAD_PEAK_HOURS": "Hizmet Ücreti Toplu Yükleme (Yoğun Saatler)"
+    },
+    "SLOT_PLAN_MANAGEMENT": "Slot Planı Yönetimi",
+    "STAFF_PLAN_PUBLICATION": "Çalışan Planı Yayınla",
+    "STOCK_ORDER_AUTO": "Otomatik Tedarik",
+    "STOCK_ORDER_VOLUME_AUTO": "H. Otomatik Tedarik",
+    "STOCK_TRANSFER_AUTO": "Otomatik Transfer",
+    "STORE_AUDIT": {
+      "DETAIL": "Depo Denetim Detayı",
+      "LIST": "Depo Denetim Listesi",
+      "NEW": "Yeni Depo Denetimi"
+    },
+    "SUPPLIER": {
+      "DETAIL": "Firma Detay",
+      "LIST": "Firmalar",
+      "NEW": "Yeni Firma"
+    },
+    "THIRD_PARTY_COMPANY": {
+      "DETAIL": "3. Parti Şirket Detay",
+      "LIST": "3. Parti Şirketler",
+      "NEW": "Yeni 3. Parti Şirket"
+    },
+    "TIMESHEET_LOCK": "Zaman Çizelgesi Kilitleme",
+    "TIMESHEET_LOGS": "Zaman Çizelgesi Logları",
+    "TIP_PAYBACK": {
+      "PAYOUT_FAIL_REASONS": "Ödeme Hata Sebepleri",
+      "PAYOUT_SUMMARY": "Ödeme Özetleri",
+      "PAYOUT_SUMMARY_DETAIL": "Ödemeler Genel Detay"
+    },
+    "TOBB_GIB_REQUEST": "TOBB Gib Sorgusu",
+    "TRANSACTION": {
+      "DETAIL": "İşlem Detayı",
+      "LIST": "İşlemler Listesi"
+    },
+    "TRANSFER_GROUP": {
+      "DETAIL": "Transfer Grup Detay",
+      "LIST": "Transfer Grupları",
+      "NEW": "Yeni Transfer Grubu"
+    },
+    "USER": {
+      "DETAIL": "Kullanıcı Detay",
+      "EXTERNAL_CUSTOMER_SERVICES_PANEL_ACCOUNT_MANAGEMENT": "Harici Müşteri Hizmetleri Panel Kullanıcı Yönetimi",
+      "LIST": "Kullanıcılar",
+      "NEW": "Yeni Kullanıcı",
+      "WEBHELP_MATCHING": "Webhelp Eşleştirme"
+    },
+    "WAREHOUSE": {
+      "DETAIL": "Depo Detayı",
+      "LIST": "Depolar",
+      "LIVE_MAP": "Depo Bazlı Canlı Harita",
+      "NEW": "Yeni Depo Oluştur"
+    },
+    "WAREHOUSE_PROPOSAL": {
+      "CREATE": "Depo Önerisi Oluştur",
+      "DETAIL": "Depo Öneri Detayı",
+      "LIST": "Depo Önerileri"
+    },
+    "WAREHOUSE_SEGMENT": {
+      "LIST": "Depo Segment Bilgileri"
+    },
+    "WATER": {
+      "ACTIVE_ORDERS": "Getir Su Aktif Siparişler",
+      "ANNOUNCEMENTS": {
+        "DETAIL": "Getir Su Duyuru Detay",
+        "LIST": "Getir Su Duyurular",
+        "NEW": "Getir Su Yeni Duyuru"
+      },
+      "CAMPAIGNS": {
+        "DETAIL": "Getir Su Kampanya Detay",
+        "LIST": "Getir Su Kampanyalar",
+        "NEW": "Getir Su Yeni Kampanya"
+      },
+      "COURIER_STATUS": "Getir Su Kurye Durumu",
+      "ORDER_DETAIL": "Getir Su Sipariş Detayları",
+      "ORDER_FILTER": "Getir Su Sipariş Filtreleme",
+      "SLOT_CONFIG": "Getir Su Slot Konfigürasyon",
+      "VENDOR_FILTER": "Getir Su Bayi Filtreleme"
+    },
+    "WORKFORCE_REPORTS": "Workforce Raporları"
+  },
+  "PAYMENT": "Ödeme",
+  "PAYMENT_DETAIL_CARD": {
+    "AMOUNT": "Tutar",
+    "AMOUNT_AFTER_PICKING": "Toplama Sonrası Gerçekleşen Tutar",
+    "CALCULATED_AMOUNT": "Hesaplanan Tutar",
+    "CARD_BANK": "Kart Bankası",
+    "CARD_NO": "Kart Numarası",
+    "EVENT": "Ödeme",
+    "IS_3DS": "3D Var",
+    "LIABILITY_SHIFT": "Sorumluluk Devri",
+    "PAYMENT_PROVIDER_AND_METHOD": "Sağlayıcı / Yöntem",
+    "POS_CARD_BANK": "Pos Kart Bankası",
+    "PREPAYMENT_AMOUNT": "Ön Ödeme Tutarı",
+    "PROVISION": "Provizyon",
+    "REFUND_AMOUNT": "İade Tutarı",
+    "THREED_AUTHENTICATED": "3D Sonuç",
+    "THREED_OFFERED": "3D Yönlendirme",
+    "TRANSACTION": "İşlem"
+  },
+  "PAYMENT_METHOD": "Ödeme Yöntemi",
+  "PERSON": "Kişi",
+  "PHONE": "Telefon",
+  "PHONE_NUMBER": "Telefon Numarası",
+  "PICKER": "Toplayıcı",
+  "PLANNED": "Planlanan",
+  "PLATE": "Plaka",
+  "POLYGON_TYPE": "Poligon Tipi",
+  "POS_REPORT_ORDER_STATUS": {
+    "Aborted": "Durduruldu",
+    "Browsing": "Gözatılıyor",
+    "CREATED": "Yaratıldı",
+    "CREATED_OR_PAYMENT_FAILED": "Yaratıldı / Ödeme Başarısız",
+    "Canceled by Admin": "Admin iptal etti",
+    "Canceled by Restaurant": "Restoran iptal etti",
+    "Canceled by Restaurant / Vendor": "Restoran / Bayi iptal etti",
+    "Canceled by Restaurant or Vendor": "Restoran veya bayi iptal etti",
+    "Canceled by System": "Sistem tarafından iptal edildi",
+    "Canceled by Vendor": "Bayi iptal etti",
+    "CanceledByAdmin": "Admin iptal etti",
+    "CanceledByClient": "Müşteri iptal etti",
+    "CanceledByCourier": "Kurye iptal etti",
+    "CanceledByStaff": "Görevli iptal etti",
+    "CanceledBySystem": "Sistem tarafından iptal edildi",
+    "Cancelled": "İptal edildi",
+    "Delivered": "Teslim edildi",
+    "Ended": "Bitti",
+    "Failed": "Başarısız",
+    "Getir Drive Ended": "Getir Drive Bitti",
+    "Handover": "El değiştiriliyor",
+    "Incomplete": "Tamamlanmadı",
+    "On Way": "Yolda",
+    "Onway": "Yolda",
+    "PAID": "Ödendi",
+    "PAID_OR_PAYMENT_SUCCESS": "Ödendi / Ödeme Başarılı",
+    "Payment Failed": "Ödeme Başarısız",
+    "Payment Success": "Ödeme Başarılı",
+    "Prepared": "Hazırlandı",
+    "Preparing": "Hazırlanıyor",
+    "REFUNDED": "Ödendi",
+    "REFUND_FAILED": "İade Başarısız",
+    "Rated": "Oylandı",
+    "Reached": "Ulaştı",
+    "Refund Failed": "İade Başarısız",
+    "Refunded": "İade Edildi",
+    "Reserved": "Rezerve",
+    "Reserved / Scheduled": "Rezerve / İleri Tarihli",
+    "Scheduled": "İleri Tarihli",
+    "Success": "Başarılı",
+    "Undefined": "Tanımsız",
+    "Verifying": "Doğrulanıyor",
+    "WAITING_REFUND": "İade Bekleniyor",
+    "Waiting Refund": "İade Bekleniyor",
+    "Waiting for Picker": "Toplayıcı bekleniyor",
+    "WaitingForPicker": "Toplayıcı Bekleniyor"
+  },
+  "POS_REPORT_REFUND_STATUS_TYPES": {
+    "COMPLETED": "Tamamlandı",
+    "MANUAL": "Tamamlandı (M)",
+    "NOT_DECIDE": "Aksiyon belirsiz",
+    "PENDING": "Bekliyor",
+    "PROCESSING": "Aksiyon alınıyor",
+    "RECONCILIATION": "Mutabakat",
+    "REVIEW": "İnceleme",
+    "REVIEW_GETIR_DRIVE": "Getir Drive İncelemesi"
+  },
+  "PREPARING_REPORT": "Raporunuz hazırlanıyor, mail adresinize gönderilecektir.",
+  "PREV": "Önceki",
+  "PRICE": "Fiyat",
+  "PRIORITY": "Öncelik",
+  "PRODUCT": "Ürün",
+  "PRODUCTS": "Ürünler",
+  "PROFILE": "Profil",
+  "PROMO": "Kampanya",
+  "PROMOS": "Kampanyalar",
+  "PROMOTION": "Kampanya",
+  "PROMOTION_SHORT": "Kamp.",
+  "PROMO_TYPE": "Kampanya Türü",
+  "PUBLISH": "Yayınla",
+  "QUANTITY": "Miktar",
+  "RATIO_TO_TOTAL": "Toplama Oranı",
+  "REALIZED": "Gerçekleşen",
+  "REASON": "Sebep",
+  "REDIRECT_SUBTITLE": "URL adresini kayıtlı yer imlerinizde yenisi ile değiştirebilirsiniz.",
+  "REDIRECT_TITLE": "Sayfanın yeni URL adresine yönlendiriliyorsunuz.",
+  "RED_BASKET": "Kırmızı Sepet",
+  "REFERENCE": "Referans",
+  "REGION": "Bölge",
+  "REGIONS": "Bölgeler",
+  "REJECT": "Reddet",
+  "REJECTED_BY": "Reddeden",
+  "REJECTED_DATE": "Red Tarihi",
+  "REMOVE": "Sil",
+  "RENT": "Kira",
+  "REQUEST_DATE": "Talep Tarihi",
+  "RESET": "Sıfırla",
+  "RESOLVE": "Çözümle",
+  "RESPONSIBILITY": "Sorumluluk",
+  "RESPONSIBLE_DEPARTMENT": "Sorumlu Departman",
+  "RESTAURANT": "Restoran",
+  "RESTAURANT_DELIVERY": "Restoran Getirsin",
+  "RESULT": "Sonuç",
+  "RETURNING": "Dönüyor",
+  "REVENUE": "Ciro",
+  "ROLES": "Roller",
+  "ROUTING_ERROR": "Gitmeye çalıştığınız sayfa mevcut değil veya erişim için yeterli yetkiniz yok.",
+  "SAP_CARD_CODE": "SAP Hesap Kodu",
+  "SAVE": "Kaydet",
+  "SAVE_AS_PDF": "PDF Olarak Kaydet",
+  "SAVE_CHANGES": "Değişiklikleri Kaydet",
+  "SEARCH": "Ara",
+  "SEARCH_BY_PRODUCT_ID_OR_NAME": "Ürün id'ye göre veya Ürün adına göre arama yapınız.",
+  "SEARCH_CATEGORY": "Kategori Ara",
+  "SEARCH_CITY_NAME": "Şehir Ara",
+  "SEARCH_GIVEAWAY": "GSM ile arama",
+  "SEARCH_RESTAURANT_MIN_CHARACTER": "En az 3 karakter girmelisiniz.",
+  "SEARCH_WAREHOUSE_NAME": "Depo Ara",
+  "SEE_OLD_COUNTRIES": "Eski ülkeleri görün",
+  "SEGMENTS": "Segmentler",
+  "SEGMENT_DATA_FEED": "Segment Data Feed",
+  "SELECT": {
+    "CITY": "Şehir Seç",
+    "DISTRICT": "İlçe Seç",
+    "FRANCHISE_AREAS": "Bayi Bölgesini Seç",
+    "STATUS": "Durum Seç",
+    "WAREHOUSE": "Depo Seçin"
+  },
+  "SELECTED": "Seçili",
+  "SELECTED_COUNTRY_AND_DATA_COUNTRY_MISMATCH": "Panelde seçili ülke ile görmek istediğiniz verinin ülkesi eşleşmiyor. Veri ülkesi: {{targetCountry}}",
+  "SELECT_ALL": "Tümünü Seç",
+  "SELECT_BRAND": "Marka Seçiniz",
+  "SELECT_CATEGORY": "Kategori Seçiniz",
+  "SELECT_CITY": "Şehir Seçimi",
+  "SELECT_EMPLOYEE": "Çalışan Seçimi",
+  "SELECT_FILE": "Dosya Seç",
+  "SELECT_PRODUCT": "Ürün Seçiniz",
+  "SELECT_RESULTS": "Sonuçları Seç",
+  "SERVICE": "Servis",
+  "SERVICE_FEE": "Hizmet Ücreti",
+  "SERVICE_FEE_BULK_UPLOAD_BUTTON": "Hizmet Ücreti Toplu Yükleme",
+  "SERVICE_TYPE": "Servis Tipi",
+  "SHORTNAME": "Kısa Adı",
+  "SHORT_NAME": "Kısa İsim",
+  "SHOW_AS_JSON": "JSON Olarak Göster",
+  "SIGNUP": "Üye Olan",
+  "SLUG_NOT_FOUND_ERROR": "Slug bulunamadı",
+  "SOME_ERROR_CODE_COUNT": "Bazı Hata Kod Adedi",
+  "SORT": "Sırala",
+  "SORT_TABLE_ASC": "Artan şekilde sıralamak için tıklayın",
+  "SORT_TABLE_CANCEL": "Sıralamayı iptal etmek için tıklayın",
+  "SORT_TABLE_DESC": "Azalan şekilde sıralamak için tıklayın",
+  "SOURCE": "Kaynak",
+  "STANDARD": "Standart",
+  "START_DATE": "Başlangıç Tarihi",
+  "STATE": "Aktiflik",
+  "STATES": {
+    "100": "Arşivlendi",
+    "200": "İnaktif",
+    "300": "Aktif"
+  },
+  "STATUS": "Durum",
+  "STATUS_AVAILABLE": "Müsait",
+  "STATUS_BUSY": "Meşgul",
+  "STATUS_CALLBACK_URL_ENABLED": "Status Callback Url Etkin",
+  "STATUS_CALLBACK_URL_ENABLED_TOOLTIP": "Notification/Sms gönderim statüsünün besleneceği URL'i giriniz.",
+  "STATUS_INACTIVE": "İnaktif",
+  "STATUS_ON_DELIVERY": "Teslimatta",
+  "STORE": "Mağaza",
+  "STORE_DELIVERY": "İşletme Getirsin",
+  "STREET": "Sokak",
+  "SUBMIT": "Gönder",
+  "SUB_CATEGORY": "Alt Kategori",
+  "SUCCESS": "Başarılı!",
+  "SUM": "Toplam",
+  "SUPERVISOR": "Yönetici",
+  "SUPPLIER": "Tedarikçi",
+  "SURNAME": "Soyadı",
+  "SWITCH": {
+    "ACTIVE": "Aktif",
+    "CLOSE": "Kapalı",
+    "DISABLED": "Etkin Değil",
+    "ENABLED": "Etkin",
+    "INACTIVE": "Pasif",
+    "NO": "Hayır",
+    "OFF": "Kapalı",
+    "ON": "Açık",
+    "UNENABLED": "Etkin Değil",
+    "YES": "Evet"
+  },
+  "TAX_EXCLUDED": "Vergi Hariç",
+  "TAX_INCLUDED": "Vergi Dahil",
+  "TAX_NUMBER": "Vergi Numarası",
+  "TAX_OFFICE": "Vergi Dairesi",
+  "TAX_TYPE": "Vergi Türü",
+  "TEMPLATE_TEST_TYPE": "Taslak Ara",
+  "THE_EXPORTED_FILE_FORMAT_CAN_BE_USED_WHEN_IMPORTING": "Dışarıya aktarılan dosya formatı içeriye aktarırken kullanılabilir.",
+  "THIRD_PARTY_ORDER_INTEGRATION_TYPES": {
+    "gorillas": "Gorillas",
+    "grubhub": "Grubhub",
+    "jet": "Jet",
+    "n11": "n11",
+    "uber": "Uber"
+  },
+  "THOUSAND": "Bin",
+  "THOUSAND_SHORT": "b",
+  "TIME": {
+    "ABBR": {
+      "DAY": "gün",
+      "HOUR": "sa",
+      "MINUTE": "dk",
+      "MONTH": "ay",
+      "SECOND": "sn",
+      "YEAR": "yıl"
+    },
+    "FULL": {
+      "DAY": "gün",
+      "HOUR": "saat",
+      "MINUTE": "dakika",
+      "MONTH": "ay",
+      "SECOND": "saniye",
+      "YEAR": "yıl"
+    }
+  },
+  "TIME_TO_LIVE": "Time To Live (Varsayılan: 336 saat)",
+  "TITLE": "Başlık",
+  "TITLE1": "Ünvan",
+  "TODAY": "Bugün",
+  "TOMORROW": "Yarın",
+  "TOP_UP_SOURCE_TYPES": {
+    "1": "Banka Kartı",
+    "2": "Kredi Kartı"
+  },
+  "TOTAL": "Toplam",
+  "TOTAL_N_ITEMS_IN_TABLE": "Toplam {{ total }} öğe",
+  "TOTAL_PRODUCTS_COUNT": "Toplam Ürün Adetleri",
+  "TRANSACTIONS": "İşlemler",
+  "TRIP_COUNT": "Yolculuk Sayısı",
+  "TTL": "TTL (hr)",
+  "TYPE": "Tür",
+  "TYPE1": "Tip",
+  "TYPE2": "Tipi",
+  "TYPE3": "Tür",
+  "TYPE_AT_LEAST_X_CHARACTER": "En az {{ min }} karakter girmelisiniz.",
+  "TYPE_MIN_THREE": "Seçenekleri görmek için minimum 3 karakter giriniz.",
+  "UNKNOWN": "Bilinmeyen",
+  "UPDATE": "Güncelle",
+  "UPDATED_AT": "Güncellenme Zamanı",
+  "UPDATE_AT": "Güncellenme Tarihi",
+  "UPDATE_ROLE_MEMBERSHIP": "Rol Üyeliğini Güncelle",
+  "UPLOAD": "Yükle",
+  "UPLOADED_ICON_TOOLTIP": "{{ totalCount }} kayıt",
+  "UPLOAD_CSV": "Csv Yükle",
+  "UPLOAD_CSV_AND_EXECUTE": "CSV yükle ve uygula",
+  "UPLOAD_EXCEL": "Excel Yükle",
+  "UPLOAD_FILE": "Dosya Yükle",
+  "UPLOAD_VIA_DRAGGER": "Yükleme yapmak için bu alana tıklayın veya dosyayı sürükleyin",
+  "UPLOAD_VIA_DRAGGER_EXPLANATION": "Lütfen yüklediğiniz dosyanın doğruluğunu kontrol ediniz.",
+  "USER": "Kullanıcı",
+  "USERNAME": "Kullanıcı adı",
+  "UTILIZATION": "Utilizasyon",
+  "VALID_FROM": "Geçerlilik Başlangıç Tarihi",
+  "VALID_UNTIL": "Geçerlilik Bitiş Tarihi",
+  "VALUE": "Değer",
+  "VARIATION_AUDIENCE_PREFIX": "Grup",
+  "VAT_INCLUDED_REVENUE": "KDV Dahil Ciro",
+  "VEHICLE": "Araç",
+  "VENDOR": "Satıcı",
+  "VOLUME": "Hacim",
+  "WAREHOUSE": "Depo",
+  "WAREHOUSES": "Depolar",
+  "WAREHOUSE_STATE": "Depo Durumu",
+  "WAREHOUSE_STATES": {
+    "100": "Arşivlendi",
+    "200": "İnaktif",
+    "300": "Aktif"
+  },
+  "WAREHOUSE_STATUS": "Depo Statüsü",
+  "WAREHOUSE_STATUS_TYPES": {
+    "100": "Meşgul",
+    "200": "Kurye tükendi",
+    "300": "Müsait"
+  },
+  "WAREHOUSE_TYPE": "Depo Tipi",
+  "WAREHOUSE_TYPES": {
+    "1": "Merkez Depo",
+    "2": "Cep Depo",
+    "3": "Sanal Depo",
+    "4": "Bakkal Depo",
+    "5": "Fabrika Depo",
+    "6": "Tedarik Operasyonları",
+    "7": "Araç Otoparkı",
+    "8": "Store Conversion",
+    "9": "Mütabakatsızlık Deposu",
+    "10": "Diğer",
+    "11": "Hub Depo"
+  },
+  "WAREHOUSE_TYPE_PLURAL": "Depo Tipleri",
+  "WASTE_PRICE_TRANSACTION": "Atık Ürün işlemleri için hata oluştu.",
+  "WEEK": "Hafta",
+  "WEIGHT": {
+    "KG": "Ağırlık(kg)"
+  },
+  "WORKER_TYPE": "Çalışan tipi",
+  "WORKER_TYPES": {
+    "COURIER": "Kurye",
+    "PICKER": "Toplayıcı"
+  },
+  "X_OF_Y_ARE_DISPLAYED": "{{X}}/{{Y}} gösteriliyor",
+  "YEAR": "Yıl",
+  "YES": "Evet",
+  "YESTERDAY": "Dün",
+  "YOUR_REQUEST_HAS_BEEN_CREATED": "Talebiniz oluşturuldu.",
+  "YOUR_ROLES": "Senin Rollerin",
+  "ZIP_CODE": "Posta Kodu"
+}

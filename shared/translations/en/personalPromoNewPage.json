@@ -1,0 +1,20 @@
+{
+  "DELIVERY_FEE_HINT": "If empty, default delivery fee will be charged",
+  "GENERAL_INFO": "General Information",
+  "PAGE_TITLE": "New Personal Promo Code",
+  "PROMO_FIELDS": {
+    "CLIENTS": "Clients",
+    "DELIVERY_FEE_AMOUNT": "Delivery Fee Amount",
+    "DISCOUNT_AMOUNT": "Discount Amount",
+    "DO_NOT_APPLY_MIN_BASKET_SIZE": "Do not apply min basket size",
+    "DO_NOT_CHARGE_DELIVERY_FEE": "Do not charge delivery fee",
+    "EXPIRE": "Expire",
+    "PARTIAL": "Partial",
+    "PIC_URL": "Picture Url",
+    "PIC_URL_MISSING": "PIC_URL is missing for this country. Please check /config/list",
+    "PUSH_NOTIFICATION": "Push Notification",
+    "TITLE": "Title",
+    "USE_LIMIT": "Use Limit"
+  },
+  "THIS_CODE_IS_SOLD": "This code is sold"
+}

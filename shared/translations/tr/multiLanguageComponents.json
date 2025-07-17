@@ -1,0 +1,12 @@
+{
+  "ML_IMAGE": {
+    "TITLE": "Resim Önizleme"
+  },
+  "ML_MULTI_IMAGE_UPLOADER": {
+    "ADD_IMAGE": "Resim Ekle",
+    "CHANGE_MAIN_IMAGE": "Ana Resmi Değiştir",
+    "MAIN_IMAGE": "Ana Resim",
+    "REMOVE_IMAGE_MESSAGE": "Resmi silmek istediğinizden emin misiniz?",
+    "TITLE": "Resim Önizleme"
+  }
+}

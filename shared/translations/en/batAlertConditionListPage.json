@@ -1,0 +1,23 @@
+{
+  "ACTIONS": {
+    "NEW_ALERT_CONDITION": "New Alert Condition"
+  },
+  "PAGE_TITLE": {
+    "ALERT_CONDITION": {
+      "LIST": "Alert Condition List"
+    }
+  },
+  "PLACEHOLDERS": {
+    "CHANNEL": "Channel",
+    "CREATED_BY": "Created By",
+    "PERMITTED_ROLE": "Permitted Role",
+    "SEARCH": "Name, Description"
+  },
+  "TABLE": {
+    "COLUMNS": {
+      "CHANNELS": "Channel(s)",
+      "CREATED_BY": "Created By",
+      "DESCRIPTION": "Description"
+    }
+  }
+}

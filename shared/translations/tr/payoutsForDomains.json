@@ -1,0 +1,20 @@
+{
+    "BANK_ICA": "Banka ICA",
+    "DETAIL": "Detay",
+    "EFT_COUNT": "Eft Sayısı",
+    "ERRORS": "Hatalar",
+    "ERROR_EXPLANATION": "Hata Açıklaması",
+    "FOOD": "GetirYemek",
+    "GENERAL": "Genel",
+    "IN_PROGRESS": "Devam Ediyor",
+    "LOCAL": "GetirÇarşı",
+    "MONEY_ORDER": "Havale",
+    "RATE": "Oran",
+    "STATUS_CODE": "Durum Kodu",
+    "SUCCESSFUL": "Başarılı",
+    "TIP": "Bahşiş",
+    "TOTAL_AMOUNT": "Toplam Tutar",
+    "TOTAL_COUNT": "Toplam Sayı",
+    "VERTICAL": "Dikey",
+    "WATER": "GetirSu"
+}

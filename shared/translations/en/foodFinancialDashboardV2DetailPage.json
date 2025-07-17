@@ -1,0 +1,24 @@
+{
+	"CHAIN": {
+		"TABLE": {
+			"DEFERRED_PAYMENT_DATE": "Deferred Payment Date",
+			"NAME": "Chain Name",
+			"PAYBACK_TYPE": "Payback Type",
+			"PAYMENT_AMOUNT": "Payment Amount",
+			"PAYMENT_STATUS": "Payment Status",
+			"UNPAYMENT_REASON": "Unpayment Reason"
+		},
+		"TITLE": "Chain Restaurants"
+	},
+	"SINGLE": {
+		"TABLE": {
+			"DEFERRED_PAYMENT_DATE": "Deferred Payment Date",
+			"NAME": "Restaurant Name",
+			"PAYBACK_TYPE": "Payback Type",
+			"PAYMENT_AMOUNT": "Payment Amount",
+			"PAYMENT_STATUS": "Payment Status",
+			"UNPAYMENT_REASON": "Unpayment Reason"
+		},
+		"TITLE": "Single Restaurants"
+	}
+}

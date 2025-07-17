@@ -1,0 +1,8 @@
+export const INTERNAL_SERVICE_STATUS_NAMES = [
+  'INACTIVE',
+  'ACTIVE',
+];
+export const INTERNAL_TEAM_STATUS_NAMES = [
+  'INACTIVE',
+  'ACTIVE',
+];

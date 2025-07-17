@@ -1,0 +1,152 @@
+{
+  "ADDRESS_INFO": {
+    "ADDRESS": "Adres",
+    "ADDRESS_DIRECTION": "Adres Tarifi",
+    "APARTMENT": "Apt. No",
+    "CLIENT_NOTE": "Müşteri Notu",
+    "DOOR": "Kat",
+    "DOOR_NO": "Kat No",
+    "NAME": "İsim"
+  },
+  "CARD": {
+    "BANK": "Banka",
+    "INFO": "Kart Bilgileri",
+    "NO": "Kart No",
+    "POS_BANK": "Pos Banka",
+    "TRANSACTION_ID": "Transaction id"
+  },
+  "CARD_INFO": {
+    "CLIENT": {
+      "G10_ORDER": "G10",
+      "GSM": "Gsm",
+      "NAME": "İsim",
+      "TITLE": "Müşteri",
+      "TOTAL_ORDER": "Su PY"
+    },
+    "COURIER": {
+      "GSM": "Gsm",
+      "NAME": "İsim",
+      "PERSONAL_GSM": "Personel Gsm",
+      "STATUS": "Durum",
+      "STORE": "Depo",
+      "TITLE": "Kurye",
+      "TYPE": "Tür",
+      "VENDOR_COURIER": "İşletme Getirsin"
+    },
+    "VENDOR": {
+      "CITY": "Şehir",
+      "COUNT": "Toplam",
+      "GSM": "Gsm",
+      "MINMAX": "TVS",
+      "NAME": "İsim",
+      "TITLE": "İşletme"
+    }
+  },
+  "CUSTOMER_STATUS": {
+    "CANCELED": "Müşteri İptal Etti",
+    "DELIVERED": "Müşteriye Teslim Edildi",
+    "FREE": "Müşteri Boşta",
+    "NONE": "Kullanıcı Durumu Bilgisi Yok",
+    "REACHED": "Müşteriye Ulaştı",
+    "WAITING_ORDER": "Müşteri Sipariş Bekliyor"
+  },
+  "IVR_ACTION": {
+    "BUSY": "Meşgule Alındı",
+    "CALL_NOT_STARTED": "Çağrı Başlatılmadı",
+    "CALL_STATUS": "Çağrı Durumu",
+    "CANCELLED": "İptal Edildi",
+    "COULDNT_BE_CHARGED": "Ücretlendirilemedi",
+    "COULDNT_BE_REACHED": "Ulaşılamadı",
+    "DATE": "Tarih",
+    "DIALING_STATUS": "Tuşlama Durumu",
+    "DIDNT_CALL": "Aranmadı",
+    "DIDNT_PICKED_UP": "Cevaplanmadı",
+    "ERROR_RECEIVED": "Hata Alındı",
+    "INVALID_NUMBER": "Numara Geçersiz",
+    "PHONE": "Telefon",
+    "PICKED_UP": "Cevaplandı",
+    "TIMEOUT": "Süresi Doldu",
+    "TITLE": "IVR Aksiyonları"
+  },
+  "MAP": "Harita",
+  "ORDER_DETAIL_JSON": "JSON",
+  "ORDER_NOTES": {
+    "TITLE": "Sipariş Notları"
+  },
+  "ORDER_STATUS": {
+    "SCHEDULED": "Planlandı"
+  },
+  "OS": {
+    "ANDROID": "ANDROID",
+    "IOS": "IOS",
+    "UNKNOWN": "Bilinmiyor"
+  },
+  "PAYMENT_STATUS": {
+    "NONE": "Ödeme Durumu Bilgisi Yok",
+    "NOT_PAID": "Ödenmedi",
+    "ON_DELIVERY_PAYMENT": "Kapıda Ödeme",
+    "PAID": "Ödendi",
+    "PARTIAL_REFUND_SUCCEDED": "Ürün İadesi Yapıldı",
+    "PAYMENT_ERROR": "Ödeme Hatası",
+    "PENDING_PARTIAL_REFUND": "Ürün İadesi Bekleniyor",
+    "PENDING_PAYMENT": "Ödeme Bekleniyor",
+    "PENDING_REFUND": "İade Bekleniyor",
+    "REFUNDED": "İade Edildi"
+  },
+  "PAYMENT_TYPE": {
+    "CASH_AT_DELIVERY": "Sipariş Tesliminde Nakit",
+    "CREDIT_OR_DEBIT_CARD_AT_DELIVERY": "Sipariş Tesliminde Kart",
+    "ONLINE_BKM": "Online BKM",
+    "ONLINE_CREDIT_CARD": "Online Kredi Kartı"
+  },
+  "PREVIOUS_ORDER": {
+    "NAME": "İsim",
+    "NOTE": "Not",
+    "PRICE": "Fiyat",
+    "QUANTITY": "Miktar",
+    "TITLE": "Sipariş Listesi"
+  },
+  "REFUNDTABLE": {
+    "NUMBER": "Sayı",
+    "PRICE": "Tutar",
+    "PRODUCT_NAME": "Ürün",
+    "TITLE": "Ürün İadesi",
+    "TOTAL_PRICE": "Toplam Fiyat"
+  },
+  "SCHEDULED_ORDER": "İleri Tarihli Sipariş",
+  "STATIC_IG": "İG",
+  "TIMELINE": {
+    "ADMIN_PARTIAL_REFUNDED": "Admin Ürün İadesi Yaptı",
+    "ADMIN_REFUNDED": "Admin İade Etti",
+    "BASKET": "Sepet",
+    "CANCELED_BY_FULLNAME": "İptal Eden : ",
+    "CANCELED_ORDER": "Sipariş İptal Edildi",
+    "CANCEL_NOTE": "İptal Notu : ",
+    "CANCEL_REASON": "İptal Sebebi : ",
+    "CHECKOUT_ORDER_POSTFIX": "siparişi verdi",
+    "DELIVER_ORDER": "Sipariş Teslim Edildi",
+    "DELIVER_ORDER_AUTO_DELIVERED": "Sipariş Otomatik Teslim Edildi",
+    "DISCOUNTED_PRICE": "Kampanyalı Fiyat",
+    "FIRST_SHOWN_SHORT": "İG",
+    "ORDER_STATUS": "Sipariş",
+    "ORDER_VISIBLE_ON_VP": "Sipariş bayinin Aktif Siparişleri'nde görüntülenmektedir",
+    "PARTIAL_REFUNDED_ORDER": "Ürün İadesi Yapıldı",
+    "PREPARE_ORDER_POSTFIX": "siparişi hazırladı",
+    "REFUNDED_ORDER": "Sipariş İade Edildi",
+    "REFUND_NOTE": "İade Notu : ",
+    "REFUND_REASON": "İade Sebebi : ",
+    "SCHEDULED_ORDER_POSTFIX": "ileri tarihli sipariş verdi.",
+    "SCHEDULED_TIME": "Planlı Teslimat Zamanı: ",
+    "TOTAL_PRICE": "Toplam Fiyat",
+    "VERIFY_ORDER_POSTFIX": "siparişi onayladı",
+    "WAITING_PARTIAL_REFUND_ORDER": "Sipariş kısmi iade bekliyor",
+    "WAITING_REFUND_ORDER": "Sipariş iade bekliyor"
+  },
+  "WATER_TABLE": {
+    "EMAIL": "E-mail",
+    "GSM": "Gsm",
+    "NAME": "İsim",
+    "ROLE": "Rol"
+  },
+  "WATER_USER_TABLE": "Bayi Kullanıcıları"
+}

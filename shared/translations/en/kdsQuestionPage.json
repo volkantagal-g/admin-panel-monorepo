@@ -1,0 +1,27 @@
+{
+  "ANSWER_OPTION": "Answer Options",
+  "ASK_TO_MAIN_WAREHOUSES": "Ask To Main Warehouse",
+  "ASK_TO_SC_WAREHOUSES": "Ask To Store Conversion Warehouses",
+  "AUDIT_FORM_TYPE": "Audit Form Type",
+  "FORM_TITLE": "Create Question",
+  "HAS_DEFAULT_NOT_APPLICABLE": "Add Not Applicable As Option",
+  "HIGHLIGHT": "Highlight the answer",
+  "IS_PHOTO_FORCED": "Is Photo Forced",
+  "LIST": {
+    "NEW_KDS_QUESTION": "New Question",
+    "TABLE": {
+      "QUESTION_GROUP_NAME": "Question Group Name",
+      "QUESTION_NAME": "Question Name"
+    }
+  },
+  "NUMBER_INPUT": "Number Input",
+  "NUMBER_OPTION": "Number Option",
+  "OPTIONS_DESCRIPTION": "Answer options are listed from lowest point to highest point.",
+  "QUESTION": "QAS Question",
+  "QUESTION_GROUP": "Question Group",
+  "QUESTION_TYPE": "Question Type",
+  "RESPONSIBLE_DOMAIN": "Responsible Domain",
+  "SCORE_MAPPING": "Score Mapping",
+  "SELECTION_COUNT": "Selection Count",
+  "TOOLTIP": "Tooltip"
+}

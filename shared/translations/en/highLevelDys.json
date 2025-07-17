@@ -1,0 +1,33 @@
+{
+  "ALL_CITIES": "All Cities",
+  "AVERAGE": "Average",
+  "BAR_CHART_TITLE": "Letter Grade Distribitiuon",
+  "BAR_YAXIS_TITLE": "Distribution Rate",
+  "CHARTS": "Charts",
+  "DDS": "SES",
+  "DPS": "SPS (New)",
+  "DTS": "DTS",
+  "DYS": "SPS",
+  "HIGH_LEVEL_RECORDS": "High Level Sps Records",
+  "KDS": "QAS",
+  "LETTER_GRADE": "Letter Grade",
+  "LINE_CHART_TITLE": "Average Rating of Warehouses",
+  "LINE_CHART_Y_AXIS_TITLE": "Weighted Point",
+  "PERFORMANCE_SYSTEMS": "Performance Systems",
+  "POINT": "Point",
+  "SELECETED_DATE": "Selected Date",
+  "SELECT_PERFORMANCE": {
+    "SPS": "SPS",
+    "SPS_NEW": "SPS (New)"
+  },
+  "SELECT_SERVICE_TYPE": {
+    "G10": "Getir10",
+    "GB": "GetirMore",
+    "GM": "GetirMarket",
+    "GW": "GetirWater",
+    "SC": "Store Conversion"
+  },
+  "SERVICE_TYPES": "Service Types",
+  "STS": "STS",
+  "TWO_MONTHS": "2 Months"
+}

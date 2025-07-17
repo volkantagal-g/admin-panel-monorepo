@@ -1,0 +1,47 @@
+{
+    "BRAND": "Brand",
+    "CANCEL": "Cancel",
+    "CATEGORY": "Category",
+    "CLEAR_SELECTIONS": "Clear Selections",
+    "COMPETITOR": "Competitor",
+    "CONFIDENCE": "Confidence",
+    "CONFIDENCE_LEVELS": {
+        "HIGH": "High",
+        "LOW": "Low",
+        "MEDIUM": "Medium",
+        "VERY_HIGH": "Very High"
+    },
+    "DELETE": "Delete",
+    "DELETE_MATCH": "Delete Match",
+    "DIRECT_MATCH": "Direct Match",
+    "EDIT": "Edit",
+    "ERROR_BOUNDARY": {
+        "DESCRIPTION": "Something went wrong. Please try again later.",
+        "TITLE": "An error occurred",
+        "TRY_AGAIN": "Try again"
+    },
+    "EXPORT": "Export",
+    "FAILED_TO_FETCH_L4_CATEGORIES": "Failed to fetch L4 categories from API",
+    "INDIRECT_MATCH": "Indirect Match",
+    "MATCH": "Match",
+    "MATCHED": "Matched",
+    "MATCHINGS_SELECTED": "matchings selected",
+    "PRODUCT": "Product",
+    "PRODUCT_ID": "Product ID",
+    "PRODUCT_MATCHING": "Product Matching",
+    "QTY": "Qty",
+    "SEARCH": "Search",
+    "SELECT_ALL": "Select All",
+    "SMART_PRICING": {
+        "GETIR": "Getir",
+        "GETIR_MORE": "Getirmore",
+        "INDEX": "Index",
+        "INDEX_CHART": "Index Chart",
+        "INDEX_CHART_DESCRIPTION": "Select a matrix cell to view product list with choosen index",
+        "RULESETS_AND_GUARDRAILS": "Rulesets & Guard Rails"
+    },
+    "SUB_CATEGORY": "Sub Category",
+    "UNIT": "Unit",
+    "UNKNOWN_ERROR": "An unknown error occurred",
+    "UNMATCHED": "Unmatched"
+}

@@ -1,0 +1,8 @@
+{
+  "FILTER": "Filter",
+  "FILTER_KEY_IS_REQUIRED": "You must specify a filter key on component: {{componentName}}",
+  "FILTER_WRAPPER_NOT_FOUND": "You should wrap your filter item '{{componentName}}' with a <FilterWrapper>",
+  "INVALID_DEFAULT_DOMAIN_TYPE": "DomainTypeSelect: defaultValue must be an array",
+  "INVALID_FILTER_KEY_TYPE": "Invalid filter key type on component: '{{componentName}}' - '{{filterKey}}'. Filter key must be a string",
+  "STATE_IS_NOT_INITIALIZED": "Redux state has not initialized. You must wrap the components which has filter key: {{filterKey}} in a <FilterWrapper>"
+}

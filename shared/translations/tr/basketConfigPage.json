@@ -1,0 +1,20 @@
+{
+  "BASKET_AMOUNT_SOURCE": "Sepet Tutarı Kaynağı",
+  "BULK_UPDATE_LINK_TEXT": "Toplu Güncelleme",
+  "ERRORS": {
+    "INVALID_BASKET_AMOUNT_AMOUNT": "Hem minimum hem de maksimum sepet tutarını doldurmanız gerekmektedir",
+    "INVALID_BASKET_AMOUNT_FEE_SOURCE": "Sepet tutarı kaynağını doldurmanız gerekiyor",
+    "INVALID_MAXIMUM_BASKET_AMOUNT_AMOUNT": "Max sepet değeri, min sepet değerinden büyük ya da 0 olmalı.",
+    "INVALID_ZONE_BASED_BASKET_AMOUNT": "Tüm seviyeler için hem minimum hem de maksimum sepet miktarını doldurmanız gerekmektedir."
+  },
+  "MAXIMUM_BASKET_AMOUNT": "Maximum Sepet Tutarı",
+  "MINIMUM_BASKET_AMOUNT": "Minimum Sepet Tutarı",
+  "TITLE": "Sepet yapılandırmaları",
+  "WAREHOUSE_ID": "Depo Id",
+  "WAREHOUSE_NAME": "Depo Adı",
+  "WAREHOUSE_TYPE": "Depo Türü",
+  "ZONE": {
+    "LABEL": "Bölge",
+    "TITLE": "Bölge Bazlı Sepet Tutarı"
+  }
+}

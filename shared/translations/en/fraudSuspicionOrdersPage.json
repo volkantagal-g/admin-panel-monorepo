@@ -1,0 +1,30 @@
+{
+  "CHARGED_AMOUNT": "Charged Amount",
+  "CHECKOUT_DATE": "Checkout Date",
+  "CLIENT_ID": "Client ID",
+  "CLIENT_NAME": "Client Name",
+  "COURIER": "Courier",
+  "DOMAIN": "Domain",
+  "FRAUD_SUSPICION_STATUS": {
+    "100": "Waiting for processing",
+    "200": "Legitimate order",
+    "300": "Fraud order",
+    "400": "Undetermined",
+    "500": "Under review"
+  },
+  "INTERESTED_USER": "Interested User",
+  "MARKET_QUEUE_STATUS": {
+    "100": "Uninvolved",
+    "200": "Asked",
+    "300": "Enqueued",
+    "400": "Dequeued"
+  },
+  "PHONE_NUMBER": "Phone Number",
+  "PRODUCT_AMOUNT": "Product Amount",
+  "PROMO_CODE": "Promo Code",
+  "QUEUE_STATUS": "Queue Status",
+  "SUSPICIOUS_STATUS": "Suspicious Status",
+  "TITLE": "Fraud Suspicion Orders",
+  "WAIT_TIME": "Wait Time",
+  "WAREHOUSE": "Warehouse"
+}

@@ -1,0 +1,22 @@
+{
+  "COLUMNS": {
+    "DATES_REQUESTED": "Talep Edilen Tarih",
+    "DAY_REQUESTED": "Talep Edilen Gün Sayısı",
+    "LEAVE_TYPE": "İzin Tipi",
+    "NAME": "İsim",
+    "PICTURE": "Resim"
+  },
+  "DOCUMENTS": "Dokümanlar",
+  "LEAVE_DATES": "İzin Tarihi",
+  "LEAVE_DURATION": "İzin Süresi",
+  "LEAVE_STATUSES": {
+    "0": "İptal edildi",
+    "100": "Onay bekliyor",
+    "200": "Onaylandı",
+    "300": "Reddedildi",
+    "400": "Doküman bekliyor"
+  },
+  "NOTE": "Not",
+  "NO_LEAVES_FOUND": "İzin bulunamadı",
+  "REJECTION_REASON": "Reddetme Sebebi"
+}

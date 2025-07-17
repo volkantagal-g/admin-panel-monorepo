@@ -1,0 +1,579 @@
+{
+  "ACTIONS": "Actions",
+  "ACTIVE": "Aktif",
+  "ACTIVE_PRODUCTS": "Active Products",
+  "ADD": "Add",
+  "ADDITIONAL_INFO": {
+    "ADDITIONAL": "Additional Info",
+    "DISCLAIMER": "Disclaimer",
+    "TITLE": "Additional Info"
+  },
+  "ADDITIONAL_PROPERTY_INFO": {
+    "ADD_ROW": "Add Row",
+    "ADD_SUBTITLE": "Add Subtitle",
+    "COPY_TABLE": "Copy Table",
+    "DELETE_ROW_CONFIRMATION": "Are you sure you want to delete this row?",
+    "DELETE_SUBTITLE": "Delete Subtitle",
+    "DELETE_SUBTITLE_CONFIRMATION": "Are you sure you want to delete this subtitle?",
+    "DELETE_TABLE": "Delete Table",
+    "DELETE_TABLE_CONFIRMATION": "Are you sure you want to delete this table?",
+    "EDIT_SUBTITLE": "Edit Subtitle",
+    "EDIT_TABLE": "Edit Table",
+    "INDEX": "Index",
+    "MAX_2_SECTIONS": "There can be maximum 2 subtitles.",
+    "NEW_TABLE": "New Table",
+    "NO_EMPTY_SECTIONS": "Subtitles cannot be empty.",
+    "SUBTITLE": "Subtitle",
+    "TABLE_TITLE": "Table Title",
+    "TITLE": "Additional Property Tables Info",
+    "UNIT": "Unit",
+    "VALUE": "Value"
+  },
+  "AGE_RESTRICTION": {
+    "AGE": "Age",
+    "RESTRICTION": "Restriction",
+    "TITLE": "Age Restriction"
+  },
+  "AMOUNT": "Amount",
+  "AMOUNT_TYPE": "Amount Type",
+  "ARE_YOU_SURE": "Are you sure?",
+  "BADGE": "Badge",
+  "BARCODE": {
+    "BARCODES": "Barcodes",
+    "ERROR": {
+      "ALL_BARCODE_VALUES_MUST_BE_DIFFERENT": "All barcode values must be different from each other.",
+      "INVALID_BARCODE": "Please enter a valid barcode value."
+    },
+    "TITLE": "Barcode"
+  },
+  "BARCODES": "Barcodes",
+  "BASE_BUNDLE_PRICE": "Bundle Domain Price",
+  "BASE_PRICE": "Base Price",
+  "BONUS_TYPE": "Bonus Type",
+  "BRAND_IMPORT": "Brand Import",
+  "BRAND_INFO": {
+    "BRAND": "Brand",
+    "TITLE": "Brand Info"
+  },
+  "BRING_INACTIVE_PRODUCTS": "Bring Inactive Products",
+  "BUNDLE": "Bundle",
+  "BUNDLES": "Bundles",
+  "BUNDLE_DISPLAY_TYPE": "Bundle Display Type",
+  "BUNDLE_INFO": {
+    "ADD_PRODUCT": "Add Product",
+    "COUNT": "Count",
+    "DELETE_MODAL_MESSAGE": "Are you sure to delete bundle product?",
+    "EDIT_BUNDLE_PRODUCT": "Edit Bundle Product",
+    "ERROR": {
+      "ADD_2_OR_MORE_ITEMS": "Add 2 or more items.",
+      "PRICE_HIGHER_THAN_OR_EQUAL_TO_STRUCK_PRICE": "Price cannot be higher than or equal to struck price.",
+      "PRODUCT_ALREADY_EXIST": "Product already exist."
+    },
+    "FREE_PRODUCT": "Free Product",
+    "MAX_BUNDLE_PRODUCT_FOR_FRESH_PRODUCT_WARNING": "Since this bundle is a fresh bundle, you can add a maximum of one type of product to this bundle.",
+    "NEW_BUNDLE_PRODUCT": "New Bundle Product",
+    "PRICE": "Price",
+    "PRICE_FOR_FRESH": "Final Price",
+    "PRODUCT": "Product",
+    "PRODUCT_CHANGE": "Product Change(s)",
+    "REDIRECT": "This bundle product might have \"Product Warehouse Prices\" defined. If it has, adding a new subproduct(s) to this bundle product requires an action on related page. Otherwise, valid price for new sub product(s) will be the base price within Bundle Product",
+    "SORT": "Sort",
+    "SUPPLIER_SUPPORT_RATE": "Supplier Support Rate",
+    "THIRD_PARTY_SUPPORT_RATE": "Third Party Support Rate",
+    "TITLE": "Bundle Info"
+  },
+  "BUNDLE_PRICING_WARNING": "This product is assigned to {{ length }} bundle product(s).  You can find the related link(s) below.",
+  "BUNDLING_RULES": "Bundling Rules",
+  "BUYING": "Buying",
+  "BUYING_PRICE_FINANCIALS": "Buying Price Financials",
+  "CANNOT_DELETE_BUYING_PRICE": "Cannot delete buying price in active product if it has one price.",
+  "CHECK_SUB_PRODUCTS_DOMAIN_PRICE": "Check Sub Products Domain Price For Saving Bundling Rules",
+  "CLEAN_FORM": "Reset Form",
+  "COGS": "Cogs",
+  "COGS_INFO": "COGS value is calculated on daily basis according to cost of the product and stock amount for the current day.",
+  "COPIED_PRODUCTS": "Copied Products (temporary table)",
+  "COPY_PRODUCT_CONFIRMATION_TEXT": "The product will be copied including price information, please check if it’s correct.",
+  "COPY_THIS_PRODUCT_TO_ANOTHER_COUNTRY": "Copy this product to another country",
+  "COUNT": "Count",
+  "CREATED_AT": "Created At",
+  "CURRENT_PRODUCT_DATA": "Current Product Data",
+  "DATE_RANGE": "Date Range",
+  "DELETE_TEXT": "Do you want to delete this product price?",
+  "DEMAND_AND_STORAGE": {
+    "DEMAND_TYPE": "Demand Type",
+    "REFRIGERATOR_TEMPERATURE": "Refrigerator Temperature Range",
+    "STORAGE_TYPE": "Storage Type",
+    "STORAGE_TYPES": "Storage Types",
+    "TITLE": "Demand & Storage Info"
+  },
+  "DEMAND_AND_STORAGE_INFO_IMPORT": "Demand And Storage Info Import",
+  "DEPOSIT_AND_ECO_CONTRIBUTION": "Deposit & Eco Contribution Fee",
+  "DEPOSIT_ECO_CONTRIBUTION": {
+    "DEPOSIT": "Deposit",
+    "ECO_CONTRIBUTION_FEE": "Eco Contribution Fee",
+    "TITLE": "Deposit & Eco Contribution"
+  },
+  "DESCRIPTION_OF_COPY_PRODUCT": "For which country would you like to copy product?",
+  "DETAILS_INFO": {
+    "ADD_NEW_TAG": "Add",
+    "ALCOHOL_BY_VOLUME": "ABV% (Alcohol)",
+    "DELETE_TAG_CONFIRMATION": "Tag will be deleted and disassociated from all products. Are you sure?",
+    "DESCRIPTION": "Description",
+    "DESCRIPTION_TAGS": "Description Tags",
+    "EDIT_TAG": "Edit Tag",
+    "ERROR": {
+      "ADD_IMAGE": "Please add an image."
+    },
+    "IMAGE": "Image",
+    "NEW_TAG": "New Tag",
+    "SHOW_SELECTED_ONLY": "Show selected only",
+    "TITLE": "Details Info"
+  },
+  "DISCOUNT": "Discount",
+  "DISCOUNTED": "Discounted",
+  "DOMAIN": "Domain",
+  "DOMAIN_BASED_STOCK_INFO": {
+    "GETIR_10": "Getir10",
+    "GETIR_10_VALUE_MUST_BE_MORE_OR_EQUAL_STARTING_WEIGHT": "Getir10 value has to be more or equal to Starting Weight (Weight Info), if Starting Weight is not blank",
+    "GETIR_30": "GetirMore",
+    "GETIR_30_VALUE_MUST_BE_MORE_OR_EQUAL_STARTING_WEIGHT": "GetirMore value has to be more or equal to Starting Weight (Weight Info), if Starting Weight is not blank",
+    "GETIR_VOYAGER": "GetirWater",
+    "GETIR_VOYAGER_VALUE_MUST_BE_MORE_OR_EQUAL_STARTING_WEIGHT": "GetirWater value has to be more or equal to Starting Weight (Weight Info), if Starting Weight is not blank",
+    "TITLE": "Domain Based Sale Restriction"
+  },
+  "DOWNLOAD": "Download",
+  "DOWNLOAD_INFO_MESSAGE": "Sample import excel can be downloaded with the download button",
+  "EXPIRY_DATE_INFO_IMPORT": "Expiry Date Info Import",
+  "EXPIRY_INFO": {
+    "ALLOWED": "Allowed",
+    "DAY": "Day",
+    "DEAD": "Dead",
+    "EXPIRY_DATE_CONTROL": "Expiry Date Control",
+    "SHELF_LIFE": "Shelf Life",
+    "SWITCH": {
+      "ACTIVE": "Active",
+      "INACTIVE": "Inactive"
+    },
+    "TITLE": "Expiry Date Info",
+    "WARNING": "Warning"
+  },
+  "EXPORT_MARKET_PRODUCT_PRICING_METADATA_TO_EXCEL": "Export Price Metadata to Excel",
+  "EXPORT_PRODUCT_CATEGORY_POSITIONS_TO_EXCEL": "Export Product Category Positions to Excel",
+  "EXPORT_PRODUCT_DETAILS_TO_EXCEL": "Export Product Details to Excel",
+  "EXPORT_PRODUCT_DOMAIN_LIMITS_TO_EXCEL": "Export Product Domain Limits to Excel",
+  "EXPORT_PRODUCT_NUTRITIONAL_INFO_TO_EXCEL": "Export Product Nutritional Info to Excel",
+  "EXPORT_PRODUCT_SUPPLY_AND_LOGISTIC_TO_EXCEL": "Export Supply And Logistic To Excel",
+  "EXPORT_SERVICE_PRICES_TO_EXCEL": "Export Service Prices to Excel",
+  "FAMILY": "Family",
+  "FAMILY_PRICE": "Family Price",
+  "FILL_THIRD_PARTY_INFO": "Fill Third Party Info",
+  "FILTER_OPTION": "Select filter options",
+  "GALLERY": {
+    "DISPLAY_SETTINGS": {
+      "PRODUCT_IMAGE": "Product Image",
+      "TITLE": "Display Settings",
+      "WIDE_IMAGE": "Wide Image",
+      "WIDE_IMAGE_INFO": "Wide Image Preview"
+    },
+    "DISPLAY_TYPE": "Display Type",
+    "DISPLAY_TYPE_INFO": {
+      "TITLE": "Display Type Info"
+    },
+    "GALLERY_CARD": {
+      "FAILED_IMAGE": "Failed Image",
+      "IMAGE_ALT_TEXT": "An image for {{language}}",
+      "MAIN_IMAGE": "Main Image",
+      "MAIN_IMAGE_ALT_TEXT": "Main image for {{language}}",
+      "WIDE_IMAGE_ALT_TEXT": "Wide image for {{language}}"
+    },
+    "IMAGE_SETTINGS_MODAL": {
+      "ADD_IMAGE": "Add Image",
+      "COPY_TO_OTHER_LANGUAGES": "Copy to other languages",
+      "DELETE_SELECTED": "Delete Selected",
+      "FAILED": "Failed",
+      "LIST_IMAGE_ALT_TEXT": "One of product images",
+      "MAIN_IMAGE": "Main Image",
+      "MAKE_MAIN": "Make Main",
+      "REMOVE": "Remove",
+      "RETRY": "Retry",
+      "TITLE": "Image Settings",
+      "UPLOADING": "Uploading..."
+    },
+    "TITLE": "Gallery"
+  },
+  "GENERAL_INFO": "General Info",
+  "GENERAL_INFO_IMPORT": "General Info Import",
+  "HFSS_INFO": {
+    "HFSS_FOOD_CATEGORY": "HFSS Food Category",
+    "HFSS_FOOD_OR_DRINK": "HFSS Food or Drink",
+    "HFSS_INDICATOR": "HFSS Indicator",
+    "NUTRIENT_PROFILE_SCORE": "Nutrient Profile Score",
+    "TITLE": "HFSS Properties"
+  },
+  "IMPORT_CONFIG": "Import Config",
+  "IMPORT_MARKET_PRODUCT_PRICING_METADATA_FROM_EXCEL": "Import Price Metadata from Excel",
+  "IMPORT_PRODUCT_CATEGORY_POSITIONS_FROM_EXCEL": "Import Product Category Positions from Excel",
+  "IMPORT_PRODUCT_DETAILS_FROM_EXCEL": "Import Product Details from Excel",
+  "IMPORT_PRODUCT_DOMAIN_LIMITS_FROM_EXCEL": "Import Product Domain Limits from Excel",
+  "IMPORT_PRODUCT_NUTRITIONAL_INFO_FROM_EXCEL": "Import Product Nutritional Info from Excel",
+  "IMPORT_PRODUCT_SUPPLY_AND_LOGISTIC_FROM_EXCEL": "Import Supply and Logistic from Excel",
+  "IMPORT_PRODUCT_TOGGLES_FROM_EXCEL": "Import Product Toggles from Excel",
+  "IMPORT_SERVICE_PRICES_FROM_EXCEL": "Import Service Prices from Csv",
+  "INACTIVE_PRODUCTS": "Inactive Products",
+  "INGREDIENTS_INFO": {
+    "INGREDIENTS": "Ingredients",
+    "TITLE": "Ingredients Info"
+  },
+  "IS_PREFERRED": "Preferred",
+  "LIST_PRICE": "List Price",
+  "LIST_PRICE_FRESH_INFO": "This is a fresh product, you need to enter buying price per KG.",
+  "LIST_PRICE_PER_KG": "List Price per KG",
+  "MAIN_CATEGORY": "Main Category",
+  "MAKE_MAIN_CATEGORY": "Make Main Category",
+  "MAKE_THIS_OPTION_AVAILABLE_ON_GENERAL_INFO": "Make This Option Available On General Info Tab > Market Info > Product Targets",
+  "MANUFACTURER": "Manufacturer",
+  "MARKETING_SETTINGS": "Marketing Settings",
+  "MARKET_INFO": {
+    "BOOSTED_KEYWORDS": "Boosted Keywords",
+    "CATEGORY": "Category",
+    "KEYWORDS": "Keywords",
+    "PRODUCT_SOURCE": "Product Source",
+    "PRODUCT_TARGETS": "Product Targets",
+    "SUB_CATEGORY": "Sub Category",
+    "TITLE": "Market Info",
+    "TOOLTIP": {
+      "CATEGORY": "You can update this field by using 'Make Main Category' button on 'Position Info' section."
+    }
+  },
+  "MASTER_CATEGORY_V2_IMPORT": "Master Category V2 Import",
+  "MASTER_CATEGORY_V2_INFO": {
+    "CATEGORY_ROLE": "Category Role",
+    "MASTER_CATEGORY_V2": "Master Category V2",
+    "TITLE": "Master Category Info"
+  },
+  "MISSING_BARCODE": "Please enter a valid barcode value",
+  "NET_BUYING_PRICE": "Net Buying Price",
+  "NET_COGS": "Net Cogs",
+  "NET_INVOICE_PRICE": "Net Invoice Price",
+  "NEW_PRODUCT": "New Product",
+  "NO": "No",
+  "PACKAGING_INFO": {
+    "BARCODES": "Barcodes",
+    "IMPERIAL_UNITS": {
+      "DEPTH": "Length (inch)",
+      "GROSS_WEIGHT": "Gross Weight (oz)",
+      "HEIGHT": "Height (inch)",
+      "IMPERIAL_UNIT": "Imperial",
+      "NET_WEIGHT": "Net Weight (oz)",
+      "VOLUME": "Volume (inch³)",
+      "WIDTH": "Width (inch)"
+    },
+    "INBOX_QUANTITY": "Inbox Quantity",
+    "METRIC_UNITS": {
+      "DEPTH": "Length (cm)",
+      "GROSS_WEIGHT": "Gross Weight (gr)",
+      "HEIGHT": "Height (cm)",
+      "METRIC_UNIT": "Metric",
+      "NET_WEIGHT": "Net Weight (gr)",
+      "VOLUME": "Volume (cm³)",
+      "WIDTH": "Width (cm)"
+    },
+    "PICKING_TYPE": "Picking Type",
+    "PLEASE_VERIFY_THAT_DIMENSION_IS_CORRECT": "Please verify that this dimension is correct.",
+    "STOCK_UNIT_INFO": "Stock Unit of Measurement",
+    "TITLE": "Packaging Info",
+    "UNIT": "Unit",
+    "WARNING_BARCODE": "Barcodes field can be edited on 'Pricing Info' part."
+  },
+  "PACKAGING_INFO_IMPORT": "Packaging Info Import",
+  "PAYMENT_DUE_DAY": "Payment Due Day",
+  "PERCENT": "Percent",
+  "PLEASE_SPECIFY_VALUES_FOR_PRODUCT_WEIGHT_UNIT": "Please specify values per [{{ weightUnitText }}] for this field.",
+  "POSITION_INFO": {
+    "ACTIVE_CATEGORY": "Active Category",
+    "CATEGORY": "Category",
+    "CONFIRM_ADD_PRODUCT_POSITION": "Are you sure to add the product into this position?",
+    "CONFIRM_ADD_PRODUCT_POSITION_LAST": "Position info is wrong or not given, are you sure to add the product to the end of the list?",
+    "CONFIRM_MAIN_CATEGORY": "Are you sure to choose this category as main?",
+    "CONFIRM_PRODUCT_POSITION_REMOVE": "Are you sure to remove the position of the product?",
+    "DISCOUNTED_CATEGORY_CAN_NOT_BE_MAIN_CATEGORY_ERROR": "Discounted category can not be a main category.",
+    "EDIT_PRODUCT_POSITION": "Position info of the product can be updated from this section.",
+    "INACTIVE_CATEGORY": "Inactive Category",
+    "MAIN_CATEGORY_CAN_NOT_BE_CHANGED_ERROR": "Main category can not be changed when the product is added to any discounted category.",
+    "MAKE_MAIN_CATEGORY": "Make Main Category",
+    "MISSING_POSITION_ITEMS_ERROR_MESSAGE": "At least one position info must be entered",
+    "MISSING_POSITION_ITEMS_WARNING_MESSAGE": "Selected sub category does not have position items",
+    "NEW_POSITION": "New Position",
+    "NEW_PRODUCT_POSITION": "New Product Position",
+    "POSITION": "Position",
+    "PREVIEW": "Preview",
+    "PRODUCT_NAME": "Product Name",
+    "SHOW_INACTIVE_CATEGORIES_SUBCATEGORIES": "Show inactive categories / sub categories",
+    "SUB_CATEGORY": "Sub Category",
+    "TITLE": "Position Info"
+  },
+  "PRICE": "Price",
+  "PRICE_REDUCTION": "Price Reduction",
+  "PRICE_TYPE": "Price Type",
+  "PRICING_INFO": "Pricing Info",
+  "PRODUCTS": "Products",
+  "PRODUCT_ACTIVATION_ERRORS": "Product Activation Errors",
+  "PRODUCT_ACTIVATION_ERROR_DESC": "Please fix validation errors to be able to activate this product.",
+  "PRODUCT_DETAILS": {
+    "COPY_PRODUCT_ID": "Copy product id",
+    "NEW_PRODUCT": "New Product",
+    "PRICES": "Prices",
+    "PRODUCT_STATUS": {
+      "ACTIVE": "Active",
+      "ACTIVE_CONFIRMATION_MODAL": {
+        "MESSAGE_NEGATIVE": "Are you sure to deactivate this product?",
+        "MESSAGE_POSITIVE": "Are you sure to activate this product?"
+      },
+      "ARCHIVED": "Archived",
+      "ARCHIVED_CONFIRMATION_MODAL": {
+        "MESSAGE_NEGATIVE": "Are you sure to restore this product to inactive status?",
+        "MESSAGE_POSITIVE": "Are you sure to archive this product?"
+      },
+      "BARCODES": "Barcodes",
+      "ENABLED": "Enabled",
+      "ENABLED_CONFIRMATION_MODAL": {
+        "MESSAGE_NEGATIVE": "Are you sure to disable this product?",
+        "MESSAGE_POSITIVE": "Are you sure to enable this product?"
+      },
+      "ERRORS": {
+        "CANNOT_BE_ACTIVATED_WHEN_ARCHIVED": "Archived products can't be activated.",
+        "CANNOT_BE_ARCHIVED_WHEN_ACTIVATED": "Active products can't be archived.",
+        "NO_ARCHIVE_PERMISSION": "Not authorized to change archived status."
+      },
+      "SHORT_DESCRIPTION": "Short Description",
+      "SHOW_ON_APP": "Show on app",
+      "SHOW_ON_APP_CONFIRMATION_MODAL": {
+        "MESSAGE_NEGATIVE": "Are you sure to don't want show on app this product?",
+        "MESSAGE_POSITIVE": "Are you sure to want show on app this product?"
+      },
+      "SWITCH": {
+        "OFF": "Off",
+        "ON": "On"
+      },
+      "TITLE": "Product Status"
+    },
+    "TITLE": "Product Details"
+  },
+  "PRODUCT_ENABLE_ERROR_DESC": "Please fix validation errors to be able to enable this product.",
+  "PRODUCT_IMAGE": "Product Image",
+  "PRODUCT_INFO": "Product Info",
+  "PRODUCT_NAMES": {
+    "DISPLAY_NAME": "Display Name",
+    "NAME": "Name",
+    "SHORT_DESCRIPTION": "Short Description",
+    "SHORT_NAME": "Short Name",
+    "TITLE": "Product Names"
+  },
+  "PRODUCT_SETTINGS": {
+    "ACTIVE": "Active",
+    "ACTIVE_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Are you sure to deactivate this product?",
+      "MESSAGE_POSITIVE": "Are you sure to activate this product?"
+    },
+    "BUNDLE_PRODUCTS_MODAL": {
+      "NAME": "Name",
+      "NO_BUNDLE_ERROR": "This product isn't included in a bundle product.",
+      "STATUS": "Status",
+      "TITLE": "Bundle list"
+    },
+    "DELIVERY_FEE_DISCOUNT_PRODUCT": "Delivery fee discount product",
+    "DELIVERY_FEE_DISCOUNT_PRODUCT_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Are you sure?",
+      "MESSAGE_POSITIVE": "Are you sure?"
+    },
+    "ENABLED": "Enabled",
+    "ENABLED_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Are you sure to disable this product?",
+      "MESSAGE_POSITIVE": "Are you sure to enable this product?"
+    },
+    "ERROR": {
+      "ADD_2_OR_MORE_ITEMS_ON_BUNDLE_INFO": "Add 2 or more items on Bundle Info table.",
+      "MISSING_POSITION_ITEMS_ON_POSITION_INFO": "At least one item must be entered on position info"
+    },
+    "EXCLUDED_FROM_MINIMUM_BASKET_CALCULATION": "Excluded from minimum basket calculation",
+    "EXCLUDED_FROM_MINIMUM_BASKET_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Are you sure?",
+      "MESSAGE_POSITIVE": "Are you sure?"
+    },
+    "FRESH": "Fresh (Deprecated)",
+    "MINIMUM_BASKET_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Are you sure?",
+      "MESSAGE_POSITIVE": "Are you sure?"
+    },
+    "MINIMUM_BASKET_NOT_REQUIRED": "Not require a minimum basket",
+    "ONLY_PROMO": "Only promo",
+    "ONLY_PROMO_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Are you sure to disable only promotion property?",
+      "MESSAGE_POSITIVE": "Are you sure to set this product as only promotion?"
+    },
+    "OUT_OF_STOCK": "Out Of Stock",
+    "SHOW_BUNDLE_PRODUCTS": "Show bundle products",
+    "SHOW_BUNDLE_PRODUCTS_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Are you sure?",
+      "MESSAGE_POSITIVE": "Are you sure?"
+    },
+    "SHOW_LOCATION_FREE": "Show location free",
+    "SHOW_LOCATION_FREE_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Are you sure to disable location free visibility of this product?",
+      "MESSAGE_POSITIVE": "Are you sure to enable location free visibility of this product?"
+    },
+    "SHOW_ON_APP": "Show on app",
+    "SHOW_ON_APP_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Are you sure to don't want show on app this product?",
+      "MESSAGE_POSITIVE": "Are you sure to want show on app this product?"
+    },
+    "SHOW_OUT_OF_STOCK_MODAL": {
+      "MESSAGE_NEGATIVE": "Are you sure to disable Out Of Stock field of this product?",
+      "MESSAGE_POSITIVE": "Are you sure to enable Out Of Stock field of this product?"
+    },
+    "TITLE": "Product Settings"
+  },
+  "PRODUCT_SLUGS_TITLE": "Product Slugs",
+  "PRODUCT_TYPE_INFO": {
+    "PRODUCT_SUB_TYPE": "Product Sub Type",
+    "PRODUCT_TYPE": "Product Type",
+    "PRODUCT_UNIT": "Product Unit",
+    "TITLE": "Product Type",
+    "TOOLTIP": {
+      "PRODUCT_SUB_TYPE": "This field is used to differentiate product sub-types.\nPre-packaged - weight products that are sold on unit-basis\nFresh Meat & Cheese - meat & cheese products that are sold on a weight basis\nFresh Fruit & Vegetables - fruit & vegetable products that are sold on a weight basis",
+      "PRODUCT_TYPE": "This field is used to differentiate product types.\n1.Piece - products that are managed on a unit basis.\n2.Weight - products that are managed on a weight basis.",
+      "PRODUCT_UNIT": "This field is used to manage product unit."
+    }
+  },
+  "PROVIDER": "Provider",
+  "RATE": "Rate",
+  "READY_TO_DOWNLOAD": "Ready To Download",
+  "REVIEW_CHANGES": "Review Changes",
+  "SALE_RESTRICTION": {
+    "MAX_ORDER_WEIGHT_MUST_BE_MORE_OR_EQUAL_STARTING_WEIGHT": "Max Order Weight has to be more or equal to Starting Weight (Weight Info), if Starting Weight is not blank",
+    "PRODUCT_TYPE_BASED": {
+      "1": {
+        "MAX_ORDER_COUNT": "Max Order Count"
+      },
+      "2": {
+        "MAX_ORDER_COUNT": "Max Order Weight [{{ weightUnitText }}]"
+      }
+    },
+    "TITLE": "Sale Restriction"
+  },
+  "SAP_REFERENCE_CODE": {
+    "LABEL": "SAP Reference Code",
+    "TITLE": "SAP Info"
+  },
+  "SEARCH_BY_IDS": "Search by Ids",
+  "SEGMENT": "Segment",
+  "SEGMENTS_IMPORT": "Segments Import",
+  "SEGMENT_INFO": {
+    "KVI_LABEL": "KVI Label",
+    "SEGMENT": "Segment",
+    "SEGMENT_2": "Segment-2",
+    "TITLE": "Segments"
+  },
+  "SELLING": "Selling",
+  "SELLING_PRICE_FINANCIALS": "Selling Price Financials",
+  "SELLING_PRICE_INFO_MESSAGES": {
+    "VALID_DOMAIN_PRICE_STATUS": "You can't add Warehouse Price without a valid Domain Price",
+    "VALID_DOMAIN_PRICE_STATUS_DISCOUNTED": "You can't add Discounted Price without a valid Domain Price",
+    "WAREHOUSES_LENGTH": "Please select less than or equal to 10 warehouses"
+  },
+  "SELLING_PRICE_VAT": "Selling Price Vat",
+  "SERVICE_TARGETS": "Service Targets",
+  "SHOW_UNIT_COUNT_TEXT": "Show Unit Count Text",
+  "SHOW_UNIT_COUNT_TEXT_INFO_MESSAGE": "Whether below information will be shown on the app or not.",
+  "SLUGS": "Slugs",
+  "SPECIAL_OFFERS": "Special Offers",
+  "STATUS": "Status",
+  "STATUS_FILTER_OPTION": "Select product status filter options",
+  "STRUCK_PRICE": "Struck Price",
+  "SUPPLIER": "Supplier",
+  "SUPPLIER_ACOUNT": "Supplier Account",
+  "SUPPLY_LOGISTIC_GENERAL_INFO": {
+    "CONSUMABLE_PRODUCT": "Consumable Product",
+    "CRITICAL_AMOUNT_STORE": "Critical Amount (Store)",
+    "CRITICAL_STOCK_WARNING_ENABLED": "Critical Stock Warning",
+    "EQUIPMENT": "Equipment",
+    "INVENTORY_CHECK_PERIOD": "Inventory Check Period",
+    "IS_INCLUDED_TO_GENERAL_INVENTORY": "General Inventory Check",
+    "KUZEYDENEQUIPMENT": "Kuzeyden Equipment",
+    "MAX_STOCK": "Max Stock Amount",
+    "MAX_STOCK_DAY": "Max Stock Day",
+    "MIN_STOCK": "Min Stock Amount",
+    "MIN_STOCK_DAY": "Min Stock Day",
+    "TITLE": "General Info"
+  },
+  "SUPPLY_LOGISTIC_INFO": "Supply & Logistic Info",
+  "SUPPORT_AMOUNT": "Support Amount",
+  "SUPPORT_RATE": "Support Rate",
+  "SUPPORT_TYPE": "Support Type",
+  "THIRD_PARTY_INFO": "Third Party Info",
+  "THIRD_PARTY_PRODUCT_DATA": "Third Party Product Data",
+  "TRANSFER_INFO": {
+    "IS_ALLOWED_FOR_SELF_PURCHASED_ORDER": "Self Purchase Allowance",
+    "IS_ALLOWED_FOR_SELF_TRANSFER": "Self Transfer Allowance",
+    "IS_IN_FROZEN_LOCATION": "Frozen Location Product",
+    "IS_PICKED_TO_ZERO": "Picked-to-Zero",
+    "MAX_TRANSFER_TOLERANCE_LIMIT": "Max Transfer Tolerance Limit %",
+    "MIN_TRANSFER_TOLERANCE_LIMIT": "Min Transfer Tolerance Limit %",
+    "PLANNING_SEGMENT": "Planning Segment",
+    "SEGMENT": "Segment",
+    "SEGMENT_2": "Segment-2",
+    "SHIPMENT_TYPE": "Shipment Type",
+    "TITLE": "Transfer Info",
+    "TRANSFER_BOX_COUNT": "Transfer Box Count",
+    "TRANSFER_GROUPS": "Transfer Groups",
+    "TRANSFER_LIMIT_TYPE": "Transfer Limit Type",
+    "TRANSFER_TYPE": "Transfer Type"
+  },
+  "TRANSFER_INFO_IMPORT": "Transfer Info Import",
+  "UNIT_PRICE_INFO": {
+    "IMPERIAL_UNITS": "Imperial Units (US)",
+    "METRIC_UNITS": "Metric Units (TR, UK, EU)",
+    "PER_UNIT_NUMERIC_VALUE": "Per Numeric Value",
+    "PREVIEW_UNIT_PRICE": "Preview",
+    "TITLE": "Unit Price Info",
+    "UNIT": "Unit",
+    "UNIT_NUMERIC_VALUE": "Unit Numeric Value"
+  },
+  "USAGE_INFO": {
+    "TITLE": "Usage Info",
+    "USAGE": "Usage"
+  },
+  "VATS": "VAT's",
+  "WAREHOUSE": "Warehouse",
+  "WAREHOUSE_SEGMENT": "Warehouse/Segment",
+  "WASTE_PRICING": "Waste Pricing",
+  "WEIGHT_INFO": {
+    "APPROXIMATE_PIECE_DEVIATION": "Approximate Piece Deviation (±)",
+    "AVERAGE_PIECE_GRAM": "Average Piece Weight (g)",
+    "ERROR": {
+      "APPROXIMATE_PIECE_DEVIATION_INVALID_FORMAT_OR_RANGE": "Approximate Piece Deviation must be a number more than or equal to 1",
+      "APPROXIMATE_PIECE_DEVIATION_IS_NOT_AVAILABLE": "Approximate Piece Deviation is available only when Switch is on",
+      "APPROXIMATE_PIECE_DEVIATION_REQUIRED_WHEN_SHOW_UNIT_COUNT_TEXT_IS_TRUE": "Approximate Piece Deviation is required when Show Unit Count Text is true",
+      "AVERAGE_PIECE_GRAM_INVALID_FORMAT_OR_RANGE": "Average Piece Weight must be a number more than or equal to 1",
+      "AVERAGE_PIECE_GRAM_IS_NOT_AVAILABLE": "Average Piece Weight is available only when Switch is on",
+      "AVERAGE_PIECE_GRAM_REQUIRED_WHEN_SHOW_UNIT_COUNT_TEXT_IS_TRUE": "Average Piece Weight is required when Show Unit Count Text is true",
+      "STARTING_WEIGHT_MUST_BE_GREATER_OR_EQUAL_MINIMUM_WEIGHT": "Starting Weight must be greater or equal to Minimum Weight",
+      "STARTING_WEIGHT_MUST_BE_LESS_OR_EQUAL_DOMAIN_BASED_SALE_RESTRICTION": "Starting Weight must be less or equal to any value in Domain Based Sale Restriction",
+      "STARTING_WEIGHT_MUST_BE_LESS_OR_EQUAL_MAX_ORDER_WEIGHT": "Starting Weight must be less or equal to Max Order Weight (from Stock Info), unless the Max Order Weight is blank."
+    },
+    "INCREASING_DECREASING_WEIGHT": "Increasing / Decreasing Weight",
+    "MINIMUM_WEIGHT": "Minimum Weight",
+    "MODAL_MESSAGE_SUM_OF_STARTING_AND_INCREASE_DECREASE_WEIGHT": "'A sum of Starting Weight and Increasing / Decreasing Weight' should be less or equal to 'Max Order Weight'. Are you sure you want to proceed?",
+    "MODAL_TITLE_SUM_OF_STARTING_AND_INCREASE_DECREASE_WEIGHT": "Starting Weight + 1 X Increasing / Decreasing Weight <= Max Order Weight",
+    "STARTING_WEIGHT": "Starting Weight",
+    "TITLE": "Weight Info",
+    "TOOLTIP": {
+      "INCREASING_DECREASING_WEIGHT": "Weight increments / decrements for adjusting product’s weight inside the cart.",
+      "MINIMUM_WEIGHT": "Minimum weight of a product that can be bought by customer.",
+      "STARTING_WEIGHT": "Weight of a product that will be added to customer’s cart by default on the mobile app."
+    }
+  },
+  "WITHOUT_VAT": "w/out VAT",
+  "WITH_VAT": "with VAT",
+  "YES": "Yes"
+}

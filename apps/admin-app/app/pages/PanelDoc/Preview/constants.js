@@ -1,0 +1,1 @@
+export const PAGE_REDUX_KEY = 'PANEL_DOC_PREVIEW';

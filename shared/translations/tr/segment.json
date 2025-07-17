@@ -1,0 +1,43 @@
+{
+  "ADD_CLIENTS_TO_SEGMENT": "Kullanıcıları Segment'e Ekle",
+  "ADD_CLIENT_IDS": "Kullanıcı ID'leri Ekle",
+  "ADD_OR_REMOVE_CLIENTS": "Ekle/Çıkar",
+  "ADD_SEGMENT_ID": "Segment ID Ekle",
+  "CLIENTS_ADDED_TO_SEGMENT_SUCCESSFULLY": "Kullanıcılar segmente başarıyla eklendi.",
+  "CLIENTS_REMOVED_FROM_SEGMENT_SUCCESSFULLY": "Kullanıcılar segmentten başarıyla çıkarıldı.",
+  "CLIENT_COUNT": "Kullanıcı Sayısı",
+  "CONFIRM": {
+    "ADDING_SEGMENT_TO_CLIENTS": "Bu segmenti CSV'den aktarılan müşterilere ekleyeceksiniz. Emin misiniz?",
+    "ARE_YOU_SURE_TO_DELETE": "Segmenti silmek istediğine emin misin?",
+    "REMOVING_SEGMENT_FROM_CLIENTS": "Bu segmenti CSV'den aktarılan müşterilerden sileceksiniz. Emin misiniz?",
+    "RESET_CLIENTS_OF_SEGMENT": "Bu işlem tüm müşterileri bu segmentten çıkarır. Emin misiniz?"
+  },
+  "CSV_UPLOAD": "CSV UPLOAD",
+  "ERR_CHECK_CSV_FORMAT": "CSV formatını kontrol et!",
+  "EXPIRATION_STATUS_FORM": "Sona Erme Bilgisi",
+  "EXPIRED_AT": "Sona Erme Tarihi",
+  "EXPIRES_AT": "Geçerlilik Süresi",
+  "FRAUD_SEGMENT_MANAGEMENT": "Fraud Segment Yönetimi",
+  "GET_CLIENT_COUNT": "Kullanıcı Sayısını Öğren",
+  "IMPORT_CLIENTS_FROM_CSV": "Kullanıcıları CSV'den aktar",
+  "INDEFINITE_EXPIRATION_FORM": "Sona Ermeme Özelliği",
+  "INVALID_SEGMENT_ID_PLEASE_CHECK_VALUES": "Geçersiz segment ID'si. Lütfen değerleri kontrol edin.",
+  "IS_EXPIRED": "Sona Erdi mi?",
+  "IS_INDEFINITE_EXPIRATION_ENABLED": "Sona Ermeme Açık mı?",
+  "NEW_SEGMENT": "Yeni Segment",
+  "REMOVE_CLIENTS_FROM_SEGMENT": "Kullanıcıları Segment'ten Çıkar",
+  "REMOVE_SEGMENT_FROM_CLIENTS_PENDING_MESSAGE": "İlgili segmentten müşterilerin kaldırılması işlemi başlatılmıştır. İşlemin tamamlanması biraz sürebilir. Chunk Miktarı:{{chunkSize}}",
+  "RESET_CLIENTS_OF_SEGMENT": "Sıfırla",
+  "SEGMENT": "Segment",
+  "SEGMENT_INFO": "Segment Tanımı",
+  "SEGMENT_STATS_REQUEST_SUCCESSFULLY_SENT": "Segment içerik bilgileri en kısa sürede mail ile tarafanıza iletilecektir.",
+  "SEGMENT_TYPE": "Segment Tipi",
+  "SEGMENT_TYPES": {
+    "CLIENT": "Kullanıcı",
+    "POPUP": "Popup",
+    "PROMO": "Promosyon"
+  },
+  "SEND": "Gönder",
+  "SEND_SEGMENT_INFO_EMAIL": "Segment İstatistiklerini E-Posta ile Gönder",
+  "TEST_EMAIL_DOMAIN_ALERT": "Email alan adı @getir.com alan adının altında olmalıdır."
+}

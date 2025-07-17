@@ -1,0 +1,35 @@
+{
+  "LIST": {
+    "FRANCHISE_REQUESTS": "Bayilik Başvurusu",
+    "TABLE": {
+      "BIRTHDATE": "Doğum Tarihi",
+      "CITIZENSHIP": "Vatandaşlık",
+      "CITY": "Bayi Şehir",
+      "CITY_OF_RESIDENCE": "İkamet İli",
+      "CITY_REGION": "Bayi İl İlçe",
+      "COMMENTS": "Yorumlar",
+      "CREATED_AT": "Başvuru Tarihi",
+      "CURRENT_JOB": "Şuanki İşiniz",
+      "CURRENT_MONTHLY_INCOME": "Aylık Geliri",
+      "EDUCATION_LEVEL": "Eğitim Seviyesi",
+      "EMAIL": "E-posta",
+      "EXPECTED_MONTHLY_INCOME": "Aylık Gelir Beklentisi",
+      "FULL_NAME": "Ad Soyad",
+      "GENDER": "Cinsiyet",
+      "HAVE_MANAGED_WAREHOUSE_OR_COURIER": "Yönetim Tecrübesi",
+      "HOW_DID_YOU_HEAR_ABOUT_US": "Bizi Nereden Duydunuz",
+      "INVESMENT_POWER": "Yatırım Gücü",
+      "LASTNAME": "Soy İsim",
+      "MANAGEMENT": "Yönetim Türü",
+      "NAME": "İsim",
+      "OTHER_CITIES": "Diğer Şehirler",
+      "PERSONAL_CAPITAL_CONTRIBUTION": "Kişisel Sermaye Katkısı",
+      "PHONE": "Telefon",
+      "REGION": "Bayi İlçe",
+      "REGION_OF_RESIDENCE": "İkamet İlçesi",
+      "START_BUSINESS_DATE": "İşe Başlayabilme Tarihi",
+      "WHO_WILL_INVESMENT": "Yatırım Türü",
+      "WHY_GETIR": "Neden Getir"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "PAGE_EXPORT": {
+    "COMPONENT_ID": "Component ID",
+    "COUNTRY": "Country",
+    "CREATION_DATE": "Creation Date",
+    "DESCRIPTION": "Description",
+    "GLOBAL": "Global",
+    "PAGE_ID": "Page ID",
+    "PAGE_OR_COMPONENT_NAME": "Page/Component Name",
+    "PAGE_OWNERS": "Page Owners",
+    "PAGE_URL": "Page URL",
+    "PERMISSION_KEY": "Permission Key",
+    "RESPONSIBLE_SQUAD": "Responsible Squad"
+  }
+}

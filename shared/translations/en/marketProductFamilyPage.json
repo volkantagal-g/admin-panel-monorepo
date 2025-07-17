@@ -1,0 +1,41 @@
+{
+  "CLEAN_FORM": "Clear",
+  "FAMILY_NAME": "Family Name",
+  "FAMILY_STATUS_OPTION": {
+    "ACTIVE": "Active",
+    "ALL": "All",
+    "INACTIVE": "Inactive"
+  },
+  "NEW_PRODUCT_FAMILY": "New Market Product Family",
+  "PRODUCT_FAMILY_LIST": {
+    "NEW_PRODUCT_FAMILY": "Create New Family"
+  },
+  "PRODUCT_TABLE": {
+    "CATEGORY_ROLE": "Category Role",
+    "KVI_LABEL": "KVI Label",
+    "KVI_SCORE": "KVI Score",
+    "PRICE": "Price",
+    "PRODUCT_NAME": "Product Name",
+    "RECOMMENDATION_PRICE": "Recommendation Price",
+    "SERVICE_TARGETS": "Service Targets",
+    "STATUS": "Status",
+    "TITLE": "Family Products"
+  },
+  "SEARCH_BY_FAMILY_IDS": "Family Ids",
+  "SEARCH_BY_FAMILY_NAME": "Family Name",
+  "SEARCH_BY_FAMILY_STATUS": "Family Status",
+  "SEARCH_BY_PRODUCT_IDS": "Product Ids",
+  "SEARCH_BY_PRODUCT_NAME": "Product Name",
+  "SEARCH_BY_PRODUCT_SERVICE_TARGET": "Service Target",
+  "SEARCH_BY_PRODUCT_STATUS": "Product Status",
+  "TITLES": {
+    "DETAIL_PAGE": "Market Product Family Detail",
+    "LIST": "Family List",
+    "PAGE": "Market Product Families",
+    "TABLE": {
+      "FAMILY_ID": "Family Id",
+      "FAMILY_NAME": "Family Name",
+      "FAMILY_STATUS": "Family Status"
+    }
+  }
+}

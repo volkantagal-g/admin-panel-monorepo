@@ -1,0 +1,23 @@
+{
+	"NO_DATA": "No data found",
+	"SEARCH_PARTNER": "Search Shop",
+	"SUMMARY": {
+		"CREATE_REPORT_FOR_ALL": "Create Report for All",
+		"PAID_TOTAL_REVENUE_AMOUNT": "Total Paid Revenue Amount",
+		"PARTNER_COUNT": "Total Shops",
+		"TITLE": "Summary",
+		"TOTAL_COMPANY_COUNT": "Total Shop Count",
+		"TOTAL_WITHHOLDING_TAX": "Total Withholding Tax"
+	},
+	"TABLE": {
+		"ACTIONS": "Actions",
+		"CREATE_REPORT": "Create Report",
+		"PARTNER_NAME": "Shop",
+		"TOTAL_WITHHOLDING_TAX_AMOUNT": "Total Withholding Tax Amount"
+	},
+	"TABS": {
+		"CORPORATE": "Corporate Shops",
+		"INDIVIDUAL": "Individual Shops",
+		"SIMPLE_PROCEDURE": "Simple Procedure Shops"
+	}
+}

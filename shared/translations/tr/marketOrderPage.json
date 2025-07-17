@@ -1,0 +1,373 @@
+{
+  "ACTION": {
+    "CANCEL_ORDER": "Siparişi Iptal Et",
+    "CHANGE_SLOT": "Saati Değiştir",
+    "TITLE": "Aksiyon"
+  },
+  "ADDRESS_INFO": {
+    "ADDRESS": "Adres",
+    "APARTMENT": "Apt No",
+    "CLIENT_NOTE": "Müşteri Notu",
+    "DIRECTIONS": "Adres Tarifi",
+    "DOOR_NO": "Kapı No",
+    "FLOOR": "Kat",
+    "NAME": "İsim"
+  },
+  "AGENT_ACTIONS": {
+    "ADD_ORDER_FEEDBACK": "Sipariş Şikayeti/İndirim Ekle",
+    "FORM_ERROR": "Eksik: ",
+    "MODAL": {
+      "DISCOUNT": {
+        "AMOUNT": "Miktar",
+        "BASKET_SIZE": "Minimum Sepet Olmasın",
+        "COUNTRY": "Ülke",
+        "DELIVERY_FEE": "Getirmesi",
+        "DELIVERY_FEE_CHECKBOX": "Getirmesi Alınmasın",
+        "DELIVERY_FEE_HINT": "Boşsa, varsayılan teslimat ücreti alınacaktır",
+        "DELIVERY_FEE_INFO": "Bunun için alınan Teslimat Ücreti ",
+        "DELIVERY_FEE_NOT_CHARGED": "Bu sipariş için Kargo Ücreti alınmaz",
+        "DELIVERY_FEE_REFUNDED": "& zaten geri ödeme yapıldı",
+        "DO_NOT_APPLY_MINIMUM_BASKET_SIZE": "Minimum sepet tutarı uygulanmasın",
+        "DO_NOT_CHARGE_DELIVERY_FEE": "Getirmesi Alınmasın",
+        "EXPIRY": "Süre",
+        "EXPIRY_DATE": "İndirim şu tarihte sona erecek ",
+        "MAX_AMOUNT_MESSAGE": "Tutar, Toplam Fiyattan az olmalıdır ",
+        "MAX_DISCOUNT_WARNING": "DISCOUNT_AMOUNTORDER_CURRENCY indirim için çok yüksek, devam etmek istediğinizden emin misiniz?",
+        "ORDER_COUNTRY": "İndirim sadece sipariş ülkesi için geçerlidir",
+        "SUCCESS": "İndirim Başarıyla Oluşturuldu",
+        "TITLE": "İndirim",
+        "TITLE_EN": "Başlık - English",
+        "TITLE_TEMPLATE": "Sana özel SYMBOLAMOUNT indirim!",
+        "TITLE_TR": "Başlık - Turkish"
+      },
+      "FEEDBACK": {
+        "CREATED_DETAILS": "{{createdBy}} tarafından {{createdAt}} tarihinde oluşturulan geri bildirim",
+        "EXCHANGE": "Değişim",
+        "FRANCHISE_FAULT": "Bayiye Yansıtılmasın",
+        "MAIN_REASON": "Ana Sebep",
+        "NOTE": "Not",
+        "NOTE_PLACEHOLDER": "Not ekle...",
+        "SOURCE": "Kaynak",
+        "SUB_REASON": "Alt Sebep"
+      },
+      "REFUND": {
+        "QUANTITY_ERROR": "İade edilecek bir ürün miktarı veya başka bir ücret seçilmelidir",
+        "REASON": "İade Sebebi",
+        "REFUND_ORDER_STATUS_ERROR": "Sipariş teslim edilmediği takdirde ürün iadesi yapılamaz. Teslim edilmeyen siparişler için eksik ürünler sayfasını kullanın",
+        "TABLE": {
+          "ALERT_BAG_FEE_REFUNDED": "Poşet Ücreti İade Edildi",
+          "ALERT_DELIVERY_FEE_REFUNDED": "Getirmesi Ücreti İade Edildi",
+          "ALERT_FULLY_REFUNDED": "Full iade yapıldı",
+          "ALERT_SERVICE_FEE_REFUNDED": "Hizmet ücreti iade edildi",
+          "AMOUNT": "Tutar",
+          "BAG_PRICE": "Poşet Ücreti",
+          "COUNT": "Sayı",
+          "DATE": "Tarihi",
+          "DELIVERY_FEE": "Getirmesi",
+          "FULL_REFUND": "Full İade",
+          "PRODUCT": "Ürün",
+          "QTY_ORDER": "Sipariş Verilen Adet",
+          "QTY_REFUND": "İade Edilen Adet",
+          "QTY_REMAINING": "İade Miktarı",
+          "REFUNDED": "İade Edildi",
+          "REFUND_BAG_FEE": "Poşet Ücreti",
+          "REFUND_DELIVERY_FEE": "Getirmesi Ücreti",
+          "REFUND_SERVICE_FEE": "İade Edilen Servis Ücreti",
+          "TOTAL_PRICE": "Toplam Tutar",
+          "TOTAL_PRODUCT_REFUND_AMOUNT": "Toplam İadeTutarı"
+        },
+        "TITLE": "İade Şekli"
+      },
+      "REQUIRED_FIELD": "zorunludur",
+      "TITLE": "Market Siparişi Geri bildirimi"
+    }
+  },
+  "A_AND_M_TAX_EXCLUDED": "A&M",
+  "BAG_PRICE": "Poşet Ücreti",
+  "BASKET_AMOUNT": "Sepet Tutarı",
+  "BASKET_LOGS": {
+    "ACTION": "Aksiyon",
+    "DETAIL": "Detaylar",
+    "TIME": "Saati",
+    "TITLE": "Sepet Hareketleri"
+  },
+  "BATCHED_ORDERS": {
+    "BATCH_INDEX": "Birleşme Sırası #",
+    "CHECKOUT_DATE": "Sipariş Zamanı",
+    "TITLE": "Birleştiği Siparişler"
+  },
+  "CANCEL_SOURCES": {
+    "CUSTOMER": "Müşteri",
+    "GETIR": "Getir"
+  },
+  "CARD": {
+    "CARD_BANK": "Banka",
+    "CARD_NO": "Kart No",
+    "INFO": "Kart Bilgileri",
+    "POS_BANK": "Pos Banka",
+    "TRANSACTION_ID": "Transaction id"
+  },
+  "CARD_AMOUNT": "Kart ile Ödenen Tutar",
+  "CARD_INFO": {
+    "CLIENT": {
+      "FOOD_ORDER": "Yemek",
+      "G10_ORDER": "G10",
+      "GETIR_VOYAGER": "GetirSu",
+      "GSM": "Gsm",
+      "MARKET_ORDER": "GetirBüyük",
+      "NAME": "İsim",
+      "PHONE_MASKING_CODE": "Telefon Maskeleme Kodu",
+      "TITLE": "Müşteri",
+      "TOTAL_ORDER": "Toplam"
+    },
+    "COURIER": {
+      "DELIVERY_CODE": "Teslimat Kodu",
+      "GSM": "Gsm",
+      "NAME": "İsim",
+      "PERSONAL_GSM": "Kişisel GSM",
+      "STATUS": "Durumu",
+      "TITLE": "Courier",
+      "VEHICLE": "Araç"
+    },
+    "VENDOR": {
+      "GSM": "Gsm",
+      "NAME": "İsim",
+      "PERSONAL_GSM": "Kişisel GSM",
+      "PICKER": "Toplayıcı",
+      "TITLE": "Depo",
+      "TYPE": "Tipi"
+    }
+  },
+  "CART_AMOUNT": "sepet tutarı",
+  "CHANNEL": "Kanal",
+  "CHARGED_AMOUNT": "Ödenen Miktar",
+  "CHECKOUT_AMOUNT": "ödeme Miktar",
+  "CLIENT_FEEDBACK_TABLE": {
+    "CREATED_BY": "Oluşturan",
+    "DATE": "Date",
+    "DISCOUNT": "İskonto",
+    "FEEDBACK": "Şikayet",
+    "FEEDBACK_SOURCE": "Kaynak",
+    "NOTE": "Not",
+    "ORDER": "Sipariş",
+    "STATUS": "Statüs"
+  },
+  "CONFIRM_MESSAGE": "Emin misin",
+  "CUSTOMER_STATUS": {
+    "CANCELED": "Müşteri İptal Etti",
+    "DELIVERED": "Müşteriye Teslim Edildi",
+    "FREE": "Müşteri Boşta",
+    "NONE": "Kullanıcı Durumu Bilgisi Yok",
+    "REACHED": "Müşteriye Ulaştı",
+    "WAITING_ORDER": "Müşteri Sipariş Bekliyor"
+  },
+  "DELIVERY_FEE": "Getirmesi",
+  "DISCOUNT_AMOUNT": "İndirim Tutarı",
+  "DROP_OFF_AT_DOOR": "Kapı",
+  "DURATION": {
+    "DAY": "gün",
+    "HOUR": "saat",
+    "MINUTE": "dk",
+    "SECOND": "sn"
+  },
+  "ERRORS": {
+    "CANCEL_ERROR_MESSAGE": "Sipariş durumu bu işlemi yapmak için uygun değil!",
+    "CANCEL_NOTE": "İptal Notu gereklidir.",
+    "CANCEL_REASON": "İptal Nedeni gerekli",
+    "CANCEL_SHOP": "Lütfen Boş Alanları Doldurunuz.",
+    "CANCEL_SOURCE_ONE_OF": "İptal Kkaynağı Getir ya da Müşteri olmalıdır.",
+    "CANCEL_SOURCE_REQUIRED": "İptal Kaynağı gereklidir."
+  },
+  "FINAL_AMOUNT": "Son Miktar",
+  "FORBIDDEN_MATCH": "Forbidden Match",
+  "FRAUD_ORDER_STATUS": {
+    "FRAUD_ORDER": "Suistimal var",
+    "LEGITIMATE_ORDER": "Problem gözlemlenmedi",
+    "TITLE": "Suistimal var Durumu",
+    "UNDER_REVIEW": "İnceleniyor",
+    "UNDETERMINED": "Kararsız kalındı",
+    "WAITING_FOR_PROCESSING": "İnceleme bekliyor"
+  },
+  "FRESH_ORDER_TAG": "Taze Ürün",
+  "GETIR_MONEY_TEXT": "GetirPara",
+  "GORILLAS": {
+    "ORDER_INFO_TEXT": "Bu sipariş Gorillas uygulaması üzerinden verilmiştir. Sipariş ile ilgili herhangi bir aksiyon alınması için Gorillas Hub'ı üzerinden işlem yapılması gerekmektedir.",
+    "ORDER_INFO_TITLE": "Gorillas Sipariş Bilgi",
+    "REDIRECT_TEXT": "Gorillas Hub’a git",
+    "SALES_TAX_AMOUNT": "Satış vergisi Tutar"
+  },
+  "GROSS_MARGIN": "Brüt Kar",
+  "INTEGRATION": {
+    "GORILLAS": "Gorillas Sipariş",
+    "GRUBHUB": "Grubhub Sipariş",
+    "JET": "Jet Sipariş",
+    "N11": "N11",
+    "UBER": "Uber Sipariş"
+  },
+  "INVOICE_INFO": {
+    "GIB_STATUS": "GİB Durumu",
+    "INVOICE_INFO": "Fatura Bilgisi",
+    "INVOICE_LINK": "Fatura Linki",
+    "INVOICE_NO": "Fatura Numarası",
+    "LOGO_STATUS": "LOGO Durumu",
+    "POS_BANK": "Pos Bankası",
+    "SHOW_INVOICE": "Faturayı Gör"
+  },
+  "JET_ORDER_INFO": "Jet Sipariş Bilgi",
+  "MAP": "Harita",
+  "MODAL": {
+    "CANCEL_ORDER": {
+      "CANCEL_REASON": "İptal Sebebi",
+      "CANCEL_REASON_SOURCE": "İptal Kaynağı",
+      "CANCEL_SOURCE": "İptal Kaynağı",
+      "NOTE": "Not"
+    },
+    "CHANGE_SLOT": {
+      "DESCRIPTION": "Tercih edilen zaman dilimlerini seçin",
+      "PREFERRED_TIME_DESCRIPTION": "Tercih edilen zaman dilimi",
+      "SLOTS_NOT_FOUND": "Kullanılabilir zaman aralığı yok",
+      "TITLE": "Teslimat Süresi Seçenekleri"
+    }
+  },
+  "NAME": "İsim",
+  "NET_REVENUE": "Net Ciro",
+  "ORDER_ACTIONS": {
+    "ACTION": "Aksiyon",
+    "DETAIL": "Detaylar",
+    "TIME": "Saati",
+    "TITLE": "Sipariş Aksiyonları"
+  },
+  "ORDER_DETAIL_JSON": "JSON",
+  "ORDER_DETAIL_NOTE": "Not gerekli",
+  "ORDER_DETAIL_SUPPORT": "Sipariş Detay JSON",
+  "ORDER_FEEDBACK_TABLE": {
+    "DATE": "Date",
+    "DISCOUNT": "İskonto",
+    "FEEDBACK": "Şikayet",
+    "FEEDBACK_SOURCE": "Kaynak",
+    "NOTE": "Not",
+    "ORDER": "Sipariş",
+    "SKT_DATE": "SKT",
+    "STATUS": "Statüs"
+  },
+  "ORDER_ID": "Sipariş ID",
+  "ORDER_NOTES": {
+    "PLACEHOLDER": "Not ekle...",
+    "POST": "Post",
+    "TITLE": "Sipariş Notları"
+  },
+  "PARTIAL_REFUND": {
+    "AMOUNT": "Tutar",
+    "COUNT": "Sayı",
+    "DATE": "Tarihi",
+    "PRODUCT": "Ürün",
+    "TITLE": "Parçalı iade yapıldı"
+  },
+  "PAYMENT_INFO": "Ödeme bilgisi",
+  "PAYMENT_STATUS": {
+    "NONE": "Ödeme Durumu Bilgisi Yok",
+    "NOT_PAID": "Ödenmedi",
+    "ON_DELIVERY_PAYMENT": "Kapıda Ödeme",
+    "PAID": "Ödendi",
+    "PARTIAL_REFUND_SUCCEEDED": "Ürün İadesi Yapıldı",
+    "PAYMENT_ERROR": "Ödeme Hatası",
+    "PENDING_PARTIAL_REFUND": "Ürün İadesi Bekleniyor",
+    "PENDING_PAYMENT": "Ödeme Bekleniyor",
+    "PENDING_REFUND": "İade Bekleniyor",
+    "REFUNDED": "İade Edildi"
+  },
+  "PAYMENT_TYPE": {
+    "CASH_AT_DELIVERY": "Sipariş Tesliminde Nakit",
+    "CREDIT_OR_DEBIT_CARD_AT_DELIVERY": "Sipariş Tesliminde Kart",
+    "ONLINE_BKM": "Online BKM",
+    "ONLINE_CREDIT_CARD": "Online Kredi Kartı"
+  },
+  "PREVIOUS_ORDER": {
+    "NAME": "İsim",
+    "NOTE": "Not",
+    "PRICE": "Fiyat",
+    "QUANTITY": "Miktar",
+    "TITLE": "Sipariş Listesi"
+  },
+  "PRICE": "Tutar",
+  "PRODUCTS": "Ürünler",
+  "QTY": "Miktar",
+  "REFERENCE_ID": "Referans ID",
+  "SALES_TAX": "Satış vergisi",
+  "SERVICE_FEE": "Servis ücreti",
+  "SERVICE_FEE_TOOLTIP_INFO": "Gorillas siparişleri için bu ücret, küçük sipariş ücretini ifade eder",
+  "SLOTTED_ORDER_MESSAGE": "Sipariş teslimatı <strong>{{deliveryDay}}</strong> için <strong>{{deliveryStartTime}}</strong> ile <strong>{{deliveryEndTime}}</strong> arasında planlanıyor",
+  "SLOTTED_ORDER_TAG": "Slotlu Sipariş",
+  "SLOTTED_TIME_TAG": "Slotlu Teslimat",
+  "SUBSCRIPTION_BENEFIT_INFO": {
+    "AMOUNT": "Tutar",
+    "BENEFIT_TITLE": "Kullanılan Faydalar",
+    "PROMO_TITLE": "GetirÖzel Bilgileri",
+    "STATUS": "GetirÖzel",
+    "TITLE": "GetirÖzel Kampanyası"
+  },
+  "TIMELINE": {
+    "ABORT_ORDER": "sepeti boşalttı",
+    "ADMIN_PARTIAL_REFUNDED": "Admin Ürün İadesi Yaptı",
+    "ADMIN_REFUNDED": "Admin İade Etti",
+    "BAGS": "Poşetler",
+    "BASKET": "Sepet",
+    "BASKET_AMOUNT": "Sepet Tutarı",
+    "CANCELED_BY_FULL_NAME": "İptal Eden : ",
+    "CANCELED_ORDER": "Sipariş İptal Edildi",
+    "CANCEL_MESSAGE": "İptal Mesajı: ",
+    "CANCEL_NOTE": "İptal Notu: ",
+    "CANCEL_SOURCE": "İptal Kaynağı: ",
+    "CANCEL_TITLE": "İptal Başlığı: ",
+    "CETA": "CETA",
+    "CHECKOUT_ORDER": "siparişi verdi",
+    "CLIENT_FEEDBACKS": "Müşteri Şikayetleris",
+    "DELIVERY_FEE": "Teslimat Ücreti",
+    "DELIVER_ORDER": "siparişi teslim etti",
+    "DISCOUNTED_PRICE": "Kampanyalı Fiyat",
+    "FIRST_ETA": "İlk TVS",
+    "GETIR_MONEY_CHARGED_AMOUNT": "GetirPara ile Ödenen Tutar",
+    "HANDOVER_ORDER": "Sipariş kuryeye teslim edildi",
+    "LAST_ETA": "Son TVS",
+    "LATEST_TETA_DATE": "Son TETA Tarihi",
+    "ORDER_COMMENT": "Yorum",
+    "ORDER_DATE": "Sipariş Tarihi",
+    "ORDER_FEEDBACKS": "Sipariş Şikayetleri",
+    "ORDER_LATE": "Sipariş Gecikti mi? ",
+    "ORDER_RATE": "Oran: ",
+    "ORDER_STATUS": "Sipariş",
+    "PARTIAL_REFUNDED_ORDER": "Ürün İadesi Yapıldı",
+    "PICKER_ASSIGNED": "Toplayıcı Atandı",
+    "PREPARE_ORDER": "siparişi hazırladı",
+    "RATED_ORDER": "getir deneyimini oyladı",
+    "REACH_LOCATION": "sipariş lokasyonuna ulaştı",
+    "REFUNDED_ORDER": "Sipariş İade Edildi",
+    "REFUND_NOTE": "İade Notu : ",
+    "REFUND_REASON": "İade Sebebi : ",
+    "TETA": "TETA",
+    "TOTAL_CHARGED_AMOUNT": "Müşterinin Ödediği Tutar",
+    "UPDATED_BASKET_AMOUNT": "Güncellenmiş Sepet Tutarı",
+    "VERIFY_ORDER": "siparişi onayladı",
+    "VOLUME": "Hacim",
+    "WATER_CETA": "Müşterinin Kabul Ettiği TVS",
+    "WATER_LATEST_TETA_DATE": "TETA Hesaplanma Tarihi",
+    "WATER_ORDER_LATE": "Sipariş Gecikti mi? ",
+    "WATER_TETA": "Tahmini Teslim Zamanı (TETA)",
+    "WEIGHT": "Ağırlık"
+  },
+  "TIP_AMOUNT": "Bahşiş Tutarı",
+  "TOOLTIP": {
+    "COURIER_CASE_SCAN": "Kurye Ataması Bekleme",
+    "COURIER_VERIFY": "Kurye Onaylama",
+    "DELIVER": "Teslim Etme",
+    "PICKER_VERIFY": "Toplayıcı Onaylama",
+    "PREPARE": "Ürün Hazırlama",
+    "REACH": "Siparişi Ulaştırma",
+    "WAIT_COURIER_ASSIGN": "Kurye Ataması Bekleme",
+    "WAIT_PICKER": "Toplayıcı Bekleme"
+  },
+  "TOTAL_PRICE": "Toplam Tutar",
+  "TOTAL_TIME": "Toplam Süre",
+  "UPDATED_BASKET_AMOUNT": "Güncellenmiş Sepet Tutarı",
+  "VAT": "KDV"
+}

@@ -1,0 +1,26 @@
+{
+  "BEFORE": "Önceki",
+  "DAY": "Gün",
+  "DTS_LETTER": "DTS Harf Notu",
+  "DTS_TOTAL": "DTS Toplam Skor",
+  "FETCH_DATA": "Veri Çek",
+  "FILTER": "Filtrele",
+  "MONTH": "Ay",
+  "NOW": "Şimdiki",
+  "RANK": "Sıralama",
+  "RESET": "Sıfırla",
+  "SELECT_ALL": "Hepsini Seç",
+  "TITLE": "DTS Özet Tablosu",
+  "UPLOAD": {
+    "WARNING": {
+      "NO_FILE": "Dosya yok",
+      "READY_TO_IMPORT": "Yüklemeye hazır",
+      "UNSUPPORTED_FILE_TYPE": "Desteklenmeyen dosya türü"
+    }
+  },
+  "UPLOAD_DTS_LOGS": "DTS Kayıtları Yükle",
+  "UPLOAD_DTS_LOGS_TITLE": "DTS Kayıtları Yükleme",
+  "UPLOAD_PLACEHOLDER": "Yükleme yapmak için buraya veya 'Dosya Seç' metnine tıklayınız ",
+  "WAREHOUSE": "Depo",
+  "WAREHOUSE_TYPE": "Depo Türü"
+}

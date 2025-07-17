@@ -1,0 +1,38 @@
+{
+  "ACTIONS": {
+    "CANCEL": "Cancel",
+    "DISABLE": "Disable",
+    "EDIT": "Edit",
+    "SAVE": "Save"
+  },
+  "COLUMNS": {
+    "ACTIONS": "Actions",
+    "CLIENT": "Client",
+    "END_DATE": "End Date",
+    "STATUS": "Status",
+    "TITLE": "Title",
+    "USED_AMOUNT": "Used Amount",
+    "USED_ORDER_COUNT": "Used Order Count"
+  },
+  "CONFIRM": {
+    "ARE_YOU_SURE_TO_DISABLE": "Are you sure to disable promo?"
+  },
+  "EDIT_CODES": "Edit Codes",
+  "GENERAL_INFO": "General Information",
+  "GO_BACK_TO_ORDER": "Go to Order",
+  "PAGE_TITLE": "Discount Code Detail",
+  "PERSONAL_PROMO_LIST_PAGE_TITLE": "Personal Promo Code Search",
+  "PROMO_FIELDS": {
+    "CLIENT": "Client",
+    "DESCRIPTION": "Description",
+    "DISCOUNT_AMOUNT": "Discount Amount",
+    "DISCOUNT_CODE": "Discount Code",
+    "DISCOUNT_TYPE": "Discount Type",
+    "PRIORITY": "Priority",
+    "STATUS": "Status",
+    "TITLE": "Title",
+    "VALID_FROM": "Valid From",
+    "VALID_UNTIL": "Valid Until"
+  },
+  "THIS_CODE_IS_SOLD": "This code is sold"
+}

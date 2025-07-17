@@ -1,0 +1,28 @@
+{
+    "CONFIRM_CONFIG_TYPE": "Konfigürasyon Türünü Onayla",
+    "CONFIRM_CONFIG_TYPE_RESELECT": "Konfigürasyon türünü yeniden seçmek tüm alanları temizleyecektir. Devam etmek istediğinizden emin misiniz?",
+    "DETAIL": {
+        "CONFIG": "Dinamik Konfigürasyon Detayı",
+        "PAGE_TITLE": "Dinamik Konfigürasyon Detayı"
+    },
+    "LIST": {
+        "CONFIG_RECORDS": "Kayıt Listesi",
+        "CONFIG_SHORT_NAME": "Yapılandırmanın Kısa Adı",
+        "CONFIG_TYPE": "Yapılandırma Türü",
+        "DOMAIN_TYPE": "Servis Türü"
+    },
+    "NEED_TO_CONFIRM": "Alanları düzenlemek için konfigürasyon türünü onaylamanız gerekiyor",
+    "NEW": {
+        "CONFIG": "Yeni Dinamik Konfigürasyon",
+        "PAGE_TITLE": "Yeni Dinamik Konfigürasyon Oluştur"
+    },
+    "RESELECT_CONFIG_TYPE": "Konfigürasyon Türünü Yeniden Seç",
+    "SELECT_CONFIG_TYPE": "Konfigürasyon Türü Seç",
+    "VALIDATION": {
+        "DATE_MIN": "Bu alan en erken yarın veya daha sonrası olabilir",
+        "END_DATE_MIN": "Bitiş tarihi başlangıç tarihine eşit veya ilerisi olabilir",
+        "INTEGER": "Bu alan bir tam sayı olmalıdır, ondalık sayılar kabul edilmez",
+        "OBJECT_ID": "Bu alan bir ObjectId olmalıdır (24 karakter uzunluğunda, onaltılık/hexadecimal formatında, örn: 7b629e659b725f611c74bf2a)",
+        "REQUIRED": "Bu alan zorunludur"
+    }
+}

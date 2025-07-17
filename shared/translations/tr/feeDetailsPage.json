@@ -1,0 +1,89 @@
+{
+  "BULK_UPDATE_LINK_TEXT": "Toplu Güncelleme",
+  "CONFIRM_TEXT": "alan adı için bu değişikliği yapacağınızdan emin misiniz {{domainTypeName}}",
+  "DELIVERY_FEE": {
+    "CONFIG": {
+      "DYNAMIC_SERVICE_FEE_LEVEL": "Dinamik Teslimat Ücreti Seviyesi",
+      "LAYERED_SERVICE_FEE_PEAK": "Katmanlı Teslimat Ücreti - Yoğun Saat",
+      "LAYERED_SERVICE_FEE_REGULAR": "Katmanlı Teslimat Ücreti - Normal Saat ",
+      "TITLE": "Teslimat Ücreti Yapılandırmaları"
+    },
+    "DELIVERY_FEE_SOURCE": "Teslimat Ücreti Yöntemi",
+    "DYNAMIC_DELIVERY_FEE": "Dinamik Teslimat Ücreti",
+    "DYNAMIC_LEVEL": "Dinamik Teslimat Ücreti Seviyesi",
+    "FIXED_DELIVERY_FEE": "Sabit Teslimat Ücreti",
+    "FREE_DELIVERY_FOR_X_ORDER": "X Sipariş için Ücretiz Teslimat",
+    "FREE_DELIVERY_MIN_CHARGED_AMOUNT": "Ücretsiz Teslimat için Alınan Minimum Ücret",
+    "LAYERED_DELIVERY_FEE": "Katmanlı Teslimat Ücreti",
+    "TITLE": "Teslimat Ücreti Toplu Güncelleme",
+    "ZONE": {
+      "LABEL": "Bölge"
+    },
+    "ZONE_BASED_FIXED_DELIVERY_FEE": "Bölge Bazında Sabit Teslimat Ücreti",
+    "ZONE_BASED_LAYERED_DELIVERY_FEE": "Bölge Bazında Katmanlı Teslimat Ücreti"
+  },
+  "ERRORS": {
+    "DOMAIN_TYPE_REQUIRED": "Alan adı türü gereklidir.",
+    "DYNAMIC_FEE_LEVEL_FIVE_REQUIRED": "Dinamik {{feeType}} hizmet ücreti tablosu seviye beş gereklidir.",
+    "DYNAMIC_FEE_LEVEL_FOUR_REQUIRED": "Dinamik {{feeType}} hizmet ücreti tablosu seviye dört gereklidir.",
+    "DYNAMIC_FEE_LEVEL_ONE_REQUIRED": "Dinamik {{feeType}} hizmet ücreti tablosu seviye bir gereklidir.",
+    "DYNAMIC_FEE_LEVEL_THREE_REQUIRED": "Dinamik {{feeType}} hizmet ücreti tablosu seviye üç gereklidir.",
+    "DYNAMIC_FEE_LEVEL_TWO_REQUIRED": "Dinamik {{feeType}} hizmet ücreti tablosu seviye iki gereklidir.",
+    "DYNAMIC_FEE_REQUIRED": "Dinamik {{feeType}} hizmet ücreti tablosu gereklidir.",
+    "FEE_SOURCE_REQUIRED": "{{feeType}} Hizmet ücreti kaynak alanını doldurmanız gerekmektedir.",
+    "FEE_VALUES_NOT_DECREASING": "Fee alanı her seviyede azalmalıdır.",
+    "FIELD_REQUIRED": "Bu alanı doldurmalsın.",
+    "FIRST_ITEM_FEE_SHOULD_BE_GREATER_THAN_0": "İlk girdinin fee alanı 0'dan büyük olmalıdır.",
+    "FIRST_ITEM_MIN_SHOULD_BE_0": "İlk girdinin min alanı 0 olmalıdır.",
+    "FIXED_DELIVERY_FEE_AMOUNT_ZONE_ONE_REQUIRED": "Birinci bölge için sabit teslimat ücreti miktarı gereklidir.",
+    "FIXED_DELIVERY_FEE_AMOUNT_ZONE_THREE_REQUIRED": "Üçüncü bölge için sabit teslimat ücreti miktarı gereklidir.",
+    "FIXED_DELIVERY_FEE_AMOUNT_ZONE_TWO_REQUIRED": "İkinci bölge için sabit teslimat ücreti miktarı gereklidir.",
+    "FIXED_FEE_AMOUNT_REQUIRED": "Sabit {{feeType}} hizmet ücreti miktarı gereklidir.",
+    "INVALID_DELIVERY_FEE_SOURCE": "Teslimat ücreti kaynak alanını doldurmanız gerekmektedir.",
+    "INVALID_DELIVERY_FIXED_AMOUNT": "Sabit teslimat ücreti alanı doldurulmalı.",
+    "INVALID_DYNAMIC_DELIVERY_FEE": "Dinamik teslimat ücreti seviyeleri doldurulmalı",
+    "INVALID_DYNAMIC_SERVICE_FEE": " Dinamik hizmet ücreti seviyeleri doldurulmalı.",
+    "INVALID_LAYERED_DELIVERY_FEE": " Katmanlı teslimat ücreti alanları doldurulmalı.",
+    "INVALID_LAYERED_SERVICE_FEE": "Katmanlı hizmet ücreti alanları doldurulmalı.",
+    "INVALID_MIN_DELIVERY_FEE": "Minimum teslimat ücreti değeri 0 olarak ayarlanmalıdır",
+    "INVALID_MIN_SERVICE_FEE": "Minimum hizmet ücreti değeri 0 olarak ayarlanmalıdır",
+    "INVALID_SERVICE_FEE_SOURCE": "Hizmet ücreti kaynak alanını doldurmanız gerekmektedir",
+    "INVALID_SERVICE_FIXED_AMOUNT": "Sabit hizmet ücreti Alanı doldurulmalı.",
+    "INVALID_ZONE_BASED_FIXED_DELIVERY_FEE": "Tüm bölge seviyeleri için sabit ücretleri doldurmanız gerekir.",
+    "INVALID_ZONE_BASED_LAYERED_DELIVERY_FEE": "Tüm bölge seviyeleri için katmanlı ücretleri doldurmanız gerekir.",
+    "LAST_ITEM_FEE_SHOULD_BE_0": "Son girdinin fee değeri 0 ile olmalıdır.",
+    "LAYERED_FEE_PEAK_REQUIRED": "Katmanlı {{feeType}} hizmet ücreti yoğun saat tablosu gereklidir.",
+    "LAYERED_FEE_REGULAR_REQUIRED": "Katmanlı {{feeType}} hizmet ücreti normal saat tablosu gereklidir.",
+    "LAYERED_FEE_REQUIRED": "{{feeType}} Katmanlı hizmet ücreti tablosu gereklidir.",
+    "MAXIMUM_5_ITEMS": "En fazla 5 girdi girebilirsin.",
+    "MINIMUM_2_ITEMS": "En az 2 girdi girebilirsin.",
+    "MINIMUM_5_ITEMS": "En az 5 girdi girebilirsin.",
+    "MIN_SHOULD_BE_GREATER_THAN_0_EXCEPT_FIRST_ITEM": "İlk girdi dışındaki min alanları 0'dan büyük olmalıdır.",
+    "MIN_VALUES_NOT_INCREASING": "Min alanı her seviyede artmalıdır.",
+    "NO_NEGATIVE_NUMBER": "Negatif bir sayı girmemelisin.",
+    "SECOND_ITEM_MIN_SHOULD_BE_GREATER_THAN_0": "İkinci girdinin min değeri 0'ın üzerinde olmalıdır.",
+    "ZONE_BASED_LAYERED_DELIVERY_FEE_REQUIRED": "Bölge bazında katmanlı teslimat ücreti tablosu gereklidir."
+  },
+  "FEE_TYPE": {
+    "DELIVERY": "Teslimat",
+    "SERVICE": "Hizmet"
+  },
+  "SERVICE_FEE": {
+    "CONFIG": {
+      "DYNAMIC_SERVICE_FEE_LEVEL": "Dinamik Hizmet Ücreti Seviyesi",
+      "LAYERED_SERVICE_FEE_PEAK": "Katmanlı Hizmet Ücreti - Yoğun Saat",
+      "LAYERED_SERVICE_FEE_REGULAR": "Katmanlı Hizmet Ücreti - Normal Saat ",
+      "TITLE": "Hizmet Ücreti Yapılandırmaları"
+    },
+    "DYNAMIC_LEVEL": "Dinamik Hizmet Ücreti Seviyesi",
+    "DYNAMIC_SERVICE_FEE": "Dinamik Hizmet Ücreti",
+    "FIXED_SERVICE_FEE": "Sabit Hizmet Ücreti",
+    "LAYERED_SERVICE_FEE": "Katmanlı Hizmet Ücreti",
+    "SERVICE_FEE_SOURCE": "Hizmet Ücreti Yöntemi",
+    "TITLE": "Hizmet Ücreti Toplu Güncelleme"
+  },
+  "TITLE": "Ücret ayrıntıları",
+  "WAREHOUSE_ID": "Depo Id",
+  "WAREHOUSE_NAME": "Depo Adı",
+  "WAREHOUSE_TYPE": "Depo Türü"
+}

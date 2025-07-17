@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+  admin-panel-frontend:
+    container_name: admin-panel-frontend
+    image: admin-panel-frontend
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    ports:
+      - 8080:8080

@@ -1,0 +1,1 @@
+export const TEST_ID = { EXPENSE_TYPE_SELECT: 'EXPENSE_TYPE_SELECT' };

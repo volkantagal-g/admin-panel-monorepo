@@ -1,0 +1,30 @@
+{
+  "CHARGED_AMOUNT": "ücretli Tutarı",
+  "CHECKOUT_DATE": "Sipariş Tarihi",
+  "CLIENT_ID": "Müşteri ID",
+  "CLIENT_NAME": "Müşteri İsmi",
+  "COURIER": "Kurye",
+  "DOMAIN": "Servis Tipi",
+  "FRAUD_SUSPICION_STATUS": {
+    "100": "İşlenmeyi Bekliyor",
+    "200": "Doğrulanmış Sipariş",
+    "300": "Şüpheli Sipariş",
+    "400": "Bilinmiyor",
+    "500": "İnceleme altında"
+  },
+  "INTERESTED_USER": "İlgilenen",
+  "MARKET_QUEUE_STATUS": {
+    "100": "Girmedi",
+    "200": "Soruldu",
+    "300": "Sırada",
+    "400": "Çıktı"
+  },
+  "PHONE_NUMBER": "Telefon No",
+  "PRODUCT_AMOUNT": "Ürün Tutarı",
+  "PROMO_CODE": "Promosyon kodu",
+  "QUEUE_STATUS": "Kuyruk Durumu",
+  "SUSPICIOUS_STATUS": "şüpheli Durumu",
+  "TITLE": "Şüpheli Siparişler",
+  "WAIT_TIME": "Bekleme Sayacı",
+  "WAREHOUSE": "Depo"
+}

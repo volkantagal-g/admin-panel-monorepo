@@ -1,0 +1,17 @@
+{
+  "ACTION": "Aksiyon",
+  "ACTIVITY": "Aktiflik",
+  "ACTIVITY_ALL": "Hepsi",
+  "ACTIVITY_CLOSED": "Kapalı",
+  "ACTIVITY_OPEN": "Açık",
+  "GET_RUNNER_BY_COMPANY_ID": "Şirket ID'sine göre getir",
+  "GET_RUNNER_BY_SHOPPING_MALL_ID": "AVM ID'sine göre getir",
+  "NAME": "İsim",
+  "NEW_RUNNER": "Yeni Runner",
+  "STATUS_AVAILABLE": "Müsait",
+  "STATUS_BUSY": "Meşgul",
+  "STATUS_INACTIVE": "İnaktif",
+  "STATUS_ON_DELIVERY": "Teslimatta",
+  "TYPE": "Tür",
+  "WAREHOUSE": "Depo"
+}

@@ -1,0 +1,72 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "strict": true,
+    "target": "ESNext",
+    "module": "esnext",
+    "lib": [
+      "ESNext",
+      "DOM",
+      "DOM.Iterable"
+    ],
+    "allowJs": true,
+    "jsx": "react-jsx",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "useUnknownInCatchVariables": true,
+    "noImplicitOverride": true,
+    "isolatedModules": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "baseUrl": "./",
+    "paths": {
+      "@test/*": [
+        "test/*"
+      ],
+      "@app/*": [
+        "app/*"
+      ],
+      "@e2e/*": [
+        "e2e/*"
+      ],
+    },
+    "typeRoots": [
+      "app/types",
+      "node_modules/@types",
+      "app/types/*",
+      "./app/types/*",
+      "**/app/types",
+      "**/app/types/**/*.d.ts"
+    ],
+    "allowImportingTsExtensions": true,
+  },
+  "include": [
+    "app/**/*.ts",
+    "app/**/*.tsx",
+    "test/**/*.ts",
+    "e2e/**/*.ts",
+    "internals/**/*.ts",
+  ],
+  "exclude": [
+    "**/node_modules/*",
+    "**/dist/*",
+    "**/build/*",
+    "**/coverage/*",
+    "**/assets/*",
+    "**/translations/*",
+    "**/public/*",
+    "**/toBeRefactored/*",
+    "**/.git/*",
+    "**/ClientTargeting/redux/prepareParams.js",
+    "**/FranchiseEarnings/List/redux/selectors.js",
+    "**/DailySummary/Global/tableConfigs.js",
+    "**/DailySummary/Country/tableConfigs.js",
+    "**/Employee/Asset/List/printTemplates.js",
+    "**/Employee/constants.js",
+    "**/*.mock.data.js",
+    "**/MarketProduct/Detail/redux/*",
+    "**/MarketProduct/DetailV2/redux/*",
+    "**/ClientTargeting/redux/*"
+  ]
+}

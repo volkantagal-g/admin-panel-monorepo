@@ -1,0 +1,29 @@
+{
+  "ANSWERED_QUESTION": "Question is answered!",
+  "AUDITOR": "Auditor",
+  "AUDIT_DATE": "Audit Date",
+  "AUDIT_TYPE": "Audit Type",
+  "CATEGORY_SCORE": "Category Score",
+  "COLLAPSE_ALL": "Collapse All",
+  "ERROR_TEXT": "It is required to answer the all questions and uploading the images",
+  "EXPAND_ALL": "Expand All",
+  "FILE_UPLOAD_ERROR_TEXT": "You can upload at most 5 images.",
+  "LIST": {
+    "AUDITOR": "Auditor",
+    "AUDIT_DATE": "Audit Date",
+    "AUDIT_FORM_TYPE": "Audit Type",
+    "COMPLETION_DATE": "Completion Date",
+    "SENT_TO_FRANCHISE_DATE": "Sent To Franchise Date"
+  },
+  "NEW_STORE_AUDIT": "New Store Audit",
+  "NEW_STORE_AUDIT_FORM": "New Store Audit Form",
+  "REQUIRED_PHOTO_TOOLTIP": "Photo Required",
+  "ROUND_NUMBER": "Round Number",
+  "SELECT_FILE": "Select File",
+  "SENT_TO_FRANCHISE": "Sent To Franchise",
+  "SHOW_ALL": "Show All",
+  "SHOW_ONLY_HIGHLIGHTED": "Show Only Highlighted Questions",
+  "STORE_AUDIT": "Store Audit",
+  "TOTAL_SCORE": "Total Score",
+  "UPLOAD": "Upload & Save"
+}

@@ -1,0 +1,11 @@
+.dynamic-form-csv-icons {
+  display: flex;
+  align-items: center;
+}
+
+.dynamic-form-csv-icons > * {
+  margin-left: 4px;
+}
+.dynamic-form-csv-icons > button {
+  padding: 2px;
+}

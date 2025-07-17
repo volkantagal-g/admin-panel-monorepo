@@ -1,0 +1,184 @@
+@getir-btn-prefix-cls: ~'ant-btn';
+
+@btn-success-color: #fff;
+@btn-success-bg: @green-6;
+@btn-success-border: @green-6;
+
+.btn-success-link() {
+  .button-variant-other(@success-color, transparent, transparent);
+  box-shadow: none;
+  &:hover,
+  &:focus {
+    .button-color(~`colorPalette('@{success-color}', 5) `; transparent; transparent);
+  }
+  &:active {
+    .button-color(~`colorPalette('@{success-color}', 7) `; transparent; transparent);
+  }
+  .button-disabled(@success-color; transparent; transparent);
+}
+
+.btn-success-text() {
+  .button-variant-other(@success-color, transparent, transparent);
+  box-shadow: none;
+  &:hover,
+  &:focus {
+    .button-color(~`colorPalette('@{success-color}', 5) `; @btn-text-hover-bg; transparent);
+  }
+  &:active {
+    .button-color(~`colorPalette('@{success-color}', 7) `; fadein(@btn-text-hover-bg, 1%); transparent);
+  }
+  .button-disabled(@success-color; transparent; transparent);
+}
+
+.btn-success() {
+  .button-variant-primary(@btn-success-color, @btn-success-bg);
+}
+
+.btn-dashed() {
+  .button-variant-getir(@success-color, @btn-default-bg, @btn-success-border);
+  border-style: dashed;
+}
+
+.@{getir-btn-prefix-cls} {
+  &-success {
+    .btn-success;
+  }
+
+  &-success&-primary {
+    .btn-success;
+  }
+
+  &-success&-link {
+    .btn-success-link;
+  }
+
+  &-success&-text {
+    .btn-success-text;
+  }
+}
+
+.button-variant-getir(@color; @background; @border) {
+  .button-color(@color; @background; @border);
+
+  &:hover,
+  &:focus {
+    .button-color(
+            ~`colorPalette('@{background}', 5) `; @background;
+            ~`colorPalette('@{background}', 5) `
+    );
+  }
+  &:active {
+    .button-color(
+            ~`colorPalette('@{background}', 7) `; @background;
+            ~`colorPalette('@{background}', 7) `
+    );
+  }
+  .button-disabled();
+}
+
+// Warning button
+@btn-warning-color: #000;
+@btn-warning-bg: @warning-color;
+@btn-warning-border: @warning-color;
+
+.btn-warning-link() {
+  .button-variant-other(@warning-color, transparent, transparent);
+  box-shadow: none;
+  &:hover,
+  &:focus {
+    .button-color(~`colorPalette('@{warning-color}', 5) `; transparent; transparent);
+  }
+  &:active {
+    .button-color(~`colorPalette('@{warning-color}', 7) `; transparent; transparent);
+  }
+  .button-disabled(@warning-color; transparent; transparent);
+}
+
+.btn-warning-text() {
+  .button-variant-other(@warning-color, transparent, transparent);
+  box-shadow: none;
+  &:hover,
+  &:focus {
+    .button-color(~`colorPalette('@{warning-color}', 5) `; @btn-text-hover-bg; transparent);
+  }
+  &:active {
+    .button-color(~`colorPalette('@{warning-color}', 7) `; fadein(@btn-text-hover-bg, 1%); transparent);
+  }
+  .button-disabled(@warning-color; transparent; transparent);
+}
+
+.btn-warning() {
+  .button-variant-primary(@btn-warning-color, @btn-warning-bg);
+  text-shadow: none;
+}
+
+.@{getir-btn-prefix-cls} {
+  &-warning {
+    .btn-warning;
+  }
+
+  &-warning&-primary {
+    .btn-warning;
+  }
+
+  &-warning&-link {
+    .btn-warning-link;
+  }
+
+  &-warning&-text {
+    .btn-warning-text;
+  }
+}
+
+// Info button
+@btn-info-color: #fff;
+@btn-info-bg: @blue-6;
+@btn-info-border: @blue-6;
+
+.btn-info-link() {
+  .button-variant-other(@info-color, transparent, transparent);
+  box-shadow: none;
+  &:hover,
+  &:focus {
+    .button-color(~`colorPalette('@{info-color}', 5) `; transparent; transparent);
+  }
+  &:active {
+    .button-color(~`colorPalette('@{info-color}', 7) `; transparent; transparent);
+  }
+  .button-disabled(@info-color; transparent; transparent);
+}
+
+.btn-info-text() {
+  .button-variant-other(@info-color, transparent, transparent);
+  box-shadow: none;
+  &:hover,
+  &:focus {
+    .button-color(~`colorPalette('@{info-color}', 5) `; @btn-text-hover-bg; transparent);
+  }
+  &:active {
+    .button-color(~`colorPalette('@{info-color}', 7) `; fadein(@btn-text-hover-bg, 1%); transparent);
+  }
+  .button-disabled(@info-color; transparent; transparent);
+}
+
+.btn-info() {
+  .button-variant-primary(@btn-info-color, @btn-info-bg);
+}
+
+.@{getir-btn-prefix-cls} {
+  &-info {
+    .btn-info;
+  }
+
+  &-info&-primary {
+    .btn-info;
+  }
+
+  &-info&-link {
+    .btn-info-link;
+  }
+
+  &-info&-text {
+    .btn-info-text;
+  }
+}

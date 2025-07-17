@@ -1,0 +1,12 @@
+{
+  "EMAIL": "Eposta",
+  "GOOGLE_LOGIN": "Google ile Oturum Aç",
+  "GOOGLE_LOGIN_ERRORS": {
+    "SIGNOUT_COMPLETED": "Google oturum açma servisi oturum sonladırma sırasıda hata ile karşılaştı",
+    "SIGNOUT_INIT": "Google oturum açma servisi başlatılamadığından oturum sonlandırma işlemi kabul edilmedi"
+  },
+  "LOGIN": "Giriş",
+  "LOGIN_LINK_HAS_BEEN_SENT": "Giriş linki epostanıza gönderildi",
+  "NO_GETIR_EMAIL": "Getir Email adresim bulunmuyor",
+  "USE_GOOGLE_LOGIN": "Bu mail adresi için yalnızca Google ile giriş yapılmalı"
+}

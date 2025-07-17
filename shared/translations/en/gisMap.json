@@ -1,0 +1,14 @@
+{
+  "BASE_LAYER_NAMES": {
+    "ESRI_SATELLITE": "ESRI Satellite",
+    "GOOGLE_HYBRID": "Google Hybrid",
+    "GOOGLE_ROAD": "Google Street",
+    "GOOGLE_SATELLITE": "Google Satellite",
+    "GOOGLE_STREET": "Google Street",
+    "GOOGLE_TRAFFIC": "Google Traffic",
+    "OSM": "Open Street Map"
+  },
+  "FEATURE_INFO_CONTENT": {
+    "TITLE": "Content Information"
+  }
+}

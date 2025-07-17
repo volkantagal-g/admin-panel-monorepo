@@ -1,0 +1,44 @@
+export const ANNOUNCEMENT_STATUS = {
+  INACTIVE: 1,
+  ACTIVE: 2,
+};
+
+export const PROMO_TARGET = {
+  DEFAULT: 4,
+  LOCALS: 6,
+};
+
+export const PROCESS_STATUS = {
+  CREATED: 1,
+  PRE_PROCESS: 2, // IN PROGRESS
+  READY: 3,
+  IN_PROCESS: 4, // SENDING
+  FINISHED: 5,
+  CANCEL: 6,
+  FAIL: 7,
+};
+
+export const REQUEST_ERROR_REASON = {
+  INVALID_PATH_VARIABLE: 'INVALID_PATH_VARIABLE',
+  ENTITY_NOT_FOUND: 'ENTITY_NOT_FOUND',
+  WRONG_COUNTRY_SELECTION: 'ACCESS_DENIED',
+};
+
+export const DRAFT_TYPES = { CSV: 1 };
+
+export const FILE_UPLOAD_STATE_KEY = { ANNOUNCEMENT_CONTENT_IMAGE: 'announcementContentImage' };
+
+export const DATE_FORMAT = 'YYYY/MM/DD HH:mm';
+
+export const ANNOUNCEMENT_ACTIONS = {
+  DETAIL: 'DETAIL',
+  DUPLICATE: 'DUPLICATE',
+  CANCEL: 'CANCEL',
+};
+
+export const ANNOUNCEMENT_TYPE = {
+  DEFAULT: 0,
+  PROMO_PAGE: 1,
+};
+
+export const WYSIWYG_BODY_PATTERN = /<main.*?>([\s\S]*)<\/main>/;

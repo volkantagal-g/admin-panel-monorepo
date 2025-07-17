@@ -1,0 +1,12 @@
+{
+  "ACRONYM": "Kısaltma",
+  "CALCULATION": "Hesaplama",
+  "CATEGORY": "Kategori",
+  "COLUMN_NAME_IN_CURRENT_SOURCE": "Geçerli Kaynaktaki Sütun Adı",
+  "DATA_SOURCE": "Veri Kaynağı",
+  "DESCRIPTION": "Açıklama",
+  "DOMAIN": "Domain",
+  "KPI_ACRONYM_DICTIONARY": "KPI Kısaltmaları Sözlüğü",
+  "KPI_NAME": "KPI Adı",
+  "NOTE": "Not"
+}

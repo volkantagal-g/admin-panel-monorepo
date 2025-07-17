@@ -1,0 +1,47 @@
+export const mockedUserRoleRequests = [
+  {
+    _id: '633a836ab83a760d14270e0f',
+    status: 'COMPLETED',
+    requestState: 'APPROVED',
+    user: '606c585b8c1c3247441f7f5f',
+    role: {
+      _id: '632997bebbb03be1513eef85',
+      name: 'test-microservice',
+    },
+    requestReason: 'qweqweqweqweqwe',
+    createdAt: '2022-10-03T06:38:34.664Z',
+    updatedAt: '2022-10-04T08:24:04.963Z',
+    responder: '606c585b8c1c3247441f7f5f',
+    responseReason: '',
+  },
+  {
+    _id: '633a86b2e1f80daff8ef0a1a',
+    user: '606c585b8c1c3247441f7f5f',
+    role: {
+      _id: '632997bebbb03be1513eef85',
+      name: 'test-microservice',
+    },
+    requestReason: 'qweqweqweqweqweqweqweqweqwe',
+    status: 'COMPLETED',
+    requestState: 'APPROVED',
+    createdAt: '2022-10-03T06:52:34.274Z',
+    updatedAt: '2022-10-04T08:24:04.963Z',
+    responder: '606c585b8c1c3247441f7f5f',
+    responseReason: '',
+  },
+  {
+    _id: '633a87ca4752355342b3b7c1',
+    user: '606c585b8c1c3247441f7f5f',
+    role: {
+      _id: '632997bebbb03be1513eef85',
+      name: 'test-microservice',
+    },
+    requestReason: 'asdasdasdasdasdasd',
+    status: 'COMPLETED',
+    requestState: 'APPROVED',
+    createdAt: '2022-10-03T06:57:14.493Z',
+    updatedAt: '2022-10-04T08:24:04.963Z',
+    responder: '606c585b8c1c3247441f7f5f',
+    responseReason: 'asdasd',
+  },
+];

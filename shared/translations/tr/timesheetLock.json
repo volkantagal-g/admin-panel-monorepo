@@ -1,0 +1,11 @@
+{
+  "TIMESHEET_ACTION": {
+    "LOCK": "Zaman Çizelgelerini Kilitle",
+    "UNLOCK": "Zaman Çizelgelerinin Kilidini Aç"
+  },
+  "TIMESHEET_ACTION_CONFIRM": {
+    "LOCK": "Seçilen tarih aralığında zaman çizelgelerini kilitlemek istediğinize emin misiniz?",
+    "UNLOCK": "Seçilen tarih aralığında zaman çizelgelerinin kilidini açmak istediğinize emin misiniz?"
+  },
+  "TIMESHEET_ACTION_SUCCESS": "Zaman çizelgeleri güncellendi"
+}

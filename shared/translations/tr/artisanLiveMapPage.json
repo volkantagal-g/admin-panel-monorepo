@@ -1,0 +1,145 @@
+{
+  "BUSY": "Meşgul",
+  "CANCELED": "İptal",
+  "COURIER": "Kurye",
+  "DEDICATED_COURIERS": "Dedike Kuryeler",
+  "DOMAIN_TYPES": {
+    "2": "GY",
+    "6": "GÇ"
+  },
+  "FILTERS": "Filtreler",
+  "FOOD_ORDER": "GY Siparişi",
+  "FOOD_WAREHOUSE": "GY Depo",
+  "FREE": "Müsait",
+  "G10": "G10",
+  "G10&GMORE": "G10&GB",
+  "GMORE": "GB",
+  "HIDE_OVERALL_STATS_TABLE": "Genel İstatistik Tablosunu Gizle",
+  "HIDE_TABLE": "Tabloyu Gizle",
+  "LAST_UPDATE": "Son Durum",
+  "LOCALS": "Çarşı",
+  "LOCALS_AND_FOOD_WAREHOUSE": "GÇ & GY Depo",
+  "LOCALS_ORDER": "GÇ Siparişi",
+  "LOCALS_WAREHOUSE": "GÇ Depo",
+  "MOTO": "Motor",
+  "MOTO_50CC": "Motor (50cc)",
+  "ON_ORDER": "Yolda",
+  "ORDER": "Sipariş",
+  "ORDER_STATS": {
+    "ACTIVE_ORDERS": {
+      "LAST_WEEK": "Aktif Siparişler(GG)",
+      "TODAY": "Aktif Siparişler(Toplam)",
+      "YESTERDAY": "Aktif Siparişler(İG)"
+    },
+    "ERROR": {
+      "LAST_WEEK": "Hata Alan (GG)",
+      "TODAY": "Hata Alan (Toplam)",
+      "YESTERDAY": "Hata Alan (İG)"
+    },
+    "ORDER_COUNT_ALT": {
+      "LAST_WEEK": "Sipariş İG(Geçen Hafta)",
+      "TODAY": "Sipariş İG(Bugün)",
+      "YESTERDAY": "Sipariş İG(Dün)"
+    },
+    "ORDER_COUNT_ALT_RATE": {
+      "LAST_WEEK": "Geçen haftaya kıyasla İG sipariş oranı",
+      "TODAY": "",
+      "YESTERDAY": "Düne kıyasla İG sipariş oranı"
+    },
+    "ORDER_COUNT_GG": {
+      "LAST_WEEK": "Sipariş GG(Geçen Hafta)",
+      "TODAY": "Sipariş GG(Bugün)",
+      "YESTERDAY": "Sipariş GG(Dün)"
+    },
+    "ORDER_COUNT_GG_RATE": {
+      "LAST_WEEK": "Geçen haftaya kıyasla GG sipariş oranı",
+      "TODAY": "",
+      "YESTERDAY": "Düne kıyasla GG sipariş oranı"
+    },
+    "ORDER_DOMAIN_G10": {
+      "LAST_WEEK": "G10 Sipariş(Geçen Hafta)",
+      "TODAY": "G10 Sipariş(Bugün)",
+      "YESTERDAY": "G10 Sipariş(Dün)"
+    },
+    "ORDER_DOMAIN_GB": {
+      "LAST_WEEK": "GB Sipariş(Geçen Hafta)",
+      "TODAY": "GB Sipariş(Bugün)",
+      "YESTERDAY": "GB Sipariş(Dün)"
+    },
+    "ORDER_DOMAIN_GC": {
+      "LAST_WEEK": "GÇ Sipariş(Geçen Hafta)",
+      "TODAY": "GÇ Sipariş(Bugün)",
+      "YESTERDAY": "GÇ Sipariş(Dün)"
+    },
+    "REVENUE_ALT": {
+      "LAST_WEEK": "Ciro İG(Geçen Hafta)",
+      "TODAY": "Ciro İG(Bugün)",
+      "YESTERDAY": "Ciro İG(Dün)"
+    },
+    "REVENUE_ALT_RATE": {
+      "LAST_WEEK": "Geçen haftaya kıyasla İG ciro oranı",
+      "TODAY": "",
+      "YESTERDAY": "Düne kıyasla İG ciro oranı"
+    },
+    "REVENUE_GG": {
+      "LAST_WEEK": "Ciro GG(Geçen Hafta)",
+      "TODAY": "Ciro GG(Bugün)",
+      "YESTERDAY": "Ciro GG(Dün)"
+    },
+    "REVENUE_GG_RATE": {
+      "LAST_WEEK": "Geçen haftaya kıyasla GG ciro oranı",
+      "TODAY": "",
+      "YESTERDAY": "Düne kıyasla GG ciro oranı"
+    },
+    "REVENUE_TOTAL": {
+      "LAST_WEEK": "Ciro Toplam(Geçen Hafta)",
+      "TODAY": "Ciro Toplam(Bugün)",
+      "YESTERDAY": "Ciro Toplam(Dün)"
+    },
+    "REVENUE_TOTAL_RATE": {
+      "LAST_WEEK": "Geçen haftaya kıyasla toplam ciro oranı",
+      "TODAY": "",
+      "YESTERDAY": "Düne kıyasla toplam ciro oranı"
+    }
+  },
+  "PLANNED": "Planlanan",
+  "POOL": "Havuz",
+  "POOL_COURIERS": "Havuz Kuryeler",
+  "QUEUED": "Kuyrukta",
+  "REALIZED": "Gerçekleşen",
+  "RETURN": "İade",
+  "SERVICE_TYPE": "Servis Tipi",
+  "SHOW_ALL_WAREHOUSES": "Tüm Depoları Göster",
+  "SHOW_OVERALL_STATS_TABLE": "Genel İstatistik Tablosunu Göster",
+  "SHOW_TABLE": "Tabloyu Göster",
+  "SHOW_TABLE_HEADERS": "Tablo Başlıklıklarını Göster",
+  "STORE_STATS": {
+    "ACTIVES": {
+      "LONG": "Satışa açık işletme",
+      "SHORT": "SAİ"
+    },
+    "BUSY_ONES": {
+      "LONG": "Yoğuna alınmış İşletmeGetirsin işletme",
+      "SHORT": "YİG"
+    },
+    "COURIER_OPEN_AND_SD": {
+      "LONG": "Kuryesi açık İşletmeGetirsin işletme",
+      "SHORT": "KAİG"
+    },
+    "OPENS": {
+      "LONG": "Şu anda açık işletme",
+      "SHORT": "Aİ"
+    },
+    "OPEN_AND_SD": {
+      "LONG": "Açık İşletmeGetirsin işletme",
+      "SHORT": "AİG"
+    }
+  },
+  "TITLE": "GetirÇarşı Canlı Harita",
+  "TOTAL": "Toplam",
+  "UTILIZATION": "Utilizasyon",
+  "VAN": "Araç",
+  "VEHICLE_TYPE": "Araç Tipi",
+  "VEHICLE_TYPES": "Araç Tipleri",
+  "WAREHOUSE": "Depo"
+}

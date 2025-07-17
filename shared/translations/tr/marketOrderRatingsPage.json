@@ -1,0 +1,14 @@
+{
+  "ADD_TAG": "Etiket Ekle",
+  "CONFIRM_DELETE": "Bu etiketi silmek istediğinizden emin misiniz?",
+  "DELETE_TAG": "Etiketi Sil",
+  "EDIT_RATING_PLACEHOLDER": "Puan metnini düzenle",
+  "EDIT_TAG": "Etiketi Ekle",
+  "ERROR": {
+    "MAX_TAG_NUMBER": "Daha fazla etiket ekleyemezsiniz"
+  },
+  "PAGE_TITLE": "Sipariş Değerlendirmeleri",
+  "REASON": "Sebep",
+  "TITLE": "Başlık",
+  "UPDATE_TAG": "Etiketi Güncelle"
+}

@@ -1,0 +1,39 @@
+{
+  "ACTIONS": {
+    "VISIT_ALERT_CONDITION_DETAIL": "Alarm Detay Sayfası "
+  },
+  "PAGE_TITLE": {
+    "INCIDENT": {
+      "DETAIL": "Gerçekleşen Alarm Detay"
+    }
+  },
+  "PLACEHOLDERS": {
+    "DETAIL": "Detay",
+    "INCIDENT": "Gerçekleşen Alarm"
+  },
+  "TEXT_TEMPLATE": {
+    "ABOVE_BELOW": "Altı/Üstü",
+    "ALERT_CONDITION": "Alarm Koşulu",
+    "CITY": "Şehir",
+    "CLOSED": "Kapalı",
+    "COURIER_DOMAIN_TYPE": "Kurye Servis Türü",
+    "DURATION": "Süre",
+    "FOR": "için",
+    "ISSUE_CREATED_ON": "alarm {0}'da oluşturuldu",
+    "MARKET_ORDER_DOMAIN_TYPE": "Servis Türü",
+    "MARKET_ORDER_STATUS": "Durumu",
+    "OCCURS_AT": "Gerçekleşme Tarihi",
+    "OPERATOR": "Operatör",
+    "ORDER_CHANNEL": "Sipariş Kanalı",
+    "PAYMENT_METHOD": "Ödeme Yöntemi",
+    "PAYMENT_POS_BANK": "Alıcı Banka",
+    "PRIORITY": "Öncelik Türü",
+    "QUERY_RESULT_INFO": "{0} alarmı {2} eşik değerinin {1}",
+    "QUERY_WAS": "sorgusu",
+    "RESULT": "Sonuç",
+    "THRESHOLD": "Eşik",
+    "VALUE": "Değer",
+    "VEHICLE_TYPE": "Araç Tipi",
+    "WAREHOUSE": "Depo"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "LIST": {
+    "FRANCHISE_REQUESTS": "Frachise Requests",
+    "TABLE": {
+      "BIRTHDATE": "Birthdate",
+      "CITIZENSHIP": "Citizenship",
+      "CITY": "Franchise City",
+      "CITY_OF_RESIDENCE": "City Of Residence",
+      "CITY_REGION": "Franchise City Region",
+      "COMMENTS": "Comments",
+      "CREATED_AT": "Application Date",
+      "CURRENT_JOB": "Current Job",
+      "CURRENT_MONTHLY_INCOME": "Currenct Monthly Income",
+      "EDUCATION_LEVEL": "Education Level",
+      "EMAIL": "E-mail",
+      "EXPECTED_MONTHLY_INCOME": "Expected Monthly Income",
+      "FULL_NAME": "Full Name",
+      "GENDER": "Gender",
+      "HAVE_MANAGED_WAREHOUSE_OR_COURIER": "Management Experience",
+      "HOW_DID_YOU_HEAR_ABOUT_US": "How Did You Hear About Us",
+      "INVESMENT_POWER": "Invesment Power",
+      "LASTNAME": "Last Name",
+      "MANAGEMENT": "Management Type",
+      "NAME": "Name",
+      "OTHER_CITIES": "Other Cities",
+      "PERSONAL_CAPITAL_CONTRIBUTION": "Personal Capital Contribution",
+      "PHONE": "Phone",
+      "REGION": "Franchise Town",
+      "REGION_OF_RESIDENCE": "Region Of Residence",
+      "START_BUSINESS_DATE": "Start Business Date",
+      "WHO_WILL_INVESMENT": "Invesment Type",
+      "WHY_GETIR": "Why Getir"
+    }
+  }
+}

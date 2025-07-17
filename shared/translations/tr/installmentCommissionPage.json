@@ -1,0 +1,20 @@
+{
+    "ADD_NEW_COMMISSION": "Komisyon Oranı Ekle",
+    "APPLY_CHANGES": "Uygula",
+    "APPLY_CHANGES_DESCRIPTION": "Yaptığınız değişiklikler müşteriye gösterilecek. Değişiklikleri uygulamaya emin misiniz?",
+    "BUSINESS": "Kurumsal",
+    "CARD_USER_TYPE": "Kart Tipi",
+    "CONFIRM_DELETE": "Silmek isteğine emin misin?",
+    "EXIST_CHANGES_DESCRIPTION": "Eğer filtreleme yaparsanız, yaptığınız değişiklikleri kaybedecekseniz. Değişikliklikleri yapmadan devam etmek istiyor musunuz?",
+    "EXIST_CHANGES_TITLE": "Sayfada değişiklikler var!",
+    "EXIST_DATA": "Eklemeye çalıştığınız Taksit sayısı zaten mevcut. Lütfen ilgili güncellemeyi Taksit ekranında yapınız.",
+    "INSTALLMENT_COUNT": "Taksit Sayısı",
+    "OPERATION": "İşlem",
+    "PERSONAL": "Kişisel",
+    "POS_BANK": "Alıcı Banka",
+    "POS_ICA": "Alıcı Bank",
+    "TRANSACTION_COMMISSION": "İşlem Başı Komisyon Oranı",
+    "added": "Eklendi",
+    "deleted": "Silindi",
+    "updated": "Güncellendi"
+}

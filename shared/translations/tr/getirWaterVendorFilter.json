@@ -1,0 +1,46 @@
+{
+  "FILTER": {
+    "BRAND": {
+      "DESC": "Marka Seçiniz",
+      "TITLE": "Marka"
+    },
+    "CITY": {
+      "DESC": "Şehir Seçiniz",
+      "TITLE": "Şehir"
+    },
+    "FIRM": {
+      "DESC": "Firma Seçiniz",
+      "TITLE": "Firma"
+    },
+    "IS_OPEN": {
+      "CLOSE": "Kapalı",
+      "DESC": "Bayinin açıklık durumunu seçiniz",
+      "OPEN": "Açık",
+      "TITLE": "Açıklık"
+    },
+    "REFRESH": "Yenile",
+    "STATUS": {
+      "DESC": "Durum Seçiniz",
+      "TITLE": "Durum"
+    }
+  },
+  "FILTER_SUMMARY_TABLE": {
+    "NUMBER_OF_CLOSED_VENDORS": "Kapalı",
+    "NUMBER_OF_OPEN_FOR_SALE_VENDORS": "Satışa Açık",
+    "NUMBER_OF_OPEN_VENDORS": "Açık",
+    "NUMBER_OF_VENDORS": "Toplam",
+    "TITLE": "Filtre Özeti"
+  },
+  "VENDOR_INFORMATION_TABLE": {
+    "ACTION": "Aksiyon",
+    "BRAND": "Marka",
+    "CITY": "İl",
+    "DETAIL_BUTTON": "Detay",
+    "FIRM": "Firma",
+    "ID": "Bayi ID",
+    "IS_OPEN": "Açıklık",
+    "NAME": "Adı",
+    "STATUS": "Durum",
+    "TITLE": "Bayi Bilgileri"
+  }
+}

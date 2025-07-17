@@ -1,0 +1,133 @@
+{
+  "ADD_THRESHOLD": "Eşik Değeri Ekle",
+  "ALERT_CONDITION_DESCRIPTION": "Alarm Koşulu Açıklaması",
+  "ALERT_CONDITION_NAME": "Alarm Koşulu İsmi",
+  "ALL_DAY": "Tüm Gün",
+  "BREAKDOWN": "Kırılım",
+  "CARD_HEADERS": {
+    "DEFINE_YOUR_VALUES": "Alarm Koşul Değeri Belirleme",
+    "NOTIFICATIONS": "Bildirim Kanalı",
+    "PERMITTED_ROLES": "Yetkili Rol",
+    "RUNNING_DAY": "Çalıştığı Günler / Saatler",
+    "SET_YOUR_CONDITION_THRESHOLD": "Alarm Eşik Değerleri Belirleme",
+    "UPDATE_YOUR_QUERY": "Sorgu Güncelleme"
+  },
+  "CHANNELS": {
+    "email": "E-posta",
+    "slack": "Slack"
+  },
+  "COMPARISON_PERIOD": "Karşılaştırma Periyodu",
+  "CONSTANT_VALUES": {
+    "ABSTRACT_COURIER_DOMAIN_TYPES": {
+      "1": "G10 Dedike",
+      "2": "G30 Dedike",
+      "3": "GW Dedike",
+      "4": "G10 & G30 Merge"
+    },
+    "ALERT_CONDITION_STATUSES": {
+      "100": "Aktive",
+      "200": "İnaktif"
+    },
+    "ALERT_THRESHOLD_OPERATORS_HUMAN_READABLE": {
+      "1": "Üstünde",
+      "2": "Üstünde veya Eşit",
+      "3": "Altında",
+      "4": "Altında veya Eşit",
+      "5": "Eşit",
+      "6": "Eşit Değil"
+    },
+    "COMPARE_WITH_PAST": {
+      "60": "Önceki Saat",
+      "1440": "Önceki Gün",
+      "10080": "Önceki Hafta",
+      "TITLE": "Geçmiş Dönem ile Karşılaştırma"
+    },
+    "INCIDENT_PRIORITIES": {
+      "1": "Uyarı",
+      "2": "Kritik"
+    },
+    "INCIDENT_STATUSES": {
+      "100": "Açık",
+      "1000": "Kapalı"
+    },
+    "THRESHOLD_FORMATS": {
+      "1": "Sayı",
+      "2": "Yüzde"
+    },
+    "THRESHOLD_OCCURENCES": {
+      "1": "Hemen",
+      "2": "En Az"
+    }
+  },
+  "DAY_OF_WEEKS_TOOLTIP": {
+    "0": "Pazar gününe kopyala",
+    "1": "Pazartesi gününe kopyala",
+    "2": "Salı gününe kopyala",
+    "3": "Çarşamba gününe kopyala",
+    "4": "Perşembe gününe kopyala",
+    "5": "Cuma gününe kopyala",
+    "6": "Cumartesi gününe kopyala"
+  },
+  "DEFINED_HOUR_OPTIONS": {
+    "ALL_WEEK": "Tüm Hafta",
+    "CLEAR_ALL_SELECTED_HOURS": "Tümünü Temizle",
+    "OPERATION_HOURS": "Operasyon Saatleri",
+    "OPERATION_HOURS_TOOLTIP": "Ülke depolarının çalışma saatleri",
+    "TITLE": "Saat Seçimi",
+    "WORKING_HOURS": "Çalışma Saatleri",
+    "WORKING_HOURS_TOOLTIP": "Haftaiçi günleri 09:00 - 19:00 saatleri arası"
+  },
+  "EMAIL_ERROR_MESSAGE": "Yalnızca \"@getir.com\" uzantılı email adresleri kullanılabilir",
+  "EMAIL_NOFITICATIONS": "Mail Bildirimi",
+  "FILTERS": "Filtre",
+  "FORMULA": "Formül",
+  "FORMULA_INFO": "Seçilen bütün değerler arasında dört işlem uygulanabilir",
+  "INVALID_FORMULA": "Geçersiz Formül",
+  "MAX_RECIPIENTS_ERROR_MESSAGE": "En fazla 10 adet alıcı eklenebilir",
+  "METRIC_GROUP": "Metrik Grubu",
+  "PLACEHOLDERS": {
+    "ALERT_CONDITION_NAME": "Alarm Koşulu İsmi",
+    "CREATED_BY": "Oluşturulma Tarihi",
+    "PRIORITY": "Öncelik Türü",
+    "STATUS": "Durum",
+    "TIME_PERIOD": "Alarm X dakikada bir veriyi kontrol edecek"
+  },
+  "RECEIVER_DELETION_WARNING": "Tüm girdiler silinecek. Emin misiniz?",
+  "ROLES": "Roller",
+  "SELECT_HOURS": "Saat Seçimi",
+  "SELECT_YOUR_VALUE": "Değer(ler)",
+  "SLACK_CHANNEL_ERROR_MESSAGE": "Yalnızca “#bat-” ile başlayan kanallar kullanılabilir",
+  "SLACK_FOOTNOTE": "Özel kanallara bildirim gönderebilmek için, kanala “admin@getir.com” kullanıcı Slack üzerinden eklenmelidir.",
+  "SLACK_NOTIFICATIONS": "Slack Bildirimi",
+  "SLACK_WORKSPACES": {
+    "GETIR": "getir",
+    "GETIR_DEV": "getir-dev"
+  },
+  "TABLE": {
+    "COLUMNS": {
+      "ACTION": "Aksiyon",
+      "ALERT_CONDITION_NAME": "Alarm İsmi",
+      "CREATED_AT": "Oluşturulma Tarihi",
+      "PRIORITY": "Öncelik Türü",
+      "STATUS": "Durum"
+    }
+  },
+  "THRESHOLD_PRIORITY": {
+    "critical": "Kritik",
+    "warning": "Uyarı"
+  },
+  "THRESHOLD_TITLE": {
+    "ABOVE_BELOW": "Altı/Üstü",
+    "ESTIMATE": "Estimate",
+    "FORMAT": "Format",
+    "INFO_ICON_TOOLTIP": "Geçmiş döneme göre düşüş takip etmek için negatif değer seçilmesi gerekmektedir.",
+    "OCCURENCES": "Gerçekleşme",
+    "OCCURENCE_COUNT": "Gerçekleşme Adedi",
+    "PRIORITY": "Öncelik Türü",
+    "TIME": "Time",
+    "VALUE": "Değer"
+  },
+  "TIMES": "Kez",
+  "TIME_PERIOD": "Çalışma Zaman Aralığı",
+  "WORKSPACE": "Çalışma Alanı"
+}

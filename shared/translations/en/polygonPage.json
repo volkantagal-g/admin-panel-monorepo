@@ -1,0 +1,57 @@
+{
+  "CONFIRM_MODAL_TITLE": "Are you sure to save changes?",
+  "DUPLICATE_WAREHOUSE": "Duplicate warehouse, features: #{{ firstIndex }} and #{{ secondIndex }}, warehouse id: {{ id }}",
+  "GEO_JSON": "GeoJSON",
+  "GETIR_MARKET_POLYGON_TYPES": {
+    "0": "None",
+    "1": "Subregion",
+    "2": "getItems disabled",
+    "5": "Promo disabled",
+    "7": "Checkout disabled",
+    "9": "Extended Region",
+    "10": "Vehicle type based disabled",
+    "12": "Forbidden Routes",
+    "13": "Gorillas Only",
+    "16": "Gorillas Integrated",
+    "17": "Delivery Slots"
+  },
+  "GETIR_MARKET_SUBREGION_INTERVAL_TYPES": {
+    "1100": "Daytime",
+    "2100": "Early Night",
+    "2200": "Late Night",
+    "2300": "Early Morning"
+  },
+  "GET_EVERY_DAY_DELIVERY_HOURS": "Default daily delivery hours",
+  "INVALID_WAREHOUSE": "Invalid warehouse, features #: {{ index }}, warehouse id: {{ id }}",
+  "IS_ACTIVE": "Is Active",
+  "MARKET_VEHICLE_TYPES": {
+    "100": "On Foot",
+    "200": "Moto",
+    "300": "MiTu",
+    "400": "Van",
+    "500": "E-Bicycle",
+    "600": "E-Moto",
+    "700": "E-Car"
+  },
+  "NO_WAREHOUSE": "Warehouse missing or typo, features #: {{ index }}",
+  "POLYGON_TYPE": "Polygon Type",
+  "POLYGON_TYPES": {
+    "0": "None",
+    "1": "Service area",
+    "2": "getItems disabled",
+    "3": "Van region",
+    "4": "Van point",
+    "5": "Promo disabled",
+    "6": "District",
+    "7": "Checkout disabled",
+    "8": "Subregion",
+    "9": "Extended region",
+    "10": "Night Subregion",
+    "11": "Test Drive"
+  },
+  "SELECT_CITY_TOOLTIP": "You must select a city to see the warehouses on map",
+  "SELECT_EVERY_DAY_DELIVERY_HOURS_DESCRIPTION": "To apply default the daily delivery times and fees, you have to select it and press the Get GeoJSON button",
+  "SELECT_INTERVAL_TYPE": "Subregion Interval Type",
+  "SHOW_WAREHOUSE_MARKERS_ON_MAP": "Show Warehouses on Map",
+  "VEHICLE_TYPE": "Vehicle Type"
+}

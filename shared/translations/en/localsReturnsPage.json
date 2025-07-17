@@ -1,0 +1,53 @@
+{
+  "DATA_TABLE": {
+    "CITY": "City",
+    "COURIER_ID": "Courier Id",
+    "CUSTOMER": "Customer",
+    "DELIVER_DATE": "Deliver Date",
+    "LAST_ACTIVITY_TIME": "L. Act",
+    "LOCALS_AND_SHOP": "Local/\nShop",
+    "ORDER": "Order",
+    "ORDER_APPROVED_CODE": "Order Approved Code",
+    "REQUESTED_DATE": "Requested Date",
+    "RESPOND_THE_REQUEST": "Respond the Request",
+    "RETURN_CODE": "Return Code",
+    "RETURN_REQUEST_AMOUNT": "Return Request Amount",
+    "RETURN_SLOT": "Return Slot",
+    "RETURN_STATUS": "Return Status",
+    "RETURN_TIME": "Sum.",
+    "RETURN_TYPE": "Return Type",
+    "RUNNER_ID": "Runner Id",
+    "SHOP_NAME": "Shop Name",
+    "STATUS": "Status",
+    "STORE": "store",
+    "USER_TYPE": "Return Creater",
+    "WAREHOUSE_NAME": "Warehouse"
+  },
+  "FILTER": {
+    "APPLY": "Apply",
+    "ORDER_APPROVE_CODE": "Order Approve Code",
+    "RETURN_CODE": "Return Code",
+    "RETURN_STATUS": "Return Status",
+    "RETURN_TYPE": "Return Type",
+    "SHOP_NAME": "Shop Name",
+    "STATUS": "Status",
+    "USER_TYPE": "Return Creater"
+  },
+  "MODAL": {
+    "ACCEPT_CONFIRM_TEXT": "If you approve the merchant's return rejection request, the customer's return will be denied. The products are deliver back to the customer. No refund will be made to the customer for products that are rejected.<br /><br /><strong>Do you approve?</strong>",
+    "APPROVED_PRODUCTS": "Approved Products",
+    "CUSTOMER_RETURN_REASON": "Customer Return Reason",
+    "DESC": "Only authorized backoffice people can approve or reject. Return rejection request must be answered within 2 days. Otherwise, the return rejection request is automatically approved. Please check with the merchant and the customer before responding to a return rejection request. If the rejection request is approved, the products deliver back to the customer.",
+    "PRODUCT": "Product",
+    "QUANTITY": "Quantity",
+    "REJECTED_PRODUCTS": "Rejected Products",
+    "REJECT_CONFIRM_TEXT": "If you reject the merchant's return rejection request, the customer's return will be accepted. A deduction is made from the merchant, due to the return.<br /><br /><strong>Do you reject?</strong>",
+    "RETURN_AMOUNT": "Return Amount",
+    "SHOP_RETURN_REASON": "Shop Return Reason",
+    "TABLE_TITLE": "Return Reason",
+    "TITLE": "Return Detail",
+    "TOTAL_RETURN_AMOUNT": "Total Return Reason",
+    "WARNING": "Warning"
+  },
+  "TITLE": "GetirLocals Returns"
+}

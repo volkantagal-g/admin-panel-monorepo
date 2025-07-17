@@ -1,0 +1,20 @@
+{
+  "ADDRESS_INFO": {
+    "ADDRESS": "Adres",
+    "APARTMENT": "Apt No",
+    "CLIENT_NOTE": "Müşteri Notu",
+    "DIRECTIONS": "Adres Tarifi",
+    "DOOR_NO": "Kapı No",
+    "FLOOR": "Kat",
+    "NAME": "İsim"
+  },
+  "BASKET_LOGS": {
+    "TITLE": "Sepet Hareketleri"
+  },
+  "CONFIRM_TEXT": {
+    "CANCEL_BASKET": "Sepeti iptal etmek istediğinizden emin misiniz?"
+  },
+  "JSON_TITLE": "Sepet Detayı JSON",
+  "PAGE_TITLE": "Pazar Sepeti Detayı",
+  "TIME": "Zaman"
+}

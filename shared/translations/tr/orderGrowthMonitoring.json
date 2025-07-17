@@ -1,0 +1,100 @@
+{
+  "ACTIVE_CARBOY": "Aktif Damacana",
+  "ACTIVE_ORDERS": "Aktif Siparişler",
+  "ACTIVE_ORDERS_TOOLTIP": {
+    "1": "Aktif G10 sipariş sayısı",
+    "2": "Aktif GetirYemek sipariş sayısı",
+    "3": "Aktif GetirBüyük sipariş sayısı",
+    "4": "Aktif GetirSu sipariş sayısı",
+    "6": "Aktif GetirÇarşı sipariş sayısı"
+  },
+  "BUSY_WAREHOUSE_TOOLTIP": "İnaktif Depo",
+  "CITIES": "Şehirler",
+  "CITY_COURIER_STATS_TOOLTIP": {
+    "BUSY": "Şehirdeki depolarda bulunan meşgul kuryelerin toplamı",
+    "DIFF": "Gerçekleşen Kurye - Planlanan Kurye",
+    "FREE": "Şehirdeki depolarda bulunan müsait kuryelerin toplamı",
+    "ON_ORDER": "Şehirdeki depolarda bulunan siparişteki kuryelerin toplamı",
+    "PLANNED": "Şehirdeki depoların planlanan kurye sayılarının toplamı",
+    "REALIZED": "Şehirdeki depolarda gerçekleşen toplam kurye sayısı",
+    "RETURNING": "Şehirdeki depolarda dönüyorda olan kuryelerin toplamı"
+  },
+  "CITY_NAME": "Şehir Adı",
+  "COURIER_DIFF": "Fark",
+  "COURIER_DIFF_TOOLTIP": "Gerçekleşen Kurye - Planlanan Kurye",
+  "COURIER_UTILIZATION": "Kurye Utilizasyonu",
+  "DURATION_TOOLTIP": "Siparişten itibaren toplam süresi {{ duration }} dk olan aktif siparişlerin sayısı, (tüm aktif siparişlerin %)",
+  "FREE": "Müsait",
+  "GETIR_WATER_TP": "Hız",
+  "GETIR_WATER_TP_TOOLTIP": "Deponun aktif siparişi / Deponun bugun teslim ettiği toplam sipariş / 4.8",
+  "GROWTH_RATE": "Büyüme Oranı %",
+  "NET_REVENUE": "Net Ciro",
+  "NET_REVENUE_TAX_EXC": "Net Ciro (VH)",
+  "ORDER_DISTRIBUTION": "Sipariş Dağılımı",
+  "ORDER_DISTRIBUTION_TOOLTIP": "Birleşmiş (%), Kuyruk, Hata alan",
+  "ORDER_PER_COURIER": "Sipariş/Kurye Adedi",
+  "ORDER_PER_COURIER_TOOLTIP": "Sipariş Adedi/ Gerçekleşen Kurye Adedi",
+  "PAGE_TITLE": "Sipariş Büyüme Takip",
+  "PLANNED": "Planlanan",
+  "REALIZED": "Gerçekleşen",
+  "REFRESH_TIMER": "Yenileme Zamanlayıcı",
+  "REFRESH_TIME_OPTIONS": {
+    "30000": "30s",
+    "60000": "1dk",
+    "120000": "2dk",
+    "300000": "5dk"
+  },
+  "REFRESH_TIME_TOOLTIP": "Yenilenme Süresi",
+  "RESET": "Sıfırla",
+  "RETURNING": "Dönüyor",
+  "SEARCH": "Ara",
+  "SEARCH_CITY_NAME": "Şehir Ara",
+  "SEARCH_WAREHOUSE_NAME": "Depo Ara",
+  "TITLE": "Canlı Takip",
+  "TODAY_VS_LAST_WEEK": "Bugün vs Geçen Hafta",
+  "TODAY_VS_YESTERDAY": "Bugün vs Dün",
+  "TOTAL": "Toplam",
+  "TOTAL_CARBOY": "Toplam Damacana",
+  "TOTAL_ORDERS": "Toplam Siparişler",
+  "TOTAL_ORDERS_TOOLTIP": {
+    "1": "00:00 itibari ile şehirdeki toplam G10 sipariş sayısı",
+    "2": "00:00 itibari ile şehirdeki toplam GetirYemek sipariş sayısı",
+    "3": "00:00 itibari ile şehirdeki toplam GetirBüyük sipariş sayısı",
+    "4": "00:00 itibari ile şehirdeki toplam GetirSu sipariş sayısı",
+    "6": "00:00 itibari ile şehirdeki toplam GetirÇarşı sipariş sayısı"
+  },
+  "TOTAL_REVENUE_TOOLTIP": "Tüm hizmetlerin bugünkü vergisiz net cirosu (düne göre değişim %, geçen haftaya göre değişim %)",
+  "TOTAL_UTILIZATION_TOOLTIP": "Şehirdeki tüm depoların toplam utilizasyonu",
+  "TP_TOOLTIP": "Kurye başına aktif sipariş adedi / 4.8",
+  "UTILIZATION": "Utilizasyon",
+  "UTILIZATION_TOOLTIP": {
+    "1": "G10’u servis tipi olarak içeren depoların utilizasyonu",
+    "2": "GetirYemek’i servis tipi olarak içeren depoların utilizasyonu",
+    "3": "GetirBüyük’ü servis tipi olarak içeren depoların utilizasyonu",
+    "4": "GetirSu’yu servis tipi olarak içeren depoların utilizasyonu",
+    "6": "GetirÇarşı’yı servis tipi olarak içeren depoların utilizasyonu"
+  },
+  "WAREHOUSE_ACTIVE_ORDERS_TOOLTIP": {
+    "1": "Aktif G10 sipariş sayısı",
+    "2": "Aktif GetirYemek sipariş sayısı",
+    "3": "Aktif GetirBüyük sipariş sayısı",
+    "4": "Aktif GetirSu sipariş sayısı",
+    "6": "Aktif GetirÇarşı sipariş sayısı"
+  },
+  "WAREHOUSE_COURIER_STATS_TOOLTIP": {
+    "BUSY": "Deponun meşgul kuryelerinin toplamı",
+    "FREE": "Deponun müsait kuryelerinin toplamı",
+    "ON_ORDER": "Deponun siparişteki kuryelerinin toplamı",
+    "PLANNED": "Deponun planlanan kurye sayılarının toplamı",
+    "REALIZED": "Deponun gerçekleşen toplam kurye sayısı",
+    "RETURNING": "Deponun dönüyor kurye sayısı"
+  },
+  "WAREHOUSE_TOTAL_ORDERS_TOOLTIP": {
+    "1": "00:00 itibari ile depodaki toplam G10 sipariş sayısı",
+    "2": "00:00 itibari ile depodaki toplam GetirYemek sipariş sayısı",
+    "3": "00:00 itibari ile depodaki toplam GetirBüyük sipariş sayısı",
+    "4": "00:00 itibari ile depodaki toplam GetirSu sipariş sayısı",
+    "6": "00:00 itibari ile depodaki toplam GetirÇarşı sipariş sayısı"
+  },
+  "WAREHOUSE_TOTAL_REVENUE_TOOLTIP": "Tüm hizmetlerin bugünkü vergisiz net cirosu"
+}

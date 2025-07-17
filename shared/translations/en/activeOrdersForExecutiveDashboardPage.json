@@ -1,0 +1,34 @@
+{
+  "ACTIVE_ORDERS": "Active Orders",
+  "ADDRESS_TYPE": "Address Type",
+  "AVG_BASKET": "Avg. Basket",
+  "AVG_DISCOUNT": "Avg. Discount",
+  "BASKET_COUNT": "Basket Count",
+  "CHART_FILTERS": "Chart Filters",
+  "DELIVERY_TYPES": {
+    "ON_DEMAND": "On-Demand",
+    "SCHEDULED": "Scheduled"
+  },
+  "MARKET_QUEUE_STATUS": {
+    "100": "Uninvolved",
+    "200": "Asked",
+    "300": "Enqueued",
+    "400": "Dequeued"
+  },
+  "ORDER_COUNT": "Order Count",
+  "ORGANIC": "Organik",
+  "ORGANIC_ONLY": "Organic Only",
+  "PAYMENT_TYPE": "Payment Type",
+  "PROMO_CODE": "Promo Code",
+  "PROMO_DIST": "Promo Distribution",
+  "PROMO_FINANCED": "Total Discount",
+  "PROMO_OBJECTIVE_TYPE": "Promo Type",
+  "PROMO_ONLY": "Promo Only",
+  "QUEUE_STATUS": "Queue Status",
+  "RESERVED_NOT_INCLUDED_TOOLTIP": "Orders at “Reserved” status are not included.",
+  "SCHEDULED_ONLY": "Scheduled Only",
+  "SUPPLIER": "Supplier",
+  "THIRD_PART": "Third Party",
+  "TOTAL_DISCOUNT": "Total Discount",
+  "WAREHOUSE_COUNT": "Warehouse Count"
+}

@@ -1,0 +1,46 @@
+{
+  "FILTER": {
+    "BRAND": {
+      "DESC": "Select Brand",
+      "TITLE": "Brand"
+    },
+    "CITY": {
+      "DESC": "Select City",
+      "TITLE": "City"
+    },
+    "FIRM": {
+      "DESC": "Select Firm",
+      "TITLE": "Firm"
+    },
+    "IS_OPEN": {
+      "CLOSE": "Closed",
+      "DESC": "Select If Vendor Is Open",
+      "OPEN": "Open",
+      "TITLE": "IsOpen"
+    },
+    "REFRESH": "Refresh",
+    "STATUS": {
+      "DESC": "Select Status",
+      "TITLE": "Status"
+    }
+  },
+  "FILTER_SUMMARY_TABLE": {
+    "NUMBER_OF_CLOSED_VENDORS": "# of Vendors those isOpen is FALSE",
+    "NUMBER_OF_OPEN_FOR_SALE_VENDORS": "# of Vendors those status are OpenForSale",
+    "NUMBER_OF_OPEN_VENDORS": "# of Vendors those isOpen is TRUE",
+    "NUMBER_OF_VENDORS": "# of Vendors",
+    "TITLE": "Filter Summary"
+  },
+  "VENDOR_INFORMATION_TABLE": {
+    "ACTION": "Action",
+    "BRAND": "Brand",
+    "CITY": "City",
+    "DETAIL_BUTTON": "Detail",
+    "FIRM": "Firm",
+    "ID": "ID",
+    "IS_OPEN": "IsOpen",
+    "NAME": "Name",
+    "STATUS": "Status",
+    "TITLE": "Vendor Information"
+  }
+}

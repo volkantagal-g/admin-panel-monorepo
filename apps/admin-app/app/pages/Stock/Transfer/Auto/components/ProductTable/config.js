@@ -1,0 +1,231 @@
+import { Checkbox, DatePicker, Tooltip } from 'antd';
+import moment from 'moment';
+
+import { getLangKey } from '@shared/i18n';
+import AntInputNumber from '@shared/components/UI/AntInputNumber';
+
+const traPrefix = 'stockTransferAuto:';
+
+const { RangePicker } = DatePicker;
+
+export const generateColumns = (t, wrappedProducts, setWrappedProducts) => {
+  const handleCheckboxChange = (e, record, fieldName) => {
+    const updatedProducts = wrappedProducts.map(wrappedProduct => {
+      if (wrappedProduct._id === record._id) {
+        return {
+          ...wrappedProduct,
+          [fieldName]: e.target.checked,
+        };
+      }
+
+      return wrappedProduct;
+    });
+
+    setWrappedProducts(updatedProducts);
+  };
+
+  const handleInputNumberFieldChange = (value, record, fieldName) => {
+    const updatedProducts = wrappedProducts.map(wrappedProduct => {
+      if (wrappedProduct._id === record._id) {
+        return {
+          ...wrappedProduct,
+          [fieldName]: value,
+        };
+      }
+
+      return wrappedProduct;
+    });
+
+    setWrappedProducts(updatedProducts);
+  };
+
+  const handleDatePickerChange = (value, record, fieldName, isRange = false) => {
+    const updatedProducts = wrappedProducts.map(wrappedProduct => {
+      if (wrappedProduct._id === record._id) {
+        return {
+          ...wrappedProduct,
+          [fieldName]: isRange ? {
+            startDate: moment(value[0]).startOf('day').format(),
+            endDate: moment(value[1]).endOf('day').format(),
+          } : moment(value),
+        };
+      }
+
+      return wrappedProduct;
+    });
+
+    setWrappedProducts(updatedProducts);
+  };
+
+  const columns = [
+    {
+      title: t(`${traPrefix}PRODUCT`),
+      dataIndex: 'fullName',
+      key: 'fullName',
+      ellipsis: { showTitle: false },
+      render: fullName => (
+        <Tooltip placement="topLeft" title={fullName[getLangKey()]}>
+          {fullName[getLangKey()]}
+        </Tooltip>
+      ),
+      width: 180,
+    },
+    {
+      title: t(`${traPrefix}BARCODE`),
+      dataIndex: 'barcodes',
+      key: 'barcodes',
+      width: 150,
+      render: (barcodes = []) => {
+        return barcodes.join(',');
+      },
+    },
+    {
+      title: t(`${traPrefix}PARAM_ENABLED`),
+      dataIndex: 'itemParamEnabled',
+      key: 'itemParamEnabled',
+      render: (_, record) => {
+        return (
+          <Checkbox
+            checked={record?.itemParamEnabled}
+            data-testid="itemParamEnabled"
+            onChange={e => handleCheckboxChange(e, record, 'itemParamEnabled')}
+          />
+        );
+      },
+      align: 'center',
+      width: 50,
+    },
+    {
+      title: t(`${traPrefix}DEMAND_RANGE`),
+      dataIndex: 'demandRange',
+      key: 'demandRange',
+      width: 150,
+      render: (_, record) => {
+        const element = wrappedProducts.find(wrappedProduct => wrappedProduct._id === record._id);
+        return element.itemParamEnabled ? (
+          <RangePicker
+            allowClear={false}
+            defaultValue={[record.demandDates.startDate, record.demandDates.endDate]}
+            onChange={e => handleDatePickerChange(e, record, 'demandDates', true)}
+            data-testid="demandRange"
+          />
+        ) : null;
+      },
+      align: 'center',
+    },
+    {
+      title: t(`${traPrefix}STORE_TRANSFER_DAY`),
+      dataIndex: 'storeTransferDay',
+      key: 'storeTransferDay',
+      render: (_, record) => {
+        const element = wrappedProducts.find(wrappedProduct => wrappedProduct._id === record._id);
+        return element.itemParamEnabled ? (
+          <AntInputNumber
+            className="w-100"
+            defaultValue={record.mainStockDay}
+            onChange={e => handleInputNumberFieldChange(e, record, 'mainStockDay')}
+            data-testid="storeTransferDay"
+          />
+        )
+          : null;
+      },
+      width: 60,
+    },
+    {
+      title: t(`${traPrefix}MAXIMUM_STOCK_DAY`),
+      dataIndex: 'maxStockDay',
+      key: 'maxStockDay',
+      render: (_, record) => {
+        const element = wrappedProducts.find(wrappedProduct => wrappedProduct._id === record._id);
+        return element.itemParamEnabled ? (
+          <AntInputNumber
+            className="w-100"
+            defaultValue={record.mainLeadDay}
+            onChange={e => handleInputNumberFieldChange(e, record, 'mainLeadDay')}
+          />
+        ) : null;
+      },
+      width: 60,
+    },
+    {
+      title: t(`${traPrefix}MAX_COLI_COUNT_EXIST`),
+      dataIndex: 'maxColiCountExist',
+      key: 'maxColiCountExist',
+      align: 'center',
+      render: (_, record) => {
+        const element = wrappedProducts.find(wrappedProduct => wrappedProduct._id === record._id);
+        return element.itemParamEnabled ? (
+          <Checkbox defaultValue={record.maxColiBool} onChange={e => handleCheckboxChange(e, record, 'maxColiBool')} />
+        ) : null;
+      },
+      width: 50,
+    },
+    {
+      title: t(`${traPrefix}MAX_BOX_COUNT`),
+      dataIndex: 'maxBoxCount',
+      key: 'maxBoxCount',
+      render: (_, record) => {
+        const element = wrappedProducts.find(wrappedProduct => wrappedProduct._id === record._id);
+        return element.itemParamEnabled ? (
+          <AntInputNumber
+            className="w-100"
+            defaultValue={record.maxColiCount}
+            onChange={e => handleInputNumberFieldChange(e, record, 'maxColiCount')}
+          />
+        ) : null;
+      },
+      width: 60,
+    },
+    {
+      title: t(`${traPrefix}PAST_PO_DAY`),
+      dataIndex: 'stockOrderDay',
+      key: 'stockOrderDay',
+      render: (_, record) => {
+        const element = wrappedProducts.find(wrappedProduct => wrappedProduct._id === record._id);
+        return element.itemParamEnabled ? (
+          <DatePicker
+            allowClear={false}
+            defaultValue={record.activeStockOrderDate}
+            onChange={e => handleDatePickerChange(e, record, 'activeStockOrderDate')}
+            data-testid="stockOrderDay"
+          />
+        ) : null;
+      },
+      width: 90,
+    },
+    {
+      title: t(`${traPrefix}PAST_ST_DAY`),
+      dataIndex: 'stockTransferDay',
+      key: 'stockTransferDay',
+      render: (_, record) => {
+        const element = wrappedProducts.find(wrappedProduct => wrappedProduct._id === record._id);
+        return element.itemParamEnabled ? (
+          <DatePicker
+            allowClear={false}
+            defaultValue={record.activeStockTransferDate}
+            onChange={e => handleDatePickerChange(e, record, 'activeStockTransferDate')}
+          />
+        ) : null;
+      },
+      width: 90,
+    },
+    {
+      title: t(`${traPrefix}GROWTH_RATE`),
+      dataIndex: 'growRate',
+      key: 'growRate',
+      render: (_, record) => {
+        const element = wrappedProducts.find(wrappedProduct => wrappedProduct._id === record._id);
+        return element.itemParamEnabled ? (
+          <AntInputNumber
+            className="w-100"
+            defaultValue={record.growRate}
+            onChange={e => handleInputNumberFieldChange(e, record, 'growRate')}
+          />
+        ) : null;
+      },
+      width: 90,
+    },
+  ];
+
+  return columns;
+};

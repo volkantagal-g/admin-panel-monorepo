@@ -1,0 +1,238 @@
+{
+  "ACTIONS": "Actions",
+  "ACTIVE_DEVICE": "Active",
+  "ADD_CLIENT_FEEDBACK": "Add Client Feedback/Discount",
+  "AMOUNT": "Amount",
+  "BLOCKED_DEVICE": "Blocked",
+  "BLOCK_DEVICE": "Block Device",
+  "CLIENT": "Client",
+  "CLIENT_META": {
+    "CONTACT": "Contact",
+    "FRAUD_SCORE": "Fraud Score",
+    "FRAUD_SEGMENT": "Promotion Usage",
+    "FRAUD_SEGMENT_TITLES": {
+      "ABUSER": "abuser",
+      "FRAUDSTER": "fraudster",
+      "ORGANIC": "organic",
+      "SUSPICIOUS": "suspicious"
+    },
+    "GETIRBITAKSI": "GetirBiTaksi",
+    "GSM": "GSM",
+    "MARKETING_COMMUNICATIONS": {
+      "EMAIL_COMMUNICATIONS": "Email Communication",
+      "NTF_COMMUNICATIONS": "Notification Communication",
+      "OPTED_IN": "Opted In",
+      "OPTED_OUT": "Opted Out",
+      "PHONE_COMMUNICATIONS": "Phone Communication",
+      "SMS_COMMUNICATIONS": "SMS Communication"
+    },
+    "NOTE": {
+      "ADD": "Add a note",
+      "EDIT": "Edit note",
+      "MESSAGE": "Message",
+      "POST": "Post",
+      "UPDATE": "Update note"
+    },
+    "PAYMENT": "Payment",
+    "SIGNUP_DATE": "Signup Date"
+  },
+  "CONFIRM_TEXT": {
+    "CLOSE_ACCOUNT": "Are you sure to CLOSE client account?",
+    "DELETE_ACCOUNT": "Are you sure to ANONYMISE client account?",
+    "REOPEN_ACCOUNT": "Are you sure to REOPEN client account?"
+  },
+  "COUNTRY_SELECTION": {
+    "NO_DATA_MESSAGE": "This client has no data in the current selected country. Kindly select one of these countries the client has data.",
+    "SELECT_COUNTRY": "Select Country"
+  },
+  "DETAIL": "Detail",
+  "DEVICE": {
+    "TABLE": {
+      "COLUMNS": {
+        "ACTIONS": "Actions",
+        "MODEL": "Model",
+        "STATUS": "Status",
+        "USERS": "Users"
+      }
+    },
+    "TITLE": "Devices"
+  },
+  "DISCOUNTS_TABLE": {
+    "TITLE": "Discounts"
+  },
+  "DISCOUNT_TITLE": "Title",
+  "FEEDBACKS": {
+    "MODAL": {
+      "ADD_CLIENT_FEEDBACK": "Add Client Feedback/Discount",
+      "AMOUNT": "Amount",
+      "DELIVERY_FEE": "Delivery fee",
+      "DISCOUNT": "Discount",
+      "DO_NOT_APPLY_MINIMUM_BASKET_SIZE": "Do not apply min. basket size",
+      "DO_NOT_CHARGE_DELIVERY_FEE": "Do not charge delivery fee",
+      "EXPIRE": "Expire",
+      "INTERESTED_USER": "Interested User",
+      "NOTE": "Note",
+      "PARTIAL": "Partial",
+      "RESOLVED_USER": "Resolved User",
+      "RESOLVE_NOTE": "Resolve Note",
+      "TITLE": "Title",
+      "UPDATE_CLIENT_FEEDBACK": "Update Client Feedback"
+    },
+    "TABLE": {
+      "COLUMNS": {
+        "ACTION": "Action",
+        "DATE": "Date",
+        "DISCOUNT": "Discount",
+        "FEEDBACK": "Feedback",
+        "NOTE": "Note",
+        "ORDER": "Order",
+        "SOURCE": "Source",
+        "STATUS": "Status"
+      }
+    }
+  },
+  "FINANCE_TABLE": {
+    "CHECKOUT_DATE": "Checkout Date",
+    "STATUS": "Status",
+    "TITLE": "Finance Orders",
+    "VENDOR": "Vendor"
+  },
+  "FIRST_LOCATION": "First Location",
+  "FOOD_TABLE": {
+    "CHECKOUT_DATE": "Checkout Date",
+    "COURIER": "Courier",
+    "RESTAURANT": "Restaurant",
+    "TITLE": "Food Orders"
+  },
+  "FORBIDDEN_MATCHES": {
+    "TABLE": {
+      "COLUMNS": {
+        "ACTIVENESS": "Activeness",
+        "COURIER": "Courier",
+        "CREATED_BY": "Created by",
+        "DATE": "Date",
+        "DESCRIPTION": "Description"
+      }
+    }
+  },
+  "GETIR_BI_TAKSI_TABLE": {
+    "TITLE": "BiTaksi Orders",
+    "TRIP_DATE": "Trip Date"
+  },
+  "GETIR_FOOD_TABLE": {
+    "TABLE": {
+      "COLUMNS": {
+        "DATE": "Date",
+        "DISCOUNT_CODE": "Discount Code",
+        "DISCOUNT_RATE": "Discount Rate",
+        "RESTAURANT_NAME": "Restaurant",
+        "STATUS": "Status",
+        "TIME": "Time"
+      }
+    },
+    "TITLE": "GetirFood Table"
+  },
+  "GETIR_JOBS": {
+    "ACTIVE": "Active",
+    "CLOSED": "Closed",
+    "CONFIRM_DESCRIPTION": "All GetirJobs data will be deleted and this action can not be undone.",
+    "CONFIRM_TITLE": "Are you sure to 'CLOSE' this user’s GetirJobs account?",
+    "DELETED_BY": "Deleted By",
+    "DELETE_BUTTON": "Close GetirJobs Account",
+    "DELETE_TIP": "Non GetirJobs or Closed Account",
+    "TITLE": "GetirJobs"
+  },
+  "INVOICE": {
+    "FETCH": "Fetch",
+    "TITLE": "Invoices"
+  },
+  "LIST": "List",
+  "LOADING": "Loading",
+  "LOCALS_TABLE": {
+    "CHECKOUT_DATE": "Checkout Date",
+    "STORE": "Store",
+    "TITLE": "Locals Orders"
+  },
+  "LOGOUT_ALL": "Logout All",
+  "LOYALTY": {
+    "IS_GIFT_PROMOTION_DEFINED": "Loyalty gift defined:",
+    "IS_GIFT_PROMOTION_USED": "Loyalty gift used:",
+    "LOYALTY_TYPE": "Loyalty Type",
+    "NO_ORDER_MESSAGE": "There is no order.",
+    "STAMP": "Stamp",
+    "TITLE": "Loyalty Details",
+    "VIRTUAL_STAMP_MESSAGE": "One stamp from Getir Food!"
+  },
+  "MARKET_ORDER_TABLE": {
+    "CHECKOUT_DATE": "Checkout Date",
+    "ERRORS": "Errors",
+    "PROMO": "Promo",
+    "TITLE": "New Getir10, GetirMore, GetirWater Order History"
+  },
+  "OTP": {
+    "MODAL": {
+      "CHECK_CODE": "Check Code",
+      "CODE": "Code",
+      "CODE_NOT_VALID": "The code that you entered is not valid.",
+      "ENTER_CODE": "Please enter your client's code here",
+      "SEND_CODE": "Send Code",
+      "SEND_CODE_MESSAGE": "You do not have an active chat or active call, in order to access this client data, an SMS approval needs to be sent to the client. Click send if you approve.",
+      "TITLE": "OTP"
+    }
+  },
+  "PRICE": "Price",
+  "PROMO": {
+    "ELIGIBLE_PROMOS": "Eligible Promos",
+    "LOAD": "Load",
+    "PROMO": "Promo",
+    "SHOWN_PROMOS": "Shown Promos (Last 3 days)",
+    "TITLE": "Promos",
+    "USED_PROMOS": "Used Promos"
+  },
+  "REFRESH": "Refresh",
+  "RESET": "Reset",
+  "STATUS": "Status",
+  "SUBSCRIPTIONS_TABLE": {
+    "COLUMNS": {
+      "END_DATE": "End Date",
+      "NEXT_RENEW_DATE": "Next Renew Date",
+      "PAYMENT_METHOD": "Payment Method",
+      "PRICE": "Next Renewal Price",
+      "START_DATE": "Start Date",
+      "STATUS": "Status",
+      "SUBSCRIPTION": "Subscription",
+      "TRANSACTIONS": "Transactions",
+      "TYPE": "Type"
+    },
+    "TITLE": "Subscription",
+    "TRANSACTIONS": {
+      "COLUMNS": {
+        "AMOUNT": "Amount",
+        "CREDIT_CARD_NO": "Credit Card No",
+        "PAYMENT_DATE": "Payment Date",
+        "PAYMENT_METHOD": "Payment Method",
+        "SUCCEEDED": "Succeeded",
+        "TYPE": "Type"
+      },
+      "TITLE": "Transactions"
+    }
+  },
+  "TITLE": "Client Detail",
+  "TOTAL_PRICE": "Total Price",
+  "UNBLOCK_DEVICE": "Unblock Device",
+  "UPDATE_CLIENT_FEEDBACK": "Update Client Feedback",
+  "WARNING": {
+    "OLD_VERSION_GETIR_ORDER": "The detail page cannot be shown as it's an order for an old Getir version"
+  },
+  "WATER_MARKETPLACE": {
+    "TABLE": {
+      "COLUMNS": {
+        "CHECKOUT_DATE": "Checkout Date",
+        "FRANCHISE": "Water Franchise",
+        "PRICE": "Price",
+        "STATUS": "Status"
+      }
+    },
+    "TITLE": "GetirWater Marketplace"
+  }
+}

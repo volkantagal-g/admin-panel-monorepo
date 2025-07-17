@@ -1,0 +1,12 @@
+{
+  "EMAIL": "Email",
+  "GOOGLE_LOGIN": "Sign in with Google",
+  "GOOGLE_LOGIN_ERRORS": {
+    "SIGNOUT_COMPLETED": "Sign out is failed when Google Sign-In service is not successfully completed",
+    "SIGNOUT_INIT": "Sign out is rejected when Google Sign-In service is not initialized"
+  },
+  "LOGIN": "Log in",
+  "LOGIN_LINK_HAS_BEEN_SENT": "Login link has been sent to your email",
+  "NO_GETIR_EMAIL": "I do not have a Getir email",
+  "USE_GOOGLE_LOGIN": "You must use Google Sign-In for this email address"
+}

@@ -1,0 +1,12 @@
+{
+  "PAGE_TITLE": {
+    "INCIDENT": {
+      "LIST": "Gerçekleşen Alarmlar"
+    }
+  },
+  "TABLE": {
+    "COLUMNS": {
+      "DURATION": "Süre"
+    }
+  }
+}

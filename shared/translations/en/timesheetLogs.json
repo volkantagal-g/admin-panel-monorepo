@@ -1,0 +1,89 @@
+{
+  "EMPLOYEE_TYPE": {
+    "1": "Courier",
+    "2": "Picker"
+  },
+  "FILTER": {
+    "EMPLOYEE": "Employee",
+    "TITLE": "Filter"
+  },
+  "TABLE": {
+    "HEADER": {
+      "ACTION": "Action",
+      "DETAILS": "Details",
+      "EMPLOYEE_TYPE": "Employee Type",
+      "USERNAME": "Username",
+      "WHAT": "What",
+      "WHEN": "When"
+    }
+  },
+  "TIMESHEET_LOGS_MODAL": {
+    "BREAK_TYPE": {
+      "100": "Paid Break",
+      "200": "Unpaid Break"
+    },
+    "CANCEL": "Cancel",
+    "LEAVE_STATUSES": {
+      "0": "Canceled",
+      "100": "Pending",
+      "200": "Approved",
+      "300": "Declined",
+      "400": "Waiting for Document"
+    },
+    "LIST": {
+      "COLUMNS": {
+        "ACTION": "Action",
+        "ADD_NOTE": "Add Note",
+        "APPROVE": "Approve",
+        "BREAKS": "Breaks",
+        "BREAKS_MIN": "Breaks (min)",
+        "BUSY_REASON_2": "Busy Reason 2",
+        "BUSY_REASON_3": "Busy Reason 3",
+        "BUSY_REASON_4": "Busy Reason 4",
+        "CANCEL": "Cancel",
+        "CLOCKED_TIME": "Clocked Time",
+        "CLOCK_IN_TIME": "Clock-in Time",
+        "CLOCK_OUT_TIME": "Clock-out Time",
+        "CONTRACT_TYPE": "Contract Type",
+        "DATE": "Date",
+        "EDIT": "Edit",
+        "FINISH": "Finish",
+        "IS_LEAVE": "Is On Leave",
+        "LATE_CLOCK_IN": "Late Clock-in",
+        "LEAVE": "Leave",
+        "LEAVE_DURATION": "Leave Duration",
+        "LEAVE_STATUS": "Leave Status",
+        "LEAVE_TYPE": "Leave Type",
+        "NAME": "Name",
+        "NOTE": "Note",
+        "PAID": "Paid",
+        "PAID_LEAVE": "Paid Leave",
+        "PENDING_TIMESHEETS": "Pending Timesheets",
+        "PICTURE": "Picture",
+        "SAVE": "Save",
+        "SCHEDULED_TIME": "Scheduled Time",
+        "SCHEDULE_BREAK": "Schedule Break",
+        "SCHEDULE_END_TIME": "Schedule End Time",
+        "SCHEDULE_START_TIME": "Schedule Start Time",
+        "SCHEDULE_TOTAL_TIME": "Scheduled Total (hr)",
+        "START": "Start",
+        "STORE": "Store",
+        "TIME_APPROVED": "Time Approved",
+        "TIME_TOTAL": "Timesheet Total (hr)",
+        "TOTAL_UNAVAILABLE_DURATION": "Total Unavailable Duration",
+        "TOTAL_VARIANCE": "Total Variance",
+        "UNAPPROVE": "Unapprove",
+        "VARIANCE_TOTAL": "Total Variance (hr)"
+      },
+      "INFO": {
+        "LEAVE": "Timesheet contains leave",
+        "NO_INFORMATION": "Missing informations",
+        "NO_SHOW": "Timesheet contains no show",
+        "NO_SHOW_AND_LEAVE": "Timesheet contains no show and leave"
+      }
+    },
+    "NEW": "New",
+    "NO": "No",
+    "OLD": "Old"
+  }
+}

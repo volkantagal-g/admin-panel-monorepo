@@ -1,0 +1,16 @@
+{
+    "RUNNER": {
+        "DELIVERED": "siparişi teslim etti",
+        "DELIVERED_TO_SHOP": "siparişi mağazaya teslim etti",
+        "HANDOVER": "sipariş el değiştirdi",
+        "ON_WAY_TO_SHOP": "mağazaya gidiyor",
+        "PACKAGE_APPROVAL": "siparişi onayladı",
+        "REACHED_TO_HANDOVER_POINT": "teslim noktasına ulaştı",
+        "REFUND": "Runner İade",
+        "REFUND_DELIVERED_TO_SHOP": "iade paketini mağazaya teslim etti",
+        "REFUND_HANDOVER": "İade paketi el değiştirdi",
+        "REFUND_ON_WAY_TO_SHOP": "mağazaya gidiyor",
+        "REFUND_PACKAGE_APPROVAL": "İade paketini onayladı",
+        "VERIFYING": "doğrulanıyor"
+    }
+}

@@ -1,0 +1,29 @@
+{
+  "FILTER": "Filtrele",
+  "LABELS": {
+    "DATE_PICKER": "İşlem Tarihi",
+    "MATCHED_SELECT": "Eşleşmiş",
+    "MEAL_CARD_SELECT": "Yemek Kartı",
+    "ORDER_ID": "Sipariş ID"
+  },
+  "RECONCILIATION_DATA": {
+    "GETIR_FOOD": "Getir Yemek",
+    "MEAL_CARD": "Yemek Kartı",
+    "TITLE": "Özet Veri",
+    "TOTAL_NET_AMOUNT": "Toplam Net Tutar",
+    "TOTAL_ORDER_COUNT": "Toplam Sipariş Sayısı",
+    "TOTAL_PAYMENT_AMOUNT": "Toplam Ödeme Tutarı",
+    "TOTAL_REFUND_AMOUNT": "Toplam İade/İptal Tutarı"
+  },
+  "TABLE": {
+    "AMOUNT": "Tutar",
+    "MATCHED": "Eşleşmiş",
+    "MEAL_CARD_AMOUNT": "Yemek Kartı Tutarı",
+    "NO": "Hayır",
+    "ORDER_ID": "Sipariş Id",
+    "TRANSACTION_DATE": "İşlem Tarihi",
+    "TYPE": "İşlem Tipi",
+    "YES": "Evet"
+  },
+  "TOOLTIP": "Mutabakat verileri için 2 gün önceye kadarki veriyi dikkate alınız. Son 2 gün verisi bilgi amaçlı eklenmiştir."
+}

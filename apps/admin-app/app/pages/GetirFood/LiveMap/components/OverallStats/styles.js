@@ -1,0 +1,161 @@
+import { createUseStyles } from 'react-jss';
+
+export default createUseStyles(() => {
+  return {
+    bottomLeftHideButtonWrapper: {
+      position: 'absolute',
+      bottom: '84px',
+      width: '35px',
+      zIndex: 900,
+      marginLeft: '362px',
+    },
+    bottomLeft: {
+      position: 'absolute',
+      bottom: '0px',
+      zIndex: 990,
+      height: '140px',
+      marginBottom: '10px',
+    },
+    activeOrderAreaWrapper: {
+      boxShadow: '2px 2px 10px rgba(0, 0, 0, 0.1)',
+      position: 'absolute',
+      minHeight: '50px',
+      background: '#f5f5f5',
+      borderRadius: '0 5px 5px 0 !important',
+    },
+    selectedCityActiveOrdersTable: {
+      borderColor: '#dee5e7',
+      borderRadius: '5px',
+      marginBottom: '5px !important',
+      boxShadow: '2px 2px 10px rgba(0, 0, 0, 0.1)',
+    },
+    activeOrderCountCellHead: {
+      width: '45px !important',
+      fontSize: '11px',
+      textAlign: 'right',
+    },
+    wrapper: {
+      margin: '10px 10px auto',
+      top: '10px',
+      position: 'relative',
+    },
+    activeFoodOrderCountCell: {
+      textAlign: 'right',
+      fontSize: '11px',
+      width: '40px !important',
+      borderRight: '1px solid #F5F5F5',
+    },
+    activeOrderErrorCountCell: {
+      textAlign: 'right',
+      whiteSpace: 'nowrap',
+      fontSize: '10px',
+      color: '#900C3F',
+      width: '105px !important',
+      borderRight: '1px solid #F5F5F5',
+    },
+    errorCountHead: {
+      fontSize: '11px',
+      verticalAlign: 'bottom',
+      textAlign: 'right',
+      whiteSpace: 'nowrap',
+      width: '105px !important',
+      borderRight: '1px solid #F5F5F5',
+    },
+    financialCellHead: {
+      textAlign: 'right',
+      width: '45px !important',
+      fontSize: '11px',
+      verticalAlign: 'bottom',
+      borderRight: '1px solid #F5F5F5',
+    },
+    financialCell: {
+      textAlign: 'right',
+      fontSize: '11px',
+      color: '#27C24C',
+      width: '45px !important',
+    },
+    overallRevenueCell: {
+      textAlign: 'right',
+      fontSize: '11px',
+      color: '#FF974A',
+      width: '45px !important',
+    },
+    orderCountCell: {
+      textAlign: 'right',
+      fontSize: '11px',
+      color: '#5D3EBC',
+      width: '45px !important',
+    },
+    orderCountCellHead: {
+      textAlign: 'right',
+      fontSize: '11px',
+      width: '45px !important',
+    },
+    orderCountGrowthCellHead: {
+      textAlign: 'right',
+      width: '45px !important',
+    },
+    financialGrowthCell: {
+      textAlign: 'right',
+      color: '#27C24C',
+      fontSize: '11px !important',
+      verticalAlign: 'bottom',
+      width: '45px !important',
+      borderRight: '1px solid #F5F5F5',
+    },
+    orderCountGrowthCell: {
+      textAlign: 'right',
+      color: '#FFD10D',
+      fontSize: '11px !important',
+      verticalAlign: 'bottom',
+      width: '22px !important',
+      borderRight: '1px solid #F5F5F5',
+    },
+    financialGrowthCellHead: {
+      fontSize: '11px',
+      verticalAlign: 'bottom',
+      textAlign: 'right',
+      width: '45px !important',
+      borderRight: '1px solid #F5F5F5',
+    },
+    previousFoodOrderCountCell: {
+      textAlign: 'right',
+      fontSize: '11px',
+      color: '5D3EBC',
+      width: '43px !important',
+    },
+    dedicatedCourierCountCellHead: {
+      textAlign: 'right',
+      width: '45px !important',
+      fontSize: '11px',
+    },
+    dedicatedCourierCountCell: {
+      textAlign: 'right',
+      width: '45px !important',
+      fontSize: '11px',
+    },
+    G10CellHead: {
+      textAlign: 'right',
+      width: '45px !important',
+      fontSize: '11px',
+    },
+    G10Cell: {
+      textAlign: 'right',
+      width: '45px !important',
+      fontSize: '11px',
+      color: '#0C30D6',
+    },
+    GBCellHead: {
+      textAlign: 'right',
+      width: '45px !important',
+      fontSize: '11px',
+    },
+    GBCell: {
+      textAlign: 'right',
+      width: '45px !important',
+      fontSize: '11px',
+    },
+    negativeGrowth: { color: '#F05050' },
+    positiveGrowth: { color: '#27C24C' },
+  };
+});

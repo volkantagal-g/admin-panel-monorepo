@@ -1,0 +1,16 @@
+{
+  "FILTER": {
+    "POS_BANK": {
+      "DESC": "Select Pos Bank",
+      "TITLE": "Pos Bank"
+    }
+  },
+  "REPORTS": "Reports",
+  "TABLE": {
+    "COLUMNS": {
+      "POS_BANK": "Pos Bank",
+      "PURCHASE_AMOUNT": "Purchase Amount",
+      "REFUND_AMOUNT": "Refund Amount"
+    }
+  }
+}

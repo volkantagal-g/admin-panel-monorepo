@@ -1,0 +1,20 @@
+{
+  "SELECT_COUNTRY": "Select Country",
+  "SELECT_WEEK": "Week to Compare",
+  "TABLE": {
+    "COLUMNS": {
+      "AVG_DAILY_ORDER_COUNT": "Avg. Daily Order Count",
+      "G10_ORDER_COUNT": "G10 Order Count",
+      "NUMBER_OF_WAREHOUSE": "# of WH",
+      "ORDER_COUNT_PER_WAREHOUSE": "Order Count per WH",
+      "WEEK_GROWTH": "W/W Growth"
+    },
+    "TITLE": {
+      "CURRENT_WEEK": "Current Week",
+      "WEEK_X_OF_EACH_CITY": "Week {{week}} of each city",
+      "WEEK_X_OF_EACH_COUNTRY": "Week {{week}} of each country"
+    }
+  },
+  "WEEK_X": "Week {{week}}",
+  "X_DAYS": "{{day}} day(s)"
+}

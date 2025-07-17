@@ -1,0 +1,12 @@
+{
+  "ACTION_TYPE": "Action type",
+  "ACTION_TYPES_DONT_OVERLAP": "Cannot update Action Type because selected codes have different Action Types.",
+  "EDIT_DISCOUNT_CODES": "Edit Discount Codes",
+  "RESET_EXISTING_USAGES": "Reset existing usages",
+  "REUSE_CODES": "Reuse Codes",
+  "REUSE_CONFIRMATION": "Code usage will reset to zero for the selected date range. Do you confirm?",
+  "REUSE_TOOLTIP": "Changes made here will reset code usage to start counting from zero. The code behaves as if it was newly created.",
+  "UPDATE_CODES": "Update Codes",
+  "UPDATE_TOOLTIP": "Changes made here will only apply incremental updates to the existing code. You should first import CSV file of codes you wish to update.",
+  "USE_LIMIT": "Use limit"
+}

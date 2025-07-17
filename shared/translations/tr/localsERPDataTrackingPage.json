@@ -1,0 +1,37 @@
+{
+	"FAILED": {
+		"TABLE": {
+			"DESCRIPTION": "Hata Açıklaması",
+			"ERROR_DETAIL": "Hata Detayı",
+			"ORDER_ID": "Sipariş ID",
+			"REQUEST": "Request",
+			"RESPONSE": "Response",
+			"TRANSACTION_ID": "İşlem ID",
+			"TYPE": "Veri Tipi"
+		},
+		"TITLE": "Hatalı Veri"
+	},
+	"PAGE_TITLE": "ERP Veri Takibi",
+	"RANGE_PICKER_LABEL": "İşlem Tarihi",
+	"SUCCESS": {
+		"TABLE": {
+			"JSON": "JSON",
+			"ORDER_ID": "Sipariş ID",
+			"REQUEST": "Request",
+			"RESPONSE": "Response",
+			"TRANSACTION_ID": "İşlem ID",
+			"TYPE": "Veri Tipi"
+		},
+		"TITLE": "Gönderilmiş Veri"
+	},
+	"SUMMARY": {
+		"EXCEL_EXPORT": "Sipariş Detaylı Rapor",
+		"TABLE": {
+			"DATA_TYPE": "Veri Tipi",
+			"FAILED": "Hatalı",
+			"RECEIVED": "Alınmış",
+			"SENT": "Gönderilmiş"
+		},
+		"TITLE": "Özet"
+	}
+}

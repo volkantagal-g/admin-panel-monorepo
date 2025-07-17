@@ -1,0 +1,70 @@
+{
+  "ADD_ROUTE": "Rota Ekle",
+  "BACK_TO_COMPANY_CHANGE_LOGS": "< Şirket Değişim Hareketlerine Dön",
+  "BUTTONS": {
+    "ACTIVATE": "Aktifleştir",
+    "DELETE": "Sil",
+    "DETAIL": "Detay",
+    "INACTIVATE": "Inaktife al",
+    "NEW_THIRD_PARTY_COMPANY": "Yeni 3. Parti Şirket"
+  },
+  "CHANGE_LOG_TABLE": {
+    "ACTION_TAKEN_BY": "Değişikliği Yapan",
+    "ACTION_TYPE": "İşlem Türü",
+    "OLD_AND_NEW_VALUE": "Eski/Yeni Değer",
+    "TIMESTAMP_UTC": "Değişiklik Zamanı (UTC)",
+    "UNIQUE_IDENTIFIER": "Unique Id"
+  },
+  "CHANGE_LOG_TYPE_TITLES": {
+    "COMPANY": "Firma Değişim Hareketleri",
+    "CREDENTIAL": "Ortam Kimlikleri Değişim Hareketleri"
+  },
+  "CREDENTIALS_CHANGE_LOG_TITLE_MESSAGE": "Ortam Kimlikleri hareketleri yalnızca yukarıdaki Ortam Kimlikleri bölümündeki butonlar aracılığıyla gösterilir",
+  "NEW_VALUE": "Yeni Değer",
+  "OLD_VALUE": "Eski Değer",
+  "PAGE": {
+    "DETAIL": {
+      "ACTIVATED": "Aktif",
+      "ACTIVATE_CREDENTIAL": "Bu ortam kimliğini aktife al",
+      "CANNOT_GENERATE_SIGNATURE": "Entegrasyon anahtarı üretilemez: Ortam kimliği inaktif!",
+      "COPIED": "Kopyalandı",
+      "COPY": "Kopyala",
+      "CREDENTIALS": "Ortam Kimlikleri",
+      "DEACTIVATED": "Inaktif",
+      "DEACTIVATE_CREDENTIAL": "Bu ortam kimliğini inaktife al",
+      "DELETE": "Sil",
+      "DELETE_CREDENTIAL": "Bu ortam kimliğini sil",
+      "ENVIRONMENT_KEY": "Ortam Anahtarı",
+      "GENERAL_INFO": "Genel Bilgiler",
+      "GENERAL_INFO_LAST_UPDATE": "Son güncellenme tarihi",
+      "GENERATE_SIGNATURE": "Entegrasyon anahtarı üret",
+      "JSON": "JSON",
+      "NEW_CREDENTAL_PLACEHOLDER": "Ortam seçiniz",
+      "NEW_CREDENTIAL": "Yeni Ortam Kimliği",
+      "SIGNATURE": "Entegrasyon Anahtarı",
+      "SIGNATURE_DISPLAY_WARNING": "{{ displayTimer }} saniye içinde kaybolacak"
+    },
+    "LIST": {
+      "COLS": {
+        "ACTION": "Aksiyon",
+        "DESCRIPTION": "Açıklama",
+        "NAME": "İsim",
+        "STATUS": "Durum"
+      }
+    },
+    "NEW": {
+      "ALLOWED_ROUTES": "İzinli Rotalar",
+      "FORM_VALIDATION": {
+        "AT_LEAST_1": "En az 1 seçili olmalı",
+        "REQUIRED": "Boş Geçilemez"
+      },
+      "INFO_TITLE": "3. Parti Şirket Bilgileri"
+    }
+  },
+  "ROUTE_GUIDANCE": [
+    "Rotanız \"GET:/kustomer/client\" şeklinde görünmelidir.",
+    "Önce HTTP methodunuzu seçin, ardından rotayı girmeye devam edin.",
+    "Eğer rotanız parametreler(e.g. orders/[order_id]/products) içeriyorsa, [id] yerine .* kullanın. Örneğin, orders/.*/products."
+  ],
+  "SHOW_LOGS": "Hareketleri Listele"
+}

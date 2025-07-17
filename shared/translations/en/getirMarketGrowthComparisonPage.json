@@ -1,0 +1,16 @@
+{
+  "CLIENT_ORDERS": "Client Orders",
+  "GROUPING_WITH_OBJECTIVES": "Promo Objective Grouping",
+  "GROWTH_RATE": "% Growth",
+  "NEW_CLIENTS": "New Clients",
+  "ORDER_COUNT": "Order Count",
+  "ORDER_COUNTS_BY_STORE": "Order Counts By Warehouse",
+  "ORGANIC_ORDER": "Organic Order",
+  "PROMO_ORDER": "Promo Order",
+  "PROMO_RATES": "Promo Rates",
+  "PROMO_USED_COUNT": "Used Promo Count",
+  "TABLE_WORK_ONLY_GETIR_INTEGRATION_TYPE_DESCRIPTION": "The {{tableName}} table only be enabled when integration type Getir.",
+  "TITLE": "GM Growth Comparison",
+  "TOTAL_ORDER": "Total Order",
+  "TOTAL_ORDER_RATE": "Ratio to Total Order"
+}

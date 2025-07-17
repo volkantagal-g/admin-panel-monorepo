@@ -1,0 +1,33 @@
+{
+  "AMOUNT": "Amount",
+  "CHECKOUT_DATE": "Checkout Date",
+  "CLIENT": "Client",
+  "CLIENT_ID": "Client ID",
+  "COURIER": "Courier",
+  "DEVICE_TYPES": "Device Types",
+  "DURATION_TOOLTIP": "Duration between selected starting status and delivery.",
+  "ERRORS": "Errors",
+  "ERROR_TYPE": "Error Type",
+  "FOOD_ORDER": "GF",
+  "G10_ORDER": "G10",
+  "GETIR_MARKET_ORDER": "GM",
+  "GETIR_VOYAGER": "GW",
+  "MAX_BIGGER_MIN": "Max. duration must be bigger than min. duration.",
+  "MAX_DURATION": "Max. Duration (minute)",
+  "MIN_DURATION": "Min. Duration (minute)",
+  "MIN_MAX_AT_LEAST_ONE_DURATION_REQUIRED": "You must provide at least one duration.",
+  "ON_DEMAND": "On demand",
+  "ORDER_TYPE": "Order Type",
+  "PLATFORM": "Platform",
+  "PROMO": "Promo",
+  "PROVISION": "Provision",
+  "PROVISION_FILTER": {
+    "NO": "No",
+    "YES": "Yes"
+  },
+  "SLOTTED_ORDERS": "Slotted",
+  "STARTING_STATUS": "Starting Status (Until Delivery)",
+  "STORE": "Store",
+  "TITLE": "Filtered Orders",
+  "WAREHOUSE": "Warehouse"
+}

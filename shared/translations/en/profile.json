@@ -1,0 +1,56 @@
+{
+  "COMPONENTS": {
+    "ACCOUNT_INFO": {
+      "COUNTRIES": "Countries",
+      "EMAIL_ADDRESS": "Email Address",
+      "TITLE": "Account Info"
+    },
+    "ACTIVE_SESSIONS": {
+      "BROWSER": "Browser",
+      "LAST_SEEN": "Last Seen",
+      "LOGGED_ON": "Logged On",
+      "NOW": "now",
+      "TITLE": "Sessions"
+    },
+    "EMPLOYEE_INFO": {
+      "BUSINESS_TITLE": "Business Title",
+      "BUSINESS_UNIT": "Business Unit",
+      "DEPARTMENT": "Department",
+      "JOB_FAMILY": "Job Family",
+      "LOCATION": "Location",
+      "PAYROLL_COUNTRY": "Payroll Country",
+      "PERSONAL_EMAIL": "Personal Email",
+      "SUPERVISOR": "Supervisor",
+      "TITLE": "Employee Info",
+      "WORKDAY_ID": "Workday Id",
+      "WORK_START_DATE": "Work Start Date"
+    },
+    "LEAVES": {
+      "TITLE": "Leaves"
+    },
+    "MY_ASSETS": {
+      "DATE_ASSIGNED_TO_EMPLOYEE": "Assigned to Employee Date",
+      "DATE_OF_WITHDRAWAL_FROM_EMPLOYEE": "Return From Employee Date",
+      "DEVICE_NAME": "Name",
+      "DEVICE_TYPE": "Device Type",
+      "NEW_ASSET_REQUEST": "New Asset Request",
+      "SERIAL_NUMBER": "Serial Number",
+      "TITLE": "My Assets"
+    },
+    "VEHICLES": {
+      "CHASSIS_NUMBER": "Chassis Number",
+      "DATE_ASSIGNED_TO_EMPLOYEE": "Assigned to Employee Date",
+      "DATE_OF_WITHDRAWAL_FROM_EMPLOYEE": "Return From Employee Date",
+      "PLATE_NUMBER": "Licence Number",
+      "TITLE": "Company Vehicles",
+      "VEHICLE_BRAND": "Vehicle Brand",
+      "VEHICLE_MODEL": "Vehicle Model"
+    }
+  },
+  "PAGE_TITLE": "Profile",
+  "TABS": {
+    "MY_PROFILE": "My Profile",
+    "PERMISSION_REQUESTS": "Permission Requests",
+    "SHORTCUTS": "Shortcuts"
+  }
+}

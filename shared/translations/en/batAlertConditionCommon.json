@@ -1,0 +1,133 @@
+{
+  "ADD_THRESHOLD": "Add Threshold",
+  "ALERT_CONDITION_DESCRIPTION": "Alert Condition Description",
+  "ALERT_CONDITION_NAME": "Alert Condition Name",
+  "ALL_DAY": "All Day",
+  "BREAKDOWN": "Breakdown",
+  "CARD_HEADERS": {
+    "DEFINE_YOUR_VALUES": "Define Alert Condition Values",
+    "NOTIFICATIONS": "Notification Channel",
+    "PERMITTED_ROLES": "Permitted Roles",
+    "RUNNING_DAY": "Running Day / Hours",
+    "SET_YOUR_CONDITION_THRESHOLD": "Set Alert Condition Threshold(s)",
+    "UPDATE_YOUR_QUERY": "Update Your Query"
+  },
+  "CHANNELS": {
+    "email": "Mail",
+    "slack": "Slack"
+  },
+  "COMPARISON_PERIOD": "Comparison Period",
+  "CONSTANT_VALUES": {
+    "ABSTRACT_COURIER_DOMAIN_TYPES": {
+      "1": "G10 Dedicated",
+      "2": "G30 Dedicated",
+      "3": "GW Dedicated",
+      "4": "G10 & G30 Merge"
+    },
+    "ALERT_CONDITION_STATUSES": {
+      "100": "Active",
+      "200": "Inactive"
+    },
+    "ALERT_THRESHOLD_OPERATORS_HUMAN_READABLE": {
+      "1": "Above",
+      "2": "Above or Equal",
+      "3": "Below",
+      "4": "Below or Equal",
+      "5": "Equal",
+      "6": "Not Equal"
+    },
+    "COMPARE_WITH_PAST": {
+      "60": "Previous Hour",
+      "1440": "Previous Day",
+      "10080": "Previous Week",
+      "TITLE": "Compare with Past"
+    },
+    "INCIDENT_PRIORITIES": {
+      "1": "Warning",
+      "2": "Critical"
+    },
+    "INCIDENT_STATUSES": {
+      "100": "Open",
+      "1000": "Closed"
+    },
+    "THRESHOLD_FORMATS": {
+      "1": "Number",
+      "2": "Percentage"
+    },
+    "THRESHOLD_OCCURENCES": {
+      "1": "Immediately",
+      "2": "At Least"
+    }
+  },
+  "DAY_OF_WEEKS_TOOLTIP": {
+    "0": "Copy to Sunday",
+    "1": "Copy to Monday",
+    "2": "Copy to Tuesday",
+    "3": "Copy to Wednesday",
+    "4": "Copy to Thursday",
+    "5": "Copy to Friday",
+    "6": "Copy to Saturday"
+  },
+  "DEFINED_HOUR_OPTIONS": {
+    "ALL_WEEK": "All Week",
+    "CLEAR_ALL_SELECTED_HOURS": "Clear All",
+    "OPERATION_HOURS": "Operation Hours",
+    "OPERATION_HOURS_TOOLTIP": "Country warehouse operation hours",
+    "TITLE": "Defined Hours",
+    "WORKING_HOURS": "Working Hours",
+    "WORKING_HOURS_TOOLTIP": "Between 9 AM - 7 PM at weekdays"
+  },
+  "EMAIL_ERROR_MESSAGE": "Only email addresses with “@getir.com” extension can be used",
+  "EMAIL_NOFITICATIONS": "E-mail Notifications",
+  "FILTERS": "Filters",
+  "FORMULA": "Formula",
+  "FORMULA_INFO": "Four operations can be performed between all selected values",
+  "INVALID_FORMULA": "Invalid Formula",
+  "MAX_RECIPIENTS_ERROR_MESSAGE": "At most 10 receivers can be added",
+  "METRIC_GROUP": "Metric Group",
+  "PLACEHOLDERS": {
+    "ALERT_CONDITION_NAME": "Alert Condition Name",
+    "CREATED_BY": "Created At",
+    "PRIORITY": "Priority",
+    "STATUS": "Status",
+    "TIME_PERIOD": "Alert will check the data in each X minutes"
+  },
+  "RECEIVER_DELETION_WARNING": "All inputs will be deleted. Are you sure?",
+  "ROLES": "Roles",
+  "SELECT_HOURS": "Select Hours",
+  "SELECT_YOUR_VALUE": "Value(s)",
+  "SLACK_CHANNEL_ERROR_MESSAGE": "Only channels that starts with “#bat-” can be used",
+  "SLACK_FOOTNOTE": "For sending incoming alerts to a private channel, “admin@getir.com” user should be added to the channel.",
+  "SLACK_NOTIFICATIONS": "Slack Notifications",
+  "SLACK_WORKSPACES": {
+    "GETIR": "getir",
+    "GETIR_DEV": "getir-dev"
+  },
+  "TABLE": {
+    "COLUMNS": {
+      "ACTION": "Action",
+      "ALERT_CONDITION_NAME": "Alert Name",
+      "CREATED_AT": "Created At",
+      "PRIORITY": "Priority",
+      "STATUS": "Status"
+    }
+  },
+  "THRESHOLD_PRIORITY": {
+    "critical": "Critical",
+    "warning": "Warning"
+  },
+  "THRESHOLD_TITLE": {
+    "ABOVE_BELOW": "Above/Below",
+    "ESTIMATE": "Estimate",
+    "FORMAT": "Format",
+    "INFO_ICON_TOOLTIP": "Negative values should be selected for detecting decreasing compare with past.",
+    "OCCURENCES": "Occurence",
+    "OCCURENCE_COUNT": "Occurence Count",
+    "PRIORITY": "Priority Type",
+    "TIME": "Time",
+    "VALUE": "Value"
+  },
+  "TIMES": "Times",
+  "TIME_PERIOD": "Running Time Period",
+  "WORKSPACE": "Workspace"
+}

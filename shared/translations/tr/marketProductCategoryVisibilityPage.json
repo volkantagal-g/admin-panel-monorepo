@@ -1,0 +1,10 @@
+{
+  "CATEGORY_BASED_VISIBILITY_LIST": "Kategori Bazlı Görünürlük Listesi",
+  "CATEGORY_VISIBILITY_NOT_FOUND": "Kategori Görünürlük bulunamadı.",
+  "ERROR": {
+    "WAREHOUSE_AND_CATEGORY_MUST_BE_SELECTED": "Depo ve Kategori seçili olmalıdır.",
+    "WAREHOUSE_MUST_BE_SELECTED_FOR_EACH_SELECTED_CITY": "Her seçilmiş şehir için depo seçilmeli. Depo seçilmemiş şehirler için depo ekleyiniz veya o şehirleri kaldırınız."
+  },
+  "NEW_CATEGORY_VISIBILITY": "Yeni Kategori Görünürlük",
+  "REMOVE_BULK_CONFIRMATION": "Seçili satırları {{ count }} silmek istediğinize emin misiniz?"
+}

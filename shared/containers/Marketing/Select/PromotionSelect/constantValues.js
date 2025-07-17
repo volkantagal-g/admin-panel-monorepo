@@ -1,0 +1,36 @@
+import {
+  GETIR_10_DOMAIN_TYPE, GETIR_BITAKSI_DOMAIN_TYPE, GETIR_DRIVE_DOMAIN_TYPE,
+  GETIR_FOOD_DOMAIN_TYPE, GETIR_JOB_DOMAIN_TYPE, GETIR_LOCALS_DOMAIN_TYPE,
+  GETIR_MALL_DOMAIN_TYPE,
+  GETIR_MARKET_DOMAIN_TYPE, GETIR_N11_DOMAIN_TYPE,
+  GETIR_VOYAGER_DOMAIN_TYPE, GETIR_WATER_MARKETPLACE_DOMAIN_TYPE, GETIR_GORILLAS_DOMAIN_TYPE,
+} from '@shared/shared/constants';
+
+export const promotionStateKey = {
+  1: 'market',
+  2: 'locals',
+  3: 'food',
+};
+
+export const PromotionTypeTargetService = {
+  1: [
+    GETIR_10_DOMAIN_TYPE,
+    GETIR_MARKET_DOMAIN_TYPE,
+    GETIR_VOYAGER_DOMAIN_TYPE,
+    GETIR_MALL_DOMAIN_TYPE,
+    GETIR_BITAKSI_DOMAIN_TYPE,
+    GETIR_WATER_MARKETPLACE_DOMAIN_TYPE,
+    GETIR_JOB_DOMAIN_TYPE,
+    GETIR_DRIVE_DOMAIN_TYPE,
+    GETIR_N11_DOMAIN_TYPE,
+    GETIR_GORILLAS_DOMAIN_TYPE,
+  ],
+  2: [GETIR_LOCALS_DOMAIN_TYPE],
+  3: [GETIR_FOOD_DOMAIN_TYPE],
+};
+
+export const promoStatusOptions = {
+  1: { en: 'Inactive', tr: 'İnaktif' },
+  2: { en: 'Active', tr: 'Aktif' },
+  3: { en: 'Deleted', tr: 'Silinmiş' },
+};

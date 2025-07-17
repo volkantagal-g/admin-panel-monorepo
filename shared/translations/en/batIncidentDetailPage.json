@@ -1,0 +1,39 @@
+{
+  "ACTIONS": {
+    "VISIT_ALERT_CONDITION_DETAIL": "Visit Alert Condition Detail"
+  },
+  "PAGE_TITLE": {
+    "INCIDENT": {
+      "DETAIL": "Incoming Alert Detail"
+    }
+  },
+  "PLACEHOLDERS": {
+    "DETAIL": "Detail",
+    "INCIDENT": "Incoming Alert"
+  },
+  "TEXT_TEMPLATE": {
+    "ABOVE_BELOW": "Above/Below",
+    "ALERT_CONDITION": "Alert Condition",
+    "CITY": "City",
+    "CLOSED": "Closed",
+    "COURIER_DOMAIN_TYPE": "Courier Domain Type",
+    "DURATION": "Duration",
+    "FOR": "for",
+    "ISSUE_CREATED_ON": "issue was created on {0}",
+    "MARKET_ORDER_DOMAIN_TYPE": "Market Order Domain Type",
+    "MARKET_ORDER_STATUS": "Market Order Status",
+    "OCCURS_AT": "Occurs at",
+    "OPERATOR": "Operator",
+    "ORDER_CHANNEL": "Order Channel",
+    "PAYMENT_METHOD": "Payment Method",
+    "PAYMENT_POS_BANK": "Payment Pos Bank",
+    "PRIORITY": "Priority Type",
+    "QUERY_RESULT_INFO": "{0} alert was {1} the {2} threshold",
+    "QUERY_WAS": "query was",
+    "RESULT": "Result",
+    "THRESHOLD": "Threshold",
+    "VALUE": "Value",
+    "VEHICLE_TYPE": "Vehicle Type",
+    "WAREHOUSE": "Warehouse"
+  }
+}

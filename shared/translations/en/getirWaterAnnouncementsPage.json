@@ -1,0 +1,139 @@
+{
+  "ACTIVENESS": "Activeness",
+  "COLUMNS": {
+    "STATUS": "Status",
+    "TITLE": "Title",
+    "VALID_FROM": "Valid From",
+    "VALID_UNTIL": "Valid Until"
+  },
+  "CONFIRM_ACTIVATION": "Are you sure to ACTIVATE this announcement?",
+  "CONFIRM_INACTIVATION": "Are you sure to INACTIVATE this announcement?",
+  "DETAIL": "Announcement Detail",
+  "FILTER": "Filter",
+  "FORM": {
+    "BANNER_DETAILS": {
+      "BANNER_ACTION": "Banner Action",
+      "BUTTON": {
+        "BUTTON_TEXT_EN": "Button Text (EN)",
+        "BUTTON_TEXT_TR": "Button Text (TR)"
+      },
+      "BUTTON_ACTION": "Button Action",
+      "GENERAL_INFO": "General Info",
+      "PICTURE": {
+        "CHANGE_EN": "Change (EN)",
+        "CHANGE_TR": "Change (TR)",
+        "TITLE_EN": "Picture URL (EN)",
+        "TITLE_TR": "Picture URL (TR)"
+      },
+      "PRIORITY": {
+        "TITLE": "Priority"
+      },
+      "REDIRECT": {
+        "TITLE": "Redirect to X"
+      },
+      "STATUS": {
+        "TITLE": "Status"
+      },
+      "TITLE": "Banner Details",
+      "TYPE": {
+        "TITLE": "Type"
+      }
+    },
+    "DATE_INFO": {
+      "END_DATE": {
+        "TITLE": "End Date"
+      },
+      "START_DATE": {
+        "TITLE": "Start Date"
+      },
+      "TITLE": "Date Information"
+    },
+    "FILTER": {
+      "BRANDS": {
+        "TITLE": "Brands"
+      },
+      "CITY": {
+        "TITLE": "Cities"
+      },
+      "FIELD_STAFF": {
+        "TITLE": "Exclude Field Staff"
+      },
+      "G10_COUNT": {
+        "TITLE": "Past Getir10 Order Count"
+      },
+      "GWATER_COUNT": {
+        "TITLE": "Past GetirWater MP Order Count"
+      },
+      "LOCATION_FREE": {
+        "TITLE": "Show Location Free"
+      },
+      "PLATFORM": {
+        "TITLE": "Platform"
+      },
+      "TITLE": "Filter",
+      "VENDORS": {
+        "TITLE": "Vendors"
+      },
+      "WHITE_COLLAR": {
+        "TITLE": "Exclude White Collar"
+      }
+    },
+    "GENERAL_INFO": {
+      "ACCESS_LABEL": {
+        "TITLE_EN": "Accessibility Label (EN)",
+        "TITLE_TR": "Accessibility Label (TR)"
+      },
+      "DESCRIPTION": {
+        "TITLE_EN": "Description (EN)",
+        "TITLE_TR": "Description (TR)"
+      },
+      "HEAD_TITLE": "General Info",
+      "PRIORITY": {
+        "TITLE": "Priority"
+      },
+      "PROMO_CONTENT_HTML": {
+        "TITLE_EN": "Announcement Content HTML (EN)",
+        "TITLE_TR": "Announcement Content HTML (TR)"
+      },
+      "PROMO_CONTENT_SECTION_TITLE": {
+        "TITLE_EN": "Announcement Content Section Title (EN)",
+        "TITLE_TR": "Announcement Content Section Title (TR)"
+      },
+      "PROMO_CONTENT_URL": {
+        "TITLE_EN": "Announcement Content URL (EN)",
+        "TITLE_TR": "Announcement Content URL (TR)"
+      },
+      "PROMO_PAGE_TITLE": {
+        "TITLE_EN": "Announcement Page Title (EN)",
+        "TITLE_TR": "Announcement Page Title (TR)"
+      },
+      "TARGET": {
+        "TITLE": "Target"
+      },
+      "TITLE": {
+        "TITLE_EN": "Title (EN)",
+        "TITLE_TR": "Title (TR)"
+      }
+    },
+    "PICTURE_PREVIEW": {
+      "CHANGE_EN": "Change (EN)",
+      "CHANGE_TR": "Change (TR)",
+      "TITLE": "Picture Preview",
+      "TITLE_EN": "Picture Preview (EN)",
+      "TITLE_TR": "Picture Preview (TR)"
+    },
+    "VALID_TIMES": {
+      "BTN_ADD": "Add",
+      "BTN_DELETE": "Delete",
+      "END_DATE": {
+        "TITLE": "End Date"
+      },
+      "START_DATE": {
+        "TITLE": "Start Date"
+      },
+      "TITLE": "Valid Times"
+    }
+  },
+  "NEW": "New Announcement",
+  "SEARCH": "Search"
+}

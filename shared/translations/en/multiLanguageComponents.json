@@ -1,0 +1,12 @@
+{
+  "ML_IMAGE": {
+    "TITLE": "Image Preview"
+  },
+  "ML_MULTI_IMAGE_UPLOADER": {
+    "ADD_IMAGE": "Add Image",
+    "CHANGE_MAIN_IMAGE": "Change Main Image",
+    "MAIN_IMAGE": "Main Image",
+    "REMOVE_IMAGE_MESSAGE": "Are you sure to remove image?",
+    "TITLE": "Image Preview"
+  }
+}

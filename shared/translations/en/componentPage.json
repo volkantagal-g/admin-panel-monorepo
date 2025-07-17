@@ -1,0 +1,22 @@
+{
+  "ADD_ROLE": "Add Role",
+  "CLICK_TO_LOAD_ROLES": "Click to load the roles",
+  "COMPONENTS": {
+    "BRING_ROLE_LIST": "Bring Roles",
+    "ROLES_INFO": "Roles That Are Granted Access",
+    "USERS_INFO": "Users That Are Granted Access (Not Used Anymore)"
+  },
+  "COMPONENT_COUNTRY_PERMISSION_TOOLTIP": "If the role doesn't have page access, it will also be granted. If it does, extra countries that are selected will be added to the page permission.",
+  "COMPONENT_INFO": "Component Info",
+  "CONFIRMATION": {
+    "ADD_ROLE": "Are you sure you want to assign this component to the roles you have selected?",
+    "REMOVE_ROLE": "Are you sure to remove the component from the role?"
+  },
+  "NEW_COMPONENT": "New Component",
+  "PAGE": "Page",
+  "PERMISSION_KEY": "Permission Key",
+  "PERMISSION_KEY_DISABLED_TOOLTIP": "Permission key cannot be changed, create a new one instead",
+  "PERMITTED_COUNTRIES": "Permitted Countries",
+  "STARTS_WITH_PAGE_PERM_KEY": "Page permission key will be automatically added to beginning of permission key",
+  "UPDATE_ROLE": "Update Role"
+}

@@ -1,0 +1,19 @@
+{
+  "FILTER": {
+    "DOMAIN": {
+      "DESC": "Select Domain",
+      "TITLE": "Domain"
+    },
+    "POS_BANK": {
+      "DESC": "Select Pos Bank",
+      "TITLE": "Pos Bank"
+    },
+    "REPORT_CHECK_DATE": {
+      "TITLE": "Report Check Date"
+    },
+    "REPORT_REQUEST_DATE": {
+      "TITLE": "Report Request Date"
+    }
+  },
+  "STATEMENT_DATA_STATUS": "Status"
+}

@@ -1,0 +1,13 @@
+{
+  "G10_WAREHOUSES": "G10 Depoları",
+  "GMORE_WAREHOUSES": "GetirBüyük Depoları",
+  "MAIN_WAREHOUSE": "Ana Depolar",
+  "MAX": "Max Değer",
+  "MIN": "Min Değer",
+  "MULTIPLE_CHOICE": "Çoktan seçmeli sorular için eşleştirme",
+  "NUMBER_INPUT": "Sayı girişi sorular için eşleştirme",
+  "SCORE_MAPPING_PLACEHOLDER": "Skor eşleştirme ismini giriniz",
+  "SCORE_MAPPING_TABLE": "Skor Eşleştirme Tablosu",
+  "STORE_CONVERSION_WAREHOUSES": "Store Conversion Depoları",
+  "WATER_WAREHOUSES": "GetirSu Depoları"
+}

@@ -1,0 +1,33 @@
+{
+  "AI_TOOL": "AI Tool",
+  "COMMS_STATUS": {
+    "DONE": "Done",
+    "FAILED": "Failed",
+    "IN_PROGRESS": "In Progress",
+    "WAITING": "Waiting"
+  },
+  "CONDITIONAL_PRODUCTS": "Conditional Products",
+  "DISCOUNT": "Discount",
+  "DISCOUNTED_PRODUCTS": "Discounted Product",
+  "DOMAIN_TYPES": "Domain Types",
+  "ERRORS": {
+    "DOMAIN_OR_PROMO_CODE": "Please select a promo code or enter the discount"
+  },
+  "GENERATED_NOTIFICATION": "Generated Notifications",
+  "GENERATED_NOTIF_TITLE": "Generated Notification",
+  "INPUT_NOTIF_TITLE": "Inputs for Notification Generation",
+  "LANGUAGE": "Language",
+  "LIFESTYLE": "Lifestyle",
+  "MINIMUM_BASKET": "Minimum Basket",
+  "NOTIF_CONTENT": {
+    "BODY": "Body",
+    "TITLE": "Title",
+    "TYPE": "Type"
+  },
+  "OCCASION": "Occasion",
+  "PROMO_CODE": "Promo Code",
+  "TIMING": "Timing",
+  "TITLE": "Content Creation",
+  "TONE_OF_VOICE": "Tone of Voice",
+  "TOOLTIP_INFO": "At least 'Promo Code' section or Discount sections should be filled. Discount can be written as text or numeric value. Examples: 30 TL, 40%, 100 yerine 20 TL (20€ instead of 110€), Free Delivery. Minimum Basket can be written in 30 TL/$/€ format only Discount, Discounted Product, Conditional Product, Minimum Basket and Occasion sections should be filled manually. Promo Code, Domain, Tone of Voice, Lifestyle, and Timing sections should be selected from dropdown list. Language selection had to be made depending on which languages user want to produce content in (selecting at least one of them is mandatory). If the page is refreshed or closed, notification and its request will disappear."
+}

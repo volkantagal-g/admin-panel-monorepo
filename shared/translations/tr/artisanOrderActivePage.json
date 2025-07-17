@@ -1,0 +1,82 @@
+{
+  "DATA_TABLE": {
+    "ACTION": "Aksiyon",
+    "BASKET": "Spt",
+    "CHARGE": "Çek.",
+    "CITY": "Şehir",
+    "COURIER": "Kurye",
+    "CUSTOMER": "Müşteri",
+    "G10": "G10",
+    "GATE": "Kapı",
+    "GL": "GÇ",
+    "LAST": "Sn akt",
+    "LAST_COURIER_ACTIVITY_DIFF_SHORT": "K.Sn Akt",
+    "LOCALS": "İşletme",
+    "LOCALS_ORDER": "Ç.Sip",
+    "ORDER": "Sipariş",
+    "PAYMENT_METHOD": "Ödeme Yöntemi",
+    "PLATFORM": "P",
+    "PROMO": "Kampanya",
+    "STATUS": "Durum",
+    "STRINGS": {
+      "DROP_OFF_AT_DOOR": {
+        "NO": "H",
+        "YES": "E"
+      }
+    },
+    "SUM": "Top",
+    "TIME": "Tarih",
+    "TITLE": "Aktif Siparişler"
+  },
+  "ERROR": {
+    "NO_CITY": "Aktif siparişler verisini çekmek için Şehir seçilmeli.",
+    "SEARCH_MIN_2_CHARS": "İşletme araması için en az iki karakter girilmeli."
+  },
+  "FILTER": {
+    "CITY_DESC": "Şehir Seçiniz",
+    "COURIER_TYPE": {
+      "DESC": "Kurye Tipi Seçiniz",
+      "TITLE": "Kurye Tipi"
+    },
+    "CUSTOMER_LOCALS_COURIER_PROMO_SEARCH": "Müşteri Esnaf Kurye PromosyonKodu",
+    "DELIVERY_TYPE": {
+      "DESC": "Teslimat Tipi Seçiniz",
+      "TITLE": "Teslimat Tipi"
+    },
+    "DOMAIN_TYPE": {
+      "DESC": "Kurye Domain Tipi Seçiniz",
+      "TITLE": "Kurye Domain Tipi"
+    },
+    "IS_ORDER_RETAIL": {
+      "TITLE": "AVM Siparişlerini Filtrele"
+    },
+    "IS_ORDER_SCHEDULED": {
+      "TITLE": "İleri Tarihlileri Filtrele"
+    },
+    "LAST_ACTIVITY": {
+      "DESC": "Son Aktivite Aralığı Seçiniz",
+      "TITLE": "Son Aktivite"
+    },
+    "LOCALS": {
+      "DESC": "İşletme Seçiniz",
+      "TITLE": "İşletme"
+    },
+    "MERCHANT_TYPE": {
+      "DESC": "İşletme Türü Seçiniz",
+      "TITLE": "İşletme Türü"
+    },
+    "PAYMENT_METHOD": {
+      "DESC": "Ödeme Yöntemi Seçiniz",
+      "TITLE": "Ödeme Yöntemi"
+    },
+    "PLATFORM": {
+      "DESC": "Platform Seçiniz",
+      "TITLE": "Platform"
+    },
+    "STATUS": {
+      "DESC": "Sipariş Durumunu Seçiniz",
+      "TITLE": "Sipariş Durumu"
+    }
+  },
+  "TITLE": "GetirÇarşı Aktif Siparişler"
+}

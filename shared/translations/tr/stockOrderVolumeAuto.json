@@ -1,0 +1,35 @@
+{
+  "DATATABLE": {
+    "COLUMNS": {
+      "BARCODE": "Barkod",
+      "DEMAND_MULTIPLIER": "Talep Çarpanı (%)",
+      "DEMAND_RANGE": "Talep Aralığı",
+      "MAX_BOX_COUNT": "Maksimum Koli Adeti",
+      "MAX_COLI_COUNT_EXIST": "Maksimum Koli Adeti Var",
+      "MAX_STOCK_DAY": "Maksimum Stok Günü",
+      "PARAM_ENABLED": "Ürün Bazlı Değişken",
+      "PRODUCT": "Ürün\\Depo",
+      "STOCK_ORDER_DAY": "Geçmiş Tedarik Günü",
+      "STOCK_TRANSFER_DAY": "Geçmiş Transfer Günü",
+      "STORE_TRANSFER_DAY": "Cep Depo Transfer Günü"
+    }
+  },
+  "DEMAND_RANGE": "Talep Aralığı",
+  "ERR_CSV_ROW_ERROR_MESSAGE": "Yüklemiş olduğunuz dosyada hatalı satırlar var. Satırlar: ",
+  "ERR_EMPTY_DATE": "Geçmiş Tedarik ve Transfer günlerini seçin!",
+  "ERR_EMPTY_STORE_VOLUMES": "Depo Hacim Bilgilerinin yüklenmesi gerekmektedir!",
+  "ERR_EMPTY_SUPPLIER": "Firma Seçin!",
+  "EXPORT_EXCEL": "Excel\"e Aktar",
+  "FILE_WILL_BE_DELIVERED_WITH_EMAIL": "Dosya oluşturulmaya başlandı. Tamamlandığında e-mail olarak gönderilecek.",
+  "GROWTH_RATE": "Talep Çarpanı (%)",
+  "IMPORT_EXCEL": "Excel Yükle",
+  "ITEM_PARAM_ENABLED": "Ürün Bazlı Değişken",
+  "MAXIMUM_COLI_COUNT": "Maksimum Koli Adeti",
+  "MAXIMUM_COLI_COUNT_EXISTS": "Maksimum Koli Adeti Var",
+  "MAXIMUM_STOCK_DAY": "Maksimum Stok Günü",
+  "PAST_PO_DAY": "Geçmiş Tedarik Günü",
+  "PAST_ST_DAY": "Geçmiş Transfer Günü",
+  "STORE_TRANSFER_DAY": "Cep Depo Transfer Günü",
+  "STORE_VOLUMES_EXCEL_UPLOADED": "Depo Hacim Bilgileri Dosyası başarıyla yüklendi!",
+  "SUPPLIER": "Firma"
+}

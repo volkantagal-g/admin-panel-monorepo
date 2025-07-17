@@ -1,0 +1,39 @@
+{
+  "ACTIVENESS": "Aktiflik",
+  "ALERT_COUNTRY_WAREHOUSE_PRICE_TITLE": "Bu ürün depo fiyatını görebilmek için ülke olarak {{ countryName }} seçiniz.",
+  "GENERAL_INFO": {
+    "COUNT": "Adet",
+    "ERROR": {
+      "PRICE_IS_HIGHER": "Fiyat, çizili fiyat'tan daha büyük veya eşit olamaz."
+    },
+    "PRICE": "Fiyat",
+    "TITLE": "Genel Bilgiler",
+    "TOTAL_PRICE": "Toplam Fiyat"
+  },
+  "PRICE": "Fiyat",
+  "PRICING_SEGMENT_ID": "Ücretlendirme Segment Id",
+  "PRODUCT_ID": "Ürün Id",
+  "PRODUCT_INFO": {
+    "TITLE": "Ürün Bilgileri"
+  },
+  "SEARCH_BY_NAME": "İsme göre ara",
+  "SEARCH_BY_PRICING_SEGMENT_ID": "Ücretlendirme Segment ID'ye göre",
+  "SEARCH_BY_PRODUCT_IDS": "Ürün ID’lere göre ara",
+  "SHOW_UNDER_SPECIAL_OFFERS": "İndirimler Altında Göster",
+  "STRUCK_PRICE_ACTIVENESS": "Çizili Fiyat Aktifliği",
+  "STRUCK_PRICE_INFO": {
+    "ERROR": {
+      "STRUCK_PRICE_IS_LOWER": "Çizili fiyat, fiyat'tan daha düşük veya eşit olamaz.",
+      "STRUCK_PRICE_IS_LOWER_TOTAL": "Çizili fiyat, toplam fiyat'tan daha düşük veya eşit olamaz.",
+      "SUPPLIER_SUPPORT_RATE": "Destek oranı 0 ile 1 arasında veya 1'e eşit olmalıdır.",
+      "THIRD_PARTY_SUPPORT_RATE": "Destek oranı 0 ile 1 arasında veya 1'e eşit olmalıdır."
+    },
+    "STRUCK_PRICE": "Çizili Fiyat",
+    "STRUCK_PRICE_ACTIVENESS": "Çizili Fiyat Aktifliği",
+    "STRUCK_PRICE_PROVIDER": "Çizili Fiyat Destekçisi",
+    "SUPPORT_RATE": "Destek Oranı",
+    "TITLE": "Çizili Fiyat Bilgileri"
+  },
+  "STRUCK_PRICE_PROVIDER": "Çizili Fiyat Destekçisi",
+  "WH_PRICING_TIER": "Depo Ücretlendirme Kademesi"
+}

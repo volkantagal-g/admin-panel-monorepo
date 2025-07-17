@@ -1,0 +1,229 @@
+{
+  "ACTIVENESS": "Aktiflik",
+  "ALL": "Tümü",
+  "COLUMNS": {
+    "PRIORITY": "Öncelik",
+    "PROMO_CODE": "Kampanya Kodu",
+    "STATUS": "Durum",
+    "TITLE": "Başlık",
+    "TOTAL_USAGE_COUNT": "Kullanım Miktarı",
+    "VALID_FROM": "Başlangıç Tarihi",
+    "VALID_UNTIL": "Bitiş Tarihi"
+  },
+  "CONFIRM_ACTIVATION": "Kampanyayı AKTİF yapmak istediğinize emin misiniz?",
+  "CONFIRM_INACTIVATION": "Kampanyayı İNAKTİF yapmak istediğinize emin misiniz?",
+  "DETAIL": "Kampanya Detayı",
+  "FILTER": "Filtre",
+  "FORM": {
+    "AVAILABLE_TIMES": {
+      "TITLE": "Uygun Zamanlar"
+    },
+    "BANNER_DETAILS": {
+      "BANNER_ACTION": "Banner Aksiyon",
+      "GENERAL_INFO": "Genel Bilgiler",
+      "PICTURE": {
+        "CHANGE_EN": "Değiştir (EN)",
+        "CHANGE_TR": "Değiştir (TR)",
+        "TITLE_EN": "Resim URL (EN)",
+        "TITLE_TR": "Resim URL (TR)"
+      },
+      "PRIORITY": {
+        "TITLE": "Öncelik"
+      },
+      "REDIRECT": {
+        "TITLE": "Yönlendirilecek Yer"
+      },
+      "STATUS": {
+        "TITLE": "Durum"
+      },
+      "TITLE": "Banner Detayı",
+      "TYPE": {
+        "TITLE": "Tür"
+      }
+    },
+    "BUTTON_ACTION": {
+      "REDIRECT_TO": {
+        "TITLE": "Yönlendirilecek Yer"
+      },
+      "TEXT": {
+        "TITLE_EN": "Metin (EN)",
+        "TITLE_TR": "Metin (TR)"
+      },
+      "TITLE": "Buton Aksiyon",
+      "TYPE": {
+        "TITLE": "Tür"
+      }
+    },
+    "DATE_INFO": {
+      "END_DATE": {
+        "TITLE": "Bitiş Tarihi"
+      },
+      "START_DATE": {
+        "TITLE": "Başlangıç Tarihi"
+      },
+      "TITLE": "Tarih Bilgisi"
+    },
+    "FILTER": {
+      "BRANDS": {
+        "TITLE": "Markalar"
+      },
+      "BTN_SHOW_CLIENT_NUMBER_TEXT": "Müşteri Sayısını Göster",
+      "CITIES": {
+        "TITLE": "Şehirler"
+      },
+      "EXCLUDE_SEGMENTS": {
+        "DESCRIPTION_LABEL": "Hariç Müşteri Sayısı",
+        "TITLE": "Hariç Segmentler"
+      },
+      "G10_USERS_NUMBER": {
+        "TITLE": "Kullanıcının Geçmiş Getir10 Sipariş Sayısı"
+      },
+      "GSU_USERS_NUMBER": {
+        "TITLE": "Kullanıcının Geçmiş GetirSu MP Sipariş Sayısı"
+      },
+      "INCLUDE_SEGMENTS": {
+        "DESCRIPTION_LABEL": "Dahil Müşteri Sayısı",
+        "TITLE": "Dahil Segmentler"
+      },
+      "LOCAL_NUMBERS": {
+        "TITLE": "Sadece Lokal Numaralara Göster"
+      },
+      "PAYMENT_METHODS": {
+        "TITLE": "Ödeme Yöntemleri"
+      },
+      "PLATFROM": {
+        "TITLE": "Platform"
+      },
+      "PROMOTION_ABUSIVES": {
+        "TITLE": "Promosyon İstismarcılarını Hariç Tut"
+      },
+      "TITLE": "Filter",
+      "VENDORS": {
+        "TITLE": "Bayiler"
+      }
+    },
+    "GENERAL_INFO": {
+      "ACCESS_LABEL": {
+        "TITLE": "Erişebilirlik Metni"
+      },
+      "AFFECTED_SEGMENTS": {
+        "TITLE": "Etkilenen Segmentler"
+      },
+      "COLOR": {
+        "SELECT": "Renk Seçiniz",
+        "TITLE": "Renk"
+      },
+      "DESCRIPTION": {
+        "TITLE": "Açıklama"
+      },
+      "DISTRIBUTION_TYPE": {
+        "FIRM_RATE": "Firma Oranı",
+        "GETIRWATER_RATE": "GetirSu Oranı",
+        "PLACEHOLDER": "Dağıtım Oranı Seç",
+        "TITLE": "Dağıtım Tipi",
+        "TOTAL_VALUE_MUST_BE_ONE": "Toplam değer 1 olmalıdır.",
+        "VENDOR_RATE": "Bayi Oranı"
+      },
+      "HEAD_TITLE": "Genel Bilgiler",
+      "MAX_ORDER_COUNT": {
+        "TITLE": "Max Sipariş Sayısı"
+      },
+      "PICTURE": {
+        "CHANGE_EN": "Değiştir (EN)",
+        "CHANGE_TR": "Değiştir (TR)",
+        "TITLE_EN": "Resim URL (EN)",
+        "TITLE_TR": "Resim URL (TR)"
+      },
+      "PRIORITY": {
+        "TITLE": "Öncelik"
+      },
+      "PROMO_CODE": {
+        "TITLE": "Kampanya Kodu"
+      },
+      "PROMO_CONTENT_HTML": {
+        "TITLE_EN": "Kampanya Detay HTML (EN)",
+        "TITLE_TR": "Kampanya Detay HTML (TR)"
+      },
+      "PROMO_CONTENT_SECTION_TITLE": {
+        "TITLE_EN": "Kampanya Detay Başlık (EN)",
+        "TITLE_TR": "Kampanya Detay Başlık (TR)"
+      },
+      "PROMO_CONTENT_URL": {
+        "TITLE_EN": "Kampanya Detay URL (EN)",
+        "TITLE_TR": "Kampanya Detay URL (TR)"
+      },
+      "PROMO_PAGE_TITLE": {
+        "TITLE_EN": "Kampanya Detay Sayfa Başlık (EN)",
+        "TITLE_TR": "Kampanya Detay Sayfa Başlık (TR)"
+      },
+      "PROMO_TARGET": {
+        "TITLE": "Kampanya Hedefi"
+      },
+      "PROMO_TYPE": {
+        "PLACEHOLDER": "Kampanya Türü Seçiniz",
+        "TITLE": "Kampanya Türü"
+      },
+      "PROMO_URL": {
+        "TITLE_EN": "Kampanya URL (EN)",
+        "TITLE_TR": "Kampanya URL (TR)"
+      },
+      "THUMBNAIL": {
+        "CHANGE_EN": "Değiştir (EN)",
+        "CHANGE_TR": "Değiştir (TR)",
+        "TITLE_EN": "Thumbnail URL (EN)",
+        "TITLE_TR": "Thumbnail URL (TR)"
+      },
+      "TITLE": {
+        "TITLE": "Başlık"
+      }
+    },
+    "PROMO_DETAIL": {
+      "DISCOUNT_TOTAL_AMOUNT": {
+        "TITLE": "İndirim Oranı (0-1)"
+      },
+      "DISCOUNT_TOTAL_AMOUNT_UNIT": {
+        "TITLE": "İndirim Tutarı"
+      },
+      "EXCLUDE_ITEMS": {
+        "TITLE": "Kampanya Harici Ürünler"
+      },
+      "MAX_ITEM_COUNT": {
+        "TITLE": "İndirim Yapılacak Ürün Sayısı"
+      },
+      "MAX_ORDER_AMOUNT": {
+        "TITLE": "Max. Sipariş Tutarı"
+      },
+      "MIN_ORDER_AMOUNT": {
+        "TITLE": "Min. Sipariş Tutarı"
+      },
+      "PRODUCT_TO_DISCOUNT": {
+        "TITLE": "İndirim Yapılacak Ürünler"
+      },
+      "TITLE": "Kampanya Türü Detayı",
+      "TOTAL_USE_LIMIT": {
+        "TITLE": "Toplam Kullanım Limiti"
+      },
+      "USE_LIMIT_PER_DAY": {
+        "TITLE": "Günlük Kullanım Limiti"
+      }
+    },
+    "SEGMENT": {
+      "FILE": {
+        "TITLE": "Segment Dosyası"
+      },
+      "TITLE": "Segment",
+      "TYPE": {
+        "TITLE": "Segment Tipi"
+      }
+    },
+    "USAGE_INFO": {
+      "TITLE": "Kullanım Bilgisi",
+      "TOTAL_DISCOUNT_AMOUNT": "Toplam İndirim Miktarı",
+      "UNIQUE_CLIENT_COUNT": "Tekil Kullanıcı Sayısı",
+      "USED_COUNT": "Kullanım Miktarı"
+    }
+  },
+  "NEW": "Yeni Kampanya",
+  "PREVIEW": "Önizleme",
+  "SEARCH": "Ara"
+}

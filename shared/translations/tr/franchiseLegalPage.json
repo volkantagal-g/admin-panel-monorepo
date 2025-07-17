@@ -1,0 +1,25 @@
+{
+    "DETAIL": {
+        "AGREEMENT_STATUS": "Sözleşme Onay Durumu",
+        "APPROVAL_DATE": "Onay Tarihi",
+        "APPROVED": "Onaylandı",
+        "DATE_OF_SENT_NOTIFICATION": "Gönderilen Bildirimin Tarihi",
+        "HISTORY_TABLE_HEADER": "Bildirim Geçmişi Tablosu",
+        "NOT_APPROVED": "Onaylanmadı",
+        "NO_DATE": "Tarih için onay bekleniyor",
+        "REMIND": "Bayilere Hatırlat"
+    },
+    "LIST": {
+        "FRANCHISE_LEGAL_AGREEMENTS": "Bayi Sözleşmeleri",
+        "MAKE_IT_ACTIVE": "Aktive Et",
+        "MAKE_IT_INACTIVE": "İnaktif Et",
+        "NEW_FRANCHISE_LEGAL_AGREMENT": "Yeni Bayi Sözleşmesi"
+    },
+    "UPLOAD": {
+        "PAGE_TITLE": "Bayi Sözleşme Yükleme",
+        "WARNING": {
+            "NO_FILE": "Dosya yok",
+            "READY_TO_IMPORT": "Yüklemeye hazır"
+        }
+    }
+}

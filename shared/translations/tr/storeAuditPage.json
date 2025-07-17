@@ -1,0 +1,29 @@
+{
+  "ANSWERED_QUESTION": "Soru Cevaplandı!",
+  "AUDITOR": "Denetçi",
+  "AUDIT_DATE": "Denetim Tarihi",
+  "AUDIT_TYPE": "Denetim Tipi",
+  "CATEGORY_SCORE": "Kategori Skoru",
+  "COLLAPSE_ALL": "Tümünü Daralt",
+  "ERROR_TEXT": "Soruların cevaplanması ve resimlerin yüklenmesi zorunludur.",
+  "EXPAND_ALL": "Tümünü Genişlet",
+  "FILE_UPLOAD_ERROR_TEXT": "En fazla 5 resim yükleyebilirsiniz.",
+  "LIST": {
+    "AUDITOR": "Denetçi",
+    "AUDIT_DATE": "Denetim Tarihi",
+    "AUDIT_FORM_TYPE": "Denetim Tipi",
+    "COMPLETION_DATE": "Tamamlanma Tarihi",
+    "SENT_TO_FRANCHISE_DATE": "Bayiye Gönderilme Tarihi"
+  },
+  "NEW_STORE_AUDIT": "Yeni Depo Denetimi",
+  "NEW_STORE_AUDIT_FORM": "Yeni Denetim Formu",
+  "REQUIRED_PHOTO_TOOLTIP": "Fotoğraf Zorunlu",
+  "ROUND_NUMBER": "Tur Sayısı",
+  "SELECT_FILE": "Dosya Seçiniz",
+  "SENT_TO_FRANCHISE": "Bayiye Gönder",
+  "SHOW_ALL": "Tümünü Göster",
+  "SHOW_ONLY_HIGHLIGHTED": "Sadece Öne Çıkan Soruları Göster",
+  "STORE_AUDIT": "Depo Denetimi",
+  "TOTAL_SCORE": "Total Skor",
+  "UPLOAD": "Kaydet & Yükle"
+}

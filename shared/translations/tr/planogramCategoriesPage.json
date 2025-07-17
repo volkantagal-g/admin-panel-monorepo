@@ -1,0 +1,40 @@
+{
+  "CATEGORIES": "Kategoriler",
+  "EXPORT_FILE": "Dosyayı İndir",
+  "FILTER": {
+    "CATEGORY_NAME": "Planogram Kategori Adı",
+    "PLANOGRAM_CATEGORY_ID": "Planogram Kategori Id",
+    "PRODUCT_MASTER_CATEGORY": {
+      "LEVEL_1": "Seviye 1",
+      "LEVEL_2": "Seviye 2",
+      "LEVEL_3": "Seviye 3",
+      "LEVEL_4": "Seviye 4",
+      "TITLE": "Ürün Ana Kategori"
+    },
+    "STORAGE_TYPE": "Depolama Tipi",
+    "TITLE": "Filtre"
+  },
+  "GENERAL_INFO": {
+    "LEVEL_1": "Seviye 1",
+    "LEVEL_2": "Seviye 2",
+    "LEVEL_3": "Seviye 3",
+    "LEVEL_4": "Seviye 4",
+    "PLANOGRAM_CATEGORY_NAME": "Planogram Kategori Adı",
+    "STORAGE_TYPE": "Depolama Tipi",
+    "TITLE": "Genel Bilgi"
+  },
+  "IMPORT_FILE": "Dosyayı Yükle",
+  "LEVEL_ERROR": "En az seviye 3'e kadar seçim yapmalısınız.",
+  "NEW_PLANOGRAM_CATEGORY": "Yeni Planogram Kategori",
+  "PLANOGRAM_CATEGORIES": "Planogram Kategoriler",
+  "TABLE_COLUMN_TITLE": {
+    "ACTION": "Eylem",
+    "LAST_UPDATED": "Son Güncelleme",
+    "LEVEL_1": "Ana Kategori Seviye 1",
+    "LEVEL_2": "Ana Kategori Seviye 2",
+    "LEVEL_3": "Ana Kategori Seviye 3",
+    "LEVEL_4": "Ana Kategori Seviye 4",
+    "PLANOGRAM_CATEGORY": "Planogram Kategori",
+    "STORAGE_TYPE": "Depolama Tipi"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "BULK_UPDATE_LINK_TEXT": "Fee Bulk Update",
+  "CONFIRM_TEXT": "are you sure to make this change for domain {{domainTypeName}}",
+  "DELIVERY_FEE": {
+    "CONFIG": {
+      "DYNAMIC_SERVICE_FEE_LEVEL": "Dynamic Delivery Fee Level",
+      "LAYERED_SERVICE_FEE_PEAK": "Layered Delivery Fee  - Peak Hour Delivery Fee",
+      "LAYERED_SERVICE_FEE_REGULAR": "Layered Delivery Fee  - Regular Hour Delivery Fee",
+      "TITLE": "Delivery Fee Configs"
+    },
+    "DELIVERY_FEE_SOURCE": "Delivery Fee Source",
+    "DYNAMIC_DELIVERY_FEE": "Dynamic Delivery Fee",
+    "DYNAMIC_LEVEL": "Dynamic Delivery Fee Level",
+    "FIXED_DELIVERY_FEE": "Fixed Delivery Fee",
+    "FREE_DELIVERY_FOR_X_ORDER": "Free Delivery For X Order",
+    "FREE_DELIVERY_MIN_CHARGED_AMOUNT": "Free Delivery Minimum Charged Amount",
+    "LAYERED_DELIVERY_FEE": "Layered Delivery Fee",
+    "TITLE": "Delivery Fee Bulk Upload",
+    "ZONE": {
+      "LABEL": "Zone"
+    },
+    "ZONE_BASED_FIXED_DELIVERY_FEE": "Zone Based Fixed Delivery Fee",
+    "ZONE_BASED_LAYERED_DELIVERY_FEE": "Zone Based Layered Delivery Fee"
+  },
+  "ERRORS": {
+    "DOMAIN_TYPE_REQUIRED": "Domain type is required.",
+    "DYNAMIC_FEE_LEVEL_FIVE_REQUIRED": "Dynamic {{feeType}} fee table level five is required.",
+    "DYNAMIC_FEE_LEVEL_FOUR_REQUIRED": "Dynamic {{feeType}} fee table level four is required.",
+    "DYNAMIC_FEE_LEVEL_ONE_REQUIRED": "Dynamic {{feeType}} fee table level one is required.",
+    "DYNAMIC_FEE_LEVEL_THREE_REQUIRED": "Dynamic {{feeType}} fee table level three is required.",
+    "DYNAMIC_FEE_LEVEL_TWO_REQUIRED": "Dynamic {{feeType}} fee table level two is required.",
+    "DYNAMIC_FEE_REQUIRED": "Dynamic {{feeType}} fee table is required.",
+    "FEE_SOURCE_REQUIRED": "You need to fill {{feeType}} fee source field.",
+    "FEE_VALUES_NOT_DECREASING": "Fee values should be decreasing every level.",
+    "FIELD_REQUIRED": "You need to fill this field.",
+    "FIRST_ITEM_FEE_SHOULD_BE_GREATER_THAN_0": "Fee field of the first item should be greater than 0.",
+    "FIRST_ITEM_MIN_SHOULD_BE_0": "First item's min should be 0",
+    "FIXED_DELIVERY_FEE_AMOUNT_ZONE_ONE_REQUIRED": "Fixed delivery fee amount for zone one is required.",
+    "FIXED_DELIVERY_FEE_AMOUNT_ZONE_THREE_REQUIRED": "Fixed delivery fee amount for zone three is required.",
+    "FIXED_DELIVERY_FEE_AMOUNT_ZONE_TWO_REQUIRED": "Fixed delivery fee amount for zone two is required.",
+    "FIXED_FEE_AMOUNT_REQUIRED": "Fixed {{feeType}} fee amount is required.",
+    "INVALID_DELIVERY_FEE_SOURCE": "You need to fill delivery fee source field",
+    "INVALID_DELIVERY_FIXED_AMOUNT": "You need to fill fixed delivery fee field",
+    "INVALID_DYNAMIC_DELIVERY_FEE": "You need to fill dynamic delivery fee levels.",
+    "INVALID_DYNAMIC_SERVICE_FEE": "You need to fill dynamic service fee levels.",
+    "INVALID_LAYERED_DELIVERY_FEE": "You need to fill layered delivery fee fields.",
+    "INVALID_LAYERED_SERVICE_FEE": "You need to fill layered service fee fields.",
+    "INVALID_MIN_DELIVERY_FEE": "Minimum delivery fee value should be set to 0",
+    "INVALID_MIN_SERVICE_FEE": "Minimum service fee value should be set to 0",
+    "INVALID_SERVICE_FEE_SOURCE": "You need to fill service fee source field",
+    "INVALID_SERVICE_FIXED_AMOUNT": "You need to fill fixed service fee field.",
+    "INVALID_ZONE_BASED_FIXED_DELIVERY_FEE": "You need to fill fixed fees for all zone levels.",
+    "INVALID_ZONE_BASED_LAYERED_DELIVERY_FEE": "You need to fill layered fees for all zone levels.",
+    "LAST_ITEM_FEE_SHOULD_BE_0": "Fee field of the last item should be 0.",
+    "LAYERED_FEE_PEAK_REQUIRED": "Layered {{feeType}} fee peak hour table is required.",
+    "LAYERED_FEE_REGULAR_REQUIRED": "Layered {{feeType}} fee regular hour table is required.",
+    "LAYERED_FEE_REQUIRED": "Layered {{feeType}} fee table is required.",
+    "MAXIMUM_5_ITEMS": "Maximum 5 items are allowed.",
+    "MINIMUM_2_ITEMS": "Minimum of 2 items are allowed.",
+    "MINIMUM_5_ITEMS": "Minimum of 5 items are allowed.",
+    "MIN_SHOULD_BE_GREATER_THAN_0_EXCEPT_FIRST_ITEM": "Min field should be greater than 0 except for the first item.",
+    "MIN_VALUES_NOT_INCREASING": "Min values should be increasing every level.",
+    "NO_NEGATIVE_NUMBER": "No negative numbers.",
+    "SECOND_ITEM_MIN_SHOULD_BE_GREATER_THAN_0": "Second items min field should be greater than 0.",
+    "ZONE_BASED_LAYERED_DELIVERY_FEE_REQUIRED": "Zone based layered delivery fee table is required."
+  },
+  "FEE_TYPE": {
+    "DELIVERY": "Delivery",
+    "SERVICE": "Service"
+  },
+  "SERVICE_FEE": {
+    "CONFIG": {
+      "DYNAMIC_SERVICE_FEE_LEVEL": "Dynamic Service Fee Level",
+      "LAYERED_SERVICE_FEE_PEAK": "Layered Service Fee  - Peak Hour Service Fee",
+      "LAYERED_SERVICE_FEE_REGULAR": "Layered Service Fee  - Regular Hour Service Fee",
+      "TITLE": "Service Fee Configs"
+    },
+    "DYNAMIC_LEVEL": "Dynamic Service Fee Level",
+    "DYNAMIC_SERVICE_FEE": "Dynamic Service Fee",
+    "FIXED_SERVICE_FEE": "Fixed Service Fee",
+    "LAYERED_SERVICE_FEE": "Layered Service Fee",
+    "SERVICE_FEE_SOURCE": "Service Fee Source",
+    "TITLE": "Service Fee Bulk Upload"
+  },
+  "TITLE": "Fee Details",
+  "WAREHOUSE_ID": "Warehouse Id",
+  "WAREHOUSE_NAME": "Warehouse Name",
+  "WAREHOUSE_TYPE": "Warehouse Type"
+}

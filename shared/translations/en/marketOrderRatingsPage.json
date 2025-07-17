@@ -1,0 +1,14 @@
+{
+  "ADD_TAG": "Add Tag",
+  "CONFIRM_DELETE": "Are you sure you want to delete this tag?",
+  "DELETE_TAG": "Delete Tag",
+  "EDIT_RATING_PLACEHOLDER": "Edit rating text",
+  "EDIT_TAG": "Edit Tag",
+  "ERROR": {
+    "MAX_TAG_NUMBER": "You cannot add more tags"
+  },
+  "PAGE_TITLE": "Order Ratings",
+  "REASON": "Reason",
+  "TITLE": "Title",
+  "UPDATE_TAG": "Update Tag"
+}

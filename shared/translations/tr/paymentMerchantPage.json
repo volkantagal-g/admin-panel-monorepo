@@ -1,0 +1,41 @@
+{
+  "ACTION": "Aksiyon",
+  "ADD_CUSTOM_IDENTIFIERS": "Özel Tanımlayıcılar Ekle",
+  "ADD_PAYMENT_METHOD": "Ödeme Yöntemi Ekle",
+  "ADD_PAYMENT_PROVIDER": "Ödeme Sağlayıcı Ekle",
+  "ADD_WEB_HOOKS": "Web Hook Ekle",
+  "AVAILABLE_CHANNELS": "Kullanılabilir Kanallar",
+  "CAN_NOT_BE_DELETED": "Silinemez",
+  "CAPTURE_TYPE": "Yakalama Türü",
+  "CAPTURE_TYPE_PLACEHOLDER": "Yakalama Türünü Seçin",
+  "CONFIRM_MESSAGE": "Emin misin?",
+  "COUNTRY_CODE": "Ülke Kodu",
+  "CURRENCY_WARNING": "Ülke koduna bağlı.",
+  "CUSTOM_IDENTIFIERS": "Özel Tanımlayıcılar",
+  "CUSTOM_IDENTIFIER_KEY": "Özel tanım anahtarı",
+  "DISPLAY_NAME": "Görünen Ad",
+  "DISPLAY_ORDER": "Sırayı Görüntüle",
+  "ENABLED": "Etkin",
+  "GENERAL_INFO": "Genel Bilgi",
+  "GENERAL_SETTINGS": "Genel Ayarlar",
+  "MAX_PURCHASE_AMOUNT": "Maksimum Satın Alma Tutarı",
+  "MERCHANT_ID": "Satıcı Kimliği",
+  "MERCHANT_LIST": "Satıcı Listesi",
+  "MIN_MAX_PURCHASE_AMOUNT": "Satın Alma Tutarı",
+  "MIN_PURCHASE_AMOUNT": "Min. Satın Alma Tutarı",
+  "NEW_MERCHANT": "Yeni Satıcı",
+  "OFFSET": "Offset",
+  "PAYMENT_METHODS": "Ödeme Yöntemleri",
+  "PAYMENT_PROVIDERS": "Ödeme Sağlayıcıları",
+  "PAYMENT_PROVIDER_EXIST": "Ödeme sağlayıcı bulunmakta",
+  "SETTINGS": "Ayarlar",
+  "TABLE": {
+    "COLUMNS": {
+      "DELETED": "Silindi",
+      "MERCHANT_NAME": "Satıcı Adı"
+    }
+  },
+  "TIME_ZONE": "Saat Dilimi",
+  "TYPE": "Tür",
+  "WEB_HOOKS": "Web Hooks"
+}

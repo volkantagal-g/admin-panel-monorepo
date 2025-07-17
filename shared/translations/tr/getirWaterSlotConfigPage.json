@@ -1,0 +1,20 @@
+{
+  "BULK_SLOT_UPDATE_INFO": "Tek sefer maksimum 1 aylık slot kapasitesi güncellenebilir.",
+  "CURRENT_ORDER_COUNT": "Sipariş Sayısı",
+  "FILTER": {
+    "APPLY": "Filtreleri Uygula",
+    "CITY_DESC": "Şehir Seçiniz",
+    "SELECT_SLOT_DATE": "Slot Tarihi Seçiniz",
+    "UPDATE_SLOT_CAPACITY": "Slot Kapasitesini Güncelle",
+    "WAREHOUSE_DESC": "Depo Seçiniz"
+  },
+  "MULTI_WAREHOUSE_SLOT_UPDATE": "Çoklu Depo Slot Güncelleme",
+  "NEW_SLOT_CAPACITY": "Yeni Slot Kapasitesi",
+  "SINGLE_WAREHOUSE_SLOT_UPDATE": "Tek Depo Slot Güncelleme",
+  "SLOT": "Slot",
+  "SLOT_CAPACITY": "Slot Kapasitesi",
+  "SLOT_DATE": "Slot Tarihi",
+  "SLOT_END": "Slot Bitiş",
+  "SLOT_START": "Slot Başlangıç",
+  "WAREHOUSE": "Depo"
+}

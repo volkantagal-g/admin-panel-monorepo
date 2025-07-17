@@ -1,0 +1,73 @@
+.push-notifications.global-ruleset.filter-form {
+  margin-top: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.filter-form .form-label-text {
+  margin-bottom: 12px;
+}
+
+.filter-form .half-field {
+  max-width: 400px;
+}
+
+.filter-form .flex-wrapper {
+  display: flex;
+}
+
+.flex-wrapper .num-cell:last-child {
+  margin-left: 1rem;
+}
+
+.filter-form table {
+  margin: 12px 24px;
+}
+
+.filter-form table .ant-row.ant-form-item {
+  margin-bottom: 12px;
+  margin-top: 12px;
+}
+
+.filter-form .flex-cell {
+  display: flex;
+  align-items: center;
+}
+
+.filter-form .flex-cell .ant-col, .filter-form .num-cell {
+  max-width: 100px;
+}
+
+.filter-form .ant-divider {
+  margin: 0 0 24px;
+}
+
+.service-rule-modal-btn-wrapper {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin-bottom: 1.5rem;
+}
+
+.service-rule-modal-switch-wrapper {
+  text-align: right;
+}
+
+.form-item-span-wrapper {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  height: 32px;
+  color: rgba(0, 0, 0, 0.85);
+  font-size: 12px;
+}
+
+.form-item-span-wrapper::after {
+  content: ':';
+  position: relative;
+  top: -0.5px;
+  margin: 0 8px 0 2px;
+}
+
+.service-selector-input.ant-col {
+  padding-left: 0 !important;
+}

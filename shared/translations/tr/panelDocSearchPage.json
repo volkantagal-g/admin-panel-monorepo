@@ -1,0 +1,16 @@
+{
+  "ADMIN_GUIDES": "Admin Panel Dokümanları",
+  "GUIDE_PAGE_STARTING_DESCRIPTION": "Bu rehberi kullanarak, dokümantasyonunuzu başlatabilirsiniz.",
+  "GUIDE_PAGE_STARTING_TITLE": "Başlangıç Rehberi",
+  "GUIDE_PERMISSIONS_DESCRIPTION": "Bu rehberi kullanarak, dokümantasyonunuzu başlatabilirsiniz.",
+  "GUIDE_PERMISSIONS_TITLE": "İzinler",
+  "HIGHLIGHTED_DOCUMENTS": "Öne Çıkan Dokümanlar",
+  "NO_ADMIN_GUIDES": "Admin dokümanı bulunamadı.",
+  "NO_FAV_DOCUMENTS": "Favorilenmiş doküman bulunamadı.",
+  "NO_HIGHLIGHTED_DOCUMENTS": "Öne çıkan doküman bulunamadı.",
+  "NO_RESULTS": "Dokümantasyon yok.",
+  "PAGE": "Sayfa",
+  "PAGE_TITLE": "Dokümantasyon Ana Sayfası",
+  "SEARCH_PLACEHOLDER": "Buradan dokümantasyon ismi, açıklaması, dosya başlıkları vs. arayabilirsin",
+  "SQUAD": "Ekip"
+}

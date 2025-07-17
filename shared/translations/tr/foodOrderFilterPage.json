@@ -1,0 +1,63 @@
+{
+  "ACTIONS": "Aksiyon",
+  "CANCELLED_ORDERS": "İptal Edilen Siparişler",
+  "CANCEL_REASON": "İptal Sebebi",
+  "CHECKOUT_DATE": "Sipariş Zamanı",
+  "CLIENT": "Müşteri",
+  "CONFIRMATION_CODE": "Sipariş Onay Kodu",
+  "COURIER": "Kurye",
+  "DATE": "Tarih",
+  "DELIVERY_TYPE": "Teslimat Şekli",
+  "DETAILS": "Detaylar",
+  "FILTER": {
+    "CITY_DESC": "Şehir Seçiniz",
+    "CONFIRMATION_CODE": {
+      "WARNING": "Sipariş Onay Kodu yalnızca 4 karakter iken filterelere eklenecektir!"
+    },
+    "COURIER_TRACKABILITY": {
+      "DESC": "Takip Tipi Seçiniz",
+      "TITLE": "Restoran Kurye Takip Edilebilirliği"
+    },
+    "COURIER_TYPE": {
+      "DESC": "Kurye Tipi Seçiniz",
+      "TITLE": "Kurye Tipi"
+    },
+    "DELIVERY_TYPE": {
+      "DESC": "Teslimat Tipi Seçiniz",
+      "TITLE": "Teslimat Tipi"
+    },
+    "PAYMENT_METHOD": {
+      "DESC": "Ödeme Yöntemi Seçiniz",
+      "TITLE": "Ödeme Yöntemi"
+    },
+    "PLATFORM": {
+      "DESC": "Platform Seçiniz",
+      "TITLE": "Platform"
+    },
+    "RESTAURANTS": {
+      "DESC": "Restoran Seçiniz",
+      "TITLE": "Restoran"
+    },
+    "SEARCH_DESC": "Müşteri Restoran Kurye Promosyon Kodu",
+    "STATUS": {
+      "DESC": "Statü Seçiniz",
+      "TITLE": "Statü"
+    },
+    "TIME_TYPE": {
+      "DESC": "Zaman Tipi Seçiniz",
+      "TITLE": "Zaman Tipi"
+    }
+  },
+  "GETIR_DELIVERY": "Getir Getirsin",
+  "ORDER": "Sipariş",
+  "PAYMENT_METHOD": "Ödeme Yöntemi",
+  "PLATFORM": "Platform",
+  "PRICE": "Price",
+  "RESTAURANT": "Restoran",
+  "STATUS": "Statü",
+  "SUCCESS_ORDERS": "Başarılı Siparişler",
+  "TIME_TYPE": "Zaman Tipi",
+  "TITLE": "GetirYemek Sipariş Filtresi",
+  "TRACKABLE_COURIER": "Takip Edilebilen Kurye",
+  "UNTRACKABLE_COURIER": "Takip Edilemeyen Kurye"
+}

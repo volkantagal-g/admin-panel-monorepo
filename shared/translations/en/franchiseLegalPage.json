@@ -1,0 +1,25 @@
+{
+    "DETAIL": {
+        "AGREEMENT_STATUS": "Agreement Status",
+        "APPROVAL_DATE": "Approval Date",
+        "APPROVED": "Approved",
+        "DATE_OF_SENT_NOTIFICATION": "Date of Sent Notification",
+        "HISTORY_TABLE_HEADER": "Notification History Table",
+        "NOT_APPROVED": "Not Approved",
+        "NO_DATE": "Waiting approval for displaying date",
+        "REMIND": "Remind to Franchises"
+    },
+    "LIST": {
+        "FRANCHISE_LEGAL_AGREEMENTS": "Franchise Legal Agreements",
+        "MAKE_IT_ACTIVE": "Make Active",
+        "MAKE_IT_INACTIVE": "Make Inactive",
+        "NEW_FRANCHISE_LEGAL_AGREMENT": "New Franchise Legal Agreement"
+    },
+    "UPLOAD": {
+        "PAGE_TITLE": "Franchise Legal Upload",
+        "WARNING": {
+            "NO_FILE": "No File",
+            "READY_TO_IMPORT": "Ready To Import"
+        }
+    }
+}

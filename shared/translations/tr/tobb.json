@@ -1,0 +1,9 @@
+{
+    "EXPORT_FAILED_VKNS": "Başarısız VKN isteklerini dışa aktar ({{count}})",
+    "EXPORT_INVALID_VKNS": "Geçersiz VKN'leri dışa aktar ({{count}})",
+    "EXPORT_SUCCEED_VKNS": "Başarılı VKN'leri dışa aktar ({{count}})",
+    "PROCESSING": "İşleniyor...",
+    "RETRY_FAILED_VKNS": "Başarısız VKN isteklerini yeniden deneyin ({{count}})",
+    "VKN": "VKN",
+    "VKN_ID": "VKN Id"
+}

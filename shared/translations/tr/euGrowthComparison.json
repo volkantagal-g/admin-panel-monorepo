@@ -1,0 +1,20 @@
+{
+  "SELECT_COUNTRY": "Ülke Seçiniz",
+  "SELECT_WEEK": "Karşılaştırılacak Hafta",
+  "TABLE": {
+    "COLUMNS": {
+      "AVG_DAILY_ORDER_COUNT": "Ort. Günlük Sipariş Sayısı",
+      "G10_ORDER_COUNT": "G10 Sipariş Sayısı",
+      "NUMBER_OF_WAREHOUSE": "Depo Sayısı",
+      "ORDER_COUNT_PER_WAREHOUSE": "Depo Başına Sipariş Sayısı",
+      "WEEK_GROWTH": "H/H Büyüme"
+    },
+    "TITLE": {
+      "CURRENT_WEEK": "Bu Hafta",
+      "WEEK_X_OF_EACH_CITY": "Her şehrin {{week}}. haftası",
+      "WEEK_X_OF_EACH_COUNTRY": "Her ülkenin {{week}}. haftası"
+    }
+  },
+  "WEEK_X": "{{week}}. hafta",
+  "X_DAYS": "{{day}} gün"
+}

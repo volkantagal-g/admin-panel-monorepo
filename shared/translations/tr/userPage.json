@@ -1,0 +1,47 @@
+{
+  "ACTIVE": "Aktif",
+  "ADD_ROLES": "Roller Ekle",
+  "ALL_ROLES_ARE_ADDED": "Yönetici olduğun tüm roller zaten bu kullanıcıda var",
+  "BATCH_WEBHELP_ID_UPDATE_LIMIT": "Aynı anda en fazla {{max}} kullanıcı güncellenebilir",
+  "BRING_PAGES": "Sayfaları Getir",
+  "BRING_ROLES": "Rolleri Getir",
+  "CAN_APPROVE_PERMISSION_REQUESTS": "İzin isteklerini onaylama yetkisi",
+  "CLICK_TO_LOAD_PAGES": "Sayfaları yüklemek için tıkla",
+  "CLICK_TO_LOAD_ROLES": "Rolleri yüklemek için tıkla",
+  "CONFIRM_REMOVE_WEBHELP_ID": "Kullanıcının webhelp id'sini silmek istediğine emin misin?",
+  "DEPARTMENT": "Departman",
+  "EXPIRY_DATE": "Son geçerlilik tarihi",
+  "EXPORT_USER": "Kullanıcıyı Dışa Aktar",
+  "GET_USER_BY_ID": "Id’ye göre getir",
+  "INACTIVE": "İnaktif",
+  "JOIN_DATE": "Katılma Tarihi",
+  "LISTING_MODALS": {
+    "COUNTRIES": {
+      "ACTION_TITLE": "Ülkeleri Göster",
+      "TITLE": "İzinli Ülkeler"
+    },
+    "ROLES": {
+      "ACTION_TITLE": "Rolleri Göster",
+      "TITLE": "Kullanıcı Rolleri"
+    }
+  },
+  "NEW_USER": "Yeni Kullanıcı",
+  "OK": "Uygula",
+  "OWNER": "Yönetici",
+  "PAGE_PERMISSION_INFO": "Sayfa İzin Bilgisi",
+  "PERMISSION_INFO": "İzin Bilgisi",
+  "ROLES": "Roller",
+  "ROLES_SEARCH_WILL_RESET": "Rol seçtikten sonra arama metni temizlensin",
+  "ROLE_INFO": "Kullanıcının Rolleri",
+  "SEARCH_PAGE": "Sayfa Ara",
+  "SELECT_THE_EXPORT_FILTERS": "Dışa aktarma filtrelerini seçin",
+  "SUSTAIN_ROLE_SEARCH_TEXT": "Aramayı Sıfırlama",
+  "USERS": "Kullanıcılar",
+  "USER_COUNTRY_DIFF_GLOBAL": "Bazı ülkelerin izinleri kullanıcıların ülke bazlı izinlerine göre engellenmiş olabilir",
+  "USER_COUNTRY_DIFF_SPECIFIC": "Bu ülke erişimi kullanıcının ülke bazlı izinlerine göre engellenmiştir",
+  "USER_INFO": "Hesap Bilgileri",
+  "USER_STATUS": "Kullanıcı Durumu",
+  "WEBHELP_ID": "Webhelp Id",
+  "WEBHELP_ID_CSV_IMPORT_WARNING": "Toplu güncelleme yalnızca webhelp Id eklemeyi destekler, eğer bir kullanıcıdan webhelp Id silmek istiyorsanız bunu tablo aksiyonlarından yapmalısınız",
+  "WEBHELP_ID_MUST_BE_FILLED": "Webhelp Id doldurulmalı"
+}

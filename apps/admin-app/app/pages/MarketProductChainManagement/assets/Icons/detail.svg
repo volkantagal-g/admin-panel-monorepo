@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="eyeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7B61FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#5936F2;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="1" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M8 3.5C5.01472 3.5 2.4878 5.46192 1.63883 8.16667C2.4878 10.8714 5.01472 12.8333 8 12.8333C10.9853 12.8333 13.5122 10.8714 14.3612 8.16667C13.5122 5.46192 10.9853 3.5 8 3.5ZM0 8.16667C0.937193 4.53781 4.17574 2 8 2C11.8243 2 15.0628 4.53781 16 8.16667C15.0628 11.7955 11.8243 14.3333 8 14.3333C4.17574 14.3333 0.937193 11.7955 0 8.16667Z" fill="url(#eyeGradient)" filter="url(#glow)"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M8 6.33333C7.07953 6.33333 6.33333 7.07953 6.33333 8C6.33333 8.92047 7.07953 9.66667 8 9.66667C8.92047 9.66667 9.66667 8.92047 9.66667 8C9.66667 7.07953 8.92047 6.33333 8 6.33333ZM4.83333 8C4.83333 6.25114 6.25114 4.83333 8 4.83333C9.74886 4.83333 11.1667 6.25114 11.1667 8C11.1667 9.74886 9.74886 11.1667 8 11.1667C6.25114 11.1667 4.83333 9.74886 4.83333 8Z" fill="url(#eyeGradient)" filter="url(#glow)"/>
+  <circle cx="8" cy="8" r="2" fill="url(#eyeGradient)" fill-opacity="0.3">
+    <animate attributeName="r" values="1.8;2.2;1.8" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0.3;0.5;0.3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg> 

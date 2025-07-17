@@ -1,0 +1,14 @@
+{
+    "ACCEPTANCE_POINT": "Kabul Puanı",
+    "AUTO_CLOSE_MESSAGE": "Otomatik Kapama Mesajı",
+    "AUTO_CLOSE_OPTION": "Otomatik Kapatma Seçeneği",
+    "DEFAULT_NOTE": "Varsayılan Not",
+    "DTS_RULES": "DTS Kuralı",
+    "DTS_RULE_DETAIL": "DTS Kural Detayı",
+    "NEW_DTS_RULE": "Yeni DTS Kuralı",
+    "REJECTION_POINT": "Ret Puanı",
+    "RULE_DESCRIPTION": "Kural Açıklaması",
+    "RULE_DETAIL": "Kural Detayı",
+    "RULE_NUMBER": "Kural No",
+    "WARNING_POINT": "Uyarı Puanı"
+}

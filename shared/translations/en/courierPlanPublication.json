@@ -1,0 +1,27 @@
+{
+  "COURIER_PLAN_TYPE": {
+    "SCHEDULED": "Scheduled Plan Publication",
+    "SLOT_CAPACITY": "Courier Slot Capacity Publication",
+    "STANDARD": "Standard Plan Publication"
+  },
+  "DATE_PAST_CONFIRM": "Some of the days are from past. Are you sure you want to publish plans for past?",
+  "DATE_PAST_EARLIEST": "For example, earliest of them:",
+  "EMPLOYEE_TYPE": {
+    "COURIER": "Courier",
+    "STORE_ASSISTANT": "Store Assistant"
+  },
+  "LINE_DAY_DIFF": "[row] : [day] : [how many days ago]",
+  "READY_TO_IMPORT": "Ready to import",
+  "WARNINGS": {
+    "DATE_IS_PAST": "You cannot plan for a day which is more than 30 days ago, row: ",
+    "INVALID_COLUMNS": "Invalid columns",
+    "INVALID_COURIER_PLAN": "Invalid courier plan, row: ",
+    "INVALID_COURIER_TYPE": "Invalid courier type, row: ",
+    "INVALID_DAY": "Invalid day, row: ",
+    "INVALID_DOMAIN_TYPE": "Invalid domain type, row: ",
+    "INVALID_HOUR": "Invalid hour, row: ",
+    "INVALID_SLOT_CAPACITY": "Invalid courier slot capacity, row: ",
+    "INVALID_WAREHOUSE_ID": "Invalid warehouse id, row: ",
+    "NO_DATA": "No data to parse, row: "
+  }
+}

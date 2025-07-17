@@ -1,0 +1,12 @@
+{
+  "DDS": "DDS (%)",
+  "DDS_TOOLTIP": "Depo Değerlendirme Sistemi",
+  "DTS": "DTS (%)",
+  "DTS_TOOLTIP": "Disiplin Takip Sistemi",
+  "DYS_CONFIGS": "Depo Yönetim Sistemi Tanımlamaları",
+  "KDS": "KDS (%)",
+  "KDS_TOOLTIP": "Kalite Denetim Sistemi",
+  "STS": "STS (%)",
+  "STS_TOOLTIP": "Stok Takip Sistemi",
+  "SUMMATION_ERROR_MESSAGE": "Sadece tam sayı değerler girilmeli ve değerlerin toplamı 100 olmalıdır."
+}

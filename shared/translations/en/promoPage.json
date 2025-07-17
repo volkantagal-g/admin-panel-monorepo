@@ -1,0 +1,533 @@
+{
+  "#": "#",
+  "ACTIVATE": "Activate",
+  "ACTIVATE_CONFIRM_TEXT": "Do you want to activate selected promos?",
+  "ACTIVATE_SELECTION": "Activate Selection",
+  "AGGRESSION_LEVELS": {
+    "HEADER_TITLE": "Aggression Levels"
+  },
+  "ALERT_COUNTRY_MESSAGE": "Select {{ countryName }} as the country to view this promotion.",
+  "ALL": "All",
+  "ALL_CITIES": "All cities",
+  "ALL_TOOLTIP": "Select all cities",
+  "AVAILABLE_TIMES": {
+    "HEADER_TITLE": "Available Times"
+  },
+  "BANNER": {
+    "BACKGROUND_PICTURE_URL": "Background Picture URL",
+    "COPY_BANNER": "Copy Banner",
+    "EDIT_BANNER": "Edit Banner",
+    "ERROR": {
+      "ERROR_BACKGROUND_IMAGE": "Background Image cannot be empty",
+      "ERROR_FOREGROUND_IMAGE": "Foreground Image cannot be empty",
+      "ERROR_PIC_IMAGE": "Images cannot be empty"
+    },
+    "FOREGROUND_PICTURE_URL": "Foreground Picture URL",
+    "GET_CONTENT_FROM": "Get Content From",
+    "HEADER_TITLE": "Banner Detail",
+    "LANDING_PAGE_ENABLED": "Landing Page Enabled",
+    "PICTURE_URL": "Picture URL",
+    "SELECT_BUSINESS_DETAIL_PAGE": "Select Merchant",
+    "SELECT_VERTICAL_PAGE": "Select Vertical Page",
+    "SERVICE_BUSINESS_DETAIL_PAGE_ENABLED": "Service Business Detail Page Enabled",
+    "SERVICE_CATEGORY_DETAIL_PAGE_ENABLED": "Service Category Detail Page Enabled",
+    "SERVICE_HOMEPAGE_ENABLED": "Service Homepage Enabled"
+  },
+  "BASIC_INFORMATION": {
+    "MASTER_PROMO": "Master Promo",
+    "PROMO_CODE": "Promo Code",
+    "PROMO_ID": "Promo ID",
+    "PROMO_TYPE": "Promo Type",
+    "TITLE": "Basic Information",
+    "VALID_DATES": "Valid Dates"
+  },
+  "BENEFIT_SAP": {
+    "BENEFIT_TYPE_SAP_TOOLTIP": "To update benefit type chid promos",
+    "ERRORS": {
+      "RATE_BETWEEN": "support_rates can not be added in some fields since it must be between 0 and 1.",
+      "REF_CODE_EMPTY": "Please add SAP ref codes for supplier or third-party supported products."
+    },
+    "HEADER_TITLE": "Benefit Type SAP"
+  },
+  "BENEFIT_TYPE": {
+    "DELIVERY_FEE_AMOUNT": "Delivery fee amount",
+    "DELIVERY_FEE_HINT": "If empty, default delivery fee will be charged",
+    "DISCOUNTED_PRICE": "Discounted Price",
+    "DISCOUNT_AMOUNT": "Discount Amount",
+    "DISCOUNT_RATIO": "Discount Ratio",
+    "DISCOUNT_TYPE": "Discount Type",
+    "DONT_ALLOW_MULTI_USAGE": "Don't allow multiple time usage",
+    "DO_NOT_CHARGE_DELIVERY": "Do not charge delivery fee",
+    "ERRORS": {
+      "DUPLICATE_PRODUCT_ID": "The CSV could not be loaded because the product ID {{productId}} was duplicated.",
+      "ERR_DISCOUNTED_PRICE_FIELD_SHOULD_BE_GREATER_THAN_0": "The discounted price should be greater than 0.",
+      "ERR_DISCOUNT_AMOUNT_FIELD_SHOULD_BE_GREATOR_THAN_0": "The discount Amount should be greater than 0.",
+      "ERR_EMPTY_ITEM_LIST": "Products should be added to benefit type.",
+      "ERR_MAX_ITEM_COUNT_FIELD_SHOULD_BE_GREATER_THAN_0": "The max item count should be greater than 0.",
+      "INVALID_DISCOUNTED_PRICE": "Could not upload csv because discounted invalid discounted price entered, it must be a decimal number.",
+      "INVALID_PRODUCTS_IMPORT": "The process are failed for {{INVALID_COUNT}} products",
+      "MISSING_DISCOUNTED_PRICE": "Could not upload csv because discounted price was not entered.",
+      "PROMO_TYPE_CANNOT_HAVE_DISCOUNTED_PRICE": "The discounted amount field for promotion type {{promoType}} must be empty, so the csv could not be loaded."
+    },
+    "HEADER_TITLE": "Benefit Type",
+    "INCLUDE_ITEMS_MIN_ORDER": "Include items in min order",
+    "MAX_ITEM_COUNT": "Max Item Count",
+    "PROMO_DISCOUNT_PRODUCTS": "Promo discount products"
+  },
+  "BULK_PROMO": {
+    "EMPTY_CSV": "No csv file. Please upload a csv file and try again.",
+    "INVALID_BULK_CSV": "Invalid bulk csv file. Please check the file and try again. Hint: ",
+    "PERCENTAGE": "For this Master promo type, you need to have a discount_amount value between 0-1. Please fix your CSV!",
+    "SUCCESS_N_PROMOS_IMPORT": "Total {promoCount} promos have been imported successfully.",
+    "TIP_CREATE_MASTER_PROMO": "Please create a Master Promo first by clicking 'New Promo' button and checking the master promo checkbox.",
+    "TITLE": "Bulk Promo"
+  },
+  "CAMPAIGN_NAME": "Campaign Name",
+  "CAMPAIGN_TITLE": "Campaign Title",
+  "CHILD_PROMOS": {
+    "ADD_PROMOS": "Add Promos",
+    "ADD_REMOVE_PROMOS": "Add/Remove Promos",
+    "ADD_REMOVE_PROMOS_HELPER": "Please select the promos by searching promo codes or upload a CSV that includes promo codes.",
+    "BULK_ACTIVATE": "Bulk Activate",
+    "BULK_DEACTIVATE": "Bulk Deactivate",
+    "BULK_RESULT": {
+      "MESSAGE": "Message",
+      "TITLE": "Bulk Operation Result"
+    },
+    "CHECK_ALL": "Select All",
+    "CHECK_ALL_HINT": "Selects all the filtered promos between the pages. If you want to select all promos, you need to clear the filters.",
+    "CHILDREN_PROMOS_ADDED_SUCCESSFULLY": "Child promos added successfully.",
+    "CHILDREN_PROMOS_REMOVED_SUCCESSFULLY": "Child promos removed successfully.",
+    "CREATOR_PARENT_ID": "Creator Parent ID",
+    "ERRORS": {
+      "EMPTY_CHECKED_PROMOS": "Please select a child promo",
+      "FAILED_PRIORITY_PROMOS": "{{FAILED_COUNT}} promos could not be activated. It must have unique priority values: ",
+      "FAILED_PROMOS": "{{FAILED_COUNT}} of the {{TOTAL_COUNT}} promos could not be activated. Please check the details of the promotion and try again. Related promos: "
+    },
+    "IS_MASTER": "Is Master",
+    "MASTER_ID": "Master ID",
+    "MASTER_PROMO_CODE": "Master Promo Code",
+    "PARENT_ID": "Parent ID",
+    "REMOVE_PROMOS": "Remove Promos",
+    "REMOVE_SELECTED": "Remove Selected",
+    "SUCCESSFUL_ACTIVATED_PROMOS": "{{SUCCESSFUL_COUNT}} of {{TOTAL_COUNT}} promotions are activated successfully.",
+    "SUCCESSFUL_DEACTIVATED_PROMOS": "{{SUCCESSFUL_COUNT}} of {{TOTAL_COUNT}} promotions are deactivated successfully.",
+    "TITLE": "Child Promos"
+  },
+  "CLASSIFICATION": {
+    "BENEFIT_GROUP": "Benefit Group",
+    "COPY_CLASSIFICATION": "Copy Classification",
+    "DAYPART": "Daypart",
+    "FUNNEL_SEGMENT": "Funnel Segment",
+    "LOCATION": "Location",
+    "OCCASION": "Occasion",
+    "PRODUCT_TL_GROUP": "Produt TL Group",
+    "PROMO_CLASS": "Promo Class",
+    "PROMO_TARGET": "Promo Target",
+    "RESPONSIBLE_DEPARTMENT": "Responsible Department",
+    "TITLE": "Classification",
+    "WEEKPART": "Weekpart"
+  },
+  "COLUMNS": {
+    "ACTION": "Action",
+    "PROMO_CODE": "Promo Code"
+  },
+  "COMMUNICATIONS": {
+    "AI_GENERATION": "AI Generation",
+    "ASSETS_TO_CREATE": "Assets to Create",
+    "CANT_UPDATE_ON_THIS_PROCESS_STATUS": "You can't update on this process status",
+    "COMMS_STATUS": {
+      "DONE": "Done",
+      "FAILED": "Failed",
+      "IN_PROGRESS": "In Progress",
+      "WAITING": "Waiting"
+    },
+    "FIELD_INFO": "This area allows you to generate your promo content with AI and personalize communication by clustering the uploaded segment. After saving, the marketing responsible will approve the content on the Marketing Approval Page, and the notifications will appear on the Push Notifications page.",
+    "GET_INFO": "Get Info About AI Generation",
+    "HEADER_TITLE": "Communications",
+    "MESSAGE": "Message",
+    "NEW": "New"
+  },
+  "CONDITION_PRODUCTS": {
+    "DOWNLOAD_CSV": "Download CSV",
+    "ERRORS": {
+      "ERR_ITEM_REQUIRED": "A valid product ID must be entered for the 'item' field.",
+      "ERR_MIN_REQ_ITEM_COUNT_SHOULD_BE_GREATOR_THAN_0": "Min req item count should be greater than 0.",
+      "ERR_PROMO_DISCOUNT_PRODUCTS": "Promo conditional products are required.",
+      "ERR_SUPPLIER_REF_ID_MUST_BE_NUMBER": "Supplier reference ID must be a number.",
+      "ERR_SUPPLIER_SUPPORT_MIN_MAX": "Supplier support rate must be between 0 and 1.",
+      "ERR_SUPPLIER_SUPPORT_RATE_AND_REF_ID": "Supplier reference ID and supplier support rate must be entered together",
+      "ERR_THIRD_PARTY_REF_ID_MUST_BE_NUMBER": "Third-party reference ID must be a number.",
+      "ERR_THIRD_PARTY_SUPPORT_MIN_MAX": "Third-party support rate must be between 0 and 1.",
+      "ERR_THIRD_PARTY_SUPPORT_RATE_AND_REF_ID": "Third-party reference ID and third-party support rate must be entered together",
+      "MAX_ITEM_COUNT_FOR_LISTING_PROMO": "Min required item count can be a maximum of 5 in this mechanic."
+    },
+    "FAILED_PRODUCTS_IMPORT": "{{ failedImportCount }} number of products could not be imported.",
+    "HEADER_TITLE": "Conditions Products",
+    "MIN_ITEM_COUNT": "Min required item count",
+    "MIN_TOTAL_AMOUNT": "Required products min total amount",
+    "REQUIRED_PRODUCTS": "Promo Required Products",
+    "SUCCESS_N_PRODUCTS_IMPORT": "Total {{ importCount }} products have been imported successfully.",
+    "TABLE_TITLE": {
+      "ALREADY_SOLD": "Already Sold",
+      "DISCOUNTED_PRICE": "Discounted Price",
+      "IMAGE": "Image",
+      "PRODUCT": "Product",
+      "SALE_LIMIT": "Sale Limit",
+      "SAP_REFER_CODE": "Supplier SAP Ref Code",
+      "SUPPLIER_SUPPORT_RATE": "Supplier Support Rate",
+      "THIRD_PARTY_REFER_CODE": "Third Party Refer Code",
+      "THIRD_PARTY_SUPPORT_RATE": "Third Party Support Rate"
+    },
+    "UPLOAD_CSV": "Upload Csv"
+  },
+  "CONFIRM": "Confirm",
+  "COPY_PROMO": {
+    "TITLE": "Copy Promo"
+  },
+  "DISCOUNT_REASON": "Discount Reason",
+  "EDIT_PRIORITY": "Edit Priority",
+  "ERRORS": {
+    "DISCOUNT_TYPE_EMPTY": "Discount type cannot be empty",
+    "ERR_EMPTY_SAP_REF_CODE": "Please fill the 'SAP Ref Code' field to proceed.",
+    "ERR_EMPTY_SAP_SUPPORT_RATE": "Please fill the 'Supplier Support Rate' field to proceed.",
+    "INVALID_DEVICE_TYPE": "Please select a valid device type",
+    "INVALID_DOMAIN_TYPE": "Please select a valid domain type",
+    "INVALID_PROMO_TARGET": "Please select a valid promo target",
+    "MASTER_PROMO_NOT_ALLOWED": "Master promo is only allowed for Listing promos.",
+    "MAX_COUNT": "Must be greater than min count",
+    "MIN_COUNT": "Must be less than max count",
+    "MIN_MAX_COUNT_MUST_BE_CONSISTENT": "If the ‘max item count’ is greater than the ‘min req item count’, the ‘do not allow multiple time usage’ box should be checked."
+  },
+  "ERR_INVALID_CSV_FILE": "Invalid csv file",
+  "ERR_INVALID_SUPPLIER": "Could not upload csv because supplier id does not match.",
+  "EXCLUDED_PRODUCTS": {
+    "HEADER_TITLE": "Excluded Products",
+    "PRODUCT_CATEGORIES": "Excluded Product Categories",
+    "PRODUCT_SUB_CATEGORIES": "Excluded Product Subcategories",
+    "PROMO_PRODUCTS": "Promo excluded products"
+  },
+  "FINANCIAL_CONDITION": {
+    "DO_NOT_APPLY_BASKET_SIZE": "Do not apply min basket size",
+    "ERORRS": {
+      "ERR_INVALID_CARD_BIN_LIST": "Invalid card bin list: ",
+      "ERR_SUPPLIER_SUPPORT_RATE": "Supplier support rate must be between 0 and 1",
+      "ERR_THIRD_PARTY_RATE": "Third party support rate must be between 0 and 1",
+      "SUPPLIER_SHOULD_BE_SELECTED": "Supplier should be selected"
+    },
+    "FINANCED_BY": "Financed by",
+    "HEADER_TITLE": "Financial Condition",
+    "IS_FREE_PRODUCT": "Is Free Product",
+    "MAX_BASKET_SIZE": "Max Basket Size",
+    "MIN_BASKET_SIZE": "Min Basket Size",
+    "MIN_DISCOUNTED_BASKET_SIZE": "Min Discounted Basket Size",
+    "PAYMENT_METHODS": "Payment Methods",
+    "PROMO_MIN_BASKET_CHOICE": "Promo Min Basket Choice",
+    "SUPPLIER": "Supplier",
+    "SUPPLIER_SUPPORT_RATE": "Supplier Support Rate",
+    "THIRD_PARTY_SUPPORT_RATE": "Third Party Support Rate",
+    "VALID_CARD_BINS": "Valid card bins"
+  },
+  "GENERAL_INFO": {
+    "AUTO_CLOSE": "Auto Close",
+    "CITIES": "Cities",
+    "END_DATE": "End Date",
+    "MAXIMUM_ORDER_LIMIT_FOR_THE_PROMO": "Maximum order limit for the promo",
+    "NEVER_CLOSE": "Never Close",
+    "PLATFORM": "Platform",
+    "PRIORITY": "Priority",
+    "PROMOS_LINKED_TO_THIS_PROMO": "Promos linked to this promo",
+    "PROMO_CODE": "Promo Code",
+    "PROMO_CODE_TO_LINK": "Promo code to link",
+    "PROMO_DOMAIN": "Promo Domain",
+    "PROMO_TARGET": "Promo Target",
+    "START_DATE": "Start Date",
+    "TITLE": "General Information",
+    "WAREHOUSES": "Warehouses",
+    "WAREHOUSE_FLAGS": "Warehouse Flags"
+  },
+  "GENERATE_CHILD_PROMOS": {
+    "CREATE_CHILD_PROMOS": "Create Child Promos",
+    "THROUGH_BENEFIT_PRODUCTS": "Through Benefit Products",
+    "THROUGH_SEGMENT": "Through Segment",
+    "TITLE": "Generate Child Promos"
+  },
+  "HIDE_PICTURES_PREVIEWS": "Hide Picture Previews",
+  "HINT": {
+    "AI_CHANGES_WARNING": "Changes in this field may affect the segments created by artificial intelligence. You can use the ‘Segment’ field to create a new segment after making changes.",
+    "AUTO_INACTIVE_ON_EXPIRY": "The promotion will automatically become inactive when the validity date you specify expires.",
+    "CLASSIFICATION_CHANGE_RESTRICTED": "If a promotion has been used on any order, its classification cannot be changed.",
+    "MULTIPLE_TIME_USAGE": "If you do not want cumulative usage of the promotion, you can check this field.\n\nCumulative usage is based on the minimum required product quantity set as a condition and the maximum number of discounted products to be provided.",
+    "NEVER_CLOSE": "If you want the promotion to remain continuously visible within the specified date range, you can select this option.",
+    "NO_ZERO_SEGMENT": "Promotions you link cannot include the ‘0’ segment and must include at least one segment.",
+    "UNIQUE_PRIORITY": "The priority value must be unique for each promotion."
+  },
+  "INACTIVATE": "Inactivate",
+  "INACTIVATE_CONFIRM_TEXT": "Do you want to inactivate selected promos?",
+  "INACTIVATE_SELECTION": "Inactivate Selection",
+  "IS_AGGRESSION_STATE_NON_AFFECTED": "Never Close",
+  "IS_MASTER_PROMO": "Is Master Promo",
+  "LINKED_DATA_INFORMATION": {
+    "AGGRESSION_LEVEL": "Aggression Level",
+    "AGGRESSION_LEVEL_BASED": "Aggression level based",
+    "BRING_FROM_PROMOS": "Bring from promos",
+    "COPY": "Copy",
+    "COPY_SUCCESS": "Copied Successfully",
+    "DOMAIN_TYPES": {
+      "G10": "G10",
+      "GETIR_MORE": "GetirMore",
+      "GETIR_VOYAGER": "GetirVoyager"
+    },
+    "ERRORS": {
+      "LINKED_DATA_EMPTY_PRODUCTS": "At least one product must be selected.",
+      "LINKED_DATA_MESSAGE_AREA_EMPTY": "Message area of <lang> cannot be empty.",
+      "NO_TARGET_SERVICE_SELECTED": "Please select the target service."
+    },
+    "GENERATE_JINJA_EXPRESSIONS": "Generate jinja expressions",
+    "HEADER_TITLE": "Linked Data Information - Notification",
+    "INCLUSION_TYPE": "Inclusion Type",
+    "JINJA": "Jinja",
+    "LANGUAGES": "Languages",
+    "MESSAGE": "Message",
+    "PRODUCTS": "Products",
+    "STOCK_BASED": "Stock Based",
+    "TARGET_SERVICE": "Target Service",
+    "TOTAL_MIN_PRODUCT_STOCK_COUNT": "Total min. product stock count"
+  },
+  "LINKED_PROMOTIONS": {
+    "HEADER_TITLE": "Linked Promotions"
+  },
+  "MASTER_ID": "Master Promo ID",
+  "MASTER_PROMO": "Master Promo",
+  "MESSAGE": {
+    "ACTIVATE_STATUS": "Are you sure to activate promo?",
+    "ALREADY_ADDED": "Already added",
+    "CANNOT_ADD_CHILD_PROMO_TO_NON_PARENT_ERROR": "Child promos cannot be added to non-parent promos.",
+    "CANNOT_ADD_PARENT_PROMO_TO_PARENT_ERROR": "Parent promos cannot be added to parent promos.",
+    "CANNOT_REMOVE_CHILD_PROMO_FROM_NON_PARENT_ERROR": "Child promos cannot be removed from non-parent promos.",
+    "CANNOT_REMOVE_PARENT_PROMO_FROM_PARENT_ERROR": "Parent promos cannot be removed from parent promos.",
+    "EMPTY_PROMO_CONTENT_HTML": "Content HTML cannot be empty",
+    "EMPTY_VALID_FROM_OR_UNTIL_ERROR": "Valid from or valid until cannot be empty.",
+    "ERR_BENEFIT_CONDITION_PRODUCTS_MISMATCH": "In order for this promo to be activated, the products entered in the 'Benefit Type' and 'Discount Condition Products' tabs must match.",
+    "ERR_EMPTY_BADGE": "To activate the campaign, the promotion badge should be selected.",
+    "ERR_EMPTY_CAMPAIGN_URL": "Campaign URL can not be empty !",
+    "ERR_EMPTY_CLASSIFICATION": "Classifications can not be empty",
+    "ERR_EMPTY_PROMO_IMAGE": "Picture preview can not be empty!",
+    "ERR_INVALID_SEGMENT_FOR_LINKED_PROMOTION": "Linked promotions must have at least one segment, and must not include '0' segment.",
+    "ERR_MIN_REQ_ITEM_COUNT_SHOULD_BE_GREATER_THAN_0": "Min req item count should be greater than 0.",
+    "ERR_PROMO_CLIENT_SEGMENTS_EMPTY": "The segments of the promo to be linked are empty or it's already open for everyone!",
+    "ERR_PROMO_DISCOUNT_PRODUCTS": "Promo discount products are required.",
+    "ERR_PROMO_PRIORITY_IS_NOT_UNIQUE": "Promo priority is not unique, please choose another priority.",
+    "ERR_UNEXPECTED": "Unexpected error occurred, please try again.",
+    "FAIL": "Failed",
+    "HAS_NO_ACCESSIBILITY_LABEL_ERROR": "This promotion has no accessibility label.",
+    "HAS_NO_CHILDREN_ERROR": "This promotion has no children.",
+    "HAS_NO_DESCRIPTION_ERROR": "This promotion has no description.",
+    "HAS_NO_DOMAIN_TYPE_ERROR": "This promotion has no domain type.",
+    "HAS_NO_PROMO_CONTENT_SECTION_TITLE_ERROR": "This promotion has no promo content section title.",
+    "HAS_NO_TITLE_ERROR": "This promotion has no title.",
+    "INACTIVATE_STATUS": "Are you sure to inactivate promo?",
+    "INVALID_AGGRESSION_STATE_FOR_ACTIVE": "You should select valid aggression states when the never close is not checked",
+    "INVALID_AGGRESSION_STATE_FOR_NEVER_CLOSE": "You should clear the open aggression states for when never close is checked",
+    "INVALID_PROMO_HIERARCHY_ERROR": "Invalid promo hierarchy.",
+    "INVALID_PROMO_MECHANIC": "Invalid promo mechanic",
+    "INVALID_PROMO_USAGE_ERROR": "Invalid promo usage and subscription detail",
+    "INVALID_SEGMENT_FOR_LINKED_PROMOTION_ERROR": "Linked promotions must have at least one segment, and must not include '0' segment.",
+    "IS_NOT_PARENT_PROMO_ERROR": "This promotion is not a parent promo.",
+    "IS_PARENT": "Is parent",
+    "NOT_FOUND": "Not found",
+    "NOT_PARENT": "Not parent",
+    "NO_PROMO_WAS_ADDED_ERROR": "No promos were added.",
+    "NO_PROMO_WAS_REMOVED_ERROR": "No promos were removed.",
+    "P3_NOT_DONE_ERROR": "The promotion could not be activated because the segment created with AI is not ready yet. Please try again later.",
+    "PROMO_CONTENT_HAS_NOT_CHANGED": "HTML has not changed",
+    "PROMO_PRIORITY_IS_NOT_UNIQUE_ERROR": "Promo priority is not unique, please choose another priority.",
+    "SUCCESS": "Successful"
+  },
+  "NEW_PROMO": {
+    "BASKET_PROMOS": "Basket Promos (will be shown on product basket & tab)",
+    "LISTING_PROMOS": "Listing Promos (will be shown on product cards & optionally tab)",
+    "TAB_PROMOS": "Tab Promos (will be shown on tab & checkout)",
+    "TITLE": "New Promo"
+  },
+  "NO": "No",
+  "NONE": "None",
+  "NONE_TOOLTIP": "Remove all selections",
+  "PARENT_PROMOS": {
+    "PARENT_PROMOS_ADDED_SUCCESSFULLY": "Parent promos added successfully.",
+    "PARENT_PROMOS_REMOVED_SUCCESSFULLY": "Parent promos removed successfully.",
+    "TITLE": "Parent Promos"
+  },
+  "PARENT_PROMO_DETAILS": {
+    "ACTIVE_PROMO_COUNT": "Active Promo Count",
+    "ACTIVE_PROMO_COUNT_HINT": "The total number of active child promotions linked to the parent promotion.",
+    "ADDED_CHILD_PROMO": "Added Child Promo",
+    "ADDED_CHILD_PROMO_HINT": "The total number of child promotions manually added to the parent promotion.",
+    "AI_GENERATED_PRODUCTS": "AI Generated Products",
+    "AI_GENERATED_SEGMENT": "AI Generated Segment",
+    "CREATED_CHILD_PROMO": "Created Child Promo",
+    "CREATED_CHILD_PROMO_HINT": "The total number of child promotions generated using AI through the parent promotion.",
+    "NO_ACTIVE_PROMO_WARNING": "There are no active child promotions linked to this parent promotion.",
+    "TITLE": "Parent Promo Details",
+    "TOTAL_CHILD_PROMO_COUNT": "Total Child Promo Count",
+    "TOTAL_CHILD_PROMO_COUNT_HINT": "The total number of all child promotions linked to the parent promotion (including manual and AI-generated)."
+  },
+  "PARENT_PROMO_PRODUCTS_DOWNLOADED_SUCCESSFULLY": "Parent promo products downloaded successfully",
+  "PICTURE_INFORMATION": {
+    "HEADER_TITLE": "Picture Information",
+    "NOTIF_PREVIEW": "Notif Preview",
+    "PICTURE_PREVIEW": "Picture Preview (Android)",
+    "POPUP_PREVIEW": "Popup Preview",
+    "THUMBNAIL_PREVIEW": "Thumbnail Preview"
+  },
+  "PRIORITY": "Priority",
+  "PROMO_BADGE": {
+    "BASKET_APPLIED_BADGE": "Basket Badge (Applied):",
+    "BASKET_NOT_APPLIED_BADGE": "Basket Badge (Non-Applied):",
+    "HEADER_TITLE": "Promo Badges",
+    "PRODUCT_BADGE_LABEL": "Promo Badge Text",
+    "PRODUCT_DETAIL_PAGE_BADGE": "Product Detail Badge:",
+    "PRODUCT_LISTING_PAGE_BADGE": "Product Listing Badge:"
+  },
+  "PROMO_BUTTON_ACTION": {
+    "HEADER_TITLE": "Button Action"
+  },
+  "PROMO_CONTENT": {
+    "ACCESSIBILITY_LABEL": "Accessibility Label",
+    "DESCRIPTION": "Description",
+    "HEADER_TITLE": "Promo Content",
+    "PROMO_CONTENT_SECTION": "Promo Content Section",
+    "TITLE": "Title"
+  },
+  "PROMO_DETAILS": "Promo Details",
+  "PROMO_DETAIL_TITLE": "Promo Detail",
+  "PROMO_GROUP": {
+    "HEADER_TITLE": "Promo Group",
+    "REMOVE_WARNING": "Due to low usage frequency, this area has been deactivated. If you need to use this area, you can reach out to the Incentives team."
+  },
+  "PROMO_HIERARCHY": "Promo Hierarchy",
+  "PROMO_LIST": {
+    "PROMO_CODE": "Promo Code",
+    "TARGET_DOMAIN_TYPE": "Target Domain Type",
+    "TITLE": "Promos"
+  },
+  "PROMO_TYPE": "Promo Type",
+  "PROMO_URL": {
+    "APPLY_TO_V2": "Apply the changes for V2",
+    "HEADER_TITLE": "Promo URLs",
+    "PROMO_HTML": "Promo HTML",
+    "PROMO_HTML_V2": "Promo HTML V2",
+    "PROMO_URL": "Promo URL",
+    "PROMO_URL_FOR_WEB": "Promo URL for Web",
+    "PROMO_URL_V2": "Promo URL(v2)"
+  },
+  "RESPONSIBLE_DEPARTMENT": "Responsible Department",
+  "SEARCH_IN_TABLE": "Search in table",
+  "SEARCH_PROMO": "Search a Promo",
+  "SEGMENT": {
+    "AI_GENERATION": "AI Generation",
+    "ALL_CLIENTS": "All Clients",
+    "CLIENT_COUNTS": "Client Count",
+    "COPY_SEGMENTS": "Copy Segments",
+    "COUNT_SEGMENTS": "Get Counts for Segments",
+    "DOWNLOAD_SEGMENTS": "Download Segments",
+    "ERRORS": {
+      "CLIENT_NOT_FOUND": "We’re sorry! AI can not create segment for selected ‘Benefit Type’ products, please add segment manually to proceed.",
+      "NO_DOMAIN": "To create a segment with AI, you must select domain type on ‘General Information' field. Please fill in this field before proceeding",
+      "NO_PRODUCTS": "To create a segment with AI, you must have at least one product in the 'Benefit Product' field. Please fill in this field before proceeding",
+      "PROCESSING": "This process will take some time.  Please re-try in a minute."
+    },
+    "EXCLUDED_CLIENT": "Excluded Client C. ",
+    "EXCLUDED_FRAUD_LEVELS": "Excluded Fraud Levels",
+    "EX_SEGMENTS": "Ex Segments",
+    "GET_INFO": "Get Info About AI Generation",
+    "HEADER_TITLE": "Segments",
+    "INCLUDED_CLIENT": "Target Client C. ",
+    "INFO": "To use this feature, ensure that the AI Generation toggle is switched on. Segment field is automatically filled with AI-generated segments and is not open for manual editing. You have to choose one of the objectives. Objectives are as like following; 'High Propensity': Offer promotions to users likely to purchase based on past or potential buying behavior. 'Penetration': Introduce users to new product categories they haven't purchased before. 'Order Driver': Create larger shopping baskets by recommending. And you can enter values manually on Exc Segments and Fraud Levels fields. When the status turns to “Done” or “Failed”, it will be shared on Slack channel. Slack channel: magical-ai-updates. You can find more details by clicking in the header on Page Info > Page Documents",
+    "NEW": "New",
+    "OBJECTIVE": "Objective",
+    "OWN_BRANDS": "Own Brands",
+    "OWN_PRODUCTS": "Own Products",
+    "P3_STATUS": {
+      "DONE": "Done",
+      "FAILED": "Failed",
+      "IN_PROGRESS": "In Progress"
+    },
+    "REGENERATE_MANUALLY": "The changes you make in this area may affect the AI-generated segment. To create a new segment tailored to your modifications, you can use the 'Segment' field.",
+    "REGENERATE_SEGMENTS": "Regenerate Segments",
+    "SUBCATEGORIES": "Subcategories",
+    "TARGETED_BRANDS": "Targeted Brands",
+    "TARGETED_PRODUCTS": "Targeted Products"
+  },
+  "SEGMENT_TYPES": {
+    "ERRORS": {
+      "ERR_EMPTY_CSV_FILE": "Segment file is empty",
+      "ERR_EMPTY_SEGMENT_TYPES": "Segments types are empty"
+    },
+    "HEADER_TITLE": "Segment Types",
+    "IMPORT_CLIENTS_FROM_CSV": "Import clients from CSV"
+  },
+  "SELECT_PRODUCT": {
+    "NOT_FOUND": "Not Found",
+    "NOT_FOUND_PLEASE_TYPE_FOR_SEARCH": "Not Found: Enter at least {{ letterCount }} letters to search.",
+    "PRODUCTS": "Products"
+  },
+  "SHOW_INDIVIDUALLY": "Show individually",
+  "SHOW_PICTURE_PREVIEWS": "Show Picture Previews",
+  "STATUS": "Status",
+  "TARGET_DOMAIN": "Target Domain",
+  "TERMS_AND_CONDITIONS": {
+    "CONDITIONS": "Conditions",
+    "EXAMPLE_USAGES": "Example Usage",
+    "EXCLUDED_PRODUCTS": "Excluded Products",
+    "EXPIRATION_DATE": "Expires on ⏳",
+    "INSTANT_DISCOUNT": "Instant discount in basket 💸",
+    "MINIMUM_BASKET": "Min basket 💰",
+    "NO_DELIVERY_FEE": "Free delivery 🚚",
+    "PLEASE_USE_CAMPAIGN_DETAILS": "Please use the new 'Campaign details' section",
+    "PROMO_USAGE": "Promotion Usage",
+    "REMAINING_USAGE_RIGHTS": "Uses left 🧾",
+    "SELECT_AT_CHECKOUT": "Select at checkout 🛒",
+    "TITLE": "Campaign Details",
+    "USE_NEW_SECTION": "Please use the new section below, 'Campaign Details'",
+    "WITH_OTHER_PROMOS": "With other promos ✅"
+  },
+  "USAGE": "Usage",
+  "USAGE_INFORMATION": {
+    "HEADER_TITLE": "Usage Information",
+    "TOTAL_DISCOUNT_AMOUNT": "Total Discount Amount",
+    "TOTAL_PRICE": "Total Price",
+    "TOTAL_PURCHASING_PRICE": "Total Purchasing Price",
+    "TOTAL_VAT_VALUE": "Total Vat Value",
+    "UNIQUE_CLIENT_COUNT": "Unique Client Count",
+    "USED_COUNT": "Used Count"
+  },
+  "USER_FILTERING": {
+    "DAILY_USE_LIMIT": "Daily Use Limit",
+    "HEADER_TITLE": "User Filtering",
+    "HEALTHCARE_PROFESSIONAL": "Health Care Professional",
+    "MAX_SUC_CARBOY_ORDER_COUNT": "Max. number of successful carboy order",
+    "MAX_SUC_FOOD_ORDER_COUNT": "Max. Food Order Count",
+    "MAX_SUC_GORILLAS_ORDER_COUNT": "Max. Gorillas Order Count",
+    "MAX_SUC_MARKET_ORDER_COUNT": "Max. GetirMore Order Count",
+    "MAX_SUC_ORDER_COUNT": "Max. Getir10 Order Count",
+    "MAX_SUC_VOYAGER_ORDER_COUNT": "Max. GetirWater Order Count",
+    "MIN_SUC_CARBOY_ORDER_COUNT": "Min. number of successful carboy order",
+    "MIN_SUC_FOOD_ORDER_COUNT": "Min. Food Order Count",
+    "MIN_SUC_GORILLAS_ORDER_COUNT": "Min. Gorillas Order Count",
+    "MIN_SUC_MARKET_ORDER_COUNT": "Min. GetirMore Order Count",
+    "MIN_SUC_ORDER_COUNT": "Min. Getir10 Order Count",
+    "MIN_SUC_VOYAGER_ORDER_COUNT": "Min. GetirWater Order Count",
+    "ONLY_PREMIUM_DEVICE_MODELS": "Only Premium Device Models",
+    "ORDER_LIMIT_COUNT": "Max. Order Count",
+    "REQ_DAYS_AFTER_LAST_FOOD_ORDER": "Duration After Last GF Order",
+    "REQ_DAYS_AFTER_LAST_ORDER": "Duration After Last G10 Order",
+    "SHOW_LOCATION_FREE": "Show location free",
+    "SHOW_ONLY_TO_LOCAL_NUMBERS": "Show only to local numbers",
+    "USE_LIMIT": "Use limit"
+  },
+  "VALID_FROM": "Valid From",
+  "VALID_UNTIL": "Valid Until",
+  "WORKING_HOURS": "Working Hours",
+  "YES": "Yes"
+}

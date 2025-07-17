@@ -1,0 +1,20 @@
+{
+  "COLUMN": {
+    "DEVICE_STATUS": "Device Status",
+    "FRAUD_STATUS": "Fraud Status",
+    "GIVEAWAY_PRODUCT": "Giveaway Product",
+    "MOBILE_NUMBER": "Mobile Number",
+    "PRODUCT_STATUS": "Product Status"
+  },
+  "FRAUD": "Fraud",
+  "GET_DISCOUNT_CODE": "Get Discount Code",
+  "NOTIFICATIONS": {
+    "DELIVER_SUCCESS": "You can deliver the prize"
+  },
+  "NOT_FRAUD": "Not Fraud",
+  "NOT_REDEEMED": "Not Redeemed",
+  "REDEEM": "Redeem",
+  "REDEEMED": "Redeemed",
+  "REDEEMED_PRODUCT": "Product already redeemed",
+  "TITLE": "Giveaway Draws"
+}

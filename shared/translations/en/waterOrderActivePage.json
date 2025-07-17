@@ -1,0 +1,54 @@
+{
+  "DATA_TABLE": {
+    "ACTION": "Action",
+    "BASKET": "Basket",
+    "BRAND": "Brand",
+    "CHARGED_AMOUNT": "Chrg",
+    "CITY": "City",
+    "CREATED_DATE": "Cart Date",
+    "CUSTOMER_NAME": "Customer",
+    "DATE": "Date",
+    "DROP_OFF_AT_DOOR": {
+      "NO": "N",
+      "YES": "Y"
+    },
+    "G10": "G10",
+    "GATE": "Door",
+    "GSU": "GSU MP",
+    "KUZEYDEN": "Kuzeyden",
+    "LAST_STATUS": "Last Act.",
+    "ORDERS": "orders",
+    "ORDER_NO": "No",
+    "PAYMENT_DATE": "Order Date",
+    "PAYMENT_METHOD": "Payment Method",
+    "PROMOTION": "Promo",
+    "STATUS": "Status",
+    "TOTAL": "Total",
+    "TOTAL_TIME": "Total Time",
+    "VENDOR": "Vendor",
+    "VENDORS_ORDERS": "V. Ord."
+  },
+  "FILTER": {
+    "BRAND": {
+      "DESC": "Select Brand",
+      "TITLE": "Brand"
+    },
+    "CITY": {
+      "DESC": "Select City",
+      "TITLE": "City"
+    },
+    "PAYMENT_METHOD": {
+      "DESC": "Select Payment Method",
+      "TITLE": "Payment Method"
+    },
+    "SEARCH": {
+      "DESC": "Search a customer, vendor, or promotion code",
+      "TITLE": "Search (at least 3 characters)"
+    },
+    "VENDOR": {
+      "DESC": "Select Vendor",
+      "TITLE": "Vendor"
+    }
+  },
+  "TITLE": "GetirWater Active Orders"
+}

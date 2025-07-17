@@ -1,0 +1,108 @@
+{
+  "COURIER_LOGIN": {
+    "EXPLANATION": "Açıklama",
+    "HISTORY_TITLE": "Kurye Giriş Açma Kapama İşlem Geçmişi",
+    "IS_LOGIN_DISABLED": "Giriş Yapamasın",
+    "REASON": "Neden",
+    "TITLE": "Kurye Giriş"
+  },
+  "COURIER_POOL": "Hazır Kıta",
+  "CREATE_COURIER": {
+    "CONFIRM": "Kuryenin tipi GetirBüyük & Getir10 & GetirSu olacak. Bu işlemi yapmak istediğinize emin misiniz?",
+    "COURIERS_TITLE": "Kuryeler",
+    "COURIER_TYPE": "GetirBüyük & Getir10 & GetirSu",
+    "TITLE": "Kurye Yarat"
+  },
+  "DATE_OF_BIRTH": "Doğum Tarihi",
+  "DRIVING_LICENSE_DATE": "Sürücü Belgesi Tarihi",
+  "DRIVING_LICENSE_TYPES": "Sürücü Belgesi Türleri",
+  "EMPLOYMENT": {
+    "CONFIRM": "Kişiye ait kurye ve toplayıcı çalışan tipleri silinecektir. Bu işlemi yapmak istediğinize emin misiniz?",
+    "TITLE": "İstihdam Bilgileri"
+  },
+  "EMPLOYMENT_START_DATE": "İşe Başlama Tarihi",
+  "ERRORS": {
+    "VERSION_PROBLEM_ERR": "Bu kişi profilinin versiyonu kişiye bağlı olan kurye veya personellerden en az bir tanesiyle çelişiyor! Lütfen acilen yazılım ekibine haber verin!",
+    "VERSION_PROBLEM_WARN": "Sayfa başarılı bir şekilde yüklenemedi. Değişiklik yapabilmek için lütfen yenileyin."
+  },
+  "FRANCHISE_EMPLOYER": {
+    "ADD_NEW_EMPLOYER": "Yeni İşveren Ekle",
+    "CONTRACT_TYPE": "Kontrat Tipi",
+    "EDIT_EMPLOYERS": "İşverenleri Düzenle",
+    "EMPLOYER": "İşveren/Hizmet Alan",
+    "FRANCHISE_AREA": "Bölge",
+    "TITLE": "Bayi İşveren/Hizmet Alan Bilgileri",
+    "WORK_TYPE": "Çalışma Türü"
+  },
+  "GENERAL": {
+    "ACCOUNT_NUMBER": "Hesap Numarası",
+    "BLOOD_TYPE": "Kan Grubu",
+    "EMPLOYEE_DISCOUNT": "Çalışan indirimi uygulanmalı",
+    "FINANCE_DELIVERY_TRAINING_DATE": "GetirFinans Teslimat Eğitim Tarihi",
+    "IS_GORILLAS_EMPLOYEE": "Gorillas Çalışanı",
+    "IS_OUTSOURCED": "Getir dışından mı?",
+    "PAYMENT_COUNTRY_CODE": "Ödeme Ülke Bilgisi",
+    "ROUTING_NUMBER": "Yönlendirme Numarası",
+    "SAFE_RIDING_TRAINING_DATE": "Güvenli Sürüş Eğitim Tarihi",
+    "SORT_CODE": "Yönlendirme Kodu",
+    "TITLE": "Genel Bilgiler"
+  },
+  "GETIRUP_TRAININGS": {
+    "COLUMNS": {
+      "DATE": "Eğitim Tarihi",
+      "EXAM_RESULT": "Eğitim Sınav Sonucu",
+      "NAME": "Eğitim Adı",
+      "STATUS": "Eğitim Durumu"
+    },
+    "TITLE": "GetirUp Eğitimleri"
+  },
+  "HOME_ADDRESS": {
+    "DESCRIPTION": "Ev Adresi Açıklaması",
+    "TITLE": "Ev Adresi"
+  },
+  "IBAN": "IBAN",
+  "INTEGRATIONS": {
+    "PAYROLL_ID": "Payroll ID",
+    "TITLE": "Entegrasyonlar"
+  },
+  "JSON": "JSON",
+  "PERSONAL": {
+    "CONFIRM_ADD_EMPLOYEE_DISCOUNT": "Bu numaraya çalışan saha indirimi tanımlamak istediğinize emin misiniz?",
+    "CONFIRM_ALREADY_HAS_DISCOUNT": "Bu numaraya sahip müşterinin zaten çalışan saha indirimi var! Tekrar tanımlamak istediğinize emin misiniz?",
+    "DISCOUNT": "Çalışan İndirimi",
+    "TITLE": "Kişisel Bilgiler",
+    "WARN_EMPLOYEE_DISCOUNT": "Kişi profili inaktif olduğu için çalışan saha indirimi tanımlanamaz, ve kişinin Çalışan İndirimi EVET olarak güncellenmelidr!"
+  },
+  "PERSONAL_GSM": "Kişisel GSM",
+  "PICKERS": {
+    "CONFIRM": "Toplayıcının tipi Genel Toplayıcı olacak. Bu işlemi yapmak istediğinize emin misiniz?",
+    "CREATE": "Toplayıcı Yarat",
+    "TITLE": "Toplayıcılar"
+  },
+  "PLACEHOLDER": {
+    "NAME": "En az 3 karakter olmalıdır",
+    "UNIQUE_IDENTIFIER": "Tam eşleşme olmalı"
+  },
+  "PROFILE": {
+    "CHANGE_AVATAR_TITLE": "Ana Resmi Değiştir",
+    "CONFIRM_ACTIVATE_PERSON": "Kişi profilini AKTİF etmek istediğine emin misin?",
+    "CONFIRM_DEACTIVATE_PERSON": "Kişi profilini İNAKTİF etmek istediğine emin misin?\nBu kişiye bağlı bütün kurye ve personeller de inaktife çekilecektir!",
+    "PASSWORD_CHANGE_FOR_PICKERS_TITLE": "Toplayıcı Şifresi Değiştir",
+    "PASSWORD_LABEL": "Yeni Şifre",
+    "PASSWORD_TITLE": "Şifre Değiştir",
+    "PASSWORD_WARNING_TEXT": "Kurye şifre değişikliği işlemleri kurye detay sayfası içerisinde reset password akışı ile yapılmaktadır.Kurye şifre değişikliği için kurye detay sayfasını ziyaret etmelisiniz.",
+    "REDIRECT_TO_COURIER_DETAIL_PAGE": "{{courierName}} kuryesine yönlenmek için tıklayın",
+    "TITLE": "Profil"
+  },
+  "RELATIVE": {
+    "RELATION_TYPE": "Yakınlık Derecesi",
+    "TITLE": "Yakınının Bilgileri"
+  },
+  "TRAINING": "Eğitim",
+  "TRAININGS": {
+    "CERTIFICATE_NO": "Serfitika No",
+    "NAME": "Eğitim Adı",
+    "TITLE": "Eğitimler",
+    "TRAINER": "Eğitmen"
+  }
+}

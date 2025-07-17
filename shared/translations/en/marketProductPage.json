@@ -1,0 +1,536 @@
+{
+  "ACTIVE_PRODUCTS": "Active Products",
+  "ADDITIONAL_INFO": {
+    "ADDITIONAL": "Additional Info",
+    "DISCLAIMER": "Disclaimer",
+    "TITLE": "Additional Info"
+  },
+  "ADDITIONAL_PROPERTY_INFO": {
+    "ADD_NEW_ITEM": "Add New Item",
+    "ADD_NEW_SECTION": "Add New Section",
+    "ADD_NEW_TABLE": "Add New Table",
+    "EDIT_SECTION": "Edit Section",
+    "EDIT_TABLE": "Edit Table",
+    "ERROR": {
+      "SECTION_TITLE": "Missing fields on section title",
+      "TABLE_TITLE": "Missing fields on table title."
+    },
+    "INDEX": "Index",
+    "MAX_2_SECTIONS": "There can be maximum 2 sections.",
+    "SECTION_TITLE": "Section Title",
+    "TABLE_TITLE": "Table Title",
+    "TITLE": "Additional Property Tables Info",
+    "UNIT": "Unit",
+    "VALUE": "Value"
+  },
+  "ADD_BARCODE": "Add Barcode",
+  "AGE_RESTRICTION_INFO": {
+    "AGE": "Age",
+    "AGE_RESTRICTION": "Age Restriction",
+    "TITLE": "Age Restriction Info"
+  },
+  "ALERT_COUNTRY_BADGE_TITLE": "Select {{ countryName }} as the country to view this bagde.",
+  "ALERT_COUNTRY_PRODUCT_TITLE": "Select {{ countryName }} as the country to view this product.",
+  "BARCODES": "Barcodes",
+  "BRAND": "Brand",
+  "BRING_INACTIVE_PRODUCTS": "Bring Inactive Products",
+  "BUNDLE": "Bundle",
+  "BUNDLE_DISPLAY_TYPE": "Bundle Display Type",
+  "BUNDLE_INFO": {
+    "COUNT": "Count",
+    "DELETE_MODAL_MESSAGE": "Are you sure to delete bundle product?",
+    "EDIT_BUNDLE_PRODUCT": "Edit Bundle Product",
+    "ERROR": {
+      "ADD_2_OR_MORE_ITEMS": "Add 2 or more items.",
+      "PRICE_HIGHER_THAN_OR_EQUAL_TO_STRUCK_PRICE": "Price cannot be higher than or equal to struck price.",
+      "PRODUCT_ALREADY_EXIST": "Product already exist."
+    },
+    "FREE_PRODUCT": "Free Product",
+    "MAX_BUNDLE_PRODUCT_FOR_FRESH_PRODUCT_WARNING": "Since this bundle is a fresh bundle, you can add a maximum of one type of product to this bundle.",
+    "NEW_BUNDLE_PRODUCT": "New Bundle Product",
+    "PRICE": "Price",
+    "PRICE_FOR_FRESH": "Final Price",
+    "PRODUCT": "Product",
+    "PRODUCT_CHANGE": "Product Change(s)",
+    "REDIRECT": "This bundle product might have \"Product Warehouse Prices\" defined. If it has, adding a new subproduct(s) to this bundle product requires an action on related page. Otherwise, valid price for new sub product(s) will be the base price within Bundle Product",
+    "SORT": "Sort",
+    "SUPPLIER_SUPPORT_RATE": "Supplier Support Rate",
+    "THIRD_PARTY_SUPPORT_RATE": "Third Party Support Rate",
+    "TITLE": "Bundle Info"
+  },
+  "CATEGORIES": "Categories",
+  "CATEGORY_TARGETS": "Category Targets",
+  "COPIED_PRODUCTS": "Copied Products (temporary table)",
+  "COPY_PRODUCT_CONFIRMATION_TEXT": "The product will be copied including price information, please check if it’s correct.",
+  "COPY_THIS_PRODUCT_TO_ANOTHER_COUNTRY": "Copy this product to another country",
+  "CURRENT_PRODUCT_DATA": "Current Product Data",
+  "DEMAND_AND_STORAGE_INFO": {
+    "DEMAND_TYPE": "Demand Type",
+    "PAYMENT_DUE_DAY": "Payment Due Day",
+    "REFRIGERATOR_TEMPERATURE": "Refrigerator Temperature Range",
+    "STORAGE_TYPES": "Storage Types",
+    "TITLE": "Demand & Storage Info"
+  },
+  "DESCRIPTION_OF_COPY_PRODUCT": "For which country would you like to copy product?",
+  "DETAILS_INFO": {
+    "ADD_NEW_TAG": "Add New Tag",
+    "DESCRIPTION": "Description",
+    "DESCRIPTION_TAGS": "Description Tags",
+    "EDIT_TAG": "Edit Tag",
+    "ERROR": {
+      "ADD_IMAGE": "Please add an image."
+    },
+    "TITLE": "Details Info"
+  },
+  "DISPLAY_TYPE_INFO": {
+    "DISPLAY_TYPE": "Display Type",
+    "TITLE": "Display Type Info"
+  },
+  "DOMAIN_PRICE_INFO": {
+    "ACTION": "Action",
+    "ADD_DOMAIN_PRICE": "Add Domain Based Price",
+    "DELETE_MODAL_MESSAGE": "Are you sure to delete?",
+    "DOMAIN_TYPE": "Domain Type",
+    "EDIT_DOMAIN_PRICE": "Edit Domain Based Price",
+    "ERROR": {
+      "PRICE_HIGHER_THAN_OR_EQUAL_TO_STRUCK_PRICE": "Price cannot be higher than or equal to struck price."
+    },
+    "FREE_PRODUCT": "Free Product",
+    "PRICE": "Price",
+    "SHOW_UNDER_SPECIAL_OFFERS": "Show Under Special Offers",
+    "STRUCK_PRICE": "Struck Price",
+    "STRUCK_PRICE_ACTIVENESS": "Struck Price Activeness",
+    "SUPPLIER_SUPPORT_RATE": "Supplier Support Rate",
+    "THIRD_PARTY_SUPPORT_RATE": "Third Party Support Rate",
+    "TITLE": "Domain Based Price Info",
+    "WARNING_BUNDLE_DOMAIN_PRICES": "Bundle products cannot have domain based prices.",
+    "WARNING_DOMAIN_PRICE": "You entered a price that is lower than Net invoice price (with VAT). Are you sure you want to proceed with this price?"
+  },
+  "DOMAIN_STOCK_INFO": {
+    "ADD_DOMAIN_BASED_STOCK": "Add Domain Based Stock Info",
+    "DELETE_MODAL_MESSAGE": "Are you sure to delete?",
+    "DOMAIN_TYPE": "Domain Type",
+    "MAX_DOMAIN_BASED_ORDER_COUNT": "Max Domain Based Order Count",
+    "TITLE": "Domain Based Stock Info"
+  },
+  "ERROR": {
+    "ALL_BARCODE_VALUES_MUST_BE_DIFFERENT": "All barcode values must be different from each other.",
+    "ALL_BARCODE_VALUES_MUST_BE_DIFFERENT_FROM_PACKAGING_INFO": "All barcode values must be different from each other and barcodes in packaging info.",
+    "DUPLICATE_DOMAIN_PRICE": "A product can have only one price for same domainType.",
+    "IDS_NOT_VALID": "Product ID(s) are not valid.",
+    "MAX_DOMAIN_BASED_ORDER_COUNT_CAN_NOT_BE_EMPTY": "Max Domain Based Order Count can not be empty.",
+    "MAX_DOMAIN_BASED_ORDER_COUNT_CAN_NOT_LOWER_THAN_ZERO": "Max Domain Based Order Count can not be lower than zero.",
+    "PRICE_IS_GREATER": "Price cannot be greater than or equal to struck price.",
+    "STRUCK_PRICE_IS_LOWER": "Struck price cannot be lower than or equal to price.",
+    "SUPPORT_RATES_BETWEEN_ZERO_AND_ONE": "supplierSupportRate and thirdPartySupportRate fields must be between 0 and 1."
+  },
+  "EXPIRY_INFO": {
+    "ALLOWED": "Allowed",
+    "DAY": "Day",
+    "DEAD": "Dead",
+    "EXPIRY_DATE_CONTROL": "Expiry Date Control",
+    "SHELF_LIFE": "Shelf Life",
+    "SWITCH": {
+      "ACTIVE": "Active",
+      "INACTIVE": "Inactive"
+    },
+    "TITLE": "Expiry Date Info",
+    "WARNING": "Warning"
+  },
+  "EXPORT_LIMIT_CSV": "Export Limits",
+  "EXPORT_PRODUCT_CATEGORY_POSITIONS_TO_EXCEL": "Export Product Category Positions to Excel",
+  "EXPORT_PRODUCT_DETAILS_TO_EXCEL": "Export Product Details to Excel",
+  "EXPORT_PRODUCT_DOMAIN_LIMITS_TO_EXCEL": "Export Product Domain Limits to Excel",
+  "EXPORT_PRODUCT_NUTRITIONAL_INFO_TO_EXCEL": "Export Product Nutritional Info to Excel",
+  "EXPORT_SERVICE_PRICES_TO_EXCEL": "Export Service Prices to Excel",
+  "FILL_THIRD_PARTY_INFO": "Fill Third Party Info",
+  "FILTER": "Filter",
+  "FILTER_OPTION": "Select filter options",
+  "FINAL_PRICE_FOR_FRESH_WARNING": "This is a fresh product, you need to enter final selling price.",
+  "FRESH": "Fresh",
+  "GENERAL_INFO": {
+    "ACCOUNT": "Account",
+    "BARCODES": "Barcodes",
+    "BOOSTED_KEYWORDS": "Boosted Keywords",
+    "BRAND": "Brand",
+    "CATEGORIES": "Categories",
+    "CATEGORIES_INFO": "You can update this field by adding or deleting position item on 'Position Info' section.",
+    "CATEGORY": "Category",
+    "CATEGORY_INFO": "You can update this field by using 'Make Main Category' button on 'Position Info' section.",
+    "CREATED_AT": "Created At",
+    "DESCRIPTION": "Description",
+    "DISPLAY_NAME": "Display Name",
+    "ERROR": {
+      "INVALID_BARCODE": "Please enter a valid barcode value.",
+      "SEARCH_MIN_2_CHARS": "On Parent Product part, min 2 chars must be entered for search."
+    },
+    "KEYWORDS": "Keywords",
+    "MANUFACTURER": "Manufacturer",
+    "MASTER_CATEGORY": "Master Category",
+    "MASTER_CATEGORY_V2": "Master Category V2",
+    "NAME": "Name",
+    "PARENT_PRODUCT": "Parent Product",
+    "PRODUCT_SOURCE": "Product Source",
+    "PRODUCT_TARGETS": "Product Targets",
+    "SEGMENTS": "Segments",
+    "SEGMENTS_2": "Segments-2 (Classification)",
+    "SEGMENTS_INFO": "Only 1 segment can be chosen.",
+    "SHORT_DESCRIPTION": "Short Description",
+    "SHORT_NAME": "Short Name",
+    "SUB_CATEGORIES": "Sub Categories",
+    "SUB_CATEGORY": "Sub Category",
+    "SUPPLIER": "Supplier",
+    "TITLE": "General Info",
+    "TRANSFER_ALLOWED_CITIES": "Transfer Allowed Cities",
+    "TRANSFER_ALLOWED_WAREHOUSES": "Transfer Allowed Warehouses",
+    "TRANSFER_LIMIT_TYPE": "Transfer Limit Type"
+  },
+  "GROUP_PLACEMENT": "Group Placement",
+  "GROUP_TARGET": "Group Target",
+  "GROUP_TYPE": "Group Type",
+  "HFSS_INFO": {
+    "HFSS_FOOD_CATEGORY": "HFSS Food Category",
+    "HFSS_FOOD_OR_DRINK": "HFSS Food or Drink",
+    "HFSS_INDICATOR": "HFSS Indicator",
+    "NUTRIENT_PROFILE_SCORE": "Nutrient Profile Score",
+    "TITLE": "HFSS Info"
+  },
+  "IMPERIAL_UNITS": "Imperial Units",
+  "IMPERIAL_UNITS_SHORT": "IU",
+  "IMPORT_CSV_BUNDLE_WARNING": "On the file, ‘bundleProductPrices’ should be entered only for bundle products; for single products, on the other hand, only ‘price’ value should be entered.",
+  "IMPORT_PRODUCT_CATEGORY_POSITIONS_FROM_EXCEL": "Import Product Category Positions from Excel",
+  "IMPORT_PRODUCT_DETAILS_FROM_EXCEL": "Import Product Details from Excel",
+  "IMPORT_PRODUCT_DOMAIN_LIMITS_FROM_EXCEL": "Import Product Domain Limits from Excel",
+  "IMPORT_PRODUCT_NUTRITIONAL_INFO_FROM_EXCEL": "Import Product Nutritional Info from Excel",
+  "IMPORT_PRODUCT_TOGGLES_FROM_EXCEL": "Import Product Toggles from Excel",
+  "IMPORT_SERVICE_PRICES_FROM_EXCEL": "Import Service Prices from Csv",
+  "INACTIVE_PRODUCTS": "Inactive Products",
+  "INGREDIENTS_INFO": {
+    "INGREDIENTS": "Ingredients",
+    "TITLE": "Ingredients Info"
+  },
+  "MAIN_STORE_INFO": {
+    "SHIPMENT_TYPE": "Shipment Type",
+    "TITLE": "Main Store Info",
+    "TRANSFER_COLI_COUNT": "Transfer Coli Count"
+  },
+  "MANUFACTURER": "Manufacturer",
+  "MASTER_CATEGORY": "Master Category",
+  "MISSING_BARCODE": "Please enter a valid barcode value",
+  "NET_INVOICE_PRICE_WITH_VAT": "Net Invoice Price",
+  "NEW_PRODUCT": "New Product",
+  "NEW_PRODUCT_CATEGORY": "New Product Category",
+  "PACKAGING_INFO": {
+    "BARCODES": "Barcodes",
+    "IMPERIAL_UNITS": {
+      "DEPTH": "Length [inch]",
+      "GROSS_WEIGHT": "Gross Weight [oz]",
+      "HEIGHT": "Height [inch]",
+      "NET_WEIGHT": "Net Weight [oz]",
+      "VOLUME": "Volume [cm³]",
+      "WIDTH": "Width [inch]"
+    },
+    "INBOX_QUANTITY": "Inbox Quantity",
+    "METRIC_UNITS": {
+      "DEPTH": "Length [cm]",
+      "GROSS_WEIGHT": "Gross Weight [{{ weightUnitText }}]",
+      "HEIGHT": "Height [cm]",
+      "NET_WEIGHT": "Net Weight [{{ weightUnitText }}]",
+      "VOLUME": "Volume [cm³]",
+      "WIDTH": "Width [cm]"
+    },
+    "PICKING_TYPE": "Picking Type",
+    "PLEASE_VERIFY_THAT_DIMENSION_IS_CORRECT": "Please verify that this dimension is correct.",
+    "TITLE": "Packaging Info",
+    "WARNING_BARCODE": "Barcodes field can be edited on 'General Info' part."
+  },
+  "PARENT_CATEGORY": "Parent Category",
+  "PLEASE_SPECIFY_VALUES_FOR_PRODUCT_WEIGHT_UNIT": "Please specify values per [{{ weightUnitText }}] for this field.",
+  "PLEASE_USE_PRODUCT_WEIGHT_UNIT": "Please use [{{ weightUnitText }}] for this field.",
+  "POSITION_INFO": {
+    "ACTIVE_CATEGORY": "Active Category",
+    "CATEGORY": "Category",
+    "CONFIRM_ADD_PRODUCT_POSITION": "Are you sure to add the product into this position?",
+    "CONFIRM_ADD_PRODUCT_POSITION_LAST": "Position info is wrong or not given, are you sure to add the product to the end of the list?",
+    "CONFIRM_MAIN_CATEGORY": "Are you sure to choose this category as main?",
+    "CONFIRM_PRODUCT_POSITION_REMOVE": "Are you sure to remove the position of the product?",
+    "DISCOUNTED_CATEGORY_CAN_NOT_BE_MAIN_CATEGORY_ERROR": "Discounted category can not be a main category.",
+    "EDIT_PRODUCT_POSITION": "Position info of the product can be updated from this section.",
+    "INACTIVE_CATEGORY": "Inactive Category",
+    "MAIN_CATEGORY_CAN_NOT_BE_CHANGED_ERROR": "Main category can not be changed when the product is added to any discounted category.",
+    "MAKE_MAIN_CATEGORY": "Make Main Category",
+    "MISSING_POSITION_ITEMS_ERROR_MESSAGE": "At least one position info must be entered",
+    "MISSING_POSITION_ITEMS_WARNING_MESSAGE": "Selected sub category does not have position items",
+    "POSITION": "Position",
+    "PRODUCT_NAME": "Product Name",
+    "SHOW_INACTIVE_CATEGORIES_SUBCATEGORIES": "Show inactive categories / sub categories",
+    "SUB_CATEGORY": "Sub Category",
+    "TITLE": "Position Info"
+  },
+  "POSITION_ORDER": "Position Order",
+  "PRICE": "Price",
+  "PRICE_INFO": {
+    "ERROR": {
+      "WHOLESALE_PRICE_EQUAL_TO_ZERO": "Wholesale price can't be equal to zero.",
+      "WHOLESALE_PRICE_HIGHER_OR_EQUAL_TO_SALE_PRICE": "Wholesale price can\\'t be higher than sale price."
+    },
+    "SELLING_VAT": "Selling VAT",
+    "TITLE": "Price Info",
+    "WARNING_BUNDLE_SALE_PRICE_EDIT_MUST_BE_FROM_BUNDLE_INFO": "Bundle products' sale price must entered from 'Bundle Info' part only.",
+    "WHOLESALE_PRICE_WARNING": "This field should be updated on Purchasing Info area.",
+    "WHOLESALE_VAT": "Wholesale VAT"
+  },
+  "PRICE_PER_KG": "Wholesale Price per KG",
+  "PRICE_PER_KG_WARNING": "This is a fresh product, you need to enter buying price per kg.",
+  "PRICE_VALIDATION_INFO": "For price fields;\n1. 30.000 is 30 and not 30000\n2. 10.239 is not 10239\n3. Decimal part (.) can only come once in a number\n4. 10.234.345 is an invalid entry",
+  "PRODUCT_ACTIVATION_VALIDATION_ERROR": "Please check validation errors on top of the page to be able to activate this product.",
+  "PRODUCT_CURRENT_PRICE": {
+    "TITLE": "Product Current Price"
+  },
+  "PRODUCT_SETTINGS": {
+    "ACTIVE": "Active",
+    "ACTIVE_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Are you sure to deactivate this product?",
+      "MESSAGE_POSITIVE": "Are you sure to activate this product?"
+    },
+    "DELIVERY_FEE_DISCOUNT_PRODUCT": "Delivery fee discount product",
+    "DELIVERY_FEE_DISCOUNT_PRODUCT_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Are you sure?",
+      "MESSAGE_POSITIVE": "Are you sure?"
+    },
+    "ENABLED": "Enabled",
+    "ENABLED_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Are you sure to disable this product?",
+      "MESSAGE_POSITIVE": "Are you sure to enable this product?"
+    },
+    "ERROR": {
+      "ADD_2_OR_MORE_ITEMS_ON_BUNDLE_INFO": "Add 2 or more items on Bundle Info table.",
+      "MISSING_POSITION_ITEMS_ON_POSITION_INFO": "At least one item must be entered on position info"
+    },
+    "EXCLUDED_FROM_MINIMUM_BASKET_CALCULATION": "Excluded from minimum basket calculation",
+    "EXCLUDED_FROM_MINIMUM_BASKET_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Are you sure?",
+      "MESSAGE_POSITIVE": "Are you sure?"
+    },
+    "FRESH": "Fresh",
+    "MINIMUM_BASKET_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Are you sure?",
+      "MESSAGE_POSITIVE": "Are you sure?"
+    },
+    "MINIMUM_BASKET_NOT_REQUIRED": "Not require a minimum basket",
+    "ONLY_PROMO": "Only promo",
+    "ONLY_PROMO_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Are you sure to disable only promotion property?",
+      "MESSAGE_POSITIVE": "Are you sure to set this product as only promotion?"
+    },
+    "OUT_OF_STOCK": "Out Of Stock",
+    "SHOW_LOCATION_FREE": "Show location free",
+    "SHOW_LOCATION_FREE_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Are you sure to disable location free visibility of this product?",
+      "MESSAGE_POSITIVE": "Are you sure to enable location free visibility of this product?"
+    },
+    "SHOW_ON_APP": "Show on app",
+    "SHOW_ON_APP_CONFIRMATION_MODAL": {
+      "MESSAGE_NEGATIVE": "Are you sure to don't want show on app this product?",
+      "MESSAGE_POSITIVE": "Are you sure to want show on app this product?"
+    },
+    "SHOW_OUT_OF_STOCK_MODAL": {
+      "MESSAGE_NEGATIVE": "Are you sure to disable Out Of Stock field of this product?",
+      "MESSAGE_POSITIVE": "Are you sure to enable Out Of Stock field of this product?"
+    },
+    "SWITCH": {
+      "OFF": "Off",
+      "ON": "On"
+    },
+    "TITLE": "Product Settings"
+  },
+  "PRODUCT_SLUGS_TITLE": "Product Slugs",
+  "PRODUCT_SORT": {
+    "CATEGORY_CHANGE": "Do you want to change the subcategory of \"{{ productName }}\" ?",
+    "HIDE": "Hide",
+    "INACTIVES": "Inactives",
+    "PRODUCT_SORTING_INACTIVE_CHANGE_WARNING": "There is an inactive product(s) which its order has changed. Please check its accuracy.",
+    "PRODUCT_SORTING_INACTIVE_WARNING": "Activate the switch to sort the inactive product.",
+    "SHOW": "Show",
+    "TITLE": "Product Sorting"
+  },
+  "PRODUCT_SUB_TYPE": "Product Sub Type",
+  "PRODUCT_TARGETS": "Product Targets",
+  "PRODUCT_TYPE": "Product Type",
+  "PRODUCT_UNIT": "Product Unit",
+  "PURCHASING_INFO": {
+    "ERROR": {
+      "NET_NET_BUYING_PRICE_WITHOUT_VAT": "Net net buying price (without VAT)",
+      "WHOLESALE_HIGHER_THAN_SALE_PRICE": "Wholesale price can\\'t be higher than sale price."
+    },
+    "LIST_PRICE_PER_KG": "List price per KG (without VAT)",
+    "NET_INVOICE_PRICE_PER_KG_WITH_VAT": "Net invoice price per KG (with VAT)",
+    "NET_INVOICE_PRICE_PER_WITHOUT_VAT": "Net invoice price per KG (without VAT)",
+    "TITLE": "Purchasing Info",
+    "TOTAL_PRICE_REDUCTION": "Total price reduction",
+    "WHOLESALE_VAT": "Wholesale VAT"
+  },
+  "REF_PRICE": "Ref. Price",
+  "REVIEW_CHANGES": "Review Changes",
+  "SAP_REFERENCE_CODE": "Sap Reference Code",
+  "SEARCH": "Search",
+  "SEARCH_BY_IDS": "Search by Ids",
+  "SELLING_VAT": "Selling Vat",
+  "SERVICE_TARGETS": "Service Targets",
+  "SHOW_SLUGS": "Show slugs",
+  "SHOW_VALIDATIONS": "Show Validations",
+  "STATUS": "Status",
+  "STOCK_INFO": {
+    "CRITICAL_AMOUNT_STORE": "Critical Amount (Store)",
+    "ERROR": {
+      "ENABLED_BUT_NO_CRITICAL_STOCK": "Critical stock warning is selected but there is no critical stock info.",
+      "MAX_STOCK_DAY_LESS_THAN_MIN": "'Least Days of Stock' Value cannot be less than 'Max Days of Stock Value'!",
+      "MAX_STOCK_LESS_THAN_MIN": "'Maximum Stock Amount' cannot be less than 'Minimum Stock Amount'."
+    },
+    "INVENTORY_CHECK_PERIOD": "Inventory Check Period (Days)",
+    "IS_ALLOWED_FOR_SELF_PURCHASED_ORDER": "Self Purchase Allowance",
+    "IS_ALLOWED_FOR_SELF_TRANSFER": "Self Transfer Allowance",
+    "IS_CONSUMABLE": "Consumable Product",
+    "IS_CRITICAL_STOCK_WARNING_ENABLED": "Critical Stock Warning",
+    "IS_EQUIPMENT": "Equipment",
+    "IS_INCLUDED_TO_GENERAL_INVENTORY": "General Inventory Check",
+    "IS_IN_FROZEN_LOCATION": "Frozen Location Product",
+    "IS_PICKED_TO_ZERO": "Picked To Zero",
+    "MAX_ORDER_COUNT": "Max Order Count",
+    "MAX_ORDER_WEIGHT_MUST_BE_MORE_OR_EQUAL_STARTING_WEIGHT": "Max Order Weight has to be more or equal to Starting Weight (Weight Info), if Starting Weight is not blank",
+    "MAX_STOCK": "Max Stock Amount",
+    "MAX_STOCK_DAY": "How Many Days of Stock at Max",
+    "MIN_STOCK_DAY": "How Many Days of Stock at Least",
+    "MODAL_MESSAGE_SUM_OF_STARTING_AND_INCREASE_DECREASE_WEIGHT": "'Max Order Weight' should be more or equal to 'sum of Starting Weight and Increasing / Decreasing Weight'. Are you sure you want to proceed?",
+    "MODAL_TITLE_SUM_OF_STARTING_AND_INCREASE_DECREASE_WEIGHT": "Max Order Weight >= Starting Weight + 1 X Increasing / Decreasing Weight",
+    "TITLE": "Stock Info"
+  },
+  "STRUCK_PRICE_INFO": {
+    "ERROR": {
+      "STRUCK_PRICE_IS_LOWER": "Struck price cannot be lower than or equal to price.",
+      "SUPPLIER_SUPPORT_RATE": "The support rate must be between 0 and 1 or equal to 1.",
+      "THIRD_PARTY_SUPPORT_RATE": "The support rate must be between 0 and 1 or equal to 1.",
+      "WHOLESALE_PRICE_HIGHER_OR_EQUAL_TO_SALE_PRICE": "The price cannot be higher than or equal to the price hit."
+    },
+    "SHOW_UNDER_SPECIAL_OFFERS": "Show Under Special Offers",
+    "STRUCK_PRICE_ACTIVENESS": "Struck Price Activeness",
+    "STRUCK_PRICE_PROVIDER": "Struck Price Provider",
+    "SUPPORT_RATE": "Support Rate",
+    "TITLE": "Struck Price Info"
+  },
+  "SUB_CATEGORIES": "Sub Categories",
+  "SUB_CATEGORY": "Sub Category",
+  "SUPPLIERS": "Suppliers",
+  "SWITCH": {
+    "NO": "No",
+    "YES": "Yes"
+  },
+  "THIRD_PARTY_INFO": "Third Party Info",
+  "THIRD_PARTY_PRODUCT_DATA": "Third Party Product Data",
+  "TOOLTIP": {
+    "HFSS_FOOD_CATEGORY": "This field is used to determine the 'Schedule 1' category of the product according to the HFSS regulations.",
+    "HFSS_FOOD_OR_DRINK": "This field is used to determine whether the product is classified as Food or Drink according to the HFSS regulations.",
+    "HFSS_INDICATOR": "This field is used to determine whether the product is in scope of HFSS regulations.",
+    "INCREASING_DECREASING_WEIGHT": "Weight increments / decrements for adjusting product’s weight inside the cart.",
+    "MINIMUM_WEIGHT": "Minimum weight of a product that can be bought by customer.",
+    "NUTRIENT_PROFILE_SCORE": "This field is used to determine the score of a product according to the HFSS regulations.",
+    "PRODUCT_SUB_TYPE": "This field is used to differentiate product sub-types.\nPre-packaged - weight products that are sold on unit-basis\nFresh Meat & Cheese - meat & cheese products that are sold on a weight basis\nFresh Fruit & Vegetables - fruit & vegetable products that are sold on a weight basis",
+    "PRODUCT_TYPE": "This field is used to differentiate product types.\n1.Piece - products that are managed on a unit basis.\n2.Weight - products that are managed on a weight basis.",
+    "PRODUCT_UNIT": "This field is used to manage product unit.",
+    "STARTING_WEIGHT": "Weight of a product that will be added to customer’s cart by default on the mobile app."
+  },
+  "TRANSFER_GROUP_INFO": {
+    "TITLE": "Transfer Group Info",
+    "TRANSFER_GROUPS": "Transfer Groups"
+  },
+  "TYPE_BASED": {
+    "1": {
+      "DOMAIN_PRICE_INFO": {
+        "PRICE": "Price",
+        "STRUCK_PRICE": "Struck Price"
+      },
+      "PRICE_INFO": {
+        "DEPOSIT": "Deposit",
+        "ECO_CONTRIBUTION_FEE": "Eco Contribution Fee",
+        "PRICE": "Price",
+        "WHOLESALE_PRICE": "Wholesale Price (with VAT)"
+      },
+      "PURCHASING_INFO": {
+        "LIST_PRICE": "List price (without VAT)",
+        "NET_INVOICE_PRICE_WITHOUT_VAT": "Net invoice price (without VAT)",
+        "NET_INVOICE_PRICE_WITH_VAT": "Net invoice price (with VAT)",
+        "NET_NET_BUYING_PRICE_WITHOUT_VAT": "Net net buying price (without VAT)",
+        "NET_NET_BUYING_PRICE_WITH_VAT": "Net net buying price (with VAT)"
+      },
+      "STOCK_INFO": {
+        "MAX_ORDER_COUNT": "Max Order Count",
+        "MAX_STOCK": "Max Stock Amount",
+        "MIN_STOCK": "Min Stock Amount"
+      },
+      "STRUCK_PRICE_INFO": {
+        "STRUCK_PRICE": "Struck Price {{ weightUnitText }}"
+      }
+    },
+    "2": {
+      "DOMAIN_PRICE_INFO": {
+        "PRICE": "Price per [{{ weightUnitText }}]",
+        "STRUCK_PRICE": "Struck Price per [{{ weightUnitText }}]"
+      },
+      "PRICE_INFO": {
+        "DEPOSIT": "Deposit per [{{ weightUnitText }}]",
+        "ECO_CONTRIBUTION_FEE": "Eco Contribution Fee per [{{ weightUnitText }}]",
+        "PRICE": "Price per [{{ weightUnitText }}]",
+        "WHOLESALE_PRICE": "Wholesale Price per [{{ weightUnitText }}] (with VAT)"
+      },
+      "PURCHASING_INFO": {
+        "LIST_PRICE": "List price per [{{ weightUnitText }}] (without VAT)",
+        "NET_INVOICE_PRICE_WITHOUT_VAT": "Net invoice price per [{{ weightUnitText }}] (without VAT)",
+        "NET_INVOICE_PRICE_WITH_VAT": "Net invoice price per [{{ weightUnitText }}] (with VAT)",
+        "NET_NET_BUYING_PRICE_WITHOUT_VAT": "Net net buying price per [{{ weightUnitText }}] (without VAT)",
+        "NET_NET_BUYING_PRICE_WITH_VAT": "Net net buying price per [{{ weightUnitText }}] (with VAT)"
+      },
+      "STOCK_INFO": {
+        "MAX_ORDER_COUNT": "Max Order Weight [{{ weightUnitText }}]",
+        "MAX_STOCK": "Max Stock Weight [{{ weightUnitText }}]",
+        "MIN_STOCK": "Min Stock Weight [{{ weightUnitText }}]"
+      },
+      "STRUCK_PRICE_INFO": {
+        "STRUCK_PRICE": "Struck Price per [{{ weightUnitText }}]"
+      }
+    }
+  },
+  "UNIT_PRICE_INFO": {
+    "IMPERIAL_UNITS": "Imperial Units (US)",
+    "METRIC_UNITS": "Metric Units (TR, UK, EU)",
+    "MIN_ONE_BUNDLE_PRODUCT_WARNING": "To be able to edit the Unit Price Info, min. 1 bundle product should be added.",
+    "PER_UNIT_NUMERIC_VALUE": "Per Unit Numeric Value",
+    "PREVIEW_UNIT_PRICE": "Preview Unit Price",
+    "PRICE": "Price",
+    "TITLE": "Unit Price Info",
+    "UNIT": "Unit",
+    "UNIT_NUMERIC_VALUE": "Unit Numeric Value",
+    "UNIT_PRICE": "Unit Price"
+  },
+  "USAGE_INFO": {
+    "TITLE": "Usage Info",
+    "USAGE": "Usage"
+  },
+  "VALIDATION_ERRORS_DESCRIPTION": "Please fill necessary fields according to validation errors.",
+  "VALIDATION_ERRORS_MESSAGE": "Validation Errors to activate this product",
+  "WEIGHT_INFO": {
+    "ERROR": {
+      "STARTING_WEIGHT_MUST_BE_GREATER_OR_EQUAL_MINIMUM_WEIGHT": "Starting Weight must be greater or equal to Minimum Weight",
+      "STARTING_WEIGHT_MUST_BE_LESS_OR_EQUAL_MAX_ORDER_WEIGHT": "Starting Weight must be less or equal to Max Order Weight (from Stock Info), unless the Max Order Weight is blank."
+    },
+    "INCREASING_DECREASING_WEIGHT": "Increasing / Decreasing Weight",
+    "MINIMUM_WEIGHT": "Minimum Weight",
+    "MODAL_MESSAGE_SUM_OF_STARTING_AND_INCREASE_DECREASE_WEIGHT": "'A sum of Starting Weight and Increasing / Decreasing Weight' should be less or equal to 'Max Order Weight'. Are you sure you want to proceed?",
+    "MODAL_TITLE_SUM_OF_STARTING_AND_INCREASE_DECREASE_WEIGHT": "Starting Weight + 1 X Increasing / Decreasing Weight <= Max Order Weight",
+    "STARTING_WEIGHT": "Starting Weight",
+    "TITLE": "Weight Info"
+  },
+  "WHOLESALE_PRICE": "Wholesale Price",
+  "WHOLESALE_PRICE_PER_KG": "Wholesale Price per KG (with VAT)",
+  "WHOLESALE_PRICE_WARNING": "Please enter the tax excluded price for the US and tax included price for Turkey, EU and UK.",
+  "WHOLESALE_VAT": "Wholesale Vat"
+}

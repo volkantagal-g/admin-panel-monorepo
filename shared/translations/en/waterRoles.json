@@ -1,0 +1,11 @@
+{
+  "ADMIN": "Administrator",
+  "ADMIN_KEY_ACCOUNT_MANAGER": "Key Account Manager",
+  "ADMIN_OPERATIONAL_MANAGER": "Operations Manager",
+  "ADMIN_REGIONAL_MANAGER": "District Manager",
+  "CARRIER": "Courier",
+  "FIRM_MANAGER": "Company Manager",
+  "GIS_EXPERT": "GIS Specialist",
+  "VENDOR_EMPLOYEE": "Reseller Employee",
+  "VENDOR_MANAGER": "Reseller Manager"
+}

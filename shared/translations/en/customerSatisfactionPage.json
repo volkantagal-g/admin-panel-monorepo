@@ -1,0 +1,14 @@
+{
+  "BARCODE": "Barcode",
+  "BRING_PRODUCTS": "Bring Products",
+  "CREATE_DELETE_CODE": "Create Delete Code",
+  "CUSTOMER_SATISFACTION_REQUEST": "Customer Satisfaction Request",
+  "MAKE_NEW_REQUEST": "Make New Request",
+  "OPERATION": "Operation",
+  "PICTURE": "Picture",
+  "QUANTITY": "Quantity",
+  "SEARCH_PRODUCT": "Search Product",
+  "SELECTED_PRODUCTS": "Selected Products",
+  "SELECT_WAREHOUSE": "Select Warehouse",
+  "SUCCESS_CODE": "Request code is ready. You can copy the request code."
+}

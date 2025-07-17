@@ -1,0 +1,10 @@
+{
+  "EDIT_CODES": "Edit codes",
+  "ERR_FAILED_UPDATED_CODES": "Failed to update {total} codes",
+  "ERR_INVALID_CSV_FILE": "Invalid csv file",
+  "ERR_START_END_DATES": "Please select start and end dates",
+  "FAILED_TO_UPDATE_VALUES": "Failed to update values",
+  "IMPORT_CODES_BY_CSV": "Import codes by .csv",
+  "START_END_DATES": "Start/End Dates",
+  "SUCCESS_UPDATE_COUNT": "Successfully update {total} codes"
+}

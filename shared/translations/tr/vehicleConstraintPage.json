@@ -1,0 +1,19 @@
+{
+  "FORM": {
+    "DURATION": "Süre (sn)",
+    "LONGEST_EDGE": "En Uzun Kenar (cm)",
+    "TAGS": "Etiketler",
+    "TAG_LABELS": {
+      "FRAGILE": "Kırılgan",
+      "SENSITIVE": "Hassas"
+    },
+    "VOLUME": "Hacim (ml)",
+    "WEIGHT": "Ağırlık (gr)"
+  },
+  "LIST": {
+    "FILTER": {
+      "STATUS": "Araç Durumu",
+      "TYPE": "Araç Türü"
+    }
+  }
+}

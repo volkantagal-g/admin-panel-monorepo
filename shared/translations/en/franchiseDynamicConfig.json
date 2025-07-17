@@ -1,0 +1,28 @@
+{
+    "CONFIRM_CONFIG_TYPE": "Confirm Config Type",
+    "CONFIRM_CONFIG_TYPE_RESELECT": "Reselecting config type will clear all fields. Are you sure you want to continue?",
+    "DETAIL": {
+        "CONFIG": "Dynamic Config Detail",
+        "PAGE_TITLE": "Franchise Dynamic Config Detail"
+    },
+    "LIST": {
+        "CONFIG_RECORDS": "Config Records",
+        "CONFIG_SHORT_NAME": "Config's Short Name",
+        "CONFIG_TYPE": "Config Type",
+        "DOMAIN_TYPE": "Domain Type"
+    },
+    "NEED_TO_CONFIRM": "You need to confirm config type to start editing the fields",
+    "NEW": {
+        "CONFIG": "New Dynamic Config",
+        "PAGE_TITLE": "Create New Franchise Dynamic Config"
+    },
+    "RESELECT_CONFIG_TYPE": "Reselect Config Type",
+    "SELECT_CONFIG_TYPE": "Select Config Type",
+    "VALIDATION": {
+        "DATE_MIN": "Date must be greater than or equal to tomorrow",
+        "END_DATE_MIN": "End date must be greater than or equal to start date",
+        "INTEGER": "This field must be an integer, no decimal places allowed",
+        "OBJECT_ID": "This field must be a valid object id (24 characters long, hexadecimal, e.g. 7b629e659b725f611c74bf2a)",
+        "REQUIRED": "This field is required"
+    }
+}

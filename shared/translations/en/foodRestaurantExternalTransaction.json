@@ -1,0 +1,72 @@
+{
+  "BULK_TRANSACTION": {
+    "BUTTON_LABELS": {
+      "PAYBACK": "Bulk Restaurant Payback",
+      "PAYMENT": "Bulk Restaurant Payment"
+    },
+    "CHECK_UPLOADED_DOCUMENT": "Please check uploaded file.",
+    "DOWNLOAD_TEMPLATE": "Download Template",
+    "PAYBACK": {
+      "CONFIRMATION_MODAL": {
+        "CONTENT": "{{currency}}{{amount}} will be deducted from {{restaurantCount}} restaurants. Do you confirm?",
+        "TITLE": "Bulk Restaurant Payback Confirmation"
+      },
+      "TITLE": "Bulk Restaurant Payback -"
+    },
+    "PAYMENT": {
+      "CONFIRMATION_MODAL": {
+        "CONTENT": "{{currency}}{{amount}} will be paid to {{restaurantCount}} restaurants. Do you confirm?",
+        "TITLE": "Bulk Restaurant Payment Confirmation"
+      },
+      "TITLE": "Bulk Restaurant Payment +"
+    },
+    "SUCCESS_MESSAGE": "Bulk transaction has started and is running in the background. When the process is completed the service will send a notification to the slack channel",
+    "TITLE": "Bulk Restaurant External Transactions",
+    "WARNING_MESSAGES": {
+      "PAYBACK": "Restaurant will be paying the amount and restaurant will see a negative transaction on the financial transactions page.",
+      "PAYMENT": "Restaurant will get paid the amount and restaurant will see a positive transaction on the financial transactions page."
+    }
+  },
+  "CANCEL": "Cancel",
+  "CONFIRM": "Confirm",
+  "SINGLE_TRANSACTION": {
+    "BUTTON_LABELS": {
+      "PAYBACK": "Restaurant Payback",
+      "PAYMENT": "Restaurant Payment"
+    },
+    "FORM": {
+      "AMOUNT": "Amount",
+      "CATEGORY": "Category",
+      "NOTE_TO_RESTAURANT": "Note to Restaurant",
+      "ORDER_ID": "Order Id",
+      "ORDER_ID_EXTRA": "<i>Restaurant Revenue: <strong>{{revenue}} TL</strong></i>",
+      "PAYMENT_DATE": "Payment Date",
+      "RESTAURANT_ID": "Restaurant Id"
+    },
+    "PAYBACK": {
+      "CONFIRMATION_MODAL": {
+        "CONTENT": "{{currency}}{{amount}} will be deducted from \"{{restaurantName}}\" restaurant. Do you confirm?",
+        "CONTENT_WITH_PAYMENT_DATE": "{{currency}}{{amount}} will be deducted from \"{{restaurantName}}\" restaurant on {{paymentDate}}. Do you confirm?",
+        "TITLE": "Restaurant Payback Confirmation"
+      },
+      "TITLE": "Restaurant Payback -"
+    },
+    "PAYMENT": {
+      "CONFIRMATION_MODAL": {
+        "CONTENT": "{{currency}}{{amount}} will be paid to \"{{restaurantName}}\" restaurant. Do you confirm?",
+        "CONTENT_WITH_PAYMENT_DATE": "{{currency}}{{amount}} will be paid to \"{{restaurantName}}\" restaurant on {{paymentDate}}. Do you confirm?",
+        "TITLE": "Restaurant Payment Confirmation"
+      },
+      "TITLE": "Restaurant Payment +"
+    },
+    "TITLE": "Restaurant External Transactions",
+    "WARNING_MESSAGES": {
+      "PAYBACK": "Restaurant will be paying the amount and restaurant will see a negative transaction on the financial transactions page.",
+      "PAYMENT": "Restaurant will get paid the amount and restaurant will see a positive transaction on the financial transactions page."
+    }
+  },
+  "TRANSACTION_REPORT": {
+    "GET_REPORT": "Get Report",
+    "TITLE": "Restaurant External Transactions Report"
+  }
+}

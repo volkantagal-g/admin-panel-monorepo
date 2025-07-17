@@ -1,0 +1,10 @@
+{
+  "ADD_TIMESTAMP": "Timestamp ekle",
+  "BUCKET": "Bucket",
+  "ERR_FILE_EMPTY": "Dosya seçilmedi!",
+  "ERR_UPLOAD_TYPE_MESSAGE": "Sadece JPEG/PNG/PDF/DOC/DOCX/VIDEO dosyası yükleyebilirsiniz!",
+  "FILENAME": "Dosya Adı",
+  "LINK": "Link",
+  "TITLE": "İçerik Yükleme",
+  "USE_ORIGINAL_FILE_NAME": "Orijinal dosya ismini kullan"
+}

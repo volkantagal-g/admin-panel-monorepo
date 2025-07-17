@@ -1,0 +1,41 @@
+{
+  "ACTION": "Action",
+  "ADD_CUSTOM_IDENTIFIERS": "Add Custom Identifiers",
+  "ADD_PAYMENT_METHOD": "Add Payment Method",
+  "ADD_PAYMENT_PROVIDER": "Add Payment Provider",
+  "ADD_WEB_HOOKS": "Add Web Hooks",
+  "AVAILABLE_CHANNELS": "Available Channels",
+  "CAN_NOT_BE_DELETED": "Can not be deleted",
+  "CAPTURE_TYPE": "Capture Type",
+  "CAPTURE_TYPE_PLACEHOLDER": "Select Capture Type",
+  "CONFIRM_MESSAGE": "Are you sure ?",
+  "COUNTRY_CODE": "Country Code",
+  "CURRENCY_WARNING": "It depends on the country code.",
+  "CUSTOM_IDENTIFIERS": "Custom Identifiers",
+  "CUSTOM_IDENTIFIER_KEY": "Custom Id key",
+  "DISPLAY_NAME": "Display Name",
+  "DISPLAY_ORDER": "Display Order",
+  "ENABLED": "Enabled",
+  "GENERAL_INFO": "General Info",
+  "GENERAL_SETTINGS": "General Settings",
+  "MAX_PURCHASE_AMOUNT": "Max Purchase Amount",
+  "MERCHANT_ID": "Merchant ID",
+  "MERCHANT_LIST": "Merchant List",
+  "MIN_MAX_PURCHASE_AMOUNT": "Purchase Amount",
+  "MIN_PURCHASE_AMOUNT": "Min Purchase Amount",
+  "NEW_MERCHANT": "New Merchant",
+  "OFFSET": "Offset",
+  "PAYMENT_METHODS": "Payment Methods",
+  "PAYMENT_PROVIDERS": "Payment Providers",
+  "PAYMENT_PROVIDER_EXIST": "Payment provider already exist",
+  "SETTINGS": "Settings",
+  "TABLE": {
+    "COLUMNS": {
+      "DELETED": "Deleted",
+      "MERCHANT_NAME": "Merchant Name"
+    }
+  },
+  "TIME_ZONE": "Time Zone",
+  "TYPE": "Type",
+  "WEB_HOOKS": "Web Hooks"
+}

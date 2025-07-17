@@ -1,0 +1,123 @@
+{
+  "ATTENDANCE_LEGEND": {
+    "ANATOLIAN_OFFICE": "Anatolian Side Office",
+    "ANKARA_OFFICE": "Ankara Office",
+    "ETILER_OFFICE": "Etiler Office",
+    "FIELD": "Field",
+    "IZMIR_OFFICE": "Izmir Office",
+    "REMOTE": "Remote"
+  },
+  "AT_OFFICE_DAYS": "On-site Days",
+  "BUSINESS_UNIT": "Business Unit",
+  "CANNOT_BE_EMPTY": "This field cannot be empty!",
+  "CAPACITY_PLAN_EXCLUSION_WARNING": "The uploading plan includes public holiday date, weekend and/or past data.",
+  "CAPACITY_SUCCESSFULLY_UPLOADED": "Capacity file is successfully uploaded.",
+  "CHECKIN_CHECKOUT_TYPES": {
+    "100": "Check In",
+    "200": "Check Out",
+    "300": "Check In-Out"
+  },
+  "CHECKIN_OFFICE": "Check-in Office",
+  "CONFIRMATION": {
+    "ARE_YOU_SURE": "Are you sure to upload the capacity plan?",
+    "DELETE_A_PLAN": "The plan will be deleted. Do you confirm?",
+    "PAST_DATE": "The capacity plan includes data for past date. Do you confirm?",
+    "WEEKEND": "The capacity plan includes a day during the weekend. Do you confirm?"
+  },
+  "CSV_HEADERS": {
+    "ARRIVAL": "Arrival",
+    "BUSINESS_UNIT": "Business Unit",
+    "DATE": "Date",
+    "DEPARTMENT": "Department",
+    "DURATION": "Duration",
+    "EMPLOYEE_EMAIL": "Employee Email",
+    "EMPLOYEE_NAME": "Employee",
+    "EXIT": "Exit",
+    "LINE_MANAGER": "Line Manager",
+    "OFFICE": "Office",
+    "POSITION_LEVEL": "Position Level",
+    "SUPERVISOR": "Supervisor"
+  },
+  "DAILY_STATS_INVITE_STATUSES": {
+    "INVITED": "Invited",
+    "NOT_INVITED": "Not Invited",
+    "NOT_PLANNED": "No Plan"
+  },
+  "DAILY_STATS_STATUSES": {
+    "NOT_PLANNED": "No Plan",
+    "NO_SHOW": "No Show",
+    "ON_LEAVE": "On-Leave",
+    "ON_SITE": "On-Site",
+    "REMOTE": "Remote"
+  },
+  "DATE_FILTER_INTERVALS": {
+    "LAST_7_DAYS": "7 Days",
+    "TODAY": "Today",
+    "YESTERDAY": "Yesterday"
+  },
+  "DAY_LIMITATION_FOR_CSV_DOWNLOAD": "Data can not be downloaded for more than 1 month period. Please try with shorter time interval.",
+  "DOWNLOAD_TEMPLATE": "Download Template",
+  "EMPLOYEE_DAILY_STAT_STATUS": "Status",
+  "EMPLOYEE_DAILY_STAT_STATUSES": {
+    "AT_ANOTHER_OFFICE": "At Another Office",
+    "AT_OFFICE": "On-site",
+    "ON_LEAVE": "On Leave",
+    "REMOTE": "Remote"
+  },
+  "EVENTS": "Events",
+  "EXCLUDE_PAST_DATA": "Exclude Past Data",
+  "EXCLUDE_PUBLIC_HOLIDAYS": "Exclude Public Holidays",
+  "EXCLUDE_WEEKENDS": "Exclude Weekends",
+  "INVALID_DATE_COLUMN": "The name of column is different than expected, please check and upload again. Date column format should be YYYY/MM/DD",
+  "INVALID_EMAILS_MESSAGE": "The email address(es) below could not be found, please check and upload again.",
+  "INVITATION_STATUS": "Invitation Status",
+  "INVITED": "Invited",
+  "INVITED_OFFICE": "Invited Office",
+  "LAST_ATTENDED_OFFICE": "Attended Office",
+  "LAST_ATTENDED_OFFICE_SHORT": "Attended Office",
+  "LAST_DATA_FETCH_TIME": "Page Update",
+  "LAST_DATA_UPDATE_TIME": "Data Update",
+  "LOCATION": "Location",
+  "MAIL_LOCATION": "Main Location",
+  "MALFORMED_EMAIL_ADDRESSES": "Invalid email address format detected. Row number: {{ formattedInvalidEmails }}",
+  "MAX_LIMIT_VALIDATION": "For {{ employeeCount }} employee, the number of days can be maximum {{ maxAllowedDayCount }}.",
+  "NO_SHOW": "No Show",
+  "OFFICE_ARRIVAL_TIME": "Arrival",
+  "OFFICE_EXIT_TIME": "Exit",
+  "ON_LEAVE": "On Leave",
+  "ON_SITE": "On-Site",
+  "PH_BUSINESS_UNIT_SELECTION": "Business Unit Selection",
+  "PH_TOP_MANAGER_SELECTION": "Top Manager Selection",
+  "PRESENCE_RATIO": "Presence Ratio",
+  "PRESENCE_RATIO_TOOLTIP": "This ratio is shown for invited employees to an office.<br /><br />(Number of days on-site while invited ) / (Days invited - on leave - off-site work) %",
+  "STATS": {
+    "AVERAGE_DURATION_SPENT_AT_THE_OFFICE": "Average Duration",
+    "EMPLOYEES_AT_THE_OFFICE_COUNT": "On-site",
+    "EMPLOYEES_CURRENTLY_AT_THE_OFFICE_COUNT": "Current",
+    "EMPLOYEES_SHOULD_BE_AT_THE_OFFICE_COUNT": "Invited",
+    "PRESENCE_RATIO": "Presence Ratio"
+  },
+  "SWITCH_OWN_OFFICE": "Own Office",
+  "SWITCH_VISITOR": "Visitor",
+  "TOOLTIP": {
+    "AVERAGE_DURATION": "Calculated only for employees invited to the office",
+    "DOWNLOAD_CSV_WITH_FILTERS": "The data will be downloaded based on the filters on the screen.",
+    "INVITED": "Total planned is {{invited}} before on leave {{onLeave}} and off-site working {{noShowExcuse}} people",
+    "INVITED_ANOTHER_OFFICE_BUT_AT_SELECTED_OFFICE": "{{count}} - invited to another office but working at selected office",
+    "INVITED_SELECTED_OFFICE_BUT_AT_ANOTHER_OFFICE": "{{count}} - invited to selected office but working at another office",
+    "IN_OFFICE_WHERE_THEY_ARE_INVITED": "{{count}} - in the office which they are invited",
+    "IN_OFFICE_WHERE_THEY_ARE_NOT_INVITED": "{{count}} - in the office which they are not invited",
+    "LAST_ATTENDED_OFFICE": "It shows last attended office information for selected day.",
+    "MANIPULATED_DAILY_STAT": "Changes were made by the admin user with the guidance of the Business Partner.",
+    "NOT_INVITED_BUT_AT_SELECTED_OFFICE": "{{count}} - not invited to anywhere but working at selected office",
+    "ONLY_INVITED_AND_ON_LEAVE_PEOPLE_COUNTED": "People on leave who removed from the invited list",
+    "ON_SITE_BUT_NOT_INVITED": "{{count}} - on site but they are not invited",
+    "TOTAL_NUMBER_OF_ON_SITE": "{{count}} - total number of on-site employees"
+  },
+  "TRANSACTION_SOURCE_TYPES": {
+    "1": "Turngate",
+    "2": "VPN",
+    "3": "QR"
+  },
+  "UNACCEPTED_VALUE": "Unaccepted Value ({{ value }})"
+}

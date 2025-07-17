@@ -1,0 +1,14 @@
+{
+  "BASE_LAYER_NAMES": {
+    "ESRI_SATELLITE": "ESRI Uydu",
+    "GOOGLE_HYBRID": "Google Hibrit",
+    "GOOGLE_ROAD": "Google Yol",
+    "GOOGLE_SATELLITE": "Google Uydu",
+    "GOOGLE_STREET": "Google Sokak",
+    "GOOGLE_TRAFFIC": "Google Trafik",
+    "OSM": "Open Street Map"
+  },
+  "FEATURE_INFO_CONTENT": {
+    "TITLE": "İçerik Bilgilendirme"
+  }
+}

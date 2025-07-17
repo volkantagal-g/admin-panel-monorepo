@@ -1,0 +1,267 @@
+{
+  "ACTION_BY": {
+    "ID": "Değişiklik Yapan Kullanıcı ID",
+    "NAME": "Değişiklik Yapan Kullanıcı"
+  },
+  "ASSETS_LOG": "Araç Logları",
+  "ASSET_ASSIGN_FORM": "Zimmet Atama Formu",
+  "ASSET_SERVICE_ERROR_CODE": {
+    "1000": "Plaka No kullanılıyor.",
+    "1001": "Çalışan Bulunamadı",
+    "1002": "Çoklu Atama Yapılamaz",
+    "1003": "Şehir Bulunamadı",
+    "1004": "Zimmet Bilgisi Bulunamadı",
+    "1009": "Zimmet Durumu Atamaya Müsait Değil",
+    "1010": "Zimmet Başkasına Atanmış",
+    "1011": "İşlem Yapan Kullanıcının Bilgisine Ulaşılamadı",
+    "1012": "Geri alma tarihi atama başlangıç tarihinden sonra olmalıdır"
+  },
+  "ASSET_STATUSES": {
+    "100": "Atanmamış",
+    "200": "Atanmış"
+  },
+  "ASSET_TYPE": {
+    "67a3663c764e17b2a83f5bb3": "Araç",
+    "TITLE": "Zimmet Türü"
+  },
+  "ASSET_UNASSIGN_FORM": "Zimmet Kaldırma Formu",
+  "ASSIGNABLE_STATUS": "Atanabilirlik Durumu",
+  "ASSIGNABLE_STATUS_TITLE": "Atanabilirlik Durumu",
+  "ASSIGNED": "Atanmış",
+  "ASSIGNED_EMPLOYEE": "Atanan Çalışan",
+  "ASSIGNED_GETIRIANS_INFORMATION": "Atanan Kişi Bilgileri",
+  "ASSIGNED_GETIRIANS_MODULE_NOT_ASSIGNED_WARNING": "Bu bölüm altındaki bilgiler atama yapıldıktan sonra aktif olacaktır.",
+  "ASSIGNED_TO": "Atanma",
+  "ASSIGNMENT_DATE": "Atama Tarihi",
+  "ASSIGNMENT_END_DATE": "Atama Bitiş Tarihi",
+  "ASSIGNMENT_PERIOD_TYPE": {
+    "100": "Belirli",
+    "200": "Belirsiz"
+  },
+  "ASSIGNMENT_PERIOD_TYPE_TEXT": "Atama Süresi",
+  "ASSIGNMENT_RETURN_DATE": "Geri Alma Tarihi",
+  "ASSIGNMENT_START_DATE": "Atama Başlangıç Tarihi",
+  "ASSIGN_ASSET": "Zimmeti Ata",
+  "ASSIGN_ASSET_CONFIRMATION": "Zimmet, bilgileri girilen kişiye atanacaktır. Onaylıyor musunuz?",
+  "ASSIGN_DATE": "Atanma Tarihi",
+  "ASSIGN_DETAILS": "Atama Detayı",
+  "ASSIGN_NOTE": "Atama Notu",
+  "COMMON_CANCEL_CONFIRM_TEXT": "Tüm bilgiler kaybolacak. Onaylıyor musunuz?",
+  "COMPANY_CARS": "Şirket Araçları",
+  "COMPANY_CAR_DETAILS": "Şirket Araç Detayları",
+  "COMPANY_CAR_LIST": "Şirket Araç Listesi",
+  "COMPANY_CAR_NEW": "Yeni Şirket Aracı",
+  "CONFIRM_ALL_CHANGES_APPLY_IMMEDIATELY_AND_LOGGED_ARE_YOU_SURE": "İlgili değişiklikler kaydedilecek ve loglanacaktır. Onaylıyor musunuz?",
+  "CONFIRM_ALL_CHANGES_WILL_BE_LOST_ARE_YOU_SURE": "Girdiğiniz bilgiler kaybolacaktır. Onaylıyor musunuz?",
+  "COVERAGE_INFORMATION": "Kasko Bilgileri",
+  "CREATE_A_NEW_VEHICLE": "+ Yeni Araç Yarat",
+  "CREATE_CAR": "Araç Yarat",
+  "CREATE_CAR_POPCONFIRM": "Yeni bir araç yaratılacaktır. Onaylıyor musunuz?",
+  "DAMAGE-REPORT-VALIDATION-MESSAGES": {
+    "AT-LEAST-ONE-FIELD-REQUIRED": "En az bir alan doldurulmalıdır."
+  },
+  "DAMAGE_DETAIL": "Hasar Detayı",
+  "DAMAGE_DETECTION_DATE": "Hasar Tespit Tarihi",
+  "DAMAGE_RECORD_DOCUMENT_UPLOAD": "Hasar Kaydı Belgesi Yükleme Alanı",
+  "DAMAGE_RECORD_INFORMATION": "Hasar Kaydı Bilgileri",
+  "DAMAGE_REPORT_VALIDATION_MESSAGES": {
+    "AT_LEAST_ONE_FIELD_REQUIRED": "En az bir alan doldurulmalıdır."
+  },
+  "DATE_RANGE": {
+    "END_DATE": "Bitiş Tarihi",
+    "START_DATE": "Başlangıç Tarihi"
+  },
+  "DOCUMENT": {
+    "CLICK_TO_UPLOAD": "Yüklemek için tıklayın",
+    "ERR_UPLOAD_SIZE_MESSAGE": "En fazla 5 mb olmalı!",
+    "ERR_UPLOAD_TYPE_MESSAGE": "Sadece JPEG/PNG/PDF/DOC/DOCX dosyası yükleyebilirsiniz!"
+  },
+  "DOCUMENT_UPLOAD_AREA": "Belge Yükleme Alanı",
+  "EFFECTED_FIELD": "Değişiklik Yapılan Alan",
+  "EFFECTED_LICENCE_NO": "Değişiklik Yapılan Plaka No",
+  "END_DATE_AFTER_START_DATE": "Atama bitiş tarihi atama başlangıç tarihinden sonra olmalıdır.",
+  "EQUIPMENTS_INSIDE_THE_VEHICLE": "Araç İçerisindeki Ekipmanlar",
+  "EQUIPMENT_INFORMATION": "Ekipman Bilgileri",
+  "ESTIMATED_RETURN_DATE_AFTER_START_DATE": "Atama bitiş tarihi atama başlangıç tarihinden sonra olmalıdır",
+  "EXPORT_EXCEL": "Excel'e aktar",
+  "FINANCIAL_LEASING_COMPANIES": {
+    "100": "Ak Leasing",
+    "200": "QNB Finans",
+    "300": "Şeker Leasing"
+  },
+  "FINANCIAL_LEASING_COMPANY_TITLE": "Finansal Kiralama Şirketi",
+  "FINANCIAL_LEASING_END_DATE": "Finansal Kiralama Geçerlilik - Bitiş Tarihi",
+  "FINANCIAL_LEASING_VALIDATION_END_DATE": "Finansal Kiralama Bitiş Tarihi",
+  "FINANCIAL_LEASING_VALIDATION_START_DATE": "Finansal Kiralama Başlangıç Tarihi",
+  "FORM_ERRORS": {
+    "INVALID_LICENCE_NO": "Hatalı plaka. Örnek: 34LIN777",
+    "INVALID_RENTING_COMPANY_NAME": "Geçerli bir şirket ismi yazınız.",
+    "INVALID_VEHICLE_MILEAGE": "Hatalı araç kilometresi.",
+    "INVALID_VEHICLE_MODEL_YEAR": "Model yılı 2010-2050 aralığında olmalıdır.",
+    "INVALID_VEHICLE_REGION": "Hatalı bölge.",
+    "MUST_BE_INTEGER": "Tam sayı olmalıdır.",
+    "VALID_CHASSIS_NUMBER": "Geçerli bir şasi numarası yazınız.",
+    "VALID_ENGINE_NUMBER": "Geçerli bir motor numarası yazınız.",
+    "VALID_REGISTRATION_NUMBER": "Geçerli bir ruhsat numarası yazınız."
+  },
+  "HAS_TRACKING_DEVICE": {
+    "false": "Yok",
+    "true": "Var"
+  },
+  "HAS_TRACKING_DEVICE_TITLE": "Araç Takip Cihazı Var Mı?",
+  "INSPECTION_AND_INSURANCE_INFORMATION": "Muayene ve Sigorta Bilgileri",
+  "INSPECTION_DOCUMENT_UPLOAD_AREA": "Araç Muayene Belgesi Yükleme Alanı",
+  "INSPECTION_INFORMATION": "Muayene Bilgileri",
+  "INSURANCE_DOCUMENT_UPLOAD_AREA": "Trafik Sigortası Belgesi Yükleme Alanı",
+  "INSURANCE_INFORMATION": "Trafik Sigortası Bilgileri",
+  "IS_DELETED": {
+    "COVERAGE": "Araç Kaskosu Silindi Mi?",
+    "DAMAGE_RECORD": "Hasar Kaydı Silindi Mi?",
+    "INSPECTION": "Araç Muayenesi Silindi Mi?",
+    "INSURANCE": "Trafik Sigortası Silindi Mi?",
+    "TITLE": "Silindi Mi?",
+    "TRAFFIC_PENALTY": "Trafik Cezası Silindi Mi?",
+    "false": "Silinmedi",
+    "true": "Silindi"
+  },
+  "IS_RETURNED": {
+    "TITLE": "Zimmet İade Edildi Mi?",
+    "false": "Hayır",
+    "true": "Evet"
+  },
+  "LATEST_VALUE": "Son Hali",
+  "LICENCE_NUMBER": "Plaka No",
+  "PREVIOUS_VALUE": "Önceki Hali",
+  "REGISTRATION_DOCUMENT_UPLOAD": "Araç Ruhsatı Belge Yükleme Alanı",
+  "REGISTRATION_NUMBER_TITLE": "Ruhsat Numarası",
+  "REGISTRATION_OWNERS": {
+    "100": "Getir",
+    "200": "Finansal Kiralama",
+    "300": "Kısa/Uzun Dönem Kiralama"
+  },
+  "REGISTRATION_OWNER_TITLE": "Ruhsat Sahibi",
+  "RETURN_DATE": "Geri Alma Tarihi",
+  "SHORT_LONG_TERM_RENTING_COMPANY_TITLE": "Kısa / Uzun Dönem Kiralama Şirketi",
+  "SHORT_LONG_TERM_RENTING_END_DATE": "Kısa / Uzun Dönem Kiralama Geçerlilik - Bitiş Tarihi",
+  "SHORT_LONG_TERM_RENTING_VALIDATION_END_DATE": "Kısa / Uzun Dönem Kiralama Geçerlilik - Bitiş Tarihi",
+  "SHORT_LONG_TERM_RENTING_VALIDATION_START_DATE": "Kısa / Uzun Dönem Kiralama Geçerlilik - Başlangıç Tarihi",
+  "TABS": {
+    "CONTROL_NEEDED_VEHICLES": "Kontrol Gerektiren Araçlar",
+    "VEHICLE_LIST": "Araç Listesi"
+  },
+  "TIMESTAMP": "Timestamp",
+  "TIRE_TYPE_ON_THE_VEHICLE": "Araç Üzerindeki Lastik",
+  "TOOLTIP": {
+    "ASSET_ALL_READY_ASSIGNED": "Bu zimmetin ataması yapılmıştır.",
+    "ASSET_NOT_ASSIGNED_YET": "Zimmete bir atama yapılmamıştır.",
+    "ASSIGNABLE_STATUS_NOT_SUITABLE": "Atanabilirlik durumu atama için uygun değil.",
+    "ASSIGN_ASSET": "Bu butona tıklayarak çalışana zimmet ataması yapabilirsiniz.",
+    "UNASSIGN_ASSET": "Bu butona tıklayarak çalışandan zimmet atamasını kaldırabilirsiniz."
+  },
+  "TRACKING_DEVICE_STATUS_TEXTS": {
+    "100": "Var",
+    "200": "Yok",
+    "300": "Arızalı",
+    "400": "Demonte"
+  },
+  "TRAFFIC_INSURANCE_VALIDATION_END": "Trafik Sigortası Geçerlilik - Bitiş Tarihi",
+  "TRAFFIC_INSURANCE_VALIDATION_START": "Trafik Sigortası Geçerlilik - Başlangıç Tarihi",
+  "TRAFFIC_INSURANCE_VALIDITY_DATE": "Trafik Sigortası Geçerlilik Tarihi",
+  "TRAFFIC_PENALTY_DATE": "Trafik Cezası Tarihi",
+  "TRAFFIC_PENALTY_INFORMATION": "Trafik Cezası Bilgileri",
+  "TRAFFIC_PENALTY_UPLOAD": "Trafik Cezası Belgesi Yükleme Alanı",
+  "UNASSIGNED": "Atanmamış",
+  "UNASSIGN_ASSET": "Zimmeti Kaldır",
+  "UNASSIGN_ASSET_CONFIRMATION": "Zimmet ataması kaldırılacaktır. Onaylıyor musunuz?",
+  "UNASSIGN_NOTE": "Geri Alma Notu",
+  "VEHICLE_AND_GENERAL_INFORMATION": "Genel Bilgiler",
+  "VEHICLE_ASSIGNABLE_REASON_STATUSES": {
+    "100": "Hasarlı",
+    "200": "Bakımda",
+    "300": "Planlı",
+    "1000": "Diğer"
+  },
+  "VEHICLE_ASSIGNABLE_REASON_STATUS_TITLE": "Atanamama Sebebi",
+  "VEHICLE_ASSIGNABLE_STATUS": {
+    "100": "Atanabilir",
+    "200": "Atanamaz"
+  },
+  "VEHICLE_BRAND": "Araç Markası",
+  "VEHICLE_BRANDS": {
+    "100": "Audi",
+    "200": "BMW",
+    "300": "Fiat",
+    "400": "Hyundai",
+    "500": "Kia",
+    "600": "Renault",
+    "700": "Tesla",
+    "800": "Volkswagen"
+  },
+  "VEHICLE_CHASSIS_NUMBER": "Şasi Numarası",
+  "VEHICLE_COVERAGE_DOCUMENT_UPLOAD_AREA": "Araç Kasko Belgesi Yükleme Alanı",
+  "VEHICLE_COVERAGE_VALIDATION_END": "Araç Kasko Geçerlilik - Bitiş Tarihi",
+  "VEHICLE_COVERAGE_VALIDATION_START": "Araç Kasko Geçerlilik - Başlangıç Tarihi",
+  "VEHICLE_COVERAGE_VALIDITY_DATE": "Kasko Geçerlilik Tarihi",
+  "VEHICLE_ENGINE_NUMBER": "Motor Numarası",
+  "VEHICLE_EQUIPMENTS": {
+    "100": "Yedek Lastik",
+    "200": "Kriko",
+    "300": "Trafik Seti",
+    "400": "Ruhsat"
+  },
+  "VEHICLE_FUEL_TYPES": {
+    "100": "Benzin",
+    "200": "Dizel",
+    "300": "LPG",
+    "400": "Hibrit",
+    "500": "Elektrik"
+  },
+  "VEHICLE_FUEL_TYPE_TITLE": "Araç Yakıt Türü",
+  "VEHICLE_INSPECTION_VALIDATION_END": "Araç Muayene Geçerlilik - Bitiş Tarihi",
+  "VEHICLE_INSPECTION_VALIDATION_START": "Araç Muayene Geçerlilik - Başlangıç Tarihi",
+  "VEHICLE_INSPECTION_VALIDITY_DATE": "Araç Muayene Geçerlilik Tarihi",
+  "VEHICLE_INSURANCE_VALIDATION_END": "Sigorta Geçerlilik Tarihi - Bitiş",
+  "VEHICLE_IS_COMMON_CAR": "Havuz Araç",
+  "VEHICLE_MILEAGE": "Araç Kilometresi",
+  "VEHICLE_MODEL": "Araç Modeli",
+  "VEHICLE_MODELS": {
+    "10": "A5 / SPORTBACK 45 TFSI QUATTRO 265 SLINE STR PI",
+    "20": "A8 / L 55 TFSI quattro 340 hp Tiptronic PI.",
+    "30": "520i / 1.6 - Luxury Line",
+    "40": "520i / 1.6 170 M SPORT EDITION",
+    "50": "X3 / LCI SDRIVE20i 1.6 170 X LINE",
+    "60": "Egea / 1.3 M.Jet 95 HP Easy",
+    "70": "Egea / 1.6 EASY MJET 120 HP DCT",
+    "80": "Egea / 1.6 Easy MJET 130 E6D",
+    "90": "Egea / URBAN 1.6 M.Jet 130 E6D",
+    "100": "Egea SW / URBAN 1.6 M.Jet 130 E6D",
+    "110": "Fiorino / 1.3 M.Jet 95 HP Easy",
+    "120": "Elantra / 1.6 MPI (123) CVT STYLE COMFORT",
+    "130": "Elantra / 1.6 MPI 132 Ps. Elite CVT G2TC",
+    "140": "I20 / 1.4 MPI 100 JUMP 6 AT",
+    "150": "Stonic / COOL 1.4 100 OV",
+    "160": "Megane / JOY 1.3 TCE EDC 140 FAZ2",
+    "170": "MODEL Y / Elektrikli",
+    "180": "MODEL Y LONG PERFORMANCE / Elektrikli",
+    "190": "MODEL Y LONG RANGE / Elektrikli",
+    "200": "Passat / 1.5 TSI ACT 150 PS Business",
+    "210": "Passat / 1.5 TSI ACT 150 PS Impression",
+    "220": "Passat / 1.5 TSI CR DSG IMPRESION",
+    "230": "Passat / 1.6 TDI CR DSG 110 HP EU6",
+    "240": "Passat / 1.5 TSI ACT 150 DSG ELEGANCE"
+  },
+  "VEHICLE_MODEL_YEAR": "Araç Model Yılı",
+  "VEHICLE_REGION_TITLE": "Araç Bölgesi",
+  "VEHICLE_STATUS_TITLE": "Araç Durumu",
+  "VEHICLE_TIRE_TYPES": {
+    "100": "Yazlık",
+    "200": "Kışlık",
+    "300": "4 Mevsim"
+  },
+  "VEHICLE_TRANSMISSION_TYPES": {
+    "100": "Otomatik",
+    "200": "Manuel",
+    "300": "C"
+  },
+  "VEHICLE_TRANSMISSION_TYPE_TITLE": "Araç Vites Türü"
+}

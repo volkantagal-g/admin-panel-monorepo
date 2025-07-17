@@ -1,0 +1,40 @@
+import { createActions } from 'reduxsauce';
+
+import { REDUX_KEY } from '@shared/shared/constants';
+
+export const { Types, Creators } = createActions({
+  initPage: null,
+  exportRolesExcel: {},
+  exportRolesExcelFailure: { error: null },
+  requestRoleRequest: { roleId: 0, requestReason: '', timeLimit: '', durationType: '', durationDays: 0, endDate: null },
+  requestRoleFailure: { error: null },
+  getUserRoleRequestsRequest: null,
+  getUserRoleRequestsSuccess: { roleRequests: [] as TODO_FIXME_ANY },
+  getUserRoleRequestsFailure: { error: null },
+  getRoleRequestsForApprovalByRoleOwnerRequest: null,
+  getRoleRequestsForApprovalByRoleOwnerSuccess: { roleRequests: [] as TODO_FIXME_ANY },
+  getRoleRequestsForApprovalByRoleOwnerFailure: { error: null },
+  getRoleRequestByIdRequest: { id: '' },
+  getRoleRequestByIdSuccess: { roleRequest: {} },
+  getRoleRequestByIdFailure: { error: null },
+  cancelRoleRequestRequest: { roleRequestId: '' },
+  cancelRoleRequestFailure: { error: null },
+  approveRoleRequestRequest: {
+    roleRequestId: '',
+    responseReason: '',
+    timeLimit: '',
+    durationType: '',
+    durationDays: 0,
+    endDate: '',
+  },
+  approveRoleRequestFailure: { error: null },
+  rejectRoleRequestRequest: { roleRequestId: '', responseReason: '' },
+  rejectRoleRequestFailure: { error: null },
+  getExtendedUserInfoRequest: { user: {} },
+  getExtendedUserInfoSuccess: { user: {} },
+  getExtendedUserInfoFailure: { error: null },
+  getRolesOfTeammatesRequest: { limit: null, offset: null, queryText: '', isActive: null, sortOptions: {} },
+  getRolesOfTeammatesSuccess: { data: {} },
+  getRolesOfTeammatesFailure: { error: null },
+  destroyPage: null,
+}, { prefix: `${REDUX_KEY.ROLE.LIST}_` });

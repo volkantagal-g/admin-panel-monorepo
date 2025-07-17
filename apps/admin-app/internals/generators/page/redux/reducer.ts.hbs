@@ -1,0 +1,63 @@
+import { createReducer } from 'reduxsauce';
+
+import { Types } from './actions';
+
+export type State = {
+{{#each actions }}
+  {{simpleActionNameCase this}}: {
+    isPending: boolean,
+    data: unknown[], // @TODO: specify type
+  },
+{{/each}}
+};
+
+export const INITIAL_STATE: State = {
+{{#each actions }}
+  {{simpleActionNameCase this}}: {
+    isPending: false,
+    data: [],
+  },
+{{/each}}
+};
+
+{{#each actions }}
+const {{simpleActionNameCase this}}Request = (state) => ({
+  ...state,
+  {{simpleActionNameCase this}}: {
+    ...state.{{simpleActionNameCase this}},
+    isPending: true,
+    data: [],
+  },
+});
+const {{simpleActionNameCase this}}Success = (state, { data }) => ({
+  ...state,
+  {{simpleActionNameCase this}}: {
+    ...state.{{simpleActionNameCase this}},
+    isPending: false,
+    data,
+  },
+});
+const {{simpleActionNameCase this}}Failure = (state) => ({
+  ...state,
+  {{simpleActionNameCase this}}: {
+    ...state.{{simpleActionNameCase this}},
+    isPending: false
+  },
+});
+
+{{/each}}
+
+const destroyPage = () => ({ ...INITIAL_STATE });
+
+export const HANDLERS = {
+{{#each actions }}
+  [Types.{{upperSnakeCase this}}_REQUEST]: {{simpleActionNameCase this}}Request,
+  [Types.{{upperSnakeCase this}}_SUCCESS]: {{simpleActionNameCase this}}Success,
+  [Types.{{upperSnakeCase this}}_FAILURE]: {{simpleActionNameCase this}}Failure,
+{{/each}}
+{{#if wantRedux}}
+  [Types.DESTROY_PAGE]: destroyPage,
+{{/if}}
+}
+
+export default createReducer(INITIAL_STATE, HANDLERS);

@@ -1,0 +1,19 @@
+{
+  "ANSWER": "Answer",
+  "DECISION": "Decision",
+  "DECISION_ERROR": "Please select the decision status and fill the note section",
+  "DTS_DETAIL": "Dts Detail",
+  "DTS_RECORDS": "Dts Records",
+  "EMPLOYEE": "Employee",
+  "EMPLOYEE_PLACEHOLDER": "Please enter first 3 characters of the person's name",
+  "FEEDBACK_SOURCE": "Feedback Source",
+  "FILES": "Files",
+  "NEW_DTS": "New Dts",
+  "NOTES": "Notes",
+  "POINT": "Point",
+  "REPORTER": "Reporter",
+  "RULE_CATEGORY": "Rule Category",
+  "RULE_DESCRIPTION": "Rule Description",
+  "RULE_NUMBER": "Rule Number",
+  "RULE_PRIORITY": "Rule Priority"
+}

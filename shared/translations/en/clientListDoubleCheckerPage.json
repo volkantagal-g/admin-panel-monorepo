@@ -1,0 +1,13 @@
+{
+  "CONFIRM_TEXT": "Are you sure you want to upload with this configuration?",
+  "EMAIL_PERMISSION": "E-mail Permission",
+  "LIST_NAME": "List Name",
+  "MODAL_TITLE": "Confirm Upload",
+  "NOTIF_PERMISSION": "Notification Permission",
+  "PERMISSIONS": "Permissions",
+  "READY_TO_IMPORT": "Ready to import",
+  "SMS_PERMISSION": "SMS Permission",
+  "WARNINGS": {
+    "NO_DATA": "Empty CSV file"
+  }
+}

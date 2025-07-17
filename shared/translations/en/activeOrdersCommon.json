@@ -1,0 +1,10 @@
+{
+  "SLOTTED_STATES": {
+    "ON_DEMAND": "On-demand",
+    "SCHEDULED": "Scheduled"
+  },
+  "SLOTTED_STATE_COLUMN_TOOLTIP": "Scheduled Order",
+  "SLOTTED_STATE_LABEL": "Delivery Type",
+  "SLOTTED_STATE_SHORT": "Schd",
+  "SLOTTED_TOTAL_DURATION_TOOLTIP": "Duration since Verifying / Total Duration Since Checkout"
+}

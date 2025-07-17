@@ -1,0 +1,533 @@
+{
+  "#": "#",
+  "ACTIVATE": "Etkinleştir",
+  "ACTIVATE_CONFIRM_TEXT": "Seçili kampanyaları aktifleştirmek istiyor musunuz?",
+  "ACTIVATE_SELECTION": "Seçimi Etkinleştir",
+  "AGGRESSION_LEVELS": {
+    "HEADER_TITLE": "Agresiflik Seviyesi"
+  },
+  "ALERT_COUNTRY_MESSAGE": "Bu kampanyayı görebilmek için ülke olarak {{ countryName }} seçiniz.",
+  "ALL": "Hepsi",
+  "ALL_CITIES": "Tüm şehirler",
+  "ALL_TOOLTIP": "Tüm şehirleri seç",
+  "AVAILABLE_TIMES": {
+    "HEADER_TITLE": "Müsait Zamanlar"
+  },
+  "BANNER": {
+    "BACKGROUND_PICTURE_URL": "Arka Plan Resmi URL",
+    "COPY_BANNER": "Başlığı Kopyala",
+    "EDIT_BANNER": "Banner'ı Düzenle",
+    "ERROR": {
+      "ERROR_BACKGROUND_IMAGE": "Arka Plan Resmi boş olamaz",
+      "ERROR_FOREGROUND_IMAGE": "Ön Plan Resmi boş olamaz",
+      "ERROR_PIC_IMAGE": "Resimler boş olamaz"
+    },
+    "FOREGROUND_PICTURE_URL": "Ön Plan Resmi URL",
+    "GET_CONTENT_FROM": "İçeriği Alın",
+    "HEADER_TITLE": "Banner Detayı",
+    "LANDING_PAGE_ENABLED": "Açılış Sayfası Etkinleştirildi",
+    "PICTURE_URL": "Resim URL",
+    "SELECT_BUSINESS_DETAIL_PAGE": "Satıcı Seçiniz",
+    "SELECT_VERTICAL_PAGE": "Dikey Sayfa Seçiniz",
+    "SERVICE_BUSINESS_DETAIL_PAGE_ENABLED": "Hizmet İşletme Detay Sayfası Etkin",
+    "SERVICE_CATEGORY_DETAIL_PAGE_ENABLED": "Hizmet Kategori Detay Sayfası Etkin",
+    "SERVICE_HOMEPAGE_ENABLED": "Hizmet Ana Sayfası Etkin"
+  },
+  "BASIC_INFORMATION": {
+    "MASTER_PROMO": "Toplu Kampanya",
+    "PROMO_CODE": "Kampanya Kodu",
+    "PROMO_ID": "Kampanya ID",
+    "PROMO_TYPE": "Kampanya Türü",
+    "TITLE": "Temel Bilgiler",
+    "VALID_DATES": "Geçerli Tarihler"
+  },
+  "BENEFIT_SAP": {
+    "BENEFIT_TYPE_SAP_TOOLTIP": "Bağlı promosyonun fayda ürününü güncelle",
+    "ERRORS": {
+      "RATE_BETWEEN": "destek_oranları 0 ile 1 arasında olması gerektiğinden bazı alanlara eklenemedi",
+      "REF_CODE_EMPTY": "Lütfen tedarikçi veya üçüncü taraf destekli ürünler için SAP referans kodlarını ekleyin."
+    },
+    "HEADER_TITLE": "Fayda Türü SAP"
+  },
+  "BENEFIT_TYPE": {
+    "DELIVERY_FEE_AMOUNT": "Teslimat Ücreti",
+    "DELIVERY_FEE_HINT": "Boşsa, varsayılan teslimat ücreti alınacaktır",
+    "DISCOUNTED_PRICE": "İndirilmiş Tutar",
+    "DISCOUNT_AMOUNT": "İndirim Tutarı",
+    "DISCOUNT_RATIO": "İndirim Oranı/Tutarı",
+    "DISCOUNT_TYPE": "İndirim Türü",
+    "DONT_ALLOW_MULTI_USAGE": "Birden fazla süreli kullanıma izin verme",
+    "DO_NOT_CHARGE_DELIVERY": "Getirmesi Alınmasın",
+    "ERRORS": {
+      "DUPLICATE_PRODUCT_ID": "{{productId}} ürün ID'si tekrarlandığı için CSV yüklenemedi.",
+      "ERR_DISCOUNTED_PRICE_FIELD_SHOULD_BE_GREATER_THAN_0": "İndirilmiş Tutar 0'dan büyük olmalıdır.",
+      "ERR_DISCOUNT_AMOUNT_FIELD_SHOULD_BE_GREATOR_THAN_0": "İndirim Tutarı 0'dan büyük olmalıdır.",
+      "ERR_EMPTY_ITEM_LIST": "Fayda türüne ürün eklenmeli.",
+      "ERR_MAX_ITEM_COUNT_FIELD_SHOULD_BE_GREATER_THAN_0": "Maksimum Ürün Sayısı 0'dan büyük olmalıdır.",
+      "INVALID_DISCOUNTED_PRICE": "İndirilmiş tutar yanlış girildiği için csv yüklenemedi, ondalık sayı girilmesi gerekiyor.",
+      "INVALID_PRODUCTS_IMPORT": "{{INVALID_COUNT}} ürün için işlem gerçekleşmedi",
+      "MISSING_DISCOUNTED_PRICE": "İndirilmiş tutar eksik girildiği için csv yüklenemedi.",
+      "PROMO_TYPE_CANNOT_HAVE_DISCOUNTED_PRICE": "{{promoType}} kampanya türü için indirilmiş tutar alanı boş olmalıdır, bu yüzden csv yüklenemedi."
+    },
+    "HEADER_TITLE": "Fayda Türü",
+    "INCLUDE_ITEMS_MIN_ORDER": "Öğeleri minimum sırayla dahil et",
+    "MAX_ITEM_COUNT": "Maksimum Ürün Sayısı",
+    "PROMO_DISCOUNT_PRODUCTS": "Kampanya indirimli ürünler"
+  },
+  "BULK_PROMO": {
+    "EMPTY_CSV": "CSV dosyası boş. Lütfen CSV dosyası yükleyin.",
+    "INVALID_BULK_CSV": "Geçersiz CSV dosyası. Lütfen CSV dosyasını kontrol edin ve tekrar deneyin. İpucu: ",
+    "PERCENTAGE": "Bu Master kampanya tipi için discount_amount alanının 0-1 arasında bir yüzdelik değer olması gerekmektedir! Lütfen CSV dosyanızı gözden geçirin.",
+    "SUCCESS_N_PROMOS_IMPORT": "Toplam {promoCount} kampanya başarıyla içe aktarıldı.",
+    "TIP_CREATE_MASTER_PROMO": "Lütfen 'Yeni Kampanya' düğmesine tıklayarak ve master kampanya onay kutusunu işaretleyerek önce bir Master kampanya oluşturun.",
+    "TITLE": "Toplu Kampanya"
+  },
+  "CAMPAIGN_NAME": "Kampanya Adı",
+  "CAMPAIGN_TITLE": "Kampanya Başlığı",
+  "CHILD_PROMOS": {
+    "ADD_PROMOS": "Kampanya Ekle",
+    "ADD_REMOVE_PROMOS": "Kampanya Ekle/Kaldır",
+    "ADD_REMOVE_PROMOS_HELPER": "Lütfen promosyon kodlarını arayarak promosyonları seçin veya promosyon kodlarını içeren bir CSV yükleyin",
+    "BULK_ACTIVATE": "Toplu Etkinleştir",
+    "BULK_DEACTIVATE": "Toplu İnaktifleştir",
+    "BULK_RESULT": {
+      "MESSAGE": "Mesaj",
+      "TITLE": "Toplu İşlem Sonucu"
+    },
+    "CHECK_ALL": "Tümünü Seç",
+    "CHECK_ALL_HINT": "Sayfalar arasındaki tüm filtrelenmiş promosyonları seçer. Tüm promosyonları seçmek istiyorsanız, filtreleri temizlemeniz gerekir.",
+    "CHILDREN_PROMOS_ADDED_SUCCESSFULLY": "Alt kampanyalar başarıyla eklendi.",
+    "CHILDREN_PROMOS_REMOVED_SUCCESSFULLY": "Alt kampanyalar başarıyla kaldırıldı.",
+    "CREATOR_PARENT_ID": "Oluşturan Ana Kampanya ID",
+    "ERRORS": {
+      "EMPTY_CHECKED_PROMOS": "Lütfen alt kampanya seçiniz",
+      "FAILED_PRIORITY_PROMOS": "{{FAILED_COUNT}} adet kampanya aktifleştirilemedi. Daha önce kullanılmayan öncelik değerleri giriniz: ",
+      "FAILED_PROMOS": "{{TOTAL_COUNT}} promonun {{FAILED_COUNT}} tanesi aktive edilemedi. Lütfen promosyonun detaylarını kontrol edip tekrar deneyiniz. İlgili promosyonlar: "
+    },
+    "IS_MASTER": "Master Kampanya mı",
+    "MASTER_ID": "Master Kampanya ID",
+    "MASTER_PROMO_CODE": "Master Kampanya Kodu",
+    "PARENT_ID": "Ana Kampanya ID",
+    "REMOVE_PROMOS": "Kampanya Kaldır",
+    "REMOVE_SELECTED": "Seçilenleri Kaldır",
+    "SUCCESSFUL_ACTIVATED_PROMOS": "{{SUCCESSFUL_COUNT}}/{{TOTAL_COUNT}} promosyon başarılı bir şekilde aktive edildi.",
+    "SUCCESSFUL_DEACTIVATED_PROMOS": "{{SUCCESSFUL_COUNT}}/{{TOTAL_COUNT}} promosyon başarılı bir şekilde deaktive edildi.",
+    "TITLE": "Alt Kampanyalar"
+  },
+  "CLASSIFICATION": {
+    "BENEFIT_GROUP": "Benefit Group",
+    "COPY_CLASSIFICATION": "Sınıflandırmayı Kopyala",
+    "DAYPART": "Daypart",
+    "FUNNEL_SEGMENT": "Funnel Segment",
+    "LOCATION": "Location",
+    "OCCASION": "Occasion",
+    "PRODUCT_TL_GROUP": "Product TL Group",
+    "PROMO_CLASS": "Kampanya Sınıfı",
+    "PROMO_TARGET": "Kampanya Amacı",
+    "RESPONSIBLE_DEPARTMENT": "Sorumlu Departman",
+    "TITLE": "Sınıflandırma",
+    "WEEKPART": "Weekpart"
+  },
+  "COLUMNS": {
+    "ACTION": "Eylem",
+    "PROMO_CODE": "Kampanya Kodu"
+  },
+  "COMMUNICATIONS": {
+    "AI_GENERATION": "AI ile Oluşturma",
+    "ASSETS_TO_CREATE": "Oluşturulacak Varlıklar",
+    "CANT_UPDATE_ON_THIS_PROCESS_STATUS": "Bu işlem durumunda güncellenemez.",
+    "COMMS_STATUS": {
+      "DONE": "Tamamlandı",
+      "FAILED": "Başarısız",
+      "IN_PROGRESS": "Devam Ediyor",
+      "WAITING": "Beklemede"
+    },
+    "FIELD_INFO": "Bu alan size promo contentlerinizi AI ile generate etme ve yüklenilen segmenti clusterlayarak personalized iletişim yapma olanağı sağlar. Save edildikten sonra marketing sorumlusu Marketing Approval Page'den contentleri onaylar ve notificationlar Push Notifications sayfasında sıralanır.\n",
+    "GET_INFO": "AI segment hakkında bilgi al",
+    "HEADER_TITLE": "İletişim",
+    "MESSAGE": "Mesaj",
+    "NEW": "Yeni"
+  },
+  "CONDITION_PRODUCTS": {
+    "DOWNLOAD_CSV": "CSV'yi indir",
+    "ERRORS": {
+      "ERR_ITEM_REQUIRED": "'item' alanına geçerli bir ürün ID'si girilmelidir",
+      "ERR_MIN_REQ_ITEM_COUNT_SHOULD_BE_GREATOR_THAN_0": "Minimum gereksinim öğe sayısı 0'dan büyük olmalıdır.",
+      "ERR_PROMO_DISCOUNT_PRODUCTS": "Kampanya indirimli ürünler gereklidir.",
+      "ERR_SUPPLIER_REF_ID_MUST_BE_NUMBER": "Tedarikçi referans ID'si sayı olmalıdır",
+      "ERR_SUPPLIER_SUPPORT_MIN_MAX": "Tedarikçi destek oranı 0 ile 1 arasında olmalıdır",
+      "ERR_SUPPLIER_SUPPORT_RATE_AND_REF_ID": "Tedarikçi referans ID'si ve tedarikçi destek oranı birlikte girilmelidir",
+      "ERR_THIRD_PARTY_REF_ID_MUST_BE_NUMBER": "Üçüncü parti referans ID'si sayı olmalıdır",
+      "ERR_THIRD_PARTY_SUPPORT_MIN_MAX": "Üçüncü parti destek oranı 0 ile 1 arasında olmalıdır",
+      "ERR_THIRD_PARTY_SUPPORT_RATE_AND_REF_ID": "Üçüncü parti referans ID'si ve üçüncü parti destek oranı birlikte girilmelidir",
+      "MAX_ITEM_COUNT_FOR_LISTING_PROMO": "Bu mekanikte minimum gerekli öğe sayısı en fazla 5 olabilir."
+    },
+    "FAILED_PRODUCTS_IMPORT": "{{ failedImportCount }} adet ürün eklenemedi.",
+    "HEADER_TITLE": "İndirim Koşulu Olan Ürünler",
+    "MIN_ITEM_COUNT": "Minimum gerekli öğe sayısı",
+    "MIN_TOTAL_AMOUNT": "Gerekli ürünler minimum toplam miktar",
+    "REQUIRED_PRODUCTS": "İndirim İçin Gerekli Ürünler",
+    "SUCCESS_N_PRODUCTS_IMPORT": "Toplam {{ importCount }} ürün başarıyla içe aktarıldı.",
+    "TABLE_TITLE": {
+      "ALREADY_SOLD": "Satış Adedi",
+      "DISCOUNTED_PRICE": "İndirilmiş Tutar",
+      "IMAGE": "Resim",
+      "PRODUCT": "Ürün",
+      "SALE_LIMIT": "Satış Limiti",
+      "SAP_REFER_CODE": "Tedarikçi Firma SAP Ref Kodu",
+      "SUPPLIER_SUPPORT_RATE": "Tedarikçi Destek Oranı",
+      "THIRD_PARTY_REFER_CODE": "3. Parti Refer Code",
+      "THIRD_PARTY_SUPPORT_RATE": "3. Parti Destek Oranı"
+    },
+    "UPLOAD_CSV": "Csv Yükle"
+  },
+  "CONFIRM": "Onaylamak",
+  "COPY_PROMO": {
+    "TITLE": "Kampanyayı Kopyala"
+  },
+  "DISCOUNT_REASON": "İndirim Nedeni",
+  "EDIT_PRIORITY": "Önceliği Düzenle",
+  "ERRORS": {
+    "DISCOUNT_TYPE_EMPTY": "İndirim türü boş geçilemez",
+    "ERR_EMPTY_SAP_REF_CODE": "İlerlemek için 'SAP Ref Kod' alanını doldurmanız gerekmektedir.",
+    "ERR_EMPTY_SAP_SUPPORT_RATE": "İlerlemek için 'Tedarikçi Desteği Oranı' alanını doldurmanız gerekmektedir.",
+    "INVALID_DEVICE_TYPE": "Lütfen geçerli bir cihaz tipi seçin",
+    "INVALID_DOMAIN_TYPE": "Lütfen geçerli bir hedef alan türü seçin",
+    "INVALID_PROMO_TARGET": "Lütfen geçerli bir kampanya hedefi seçin",
+    "MASTER_PROMO_NOT_ALLOWED": "Master kampanya sadece Listing kampanyaları için oluşturulabilir.",
+    "MAX_COUNT": "Min sayısından büyük olmalıdır",
+    "MIN_COUNT": "Maksimum sayıdan az olmalıdır",
+    "MIN_MAX_COUNT_MUST_BE_CONSISTENT": "Maksimum ürün sayısı' 'minimum gerekli öğe sayısından' büyük ise 'birden fazla süreli kullanıma izin verme' kutucuğu işaretlenmelidir."
+  },
+  "ERR_INVALID_CSV_FILE": "geçersiz csv dosyası",
+  "ERR_INVALID_SUPPLIER": "Supplier id eşleşmediği için csv yüklenemedi.",
+  "EXCLUDED_PRODUCTS": {
+    "HEADER_TITLE": "Hariç Tutulan Ürünler",
+    "PRODUCT_CATEGORIES": "Hariç Tutulan Ürün Kategorileri",
+    "PRODUCT_SUB_CATEGORIES": "Hariç Tutulan Ürün Alt Kategorileri",
+    "PROMO_PRODUCTS": "Kampanya hariç tutulan ürünler"
+  },
+  "FINANCIAL_CONDITION": {
+    "DO_NOT_APPLY_BASKET_SIZE": "Min. Sepet Tutarı Uygulanmasın",
+    "ERORRS": {
+      "ERR_INVALID_CARD_BIN_LIST": "Yanlış girilen BIN numaraları: ",
+      "ERR_SUPPLIER_SUPPORT_RATE": "Tedarikçi destek oranı 0 ile 1 arasında olmalıdır",
+      "ERR_THIRD_PARTY_RATE": "3. parti destek oranı 0 ile 1 arasında olmalıdır",
+      "SUPPLIER_SHOULD_BE_SELECTED": "Tedarikçi seçilmelidir"
+    },
+    "FINANCED_BY": "Tarafından finanse olan",
+    "HEADER_TITLE": "Ekonomik durum",
+    "IS_FREE_PRODUCT": "Ücretsiz Üründür",
+    "MAX_BASKET_SIZE": "Maximum Sepet Tutarı",
+    "MIN_BASKET_SIZE": "Minimum Sepet Tutarı",
+    "MIN_DISCOUNTED_BASKET_SIZE": "Minimum İndirimli Sepet Boyutu",
+    "PAYMENT_METHODS": "Ödeme Tipleri",
+    "PROMO_MIN_BASKET_CHOICE": "Promolu min. sepet mekanizması",
+    "SUPPLIER": "Firma",
+    "SUPPLIER_SUPPORT_RATE": "Tedarikçi Desteği Oranı",
+    "THIRD_PARTY_SUPPORT_RATE": "3. Parti Destek Oranı",
+    "VALID_CARD_BINS": "Kampanya Kart BIN listesi"
+  },
+  "GENERAL_INFO": {
+    "AUTO_CLOSE": "Otomatik kapanma",
+    "CITIES": "Şehir",
+    "END_DATE": "Bitiş tarihi",
+    "MAXIMUM_ORDER_LIMIT_FOR_THE_PROMO": "Kampanya için maksimum sipariş limiti",
+    "NEVER_CLOSE": "Asla Kapama",
+    "PLATFORM": "Platformu",
+    "PRIORITY": "Öncelik",
+    "PROMOS_LINKED_TO_THIS_PROMO": "Bu Kampanyaya bağlı Kampanyalar",
+    "PROMO_CODE": "Kampanya Kodu",
+    "PROMO_CODE_TO_LINK": "Bağlanacak Kampanya Kodu",
+    "PROMO_DOMAIN": "Kampanya Alanı",
+    "PROMO_TARGET": "Kampanya Hedefi",
+    "START_DATE": "Başlangıç ​​tarihi",
+    "TITLE": "Genel Bilgiler",
+    "WAREHOUSES": "Depolar",
+    "WAREHOUSE_FLAGS": "Depo Bayrakları"
+  },
+  "GENERATE_CHILD_PROMOS": {
+    "CREATE_CHILD_PROMOS": "Alt Kampanyaları Oluştur",
+    "THROUGH_BENEFIT_PRODUCTS": "Kampanya Ürünleri Aracılığıyla",
+    "THROUGH_SEGMENT": "Segment Aracılığıyla",
+    "TITLE": "Alt Kampanyaları Oluştur"
+  },
+  "HIDE_PICTURES_PREVIEWS": "Resim Önizlemelerini Gizle",
+  "HINT": {
+    "AI_CHANGES_WARNING": "Bu alandaki değişiklikler, yapay zeka tarafından oluşturulan segmentleri etkileyebilir. Değişiklik sonrası yeni bir segment oluşturmak için ‘Segment’ alanını kullanabilirsiniz.",
+    "AUTO_INACTIVE_ON_EXPIRY": "Promosyon, belirttiğiniz geçerlilik tarihi sona erdiğinde otomatik olarak inaktif hale gelecektir.",
+    "CLASSIFICATION_CHANGE_RESTRICTED": "Bir promosyon herhangi bir siparişte kullanıldıysa, sınıflandırması değiştirilemez.",
+    "MULTIPLE_TIME_USAGE": "Promosyonun katlı kullanımını istemiyorsanız bu alanı işaretleyebilirsiniz.\n\nKatlı kullanım, koşul olarak belirlenen gerekli min ürün sayısı ve indirimli verilecek maksimum ürün sayısını baz alır.",
+    "NEVER_CLOSE": "Promosyonun belirtilen tarih aralığında sürekli görünür olmasını istiyorsanız bu seçeneği işaretleyebilirsiniz.",
+    "NO_ZERO_SEGMENT": "Bağlayacağınız promosyonlar, ‘0’ segmentini içeremez ve en az bir segment içermelidir.",
+    "UNIQUE_PRIORITY": "Öncelik değeri, her promosyon için benzersiz olmalıdır."
+  },
+  "INACTIVATE": "İnaktif Yap",
+  "INACTIVATE_CONFIRM_TEXT": "Seçili kampanyaları inaktif yapmak istiyor musunuz?",
+  "INACTIVATE_SELECTION": "Seçimi İnaktif Yap",
+  "IS_AGGRESSION_STATE_NON_AFFECTED": "Asla Kapama",
+  "IS_MASTER_PROMO": "Master Kampanya mı",
+  "LINKED_DATA_INFORMATION": {
+    "AGGRESSION_LEVEL": "Agresiflik seviyesi",
+    "AGGRESSION_LEVEL_BASED": "Agresiflik seviyesi bazlı",
+    "BRING_FROM_PROMOS": "Kampanyalardan getir",
+    "COPY": "Kopyala",
+    "COPY_SUCCESS": "Başarıyla Kopyalandı",
+    "DOMAIN_TYPES": {
+      "G10": "G10",
+      "GETIR_MORE": "GetirBüyük",
+      "GETIR_VOYAGER": "GetirSu"
+    },
+    "ERRORS": {
+      "LINKED_DATA_EMPTY_PRODUCTS": "En az bir ürün seçilmeli.",
+      "LINKED_DATA_MESSAGE_AREA_EMPTY": "<lang> mesaj alanı boş bırakılamaz.",
+      "NO_TARGET_SERVICE_SELECTED": "Lütfen hedef hizmet seçimi yapın."
+    },
+    "GENERATE_JINJA_EXPRESSIONS": "Jinja ifadeleri oluştur",
+    "HEADER_TITLE": "Linked Data Bilgisi - Notification",
+    "INCLUSION_TYPE": "Seçim Tipi",
+    "JINJA": "Jinja",
+    "LANGUAGES": "Diller",
+    "MESSAGE": "Mesaj",
+    "PRODUCTS": "Ürünler",
+    "STOCK_BASED": "Stok Bazlı",
+    "TARGET_SERVICE": "Hedef Hizmet",
+    "TOTAL_MIN_PRODUCT_STOCK_COUNT": "Toplam min. ürün stok adedi"
+  },
+  "LINKED_PROMOTIONS": {
+    "HEADER_TITLE": "Bağlı Promosyonlar"
+  },
+  "MASTER_ID": "Master Kampanya ID",
+  "MASTER_PROMO": "Toplu Kampanya",
+  "MESSAGE": {
+    "ACTIVATE_STATUS": "Kampanyanın etkinleştirdiğinizden emin misiniz?",
+    "ALREADY_ADDED": "Zaten eklendi",
+    "CANNOT_ADD_CHILD_PROMO_TO_NON_PARENT_ERROR": "Çatı promosyon olmayan bir promosyona alt promosyon eklenemez.",
+    "CANNOT_ADD_PARENT_PROMO_TO_PARENT_ERROR": "Çatı promosyona başka bir çatı promosyona eklenemez.",
+    "CANNOT_REMOVE_CHILD_PROMO_FROM_NON_PARENT_ERROR": "Çatı promosyon olmayan bir promosyondan alt promosyon kaldırılamaz.",
+    "CANNOT_REMOVE_PARENT_PROMO_FROM_PARENT_ERROR": "Bir çatı promosyondan başka bir çatı promosyondan kaldırılamaz.",
+    "EMPTY_PROMO_CONTENT_HTML": "İçerik HTML boş olamaz",
+    "EMPTY_VALID_FROM_OR_UNTIL_ERROR": "Başlangıç veya bitiş tarihleri boş olamaz.",
+    "ERR_BENEFIT_CONDITION_PRODUCTS_MISMATCH": "Bu kampanyanın etkinleştirilebilmesi için 'Fayda Türü' ve 'İndirim Koşulu Ürünler' sekmelerine girilen ürünler eşleşmelidir.",
+    "ERR_EMPTY_BADGE": "Kampanyayı aktif hale getirmek için kampanya etiketi seçmelisiniz.",
+    "ERR_EMPTY_CAMPAIGN_URL": "Kampanya URL i boş olamaz!",
+    "ERR_EMPTY_CLASSIFICATION": "Sınıflandırma boş olamaz!",
+    "ERR_EMPTY_PROMO_IMAGE": "Resim Önizleme boş olamaz!",
+    "ERR_INVALID_SEGMENT_FOR_LINKED_PROMOTION": "Bağlanacak promosyonun en az bir segmenti olmalı ve '0' segmentini içermemelidir.",
+    "ERR_MIN_REQ_ITEM_COUNT_SHOULD_BE_GREATER_THAN_0": "Minimum gereksinim öğe sayısı 0'dan büyük olmalıdır.",
+    "ERR_PROMO_CLIENT_SEGMENTS_EMPTY": "Bağlanılması istenilen kampanyanın segmenti boş ya da zaten herkese açık!",
+    "ERR_PROMO_DISCOUNT_PRODUCTS": "Kampanya indirimli ürünler gereklidir.",
+    "ERR_PROMO_PRIORITY_IS_NOT_UNIQUE": "Kampanya önceliği benzersiz olmalıdır, lütfen farklı bir öncelik seçin.",
+    "ERR_UNEXPECTED": "Beklenmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
+    "FAIL": "Başarısız",
+    "HAS_NO_ACCESSIBILITY_LABEL_ERROR": "Bu kampanyanın erişilebilirlik metni yok.",
+    "HAS_NO_CHILDREN_ERROR": "Bu kampanyanın hiçbir alt kampanyası yok.",
+    "HAS_NO_DESCRIPTION_ERROR": "Bu kampanyanın açıklaması yok.",
+    "HAS_NO_DOMAIN_TYPE_ERROR": "Bu kampanyanın hiç bir hedef alan türü yok.",
+    "HAS_NO_PROMO_CONTENT_SECTION_TITLE_ERROR": "Bu kampanyanın içerik bölüm başlığı yok.",
+    "HAS_NO_TITLE_ERROR": "Bu kampanyanın başlığı yok.",
+    "INACTIVATE_STATUS": "Kampanyayı devre dışı bırakmak istediğinizden emin misiniz?",
+    "INVALID_AGGRESSION_STATE_FOR_ACTIVE": "Asla kapama seçeneğinin işaretli olmadığı durumlarda, geçerli otomatik kapama seviyeleri seçmelisiniz",
+    "INVALID_AGGRESSION_STATE_FOR_NEVER_CLOSE": "Asla kapama seçeneğinin işaretli olmadığı durumlarda, tüm otomatik kapama seviyelerini temizlemelisiniz",
+    "INVALID_PROMO_HIERARCHY_ERROR": "Seçilen kampanya hiyerarşisi geçersiz.",
+    "INVALID_PROMO_MECHANIC": "Geçersiz kampanya türü",
+    "INVALID_PROMO_USAGE_ERROR": "Geçersiz promosyon kullanımı ve abonelik bilgisi",
+    "INVALID_SEGMENT_FOR_LINKED_PROMOTION_ERROR": "Bağlantılı promosyonların en az bir segmenti olmalı ve '0' segmenti içermemelidir.",
+    "IS_NOT_PARENT_PROMO_ERROR": "Bu kampanya bir çatı kampanyası değil.",
+    "IS_PARENT": "Çatı promo",
+    "NOT_FOUND": "Bulunamadı",
+    "NOT_PARENT": "Çatı değil",
+    "NO_PROMO_WAS_ADDED_ERROR": "Hiçbir kampanya eklenmedi.",
+    "NO_PROMO_WAS_REMOVED_ERROR": "Hiçbir kampanya kaldırılmadı.",
+    "P3_NOT_DONE_ERROR": "AI ile yaratılan segment henüz hazır olmadığı için promosyon aktive edilemedi. Lütfen daha sonra tekrar deneyiniz.",
+    "PROMO_CONTENT_HAS_NOT_CHANGED": "HTML değişmedi",
+    "PROMO_PRIORITY_IS_NOT_UNIQUE_ERROR": "Kampanya önceliği benzersiz olmalıdır, lütfen farklı bir öncelik seçin.",
+    "SUCCESS": "Başarılı"
+  },
+  "NEW_PROMO": {
+    "BASKET_PROMOS": "Basket Promos (Baskette ve sekmede gösterilecektir)",
+    "LISTING_PROMOS": "Listeleme Promosyonları (ürün kartlarında ve isteğe bağlı olarak sekmede gösterilecektir)",
+    "TAB_PROMOS": "Sekme Promosyonları (sekme ve ödeme sayfasında gösterilecektir)",
+    "TITLE": "Yeni Kampanya"
+  },
+  "NO": "Hayır",
+  "NONE": "Hiçbiri",
+  "NONE_TOOLTIP": "Tüm seçimleri kaldır",
+  "PARENT_PROMOS": {
+    "PARENT_PROMOS_ADDED_SUCCESSFULLY": "Çatı kampanyalar başarıyla eklendi.",
+    "PARENT_PROMOS_REMOVED_SUCCESSFULLY": "Çatı kampanyalar başarıyla kaldırıldı.",
+    "TITLE": "Çatı Kampanyalar"
+  },
+  "PARENT_PROMO_DETAILS": {
+    "ACTIVE_PROMO_COUNT": "Aktif Promosyon Sayısı",
+    "ACTIVE_PROMO_COUNT_HINT": "Çatı promosyona bağlı alt promosyonlar arasından aktif olanların toplam sayısı.",
+    "ADDED_CHILD_PROMO": "Eklenen Alt Promosyonlar",
+    "ADDED_CHILD_PROMO_HINT": "Çatı promosyonuna manuel olarak eklenen alt promosyonların toplam sayısı.",
+    "AI_GENERATED_PRODUCTS": "AI-Generated Ürün Listesi",
+    "AI_GENERATED_SEGMENT": "AI-Generated Segmentler",
+    "CREATED_CHILD_PROMO": "Yaratılan Alt Promosyonlar",
+    "CREATED_CHILD_PROMO_HINT": "Çatı promosyon aracılığıyla yapay zeka (AI) kullanılarak oluşturulan alt promosyonların toplam sayısı.",
+    "NO_ACTIVE_PROMO_WARNING": "Bu çatı promosyona bağlı hiç bir aktif alt promosyon bulunmamaktadır.",
+    "TITLE": "Çatı Promosyon Detayları",
+    "TOTAL_CHILD_PROMO_COUNT": "Toplam Alt Promosyon Sayısı",
+    "TOTAL_CHILD_PROMO_COUNT_HINT": "Çatı promosyona bağlı tüm alt promosyonların toplam sayısı (manuel ve AI dahil)."
+  },
+  "PARENT_PROMO_PRODUCTS_DOWNLOADED_SUCCESSFULLY": "Çatı kampanya ürünleri başarıyla indirildi.",
+  "PICTURE_INFORMATION": {
+    "HEADER_TITLE": "Resim Bilgileri",
+    "NOTIF_PREVIEW": "Bildirim Önizlemesi",
+    "PICTURE_PREVIEW": "Resim Önizleme (Android)",
+    "POPUP_PREVIEW": "Açılır Pencere Önizlemesi",
+    "THUMBNAIL_PREVIEW": "Küçük Resim Önizlemesi"
+  },
+  "PRIORITY": "Öncelik",
+  "PROMO_BADGE": {
+    "BASKET_APPLIED_BADGE": "Sepet Etiketi (Uygulanmış):",
+    "BASKET_NOT_APPLIED_BADGE": "Sepet Etiketi (Uygulanmamış):",
+    "HEADER_TITLE": "Kampanya Etiketi",
+    "PRODUCT_BADGE_LABEL": "Kampanya Etiketi Metni",
+    "PRODUCT_DETAIL_PAGE_BADGE": "Ürün Detay Etiketi:",
+    "PRODUCT_LISTING_PAGE_BADGE": "Ürün Listeleme Etiketi:"
+  },
+  "PROMO_BUTTON_ACTION": {
+    "HEADER_TITLE": "Buton Aksiyonu"
+  },
+  "PROMO_CONTENT": {
+    "ACCESSIBILITY_LABEL": "Erişilebilirlik Metni",
+    "DESCRIPTION": "Açıklama",
+    "HEADER_TITLE": "Kampanya İçerik",
+    "PROMO_CONTENT_SECTION": "İçerik Bölüm Başlığı",
+    "TITLE": "Başlık"
+  },
+  "PROMO_DETAILS": "Promosyon Detayları",
+  "PROMO_DETAIL_TITLE": "Kampanya Detayı",
+  "PROMO_GROUP": {
+    "HEADER_TITLE": "Kampanya grubu",
+    "REMOVE_WARNING": "Bu alan kullanım sıklığı düşük olduğu için deaktive edilmiştir. Bu alanı kullanmaya ihtiyaç duyuyorsanız Incentives ekibine ulaşabilirsiniz."
+  },
+  "PROMO_HIERARCHY": "Promo Hiyerarşisi",
+  "PROMO_LIST": {
+    "PROMO_CODE": "Kampanya kodu",
+    "TARGET_DOMAIN_TYPE": "Hedef Alan Türü",
+    "TITLE": "Kampanyalar"
+  },
+  "PROMO_TYPE": "Kampanya Türü",
+  "PROMO_URL": {
+    "APPLY_TO_V2": "Değişiklikleri V2 için uygula",
+    "HEADER_TITLE": "Kampanya URL",
+    "PROMO_HTML": "Promo HTML",
+    "PROMO_HTML_V2": "Promo HTML V2",
+    "PROMO_URL": "Kampanya URL",
+    "PROMO_URL_FOR_WEB": "Web için Kampanya URL",
+    "PROMO_URL_V2": "Kampanya URL (v2)"
+  },
+  "RESPONSIBLE_DEPARTMENT": "Sorumlu Departman",
+  "SEARCH_IN_TABLE": "Tabloda ara",
+  "SEARCH_PROMO": "Kampanya Arayın",
+  "SEGMENT": {
+    "AI_GENERATION": "AI ile Oluşturma",
+    "ALL_CLIENTS": "Tüm Kullanıcılar",
+    "CLIENT_COUNTS": "Müşteri sayısı",
+    "COPY_SEGMENTS": "Segmentleri Kopyala",
+    "COUNT_SEGMENTS": "Segmentlerin Sayısını Alın",
+    "DOWNLOAD_SEGMENTS": "Segmentleri İndir",
+    "ERRORS": {
+      "CLIENT_NOT_FOUND": "Üzgünüz, seçilen ‘İndirimli Ürünler’ için AI segment oluşturamadı. Lütfen manuel olarak segment girişi yapınız.",
+      "NO_DOMAIN": "AI ile segment oluşturabilmek için, 'Genel Bilgiler' alanında domain tipi seçmelisiniz. Lütfen devam etmeden önce bu alanı doldurunuz.",
+      "NO_PRODUCTS": "AI ile segment oluşturabilmek için, 'İndirimli Ürün' alanında en az bir ürün eklemelisiniz. Lütfen devam etmeden önce bu alanı doldurunuz.",
+      "PROCESSING": "Bu işlem biraz zaman alacak. Lütfen 1 dk sonra tekrar deneyiniz."
+    },
+    "EXCLUDED_CLIENT": "Hariç Müşteri S. ",
+    "EXCLUDED_FRAUD_LEVELS": "Promosyon İstismarcılarını Hariç Tut",
+    "EX_SEGMENTS": "Harici Segmentler",
+    "GET_INFO": "AI segment hakkında bilgi al",
+    "HEADER_TITLE": "Segmentler",
+    "INCLUDED_CLIENT": "Hedef Müşteri S. ",
+    "INFO": "Bu özelliği kullanmak için, AI Generation toggle'ının açık olduğundan emin olun. Segment alanı otomatik olarak AI tarafından oluşturulan segmentle doldurulur ve manuel düzenlemeye açık değildir. AI ile segment oluşturmak için 'Hedefler'den birini seçmelisiniz. Hedefler şu şekildedir; 'Eğilimi Yüksek': Geçmiş veya potansiyel satın alma davranışlarına dayanarak satın alma olasılığı yüksek kullanıcılara promosyon teklif edin. 'Penetrasyon': Kullanıcıları daha önce satın almadıkları yeni ürün kategorileri ile tanıştırın. 'Sipariş Oluşturan': Daha büyük alışveriş sepetleri oluşturacak önerilerde bulunun. Ayrıca Exc Segments ve Fraud Levels alanlarına mevcuttaki gibi manuel olarak değerler girebilirsiniz. Statü 'Tamamlandı' veya 'Başarısız' olduğunda, Slack kanalında paylaşılacaktır. Slack kanalı: magical-ai-updates. Daha fazla bilgiyi Sayfa Bilgileri > Sayfa Dokümanları bölümünde bulabilirsiniz.",
+    "NEW": "Yeni",
+    "OBJECTIVE": "Hedef",
+    "OWN_BRANDS": "Kendi Markaları",
+    "OWN_PRODUCTS": "Kendi Ürünleri",
+    "P3_STATUS": {
+      "DONE": "Tamamlandı",
+      "FAILED": "Başarısız",
+      "IN_PROGRESS": "Devam Ediyor"
+    },
+    "REGENERATE_MANUALLY": "Bu alandaki değişiklikler, AI tarafından oluşturulmuş segmenti etkileyebilir. Yaptığınız değişikliğe uygun olarak, yeni bir segment oluşturmak için 'Segment' alanını kullanabilirsiniz.",
+    "REGENERATE_SEGMENTS": "Segmentleri Yeniden Oluştur",
+    "SUBCATEGORIES": "Alt Kategoriler",
+    "TARGETED_BRANDS": "Hedeflenen Markalar",
+    "TARGETED_PRODUCTS": "Hedeflenen Ürünler"
+  },
+  "SEGMENT_TYPES": {
+    "ERRORS": {
+      "ERR_EMPTY_CSV_FILE": "Segment dosyası boş",
+      "ERR_EMPTY_SEGMENT_TYPES": "Segment türleri boş"
+    },
+    "HEADER_TITLE": "Segment Tipleri",
+    "IMPORT_CLIENTS_FROM_CSV": "Kullanıcıları CSV'den aktar"
+  },
+  "SELECT_PRODUCT": {
+    "NOT_FOUND": "Bulunamadı",
+    "NOT_FOUND_PLEASE_TYPE_FOR_SEARCH": "Bulunamadı: Arama yapmak için en az {{ letterCount }} harf girin.",
+    "PRODUCTS": "Ürünler"
+  },
+  "SHOW_INDIVIDUALLY": "Teker teker göster",
+  "SHOW_PICTURE_PREVIEWS": "Resim Önizlemelerini Göster",
+  "STATUS": "Durum",
+  "TARGET_DOMAIN": "Hedef Servis",
+  "TERMS_AND_CONDITIONS": {
+    "CONDITIONS": "Koşullar",
+    "EXAMPLE_USAGES": "Kampanyalı Sepet Örnekleri",
+    "EXCLUDED_PRODUCTS": "Kampanya Dışı Ürünler",
+    "EXPIRATION_DATE": "Son Kullanma Tarihi ⏳",
+    "INSTANT_DISCOUNT": "Sepette anında indirim 💸",
+    "MINIMUM_BASKET": "Minimum Sepet Tutarı 💰",
+    "NO_DELIVERY_FEE": "Ücretsiz Teslimat 🚚",
+    "PLEASE_USE_CAMPAIGN_DETAILS": "Lütfen 'Kullanım Koşulları' bölümünü kullanın",
+    "PROMO_USAGE": "Kampanya Kullanımı",
+    "REMAINING_USAGE_RIGHTS": "Kalan Kullanım Hakları 🧾",
+    "SELECT_AT_CHECKOUT": "Ödeme sayfasında seç 🛒",
+    "TITLE": "Kullanım Koşulları",
+    "USE_NEW_SECTION": "Lütfen aşağıdaki yeni 'Kullanım Koşulları' bölümünü kullanın",
+    "WITH_OTHER_PROMOS": "Başka kampanyalarla ✅"
+  },
+  "USAGE": "Kullanım",
+  "USAGE_INFORMATION": {
+    "HEADER_TITLE": "Kullanım Bilgisi",
+    "TOTAL_DISCOUNT_AMOUNT": "Toplam İndirim Miktarı",
+    "TOTAL_PRICE": "Toplam Fiyat",
+    "TOTAL_PURCHASING_PRICE": "Toplam Alış Fiyatı",
+    "TOTAL_VAT_VALUE": "Toplam KDV Miktarı",
+    "UNIQUE_CLIENT_COUNT": "Tekil Kullanıcı Sayısı",
+    "USED_COUNT": "Kullanım Miktarı"
+  },
+  "USER_FILTERING": {
+    "DAILY_USE_LIMIT": "Günlük Kullanım Limiti",
+    "HEADER_TITLE": "Kullanıcı Filtreleme",
+    "HEALTHCARE_PROFESSIONAL": "Sağlık çalışanı",
+    "MAX_SUC_CARBOY_ORDER_COUNT": "Maksimum Başarılı damacana siparişi",
+    "MAX_SUC_FOOD_ORDER_COUNT": "Max. Yemek Sipariş Sayısı",
+    "MAX_SUC_GORILLAS_ORDER_COUNT": "Max. Gorillas Sipariş Sayısı",
+    "MAX_SUC_MARKET_ORDER_COUNT": "Max. GetirBüyük Sipariş Sayısı",
+    "MAX_SUC_ORDER_COUNT": "Max. Getir10 Sipariş Sayısı",
+    "MAX_SUC_VOYAGER_ORDER_COUNT": "Max. GetirSu Sipariş Sayısı",
+    "MIN_SUC_CARBOY_ORDER_COUNT": "Minimum Başarılı damacana siparişi",
+    "MIN_SUC_FOOD_ORDER_COUNT": "Min. Yemek Sipariş Sayısı",
+    "MIN_SUC_GORILLAS_ORDER_COUNT": "Min. Gorillas Sipariş Sayısı",
+    "MIN_SUC_MARKET_ORDER_COUNT": "Min. GetirBüyük Sipariş Sayısı",
+    "MIN_SUC_ORDER_COUNT": "Min. Getir10 Sipariş Sayısı",
+    "MIN_SUC_VOYAGER_ORDER_COUNT": "Min. GetirSu Sipariş Sayısı",
+    "ONLY_PREMIUM_DEVICE_MODELS": "Sadece Premium Cihazlar",
+    "ORDER_LIMIT_COUNT": "Max. Sipariş Sayısı",
+    "REQ_DAYS_AFTER_LAST_FOOD_ORDER": "Son GY Siparişi Üzerinden Geçecek Süre",
+    "REQ_DAYS_AFTER_LAST_ORDER": "Son G10 Siparişi Üzerinden Geçecek Süre",
+    "SHOW_LOCATION_FREE": "Lokasyon bağımsız göster",
+    "SHOW_ONLY_TO_LOCAL_NUMBERS": "Sadece lokal numaralara göster",
+    "USE_LIMIT": "Kullanım Limiti"
+  },
+  "VALID_FROM": "Bitiş Tarihi",
+  "VALID_UNTIL": "Başlangıç Tarihi",
+  "WORKING_HOURS": "Çalışma saatleri",
+  "YES": "Evet"
+}

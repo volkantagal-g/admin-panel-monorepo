@@ -1,0 +1,20 @@
+{
+  "ADDRESS_INFO": {
+    "ADDRESS": "Address",
+    "APARTMENT": "Apt No",
+    "CLIENT_NOTE": "Client Note",
+    "DIRECTIONS": "Directions",
+    "DOOR_NO": "Door No",
+    "FLOOR": "Floor",
+    "NAME": "Name"
+  },
+  "BASKET_LOGS": {
+    "TITLE": "Basket Logs"
+  },
+  "CONFIRM_TEXT": {
+    "CANCEL_BASKET": "Are you sure you want to cancel basket"
+  },
+  "JSON_TITLE": "Basket Detail JSON",
+  "PAGE_TITLE": "Market Basket Detail",
+  "TIME": "Time"
+}

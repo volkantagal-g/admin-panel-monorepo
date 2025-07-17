@@ -1,0 +1,61 @@
+{
+  "API_ERRORS": {
+    "REQUEST_FAIL": "{{ rowName }} için gerekli bazı veriler çekilirken hata oluştu."
+  },
+  "ROW_NAMES": {
+    "COUNTRY_CODES": {
+      "DE": "Almanya",
+      "ES": "İspanya",
+      "FR": "Fransa",
+      "GB": "İngiltere",
+      "IT": "İtalya",
+      "NL": "Hollanda",
+      "PT": "Portekiz",
+      "TR": "Türkiye",
+      "XC": "Kaliforniya",
+      "XF": "Florida",
+      "XI": "IL",
+      "XM": "MA",
+      "XN": "NY",
+      "XW": "Wisconsin"
+    },
+    "COUNTRY_GROUP_CODES": {
+      "EUROPE": "Avrupa",
+      "TR": "Türkiye",
+      "USA": "ABD"
+    },
+    "DOMAIN_CODES": {
+      "G10": "Getir10",
+      "G30": "GetirBüyük"
+    },
+    "GETIR_MARKET": "GetirMarket"
+  },
+  "ROW_NAME_TOOLTIPS": {
+    "COUNTRY_CODES": {
+      "DE": "Almanya",
+      "ES": "İspanya",
+      "FR": "Fransa",
+      "GB": "İngiltere",
+      "IT": "İtalya",
+      "NL": "Hollanda",
+      "PT": "Portekiz",
+      "TR": "Türkiye",
+      "XC": "Kaliforniya",
+      "XF": "Florida",
+      "XI": "Illinois",
+      "XM": "Massachusetts",
+      "XN": "New York Eyaleti",
+      "XW": "Wisconsin"
+    },
+    "COUNTRY_GROUP_CODES": {
+      "EUROPE": "Avrupa",
+      "TR": "Türkiye",
+      "USA": "ABD"
+    },
+    "DOMAIN_CODES": {
+      "G10": "Getir10",
+      "G30": "GetirBüyük"
+    },
+    "GETIR_MARKET": "GetirMarket"
+  }
+}

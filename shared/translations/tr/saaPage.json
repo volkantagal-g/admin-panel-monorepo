@@ -1,0 +1,16 @@
+{
+  "ACTIVE_DOMAINS": "Aktif Servisler",
+  "ACTIVE_DOMAINS_PLACE_HOLDER": "Aktif domain tipini seçiniz",
+  "AUTO_CREATED_SAAS": "Otomatik SAA'leri Göster",
+  "AUTO_CREATED_SAAS_INFO": "Otomatik SAA'ler, aktif domainlere dayalı olarak poligonlar tarafından oluşturulur. Bunları düzenleyemez veya silemezsiniz.",
+  "CLICK_SAA": "Poligona tıklayarak detaylarını inceleyebilirsin",
+  "CONFIRM_TEXT": "Bu işlemi tamamlamak istiyor musun?",
+  "CREATE_SAA": "Oluştur",
+  "DETAIL_SAA": "İnfo",
+  "EDIT_SAA": "Düzenle",
+  "FOUND_AREA_COUNT": "Bulunan servis alanı sayısı",
+  "GEO_JSON": "GeoJSON",
+  "NAME_PLACE_HOLDER": "Servis Alanı ismini yazınız",
+  "NEW_SAA": "Yeni Servis Alanı",
+  "SEARCH_SAAS": "Servis Alanı Ara"
+}

@@ -1,0 +1,17 @@
+{
+    "DOWNLOAD_REPORT": "Download Report",
+    "FILTER_WAREHOUSES": "Filter Warehouses",
+    "FRANCHISE_AREAS": "Franchise Areas",
+    "NO_REPORT": "There is no report.",
+    "REPORT_TYPE": "Report Type",
+    "REPORT_TYPES": {
+        "LEAVE_MANAGEMENT": "Leave Management Report",
+        "SHIFT_PLAN": "Shift Plan Report",
+        "SLOT_CHANGE_LOG": "Slot Change Log Report",
+        "SLOT_PERFORMANCE": "Slot Performance Report",
+        "SLOT_SELECTION": "Slot Selection Report"
+    },
+    "SELECT_ALL": "Select All",
+    "SELECT_REPORT_TYPE": "Select Report Type",
+    "WAREHOUSE_TYPES": "Warehouse Types"
+}

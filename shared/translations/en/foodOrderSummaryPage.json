@@ -1,0 +1,22 @@
+{
+  "ACTIVE_ORDERS_SUMMARY": "GF Active Orders Summary",
+  "ACTIVE_RESTAURANTS": "Open Restaurant",
+  "AVAILABLE_RESTAURANTS": "Available Restaurant",
+  "AVAILABLE_RG": "Available RestaurantDelivery Restaurant",
+  "BUSY_RG_SHORT": "Busy RG Restaurant",
+  "COURIER_OPEN_RG": "Courier Available RestaurantDelivery Restaurant",
+  "FOOD_ACTIVE_ORDERS": "Orders",
+  "FOOD_GETIR_DELIVERY": "GetirDelivery Order",
+  "FOOD_RESTAURANT_DELIVERY": "RestaurantDelivery Order",
+  "MOBILE_ORDER": "Mobile Order",
+  "ONLINE": "Online",
+  "ON_DELIVERY": "On Delivery",
+  "PAYMENT_METHOD": "Payment Method",
+  "PENDING": "Pending Confirmation for +7 minutes",
+  "RESTAURANT_SITUATION_SUMMARY": "GF Restaurant's Situation Summary",
+  "SCHEDULED_ORDER": "Waiting Scheduled Order",
+  "VALUE": "Value",
+  "VIGO": "Vigo (Virtual Warehouse)",
+  "WEB_ORDER": "Website Order",
+  "WITHOUT_PROMO": "Without Promo"
+}

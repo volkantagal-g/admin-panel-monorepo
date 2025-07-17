@@ -1,0 +1,23 @@
+{
+	"NO_DATA": "Veri bulunamadı",
+	"SEARCH_PARTNER": "İşletme Ara",
+	"SUMMARY": {
+		"CREATE_REPORT_FOR_ALL": "Tümü için Rapor Oluştur",
+		"PAID_TOTAL_REVENUE_AMOUNT": "Toplam Yapılan Ödeme Tutarı",
+		"PARTNER_COUNT": "Toplam İşletme",
+		"TITLE": "Özet",
+		"TOTAL_COMPANY_COUNT": "Toplam İşletme Sayısı",
+		"TOTAL_WITHHOLDING_TAX": "Toplam Stopaj Tutarı"
+	},
+	"TABLE": {
+		"ACTIONS": "Aksiyonlar",
+		"CREATE_REPORT": "Rapor Oluştur",
+		"PARTNER_NAME": "İşletme",
+		"TOTAL_WITHHOLDING_TAX_AMOUNT": "Toplam Stopaj Tutarı"
+	},
+	"TABS": {
+		"CORPORATE": "Tüzel İşletmeler",
+		"INDIVIDUAL": "Bireysel İşletmeler",
+		"SIMPLE_PROCEDURE": "Basit Usulde İşletmeler"
+	}
+}

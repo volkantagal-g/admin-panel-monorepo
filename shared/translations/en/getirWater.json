@@ -1,0 +1,15 @@
+{
+  "COURIER_STATUS": {
+    "FILTER": {
+      "STATUS": "Status",
+      "STATUS_DESC": "Select Status",
+      "STATUS_REASON": "Status Reason",
+      "STATUS_REASON_DESC": "Select Status Reason",
+      "WAREHOUSE": "Warehouses",
+      "WAREHOUSE_DESC": "Select Warehouse"
+    },
+    "LAST_STATUS_UPDATE": "Last Status Update",
+    "STATUS_REASON": "Status Reason"
+  },
+  "GETIR_WATER": "Getir Water"
+}

@@ -1,0 +1,9 @@
+export const ROLE_REQUEST_TIME_LIMIT = {
+  PERMANENT: 'PERMANENT',
+  TEMPORARY: 'TEMPORARY',
+} as const;
+
+export const ROLE_REQUEST_DURATION_TYPE = {
+  DURATION: 'DURATION',
+  END_DATE: 'END_DATE',
+} as const;

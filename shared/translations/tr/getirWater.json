@@ -1,0 +1,15 @@
+{
+  "COURIER_STATUS": {
+    "FILTER": {
+      "STATUS": "Statü",
+      "STATUS_DESC": "Statü Seç",
+      "STATUS_REASON": "Statü Nedeni",
+      "STATUS_REASON_DESC": "Statü Nedeni Seç",
+      "WAREHOUSE": "Depo",
+      "WAREHOUSE_DESC": "Depo Seç"
+    },
+    "LAST_STATUS_UPDATE": "Son Güncelleme",
+    "STATUS_REASON": "Statü Nedeni"
+  },
+  "GETIR_WATER": "Getir Su"
+}

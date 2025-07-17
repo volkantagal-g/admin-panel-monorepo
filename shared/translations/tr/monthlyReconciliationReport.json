@@ -1,0 +1,16 @@
+{
+  "FILTER": {
+    "POS_BANK": {
+      "DESC": "Pos Bankası Seç",
+      "TITLE": "Pos Bankası"
+    }
+  },
+  "REPORTS": "Raporlar",
+  "TABLE": {
+    "COLUMNS": {
+      "POS_BANK": "Pos Bankası",
+      "PURCHASE_AMOUNT": "Sipariş Tutarı",
+      "REFUND_AMOUNT": "Toplam İade Tutarı"
+    }
+  }
+}

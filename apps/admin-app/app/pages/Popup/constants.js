@@ -1,0 +1,131 @@
+import { targetServiceType } from '@shared/shared/constantValues';
+
+export const POPUP_IMAGE_VALIDATION = {
+  maxWidth: 2000,
+  minWidth: 300,
+  minHeight: 300,
+  imageRatios: ['2:1'],
+  maxImageSizeInMB: 1,
+};
+
+export const POPUP_TYPE = {
+  GENERIC: 0,
+  PROMO: 1,
+  LEGAL: 2,
+  REFER_A_FRIEND: 3,
+};
+
+export const POPUP_STATUS_TYPE = {
+  ACTIVE: 2,
+  INACTIVE: 1,
+};
+
+export const POPUP_ACTION = {
+  DETAIL: 'DETAIL',
+  CANCEL: 'CANCEL',
+  PAUSE: 'PAUSE',
+  RESUME: 'RESUME',
+  DUPLICATE: 'DUPLICATE',
+  DELETE: 'DELETE',
+};
+
+export const POPUP_PROCESS_STATUS = {
+  CREATED: 1,
+  READY: 2,
+  IN_PROCESS: 4,
+  PAUSE: 5,
+  CANCEL: 6,
+  DAILY_COMPLETED: 7,
+  COMPLETED: 8,
+  FAIL: 9,
+  GLOBAL_PAUSE: 10,
+  DAILY_FINISHED: 11,
+  FINISHED: 12,
+};
+
+export const REQUEST_ERROR_REASON = {
+  INVALID_PATH_VARIABLE: 'INVALID_PATH_VARIABLE',
+  ENTITY_NOT_FOUND: 'ENTITY_NOT_FOUND',
+  WRONG_COUNTRY_SELECTION: 'ACCESS_DENIED',
+};
+
+export const availableTargetServices = [
+  {
+    id: targetServiceType.GETIR,
+    customTargetDomain: 'GETIR',
+  },
+  {
+    id: targetServiceType.GETIR_MORE,
+    customTargetDomain: 'GETIR_MORE',
+  },
+  {
+    id: targetServiceType.GETIR_FOOD,
+    customTargetDomain: 'GETIR_FOOD',
+  },
+  {
+    id: targetServiceType.GETIR_WATER,
+    customTargetDomain: 'GETIR_WATER',
+  },
+];
+
+export const FOOD_PROMO_SEARCH_FIELDS = {
+  sortField: 'validityPeriod.validFrom',
+  sortType: '1',
+  limit: 10,
+  page: '1',
+};
+
+export const LOCAL_PROMO_SEARCH_FIELDS = {
+  page: 0,
+  size: 1,
+};
+
+export const PROMO_STATUS = {
+  ACTIVE: 2,
+  INACTIVE: 1,
+};
+
+export const ADMIN_PANEL_CONFIGS = {
+  LIVEMAP_WATCHER: 'co:LIVEMAP_WATCHER',
+  COURIER_WATCHER: 'co:COURIER_WATCHER',
+  WATCHER_KEY_TEST_DRIVE: 'co:WATCHER_KEY_TEST_DRIVE',
+  SUPPLY_WATCHER: 'co:SUPPLY_WATCHER',
+  TRESHOLD_ORDER_STATUS_VERIFYING: 'co:TRESHOLD_ORDER_STATUS_VERIFYING',
+  TRESHOLD_ORDER_STATUS_PREPARING: 'co:TRESHOLD_ORDER_STATUS_PREPARING',
+  TRESHOLD_ORDER_STATUS_PREPARED: 'co:TRESHOLD_ORDER_STATUS_PREPARED',
+  TRESHOLD_ORDER_STATUS_HANDOVER: 'co:TRESHOLD_ORDER_STATUS_HANDOVER',
+  TRESHOLD_ORDER_STATUS_ONWAY: 'co:TRESHOLD_ORDER_STATUS_ONWAY',
+  TRESHOLD_ORDER_STATUS_REACHED: 'co:TRESHOLD_ORDER_STATUS_REACHED',
+  INFORMATION_PORTAL_NEW_PROMOS_DAYS_COUNT: 'co:INFORMATION_PORTAL_NEW_PROMOS_DAYS_COUNT',
+  INFORMATION_PORTAL_ACTIVE_PROMOS_DAYS_COUNT: 'co:INFORMATION_PORTAL_ACTIVE_PROMOS_DAYS_COUNT',
+  INFORMATION_PORTAL_INACTIVE_PROMOS_DAYS_COUNT: 'co:INFORMATION_PORTAL_INACTIVE_PROMOS_DAYS_COUNT',
+  APPLICATION_LINK_IN_APP_REDIRECTION_OPTIONS: 'co:APPLICATION_LINK_IN_APP_REDIRECTION_OPTIONS',
+};
+
+export const MARKET_CONFIG_QUERY_TYPES = {
+  ARRAY: 'Array',
+  BOOLEAN: 'Boolean',
+  NUMBER: 'Number',
+  OBJECT: 'Object',
+  STRING: 'String',
+};
+
+export const MERCHANT_LIST = {
+  SHOW_ALL_CHAIN_MERCHANTS: 1,
+  SHOW_SPECIFIC_CHAIN_MERCHANTS: 2,
+  SHOW_SPECIFIC_MERCHANT_TYPE: 3,
+};
+
+export const AGGRESSION_LEVEL = {
+  1: '1',
+  2: '2',
+  3: '3',
+  4: '4',
+  5: '5',
+};
+
+export const COMPONENT_TYPE = {
+  // TOAST_MESSAGE: 1,
+  STANDARD: 2,
+  // FULL_SCREEN: 3,
+};

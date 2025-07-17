@@ -1,0 +1,63 @@
+{
+  "ACTIONS": "Actions",
+  "CANCELLED_ORDERS": "Cancelled Orders",
+  "CANCEL_REASON": "Cancel Reason",
+  "CHECKOUT_DATE": "Checkout Date",
+  "CLIENT": "Client",
+  "CONFIRMATION_CODE": "Confirmation Code",
+  "COURIER": "Courier",
+  "DATE": "Date",
+  "DELIVERY_TYPE": "Delivery Type",
+  "DETAILS": "Details",
+  "FILTER": {
+    "CITY_DESC": "Select City",
+    "CONFIRMATION_CODE": {
+      "WARNING": "Confirmation code will be send with 4 characters only!"
+    },
+    "COURIER_TRACKABILITY": {
+      "DESC": "Select Tracking Type",
+      "TITLE": "Restaurant Courier Trackability"
+    },
+    "COURIER_TYPE": {
+      "DESC": "Select Courier Type",
+      "TITLE": "Courier Type"
+    },
+    "DELIVERY_TYPE": {
+      "DESC": "Select Delivery Type",
+      "TITLE": "Delivery Type"
+    },
+    "PAYMENT_METHOD": {
+      "DESC": "Select Payment Method",
+      "TITLE": "Payment Method"
+    },
+    "PLATFORM": {
+      "DESC": "Select Platform",
+      "TITLE": "Platform"
+    },
+    "RESTAURANTS": {
+      "DESC": "Select Restaurants",
+      "TITLE": "Restaurants"
+    },
+    "SEARCH_DESC": "Customer Restaurants Courier PromoCode",
+    "STATUS": {
+      "DESC": "Select Status",
+      "TITLE": "Status"
+    },
+    "TIME_TYPE": {
+      "DESC": "Select Time Type",
+      "TITLE": "Time Type"
+    }
+  },
+  "GETIR_DELIVERY": "Getir Delivery",
+  "ORDER": "Order",
+  "PAYMENT_METHOD": "Payment Method",
+  "PLATFORM": "Platform",
+  "PRICE": "Price",
+  "RESTAURANT": "Restaurant",
+  "STATUS": "Status",
+  "SUCCESS_ORDERS": "Success Orders",
+  "TIME_TYPE": "Time Type",
+  "TITLE": "GetirFood Order Filters",
+  "TRACKABLE_COURIER": "Trackable Courier",
+  "UNTRACKABLE_COURIER": "Untrackable Courier"
+}

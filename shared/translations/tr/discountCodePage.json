@@ -1,0 +1,17 @@
+{
+  "COLUMNS": {
+    "DESCRIPTION": "Açıklama",
+    "STATUS": "Durum",
+    "TITLE": "Başlık",
+    "USED_COUNT": "Kullanım Sayısı",
+    "VALID_FROM": "Başlangıç Tarihi",
+    "VALID_UNTIL": "Bitiş Tarihi"
+  },
+  "DISCOUNT_CODE_SEARCH": "İndirim kodu arama",
+  "DISCOUNT_CODE_USED_CLIENTS": "İndirimi kullanan müşteriler",
+  "EDIT_CODES": "Kodları düzenle",
+  "IMPORT_CODES_BY_CSV": "Kodları .csv'den yükle",
+  "INFO_NO_ONE_USED_DISCOUNT": "İndirim kodu kimse tarafından kullanılmamış",
+  "PAGE_TITLE": "İndirim Kodu Listesi",
+  "START_END_DATES": "Başlangıç/Bitiş Tarihi"
+}

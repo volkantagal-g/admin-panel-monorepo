@@ -1,0 +1,22 @@
+{
+  "CONTROL_GROUP": "Control Group",
+  "CSV_UPLOAD_WARNING": "The expected id field in the file should contain the client id values",
+  "NUMBER_OF_AUDIENCE": "Number of Audience",
+  "NUMBER_OF_FILES": "Number of Files",
+  "OWNERS": "Owners",
+  "TEMPLATE_SEARCH": "Template Search",
+  "TEST_CODE": "Test Code",
+  "TEST_GROUP": "Test Group",
+  "TEST_NAME": "Test Name",
+  "TEST_STATUSES": {
+    "100": "In Prog",
+    "200": "Ready",
+    "300": "Failed"
+  },
+  "TEST_TYPE": "Test Type",
+  "TEST_TYPES_0": "CSV Upload",
+  "TEST_TYPES_1": "Template",
+  "TITLE": "A/B Testing",
+  "VARIATION_DESCRIPTION": "Test Description",
+  "VARIATION_NAME": "Test Name"
+}

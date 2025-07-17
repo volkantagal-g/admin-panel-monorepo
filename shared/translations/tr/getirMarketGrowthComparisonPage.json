@@ -1,0 +1,16 @@
+{
+  "CLIENT_ORDERS": "Müşteri Siparişleri",
+  "GROUPING_WITH_OBJECTIVES": "Kampanya Hedefi Gruplaması",
+  "GROWTH_RATE": "% Büyüme",
+  "NEW_CLIENTS": "Yeni Müşteriler",
+  "ORDER_COUNT": "Sipariş Sayısı",
+  "ORDER_COUNTS_BY_STORE": "Depo Sipariş Sayıları",
+  "ORGANIC_ORDER": "Organik Sipariş",
+  "PROMO_ORDER": "Kampanyalı Sipariş",
+  "PROMO_RATES": "Kampanya Oranları",
+  "PROMO_USED_COUNT": "Kampanya Kullanım Sayısı",
+  "TABLE_WORK_ONLY_GETIR_INTEGRATION_TYPE_DESCRIPTION": "{{tableName}} tablosu yalnızca entegrasyon tipi Getir olarak seçildiğinde çalışır.",
+  "TITLE": "GM Büyüme Karşılaştırma",
+  "TOTAL_ORDER": "Toplam Sipariş",
+  "TOTAL_ORDER_RATE": "Toplam Siparişe Oran"
+}

@@ -1,0 +1,56 @@
+{
+  "DATA_TABLE": {
+    "ACTION": "Action",
+    "BRAND": "Brand",
+    "CANCEL_REASON": "Cancel Reason",
+    "CITY": "City",
+    "CONFIRMATION_CODE": "Confirmation Code",
+    "CREATED_DATE": "Cart Date",
+    "CUSTOMER_NAME": "Customer Name",
+    "ORDER": "Order",
+    "PAYMENT_DATE": "Order Date",
+    "PRICE": "Price",
+    "SCHEDULED_DATE": "Scheduled Delivery Date",
+    "STATUS": "Status",
+    "VENDOR": "Vendor"
+  },
+  "FILTER": {
+    "BRAND": {
+      "DESC": "Select Brand",
+      "TITLE": "Brand"
+    },
+    "CITY": {
+      "DESC": "Select City",
+      "TITLE": "City"
+    },
+    "CONFIRMATION_CODE": {
+      "DESC": "Confirmation Code",
+      "TITLE": "Confirmation Code"
+    },
+    "PAYMENT_METHOD": {
+      "DESC": "Select Payment Method",
+      "TITLE": "Payment Method"
+    },
+    "STATUS": {
+      "DESC": "Select Status",
+      "TITLE": "Status"
+    },
+    "TIME_TYPE": {
+      "DESC": "Select Time Type",
+      "TITLE": "Time Type"
+    },
+    "VENDOR": {
+      "DESC": "Select Vendor",
+      "TITLE": "Vendor"
+    }
+  },
+  "PAYMENT_STATUS": {
+    "PARTIAL_REFUNDED": "Partial Refund Succeded",
+    "REFUNDED": "Refund Succeded"
+  },
+  "TIME_TYPES": {
+    "IMMEDIATE": "Immediate",
+    "SCHEDULED": "Scheduled"
+  },
+  "TITLE": "GetirWater Order Filter"
+}

@@ -1,0 +1,82 @@
+{
+  "DATA_TABLE": {
+    "ACTION": "Action",
+    "BASKET": "Bskt",
+    "CHARGE": "Chrg",
+    "CITY": "City",
+    "COURIER": "Courier",
+    "CUSTOMER": "Customer",
+    "G10": "G10",
+    "GATE": "Door",
+    "GL": "GL",
+    "LAST": "L. Act",
+    "LAST_COURIER_ACTIVITY_DIFF_SHORT": "C.L. Act",
+    "LOCALS": "Locals",
+    "LOCALS_ORDER": "L.Ord.",
+    "ORDER": "Order",
+    "PAYMENT_METHOD": "Payment Method",
+    "PLATFORM": "P",
+    "PROMO": "Promo",
+    "STATUS": "Status",
+    "STRINGS": {
+      "DROP_OFF_AT_DOOR": {
+        "NO": "N",
+        "YES": "Y"
+      }
+    },
+    "SUM": "Sum",
+    "TIME": "Date",
+    "TITLE": "Active Orders"
+  },
+  "ERROR": {
+    "NO_CITY": "City must be selected for fetching active orders.",
+    "SEARCH_MIN_2_CHARS": "Min 2 chars must be entered for Locals search."
+  },
+  "FILTER": {
+    "CITY_DESC": "Select City",
+    "COURIER_TYPE": {
+      "DESC": "Select Courier Type",
+      "TITLE": "Courier Type"
+    },
+    "CUSTOMER_LOCALS_COURIER_PROMO_SEARCH": "Customer Locals Courier PromoCode",
+    "DELIVERY_TYPE": {
+      "DESC": "Select Delivery Type",
+      "TITLE": "Delivery Type"
+    },
+    "DOMAIN_TYPE": {
+      "DESC": "Select Courier Domain Type",
+      "TITLE": "Courier Domain Type"
+    },
+    "IS_ORDER_RETAIL": {
+      "TITLE": "Filter Retail Orders"
+    },
+    "IS_ORDER_SCHEDULED": {
+      "TITLE": "Filter Scheduled Orders"
+    },
+    "LAST_ACTIVITY": {
+      "DESC": "Select Last Activity Gap",
+      "TITLE": "Last Activity"
+    },
+    "LOCALS": {
+      "DESC": "Select Locals",
+      "TITLE": "Locals"
+    },
+    "MERCHANT_TYPE": {
+      "DESC": "Select Merchant Type",
+      "TITLE": "Merchant Type"
+    },
+    "PAYMENT_METHOD": {
+      "DESC": "Select Payment Method",
+      "TITLE": "Payment Method"
+    },
+    "PLATFORM": {
+      "DESC": "Select Platform",
+      "TITLE": "Platform"
+    },
+    "STATUS": {
+      "DESC": "Select Order Status",
+      "TITLE": "Order Status"
+    }
+  },
+  "TITLE": "GetirLocals Active Orders"
+}

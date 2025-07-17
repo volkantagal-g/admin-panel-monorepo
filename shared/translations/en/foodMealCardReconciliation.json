@@ -1,0 +1,29 @@
+{
+  "FILTER": "Filter",
+  "LABELS": {
+    "DATE_PICKER": "Transaction Date",
+    "MATCHED_SELECT": "Matched",
+    "MEAL_CARD_SELECT": "Meal Card",
+    "ORDER_ID": "Order ID"
+  },
+  "RECONCILIATION_DATA": {
+    "GETIR_FOOD": "Getir Food",
+    "MEAL_CARD": "Meal Card",
+    "TITLE": "Summary Data",
+    "TOTAL_NET_AMOUNT": "Total Net Amount",
+    "TOTAL_ORDER_COUNT": "Total Order Count",
+    "TOTAL_PAYMENT_AMOUNT": "Total Payment Amount",
+    "TOTAL_REFUND_AMOUNT": "Total Refund/Cancellation Amount"
+  },
+  "TABLE": {
+    "AMOUNT": "Amount",
+    "MATCHED": "Matched",
+    "MEAL_CARD_AMOUNT": "Meal Card Amount",
+    "NO": "No",
+    "ORDER_ID": "Order Id",
+    "TRANSACTION_DATE": "Transaction Date",
+    "TYPE": "Type",
+    "YES": "Yes"
+  },
+  "TOOLTIP": "For reconciliation data, consider the data up to 2 days ago. The last 2 days data has been added for informational purposes."
+}

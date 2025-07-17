@@ -1,0 +1,34 @@
+{
+	"NO_DATA": "No data found",
+	"SEARCH_PARTNER": "Search Restaurant",
+	"SUMMARY": {
+		"CREATE_REPORT_FOR_ALL": "Create Report for All",
+		"EXCEL_EXPORT": "Excel Export",
+		"EXPORT_SECTION_DESCRIPTION": "You can export the withholding tax report in XML or Excel format by selecting the filter below.",
+		"EXPORT_SECTION_TITLE": "Withholding Tax Report",
+		"FILTER_LABEL": "Filter Selection",
+		"FILTER_TYPES": {
+			"ALL_RECORDS": "All Records",
+			"PAYMENT_AT_DOOR": "Records with Payment at Door",
+			"WITHHOLDING_TAX_INCLUDED": "Records with Withholding Tax",
+			"WITHHOLDING_TAX_NOT_INCLUDED": "Records without Withholding Tax"
+		},
+		"PAID_TOTAL_REVENUE_AMOUNT": "Total Paid Revenue Amount",
+		"PARTNER_COUNT": "Total Restaurants",
+		"TITLE": "Summary",
+		"TOTAL_COMPANY_COUNT": "Total Restaurant Count",
+		"TOTAL_WITHHOLDING_TAX": "Total Withholding Tax",
+		"XML_EXPORT": "XML Export"
+	},
+	"TABLE": {
+		"ACTIONS": "Actions",
+		"CREATE_REPORT": "Create Report",
+		"PARTNER_NAME": "Restaurant",
+		"TOTAL_WITHHOLDING_TAX_AMOUNT": "Total Withholding Tax Amount"
+	},
+	"TABS": {
+		"CORPORATE": "Corporate Restaurants",
+		"INDIVIDUAL": "Individual Restaurants",
+		"SIMPLE_PROCEDURE": "Simple Procedure Restaurants"
+	}
+}

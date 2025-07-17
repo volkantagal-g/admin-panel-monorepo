@@ -1,0 +1,1 @@
+export const MERCHANT_LIST = { SHOW_ALL_CHAIN_MERCHANTS: '1' };

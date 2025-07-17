@@ -1,0 +1,21 @@
+{
+    "COURIER_COUNT": "Kurye Sayısı",
+    "COURIER_RATING": "Kurye Değerlendirmesi",
+    "COURIER_STAR_RATING": "Kurye Yıldız Derecelendirmesi",
+    "CREATION_DATE_TIME": "Oluşturma Tarihi ve Saati",
+    "DETAILS": "Detaylar",
+    "DETAILS_MESSAGE": "Hedeflenen Kuryeler şöyle olacaktır :",
+    "DONE": "Tamamlamak",
+    "FINAL": "Son",
+    "GENERAL": "Genel",
+    "GENERAL_FILTER": "Genel Filtre",
+    "KPI_FILTERS": "Kpi Filtreleri",
+    "MODAL_TEXT": "Seçimlerinize göre tüm kurye kimliklerini bulacağımız için sonraki sayfanın her şeyi yüklemesi biraz zaman alabilir.",
+    "MODAL_TITLE": "Emin misin ?",
+    "SEGMENT_DETAILS": "Bölüm Ayrıntıları",
+    "SEGMENT_ID": "Segment Kimliği",
+    "SEGMENT_LIST_FILTER": "Filtre",
+    "SEGMENT_NAME": "Segment Adı",
+    "TARGETED_COURIERS": "Targeted Couriers",
+    "TOTAL_ORDER_COUNT": "Toplam Sipariş Sayısı"
+}

@@ -1,0 +1,22 @@
+{
+  "CONTROL_GROUP": "Kontrol Grup",
+  "CSV_UPLOAD_WARNING": "Dosya içerisindeki id değeri müşteri id'si olmalı",
+  "NUMBER_OF_AUDIENCE": "Varyasyon Sayısı",
+  "NUMBER_OF_FILES": "Dosya Sayısı",
+  "OWNERS": "Yöneticiler",
+  "TEMPLATE_SEARCH": "Taslak Ara",
+  "TEST_CODE": "Test Kodu",
+  "TEST_GROUP": "Test Grup",
+  "TEST_NAME": "Test Adı",
+  "TEST_STATUSES": {
+    "100": "Hazırlanıyor",
+    "200": "Hazır",
+    "300": "Tamamlanamadı"
+  },
+  "TEST_TYPE": "Test Tipi",
+  "TEST_TYPES_0": "CSV Yükleme",
+  "TEST_TYPES_1": "Hedef Kitlesi Taslağı",
+  "TITLE": "A/B Test",
+  "VARIATION_DESCRIPTION": "Test Açıklaması",
+  "VARIATION_NAME": "Test Adı"
+}

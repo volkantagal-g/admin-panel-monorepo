@@ -1,0 +1,12 @@
+{
+  "ACTION_TYPE": "Aksiyon tipi",
+  "ACTION_TYPES_DONT_OVERLAP": "Girişi yapılan kodların yapacağı işlem aynı olmadığından, aksiyon tipinde güncelleme yapılamamaktadır.",
+  "EDIT_DISCOUNT_CODES": "İndirim Kodlarını Düzenle",
+  "RESET_EXISTING_USAGES": "Mevcut kullanımları sıfırla",
+  "REUSE_CODES": "Kodları Yeniden Kullan",
+  "REUSE_CONFIRMATION": "İlgili tarih aralığı için kullanımlar sıfırdan sayılmaya başlanacaktır. Onaylıyor musunuz?",
+  "REUSE_TOOLTIP": "Buradan yaptığınız işlemlerde kullanımlar sıfırdan sayılmaya başlanır. Kod yeniden yaratılmış gibi davranılır.",
+  "UPDATE_CODES": "Kodları Güncelle",
+  "UPDATE_TOOLTIP": "Buradan yaptığınız işlemlerde sadece ilgili güncellemeler yapılır. İlk önce güncellemek istediğiniz kodları içeren CSV dosyasını yüklemelisiniz.",
+  "USE_LIMIT": "Kullanım limiti"
+}
