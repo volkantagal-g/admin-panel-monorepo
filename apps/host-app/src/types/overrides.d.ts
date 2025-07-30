@@ -1,0 +1,13 @@
+declare module '@shared/jssTheme';
+declare module '@shared/hooks';
+declare module '@shared/utils/common';
+declare module '@shared/hooks/useModalBackdrop';
+declare module '@shared/constants/styling';
+declare module '@shared/shared/analyticsConstants';
+declare module '@shared/services/analytics';
+declare module '@shared/style.less';
+declare module 'admin_app/AdminApp';
+declare module './AppLayout/constants';
+declare module './AppLayout/Sidebar';
+declare module './AppLayout/Header';
+declare module './AppLayout/Content/styles'; 
