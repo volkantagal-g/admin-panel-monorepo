@@ -1,0 +1,55 @@
+{{#if wantRedux}}
+  import { useDispatch } from 'react-redux';
+{{/if}}
+{{#if wantTranslation}}
+  import { useTranslation } from 'react-i18next';
+{{/if}}
+
+{{#if wantRedux}}
+  import { useInitAndDestroyPage } from '@app/hooks';
+{{/if}}
+import { useInjectReducer } from '@app/utils/injectReducer';
+import { useInjectSaga } from '@app/utils/injectSaga';
+import { REDUX_KEY } from '@app/shared/constants';
+import { ROUTE } from '@app/routes';
+import usePageViewAnalytics from '@app/hooks/usePageViewAnalytics';
+import PageTitleHeader from '@app/components/UI/PageTitleHeader';
+
+{{#if wantMainComponent}}
+  import {{ properCase mainComponentName }} from './components/{{ properCase mainComponentName }}';
+{{/if}}
+{{#if wantRedux}}
+import { Creators } from './redux/actions';
+import saga from './redux/saga';
+import reducer from './redux/reducer';
+
+const reduxKey = REDUX_KEY.{{reduxKey}};
+{{/if}}
+
+const {{ properCase name }}Page = () => {
+{{#if wantTranslation}}
+  const { t } = useTranslation(['global'])
+{{/if}}
+{{#if wantRedux}}
+  const dispatch = useDispatch();
+{{/if}}
+  usePageViewAnalytics({ name: ROUTE.{{constantCase routeKey}}.name, squad: ROUTE.{{constantCase routeKey}}.squad });
+
+{{#if wantRedux}}
+  useInjectReducer({ key: reduxKey, reducer });
+  useInjectSaga({ key: reduxKey, saga });
+  useInitAndDestroyPage({ dispatch, Creators });
+{{/if}}
+
+  return (
+    <>
+      Happy Coding 🐼 ({{ properCase name }}Page)
+      <PageTitleHeader title={t('global:{{titleTranslationKey}}')} />
+      {{#if wantMainComponent}}
+        <{{ properCase mainComponentName }} />
+      {{/if}}
+    </>
+  );
+}
+
+export default {{ properCase name }}Page;

@@ -70,21 +70,17 @@ export default function AppContent({ sidebarWidth, routeComponentsMap }) {
   }, [dispatch, canAccess]);
 
   return (
-    <Content
-      className={classes.appContent}
-    >
-      <Routes>
-        {routes
-          .filter(route => canAccess(getPagePermKey(route.key), { route }) && routeComponentsMap[route.key])
-          .map(route => (
-            <Route
-              key={route.key}
-              path={route.path}
-              element={<RouteComponentWrapper route={route} Component={routeComponentsMap[route.key]} />}
-            />
-          ))}
-        <Route path="/*" element={<NavigateWithToast to={INITIAL_ROUTE.path} replace />} />
-      </Routes>
-    </Content>
+    <Routes>
+      {routes
+        .filter(route => canAccess(getPagePermKey(route.key), { route }) && routeComponentsMap[route.key])
+        .map(route => (
+          <Route
+            key={route.key}
+            path={route.path}
+            element={<RouteComponentWrapper route={route} Component={routeComponentsMap[route.key]} />}
+          />
+        ))}
+      <Route path="/*" element={<NavigateWithToast to={INITIAL_ROUTE.path} replace />} />
+    </Routes>
   );
 }

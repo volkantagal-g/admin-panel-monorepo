@@ -1,0 +1,263 @@
+image:
+  name: 406421550649.dkr.ecr.eu-west-1.amazonaws.com/codebuild:v2.0.16
+  aws:
+    access-key: $AWS_ACCESS_KEY_ID
+    secret-key: $AWS_SECRET_ACCESS_KEY
+
+clone:
+  depth: full
+
+definitions:
+  services:
+    docker:
+      memory: 7128
+  caches:
+    npm-home: $HOME/.npm
+    sonar: ~/.sonar/cache
+    babel-loader-cache-v2: /usr/local/caches/babel-loader-cache-v2
+    webpack-cache-v2: /usr/local/caches/webpack-cache-v2
+  steps:
+    - step: &tag-branch
+        name: Selecting Branch Name as Tag
+        script:
+          - echo ${TAGNAME} > tag.txt
+        artifacts:
+          - tag.txt
+    - step: &tag-dev
+        name: Selecting last commit hash as Tag
+        script:
+          # get 10 digits from hash
+          # you can visit https://bitbucket.org/getirdev/admin-panel-frontend/commits/<commit-hash> to see the commit
+          - echo ${BITBUCKET_COMMIT:0:10} > tag.txt
+        artifacts:
+          - tag.txt
+    - step: &lint
+        name: Linting javascript and checking sort for json files
+        size: 2x
+        caches:
+          - node
+        script:
+          - internals/pipeline/lint_and_check_sort.sh
+          - internals/pipeline/type_check.sh
+          - internals/pipeline/check_translations.sh
+    - step: &test-unit
+        name: Running Unit Tests
+        caches:
+          - node
+        script:
+          - internals/pipeline/test_unit_ci.sh
+    - step: &test-changed
+        size: 2x
+        name: Run tests for changed files
+        caches:
+          - node
+        script:
+          - internals/pipeline/test_changed_ci.sh
+        artifacts:
+          download: false
+          paths:
+            - coverage/**
+    - step: &test-all
+        size: 2x
+        name: Run All Tests
+        caches:
+          - node
+        script:
+          - internals/pipeline/test_all_ci.sh
+        artifacts:
+          download: false
+          paths:
+            - coverage/**
+    - step: &sonar-analysis
+        size: 2x
+        name: Analyze on SonarCloud
+        caches:
+          - sonar
+        script:
+          - pipe: sonarsource/sonarqube-scan:2.0.1
+            variables:
+              SONAR_HOST_URL: ${GETIR_SONAR_HOST_URL}
+              SONAR_TOKEN: ${GETIR_SONAR_TOKEN}
+              EXTRA_ARGS: -Dsonar.projectVersion=${BITBUCKET_COMMIT:0:6}
+    - step: &build-cache-env
+        name: Setting up cache environment
+        clone:
+          enabled: false
+        script:
+          - echo "BABEL_LOADER_CACHE_DIR=/usr/local/caches/babel-loader-cache-v2" >> .env
+          - echo "WEBPACK_CACHE_DIR=/usr/local/caches/webpack-cache-v2" >> .env
+        artifacts:
+          - .env
+pipelines:
+  pull-requests:
+    '**':
+      - parallel:
+          - step: *lint
+          - step: *test-unit
+      - step: *sonar-analysis
+    'release/**':
+      - parallel:
+          - step: *lint
+          - step: *test-changed
+      - step: *sonar-analysis
+
+  branches:
+    dev:
+      - step: *tag-dev
+      - step: *build-cache-env
+      - step:
+          name: Prepare Build and Deploy For Dev-App
+          size: 2x
+          caches:
+            - node
+            - babel-loader-cache-v2
+            - webpack-cache-v2
+          script:
+            - export TAG=$(cat tag.txt)
+            - aws s3 cp s3://getir-devops/npmjs/.npmrc .npmrc
+            - aws s3 cp s3://getir-devops/scripts/sts.sh sts.sh
+            - source sts.sh $DEV_ACCOUNT_ROLE_ARN getir-dev
+            - aws ssm get-parameters-by-path --region ${AWS_DEFAULT_REGION} --path ${CONFIG_SERVER_PATH}${BITBUCKET_REPO_SLUG} --recursive | jq -j '.Parameters[] | "\(.Name|split("/")[-1])=\(.Value)\n"' >> .env
+            # in dev, we don't have tag, we use commit hash
+            - echo "VERSION=${TAG}" >> .env
+            - echo "NEW_RELIC_VERSION=${TAG}" >> .env
+            # avoid husky installation
+            - npm set-script prepare ""
+            - npm ci --production
+            # some env variables come from bitbucket repository settings
+            - npm run build
+            - aws s3 sync ./build s3://admin-panel-frontend-dev/
+            - aws cloudfront create-invalidation --distribution-id ${DEV_DISTRIBUTION_ID} --paths "/*"
+          after-script:
+            # extra header text for slack notification
+            - export SLACK_HEADER_EXTRA="Dev Deployment Result"
+            # for different slack channel, provide different webhook url
+            - export SLACK_WEBHOOK_URL=${ADMIN_PANEL_SLACK_PIPELINE_WEBHOOK_URL}
+            # script decides rest of the message from bitbucket env variables
+            - node internals/pipeline/notifySlack.js
+    master:
+#      - step: *test-all
+      - step: *sonar-analysis
+    'fix-tests/**':
+      - step: *test-all
+  tags:
+    v*.*.*:
+      - step: *build-cache-env
+      - step:
+          name: Prepare Build For Prod-App
+          size: 2x
+          caches:
+            - node
+            - babel-loader-cache-v2
+            - webpack-cache-v2
+          script:
+            - aws s3 cp s3://getir-devops/npmjs/.npmrc .npmrc
+            - aws ssm get-parameters-by-path --region ${AWS_DEFAULT_REGION} --path ${CONFIG_SERVER_PATH}${BITBUCKET_REPO_SLUG} --recursive | jq -j '.Parameters[] | "\(.Name|split("/")[-1])=\(.Value)\n"' >> .env
+            # when tagging, we can use the tag value instead of commit hash
+            - echo "VERSION=${BITBUCKET_TAG}" >> .env
+            - echo "NEW_RELIC_VERSION=${BITBUCKET_TAG}" >> .env
+            # avoid husky installation
+            - npm set-script prepare ""
+            - npm ci --production
+            # some env variables come from bitbucket repository settings
+            - REACT_APP_DEVTOOL=source-map npm run build
+          artifacts:
+            - build/**
+          after-script:
+            - export SLACK_HEADER_EXTRA="Prod Deployment / Before Manual Trigger"
+            - export IS_BEFORE_MANUAL_TRIGGER=true
+            - export SLACK_WEBHOOK_URL=${ADMIN_PANEL_SLACK_PIPELINE_WEBHOOK_URL}
+            - node internals/pipeline/notifySlack.js
+      - step:
+          # different step with artifacts so it can be re-run if failed
+          name: Prod Deploy - Manual
+          trigger: manual
+          clone:
+            depth: 1
+          script:
+            - aws s3 sync ./build s3://getir-admin-panel-frontend/  --exclude 'sourcemaps/*'
+            - aws cloudfront create-invalidation --distribution-id ${PROD_DISTRIBUTION_ID} --paths "/*"
+          after-script:
+            - export SLACK_HEADER_EXTRA="Prod Deployment Result"
+            - export SLACK_WEBHOOK_URL=${ADMIN_PANEL_SLACK_PIPELINE_WEBHOOK_URL}
+            - node internals/pipeline/notifySlack.js
+      - step:
+          name: Upload Source Maps to New Relic
+          caches:
+            - node
+          variables:
+            - NEW_RELIC_APP_ID: $NEW_RELIC_APP_ID
+            - NEW_RELIC_API_KEY: $NEW_RELIC_API_KEY
+          script:
+            - npm install
+            - node internals/pipeline/uploadSourcemapToNewRelic.js
+
+  custom:
+    e2e-test:
+      - step: *build-cache-env
+      - step:
+          name: Run E2E Tests
+          size: 2x
+          caches:
+            - docker
+            - npm-home
+            - babel-loader-cache-v2
+            - webpack-cache-v2
+          variables:
+            - AWS_ACCESS_KEY_ID: $AWS_ACCESS_KEY_ID
+            - AWS_SECRET_ACCESS_KEY: $AWS_SECRET_ACCESS_KEY
+            - AWS_DEFAULT_REGION: $AWS_DEFAULT_REGION
+            - AWS_ACCOUNT_ID: $AWS_ACCOUNT_ID
+          image: mcr.microsoft.com/playwright:v1.40.0-jammy
+          script:
+            - apt update && apt install -y python3 python3-pip
+            - pip3 install awscli --upgrade && pip3 install requests
+            - aws s3 cp s3://getir-devops/npmjs/.npmrc .npmrc
+            - npm ci --fund=false --audit=false --ignore-scripts
+            # Connect to dev api-gateway
+            - REACT_APP_API_GATEWAY_URI=https://admin-panel-api-gateway.develop.getirapi.com npm run build
+            # ADMIN_PANEL_E2E_TEST_USER_TOKEN passed from bitbucket repository variables
+            - node e2e/auth/generateAuth.mjs
+            - npm run test-e2e
+          artifacts:
+            - e2e-report/**
+            - e2e-artifacts/**
+
+    tbe-ci:
+      - variables:
+          - name: TAGNAME
+      - step: *build-cache-env
+      - step: *tag-branch
+      - step:
+          name: Prepare Build For TBE-App
+          size: 2x
+          caches:
+            - node
+            - babel-loader-cache-v2
+            - webpack-cache-v2
+          script:
+            - aws s3 cp s3://getir-devops/npmjs/.npmrc .npmrc
+            - export TAG=$(cat tag.txt)
+            - export DOMAIN=https://panel-api-${TAGNAME:0:${#TAGNAME}-6}.develop.getirapi.com
+            # since TAG becomes branch name in tbe and it is a dev env, we need to re-do commit hash logic here
+            - echo "VERSION=${BITBUCKET_COMMIT:0:10}" >> .env
+            - echo "REACT_APP_API_GATEWAY_URI=${DOMAIN}" >> .env
+            # put target env for tbe builds
+            - echo "REACT_APP_TARGET_ENV=tbe" >> .env
+            # avoid husky installation
+            - npm set-script prepare ""
+            - npm ci --production
+            # to disable sentry on TBE, override the repository env variable
+            - REACT_APP_SENTRY_DSN= npm run build
+          artifacts:
+            - build/**
+      - step:
+          name: TBE Deploy
+          size: 2x
+          script:
+            - export TAG=$(cat tag.txt)
+            - aws ecr get-login --region ${AWS_DEFAULT_REGION} --no-include-email | sh
+            - docker build --no-cache -t ${AWS_ACCOUNT_ID}.dkr.ecr.eu-west-1.amazonaws.com/${BITBUCKET_REPO_SLUG}:${TAG} .
+            - docker push ${AWS_ACCOUNT_ID}.dkr.ecr.eu-west-1.amazonaws.com/${BITBUCKET_REPO_SLUG}:${TAG}
+          services:
+            - docker

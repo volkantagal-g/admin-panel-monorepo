@@ -1,0 +1,7 @@
+export const BASKET_DETAIL_TYPES = {
+  BRAND: 1,
+  SUPPLIER: 2,
+  CATEGORY: 3,
+  SUB_CATEGORY: 4,
+  MANUFACTURER: 5,
+};

@@ -1,0 +1,71 @@
+export const colors = {
+  backgroundLight: '#F5F5F5',
+  backgroundWhite: '#FFFFFF',
+  backgroundImage: '#F3F0FE',
+  textDark: '#262626',
+  textLight: '#8C8C8C',
+  borderGray: '#E8E8E8',
+  borderGrayLight: '#D2D2D7',
+  boxShadowLight: 'rgba(0, 0, 0, 0.1)',
+  boxShadowDark: 'rgba(0, 0, 0, 0.15)',
+  purple: '#5D3EBC',
+  gray: '#697488',
+  lightGray: '#D4D4D4',
+  red: '#D13333',
+  tableBorder: '#F0F0F0',
+  tableHeaderBackground: '#FAFAFA',
+  tableHeaderBackgroundFixed: '#FAFAFA',
+  dangerRed: '#FF4D4F',
+  dangerRedHover: '#FF7875',
+  successGreen: '#52C41A',
+  successBackground: 'rgba(82, 196, 26, 0.1)',
+  errorRed: '#FF4D4F',
+  errorBackground: 'rgba(255, 77, 79, 0.1)',
+  errorText: '#ff3b30',
+  lightPurple: '#F3F0FE',
+  iconGray: '#666666',
+  textGray: '#444444',
+  lightBackgroundGray: '#F8F8F8',
+  filterBackground: '#F5F5F7',
+  inputHover: '#86868b',
+  inputFocus: '#7a6b99',
+  lightBlue: '#DFF9FB',
+  waterBlue: '#3A8DF4',
+  darkerText: '#353840',
+  davysGrey: '#545559',
+  slateGrey: '#6E7987',
+  taupeGrey: '#8E8E93',
+  tagBackground: '#F1F1F5',
+  tagBorder: '#E5E5EA',
+  disabledGray: '#D9D9D9',
+  tableText: '#1d1d1f',
+};
+
+export const transitions = {
+  default: 'all 0.3s cubic-bezier(0.4, 0, 0.2, 1)',
+  fast: 'all 0.15s cubic-bezier(0.4, 0, 0.2, 1)',
+  slow: 'all 0.5s cubic-bezier(0.4, 0, 0.2, 1)',
+};
+
+export const animations = {
+  ripple: '@keyframes ripple { to { transform: scale(4); opacity: 0; } }',
+  fadeIn: '@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }',
+  slideIn: '@keyframes slideIn { from { transform: translateY(-10px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }',
+  glow: '@keyframes glow { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }',
+};
+
+export const scrollbarStyles = {
+  '&::-webkit-scrollbar': { width: '14px' },
+  '&::-webkit-scrollbar-track': { background: colors.backgroundLight },
+  '&::-webkit-scrollbar-thumb': {
+    background: colors.purple,
+    borderRadius: '8px',
+    border: '3px solid transparent',
+    backgroundClip: 'padding-box',
+    '&:hover': {
+      background: colors.purple,
+      opacity: 0.8,
+      backgroundClip: 'padding-box',
+    },
+  },
+};

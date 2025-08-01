@@ -1,0 +1,5 @@
+import { EMPLOYEE_PERMIT_STATUSES } from '@app/pages/Employee/constants';
+
+export const ALLOWED_PERMIT_STATUSES_FOR_PERMIT_CANCEL_REQUEST = [
+  EMPLOYEE_PERMIT_STATUSES.REQUESTED,
+];

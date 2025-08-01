@@ -1,0 +1,38 @@
+import { createActions } from 'reduxsauce';
+
+import { REDUX_KEY } from '@shared/shared/constants';
+
+export const { Types, Creators } = createActions({
+  initPage: null,
+  destroyPage: null,
+  getFranchiseUserDetailRequest: { userId: null },
+  getFranchiseUserDetailSuccess: { data: {} },
+  getFranchiseUserDetailFailure: { error: null },
+  updateFranchiseUserRequest: { userId: null, updateData: {} },
+  updateFranchiseUserSuccess: { data: {} },
+  updateFranchiseUserFailure: { error: null },
+  getRoleGroupsRequest: {},
+  getRoleGroupsSuccess: { data: [] },
+  getRoleGroupsFailure: { error: null },
+  updateFranchiseUserRoleGroupsRequest: { userId: null, roleGroups: [] },
+  updateFranchiseUserRoleGroupsSuccess: { data: [] },
+  updateFranchiseUserRoleGroupsFailure: { error: null },
+  getFranchisesRequest: {},
+  getFranchisesSuccess: { data: [] },
+  getFranchisesFailure: { error: null },
+  updateFranchiseUserFranchiseRequest: { userId: null, franchiseId: null },
+  updateFranchiseUserFranchiseSuccess: { data: {} },
+  updateFranchiseUserFranchiseFailure: { error: null },
+  getRolesRequest: {},
+  getRolesSuccess: { data: [] },
+  getRolesFailure: { error: null },
+  updateFranchiseUserRoleRequest: { userId: null, roles: [] },
+  updateFranchiseUserRoleSuccess: { data: {} },
+  updateFranchiseUserRoleFailure: { error: null },
+  getReportsRequest: {},
+  getReportsSuccess: { data: [] },
+  getReportsFailure: { error: null },
+  updateFranchiseUserReportsRequest: { userId: null, reports: [] },
+  updateFranchiseUserReportsSuccess: { data: {} },
+  updateFranchiseUserReportsFailure: { error: null },
+}, { prefix: `${REDUX_KEY.MARKET_FRANCHISE.USER.DETAIL}_` });

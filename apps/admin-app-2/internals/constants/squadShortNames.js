@@ -1,0 +1,8 @@
+const SQUAD_BRANCH_NAME_TO_TAG = {
+  ZEUS: '@ZEUS',
+  CRPL: '@CRPL',
+};
+
+const SQUAD_BRANCH_NAME_SET = new Set(Object.keys(SQUAD_BRANCH_NAME_TO_TAG));
+
+module.exports = { SQUAD_BRANCH_NAME_TO_TAG, SQUAD_BRANCH_NAME_SET };

@@ -1,0 +1,15 @@
+import { createActions } from 'reduxsauce';
+
+import { REDUX_KEY } from '@app/shared/constants';
+
+const prefix = REDUX_KEY.{{reduxKey}} + '_';
+
+export const { Types, Creators } = createActions({
+{{#each actions }}
+  {{this}}Request: null,
+  {{this}}Success: { data: null },
+  {{this}}Failure: { error: null },
+{{/each}}
+  initPage: null,
+  destroyPage: null,
+}, { prefix });

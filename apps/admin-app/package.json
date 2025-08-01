@@ -40,7 +40,6 @@
     "test-e2e-squad": "E2E_WORKERS=1 npx playwright test --grep $(node ./internals/scripts/outputSquadTestPattern.js)",
     "sort": "node ./internals/scripts/sortJsonFiles.js",
     "check-translations": "node ./internals/scripts/checkTranslationFiles.js",
-    "prepare": "husky install",
     "generate": "plop --plopfile internals/generators/index.js"
   },
   "dependencies": {

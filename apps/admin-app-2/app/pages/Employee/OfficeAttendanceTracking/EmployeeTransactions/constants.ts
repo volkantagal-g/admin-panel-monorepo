@@ -1,0 +1,9 @@
+export const ATTENDANCE_ENABLED_OFFICES: Record<string, string> = {
+  HQTUXX1001: 'ETILER_OFFICE',
+  // '': 'ANATOLIAN_OFFICE',
+  HQTUXX1002: 'ANKARA_OFFICE',
+  HQTUXX1003: 'IZMIR_OFFICE',
+};
+
+export const DEFAULT_ROWS_PER_PAGE = 25;
+export const DEFAULT_PAGE = 1;

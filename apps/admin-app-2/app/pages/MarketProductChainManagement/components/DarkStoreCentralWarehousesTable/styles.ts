@@ -1,0 +1,227 @@
+import { createUseStyles } from 'react-jss';
+
+import { colors } from '@app/pages/MarketProductChainManagement/styleVariables';
+
+export const useStyles = createUseStyles({
+  container: {
+    padding: '16px',
+    backgroundColor: colors.backgroundWhite,
+    borderRadius: 8,
+    boxShadow: '0 2px 8px rgba(0, 0, 0, 0.05)',
+  },
+  filtersContainer: { marginBottom: '16px' },
+  formItem: { marginBottom: '4px' },
+  table: {
+    width: '100%',
+    '& .ant-table-thead > tr > th': {
+      backgroundColor: '#f8f8f8',
+      fontWeight: 600,
+    },
+    '& .ant-pagination': {
+      padding: '16px',
+      display: 'flex',
+      justifyContent: 'center',
+      alignItems: 'center',
+      '& .ant-pagination-item, & .ant-pagination-prev, & .ant-pagination-next, & .ant-pagination-jump-prev, & .ant-pagination-jump-next': {
+        margin: '0 4px',
+        height: '32px',
+        minWidth: '32px',
+        borderRadius: '4px',
+        lineHeight: '30px',
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+        '& a': {
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          height: '100%',
+          width: '100%',
+        },
+        '&:hover': {
+          borderColor: colors.purple,
+          '& a, & button': { color: colors.purple },
+        },
+      },
+      '& .ant-pagination-item-active': {
+        borderColor: colors.purple,
+        backgroundColor: colors.lightPurple,
+        '& a': {
+          color: colors.purple,
+          fontWeight: 700,
+        },
+        '&:hover': { borderColor: '#c3b5ff' },
+      },
+      '& .ant-pagination-prev, & .ant-pagination-next': {
+        '& .ant-pagination-item-link': {
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          fontSize: '14px',
+          borderRadius: '4px',
+          '&:hover': {
+            borderColor: colors.purple,
+            '& .anticon': { color: colors.purple },
+          },
+        },
+      },
+      '& .ant-pagination-options': {
+        marginLeft: '12px',
+        height: '32px',
+        '& .ant-select-selector': {
+          height: '32px',
+          borderRadius: '4px',
+          '& .ant-select-selection-item': { lineHeight: '30px' },
+        },
+        '& .ant-pagination-options-quick-jumper': {
+          height: '32px',
+          marginLeft: '12px',
+          '& input': {
+            height: '32px',
+            borderRadius: '4px',
+            '&:hover, &:focus': { borderColor: colors.purple },
+          },
+        },
+      },
+      '& .ant-pagination-jump-prev, & .ant-pagination-jump-next': {
+        '& .ant-pagination-item-link-icon': { color: colors.purple },
+        '& .ant-pagination-item-container': {
+          '& .ant-pagination-item-ellipsis': {
+            color: '#bbb',
+            '&:hover': { color: colors.purple },
+          },
+        },
+      },
+      '& .ant-pagination-total-text': {
+        marginRight: '12px',
+        fontSize: '14px',
+        color: '#666',
+      },
+    },
+    '& .ant-table-column-sorter': {
+      marginLeft: '8px',
+      '& .ant-table-column-sorter-inner': {
+        display: 'flex',
+        flexDirection: 'column',
+      },
+    },
+    '& .ant-table-column-sorter-up.active, & .ant-table-column-sorter-down.active': { color: colors.purple },
+  },
+  errorContainer: {
+    display: 'flex',
+    justifyContent: 'center',
+    alignItems: 'center',
+    padding: '32px',
+    backgroundColor: '#fff',
+    borderRadius: 8,
+    boxShadow: '0 2px 8px rgba(0, 0, 0, 0.05)',
+  },
+  errorMessage: {
+    color: '#ff4d4f',
+    fontWeight: 500,
+  },
+
+  domainBadge: {
+    display: 'inline-block',
+    padding: '4px 10px',
+    margin: '3px',
+    borderRadius: 6,
+    fontSize: 12,
+    fontWeight: '500',
+    border: '1px solid transparent',
+    backgroundColor: colors.tagBackground,
+  },
+  domainTag: {
+    backgroundColor: colors.tagBackground,
+    color: colors.darkerText,
+    borderColor: colors.tagBorder,
+  },
+  demographyBadge: {
+    display: 'inline-flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    letterSpacing: '0.1px',
+    textAlign: 'center',
+    backgroundColor: colors.tagBackground,
+    color: colors.darkerText,
+    borderColor: colors.tagBorder,
+    padding: '4px 10px',
+    margin: '3px',
+    borderRadius: 6,
+    fontSize: 12,
+    fontWeight: '500',
+  },
+  demographyPremium: {
+    backgroundColor: colors.tagBackground,
+    color: colors.darkerText,
+  },
+  demographyMetropol: {
+    backgroundColor: colors.tagBackground,
+    color: colors.darkerText,
+  },
+  demographyTraditional: {
+    backgroundColor: colors.tagBackground,
+    color: colors.darkerText,
+  },
+  demographyUpperPremium: {
+    backgroundColor: colors.tagBackground,
+    color: colors.darkerText,
+  },
+  demographyUnknown: {
+    backgroundColor: colors.tagBackground,
+    color: colors.darkerText,
+  },
+
+  sizeBadge: {
+    display: 'inline-flex',
+    justifyContent: 'center',
+    alignItems: 'center',
+    letterSpacing: '0.1px',
+    textAlign: 'center',
+    backgroundColor: colors.tagBackground,
+    color: colors.darkerText,
+    borderColor: colors.tagBorder,
+    padding: '4px 10px',
+    margin: '3px',
+    borderRadius: 6,
+    fontSize: 12,
+    fontWeight: '500',
+  },
+  segmentBadge: {
+    display: 'inline-flex',
+    justifyContent: 'center',
+    alignItems: 'center',
+    letterSpacing: '0.1px',
+    textAlign: 'center',
+    backgroundColor: colors.tagBackground,
+    color: colors.darkerText,
+    borderColor: colors.tagBorder,
+    padding: '4px 10px',
+    margin: '3px',
+    borderRadius: 6,
+    fontSize: 12,
+    fontWeight: '500',
+  },
+  localCell: {
+    display: 'inline-block',
+    backgroundColor: colors.tagBackground,
+    color: colors.darkerText,
+    borderColor: colors.tagBorder,
+    padding: '4px 10px',
+    margin: '3px',
+    borderRadius: 6,
+    fontSize: 12,
+    fontWeight: '500',
+  },
+  nonLocalCell: {
+    display: 'inline-block',
+    backgroundColor: colors.tagBackground,
+    color: colors.darkerText,
+    borderColor: colors.tagBorder,
+    padding: '4px 10px',
+    margin: '3px',
+    borderRadius: 6,
+    fontSize: 12,
+    fontWeight: '500',
+  },
+});

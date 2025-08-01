@@ -1,0 +1,17 @@
+version: '2'
+
+services:
+  admin-panel-frontend:
+    image: "406421550649.dkr.ecr.eu-west-1.amazonaws.com/admin-panel-frontend"
+    logging:
+      driver: "awslogs"
+      options:
+        awslogs-region: "eu-west-1"
+        awslogs-group: "/ecs/admin-panel-frontend"
+        awslogs-stream-prefix: "admin-panel-frontend"
+    env_file:
+      - ./.env
+    ports:
+      - "8080"
+    mem_limit: "1gb"
+    memswap_limit: "1gb"

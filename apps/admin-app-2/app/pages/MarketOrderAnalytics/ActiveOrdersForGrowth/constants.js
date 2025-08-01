@@ -1,0 +1,22 @@
+import permKey from '@shared/shared/permKey.json';
+import { lowerCaseN11 } from '../integrationTypeUtils';
+import { MARKET_ACTIVE_ORDER_STATUS, MARKET_ORDER_STATUS } from '@shared/shared/constants';
+
+export const CITY_DEPENDENCY = {
+  DEPENDENT: 1,
+  INDEPENDENT: 2,
+};
+
+export const INTEGRATION_TYPE_TO_ACCESS_KEY = { [lowerCaseN11]: permKey.PAGE_MARKET_ORDER_ANALYTICS_ACTIVE_ORDERS_FOR_GROWTH_COMPONENT_VIEW_N11 };
+
+export const REST_OF_GETIR_ACCESS_KEY = permKey.PAGE_MARKET_ORDER_ANALYTICS_ACTIVE_ORDERS_FOR_GROWTH_COMPONENT_VIEW_REST_OF_GETIR;
+
+export const SLOTTED_STATE = {
+  SCHEDULED: 'SCHEDULED',
+  ON_DEMAND: 'ON_DEMAND',
+};
+
+export const ORDER_STATUS_FOR_GROWTH_PAGE = {
+  RESERVED: MARKET_ORDER_STATUS.RESERVED,
+  ...MARKET_ACTIVE_ORDER_STATUS,
+};

@@ -82,6 +82,7 @@ module.exports = {
         user_app: 'user_app@http://localhost:8083/remoteEntry.js',
         product_app: 'product_app@http://localhost:8081/remoteEntry.js',
         admin_app: 'admin_app@http://localhost:9002/remoteEntry.js',
+        market_app: 'market_app@http://localhost:9001/remoteEntry.js',
       },
       shared: {
         react: { singleton: true, requiredVersion: false, eager: true },

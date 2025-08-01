@@ -1,0 +1,46 @@
+{
+  "localStorage": {
+    "user": {
+      "_id": "5f5f5f5f5f5f5f5f5f5f5f5f",
+      "name": "John Doe",
+      "email": "a.b@getir.com",
+      "other_fields_at_dev_localstorage": "etc..."
+    },
+    "token": "<your_dev_token>",
+    "selectedCountry": {
+      "id": "55999ad00000010000000000",
+      "name": {
+        "en": "Turkey",
+        "de": "Türkei",
+        "fr": "Turquie",
+        "nl": "Turkije",
+        "tr": "Türkiye",
+        "es": "Turquía",
+        "it": "Turchia",
+        "pt": "Turquia",
+        "en-US": "Turkey"
+      },
+      "center": {
+        "type": "Point",
+        "coordinates": [35, 39],
+        "geometry": { "type": "Point", "coordinates": [35, 39] }
+      },
+      "code": { "alpha2": "TR", "alpha3": "TUR", "numeric": "792" },
+      "currency": {
+        "code": { "alpha": "TRY", "numeric": "949" },
+        "symbol": "₺",
+        "isSymbolFirst": true
+      },
+      "dialingCode": 90,
+      "timezones": [{ "timezone": "Europe/Istanbul" }],
+      "flag": "🇹🇷",
+      "defaultLanguageCode": "tr",
+      "languageSortOrder": ["tr", "en"],
+      "languages": { "tr": { "name": "Türkçe" }, "en": { "name": "English" } },
+      "operationalDomainTypes": [1],
+      "operational": true,
+      "_id": "55999ad00000010000000000"
+    },
+    "selectedCountryDivision": null
+  }
+}

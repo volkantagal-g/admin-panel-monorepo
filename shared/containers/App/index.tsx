@@ -200,8 +200,6 @@ const AppLoggedIn = ({ routeComponentsMap }: AppProps) => {
 
   return (
     <Routes>
-      {NotFoundComponent && <Route path={ROUTE.NOT_FOUND.path} element={<NotFoundComponent />} />}
-      {CountrySelectionComponent && <Route path={ROUTE.COUNTRY_SELECTION.path} element={<CountrySelectionComponent />} />}
       <Route path="/*" element={<SelectCountryOrLayoutComp routeComponentsMap={routeComponentsMap} />} />
     </Routes>
   );
@@ -225,14 +223,7 @@ const App = ({ routeComponentsMap }: AppProps) => {
   const LogoutComponent = routeComponentsMap.LOGOUT;
   return (
     <>
-      <Helmet titleTemplate="%s - Getir" defaultTitle="Getir" />
-      <ToastContainer position="top-right" className="toast-z-index" autoClose={2000} />
       <Routes>
-        {/* Health Check */}
-        {HealthComponent && <Route path={ROUTE.HEALTH.path} element={<HealthComponent />} />}
-        {/* Force logout page */}
-        {LogoutComponent && <Route path={ROUTE.LOGOUT.path} element={<LogoutComponent />} />}
-        {routeComponentsMap.LOGIN && <Route path={ROUTE.LOGIN.path} element={<LoginRouteCheckComp routeComponentsMap={routeComponentsMap} />} />}
         <Route path="/*" element={<MainRouteCheckComp routeComponentsMap={routeComponentsMap} />} />
       </Routes>
     </>

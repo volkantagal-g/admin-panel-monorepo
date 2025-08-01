@@ -1,0 +1,24 @@
+import { t } from '@shared/i18n';
+
+export const ORDER_CANCEL_SOURCES = {
+  GETIR: 1,
+  CUSTOMER: 2,
+};
+
+export const ORDER_CANCEL_SOURCES_LABELS = {
+  [ORDER_CANCEL_SOURCES.GETIR]: t('marketOrderPage:CANCEL_SOURCES.GETIR'),
+  [ORDER_CANCEL_SOURCES.CUSTOMER]: t('marketOrderPage:CANCEL_SOURCES.CUSTOMER'),
+};
+
+export const orderCancelSources = [
+  {
+    value: ORDER_CANCEL_SOURCES.GETIR,
+    label: ORDER_CANCEL_SOURCES_LABELS[ORDER_CANCEL_SOURCES.GETIR],
+  },
+  {
+    value: ORDER_CANCEL_SOURCES.CUSTOMER,
+    label: ORDER_CANCEL_SOURCES_LABELS[ORDER_CANCEL_SOURCES.CUSTOMER],
+  },
+];
+
+export const COMMON_CANCEL_REASON_IDS = ['65f304340114c64a595a2231'];

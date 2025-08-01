@@ -1,0 +1,36 @@
+import { all, call, cancel, fork, put, take, takeLatest } from 'redux-saga/effects';
+import { Types, Creators } from './actions';
+
+// remember to add api mocks for initial requests sent in your page
+{{#each actions }}
+
+function* {{this}}() {
+  try {
+    const { data } = yield call({{this}}Api); // @TODO: import api route
+    yield put(Creators.{{this}}Success({ data }));
+  }
+  catch (error) {
+    yield put(Creators.{{this}}Failure({ error }));
+  }
+}
+{{/each}}
+
+{{#each actions }}
+function* watch{{ properCase this }}Request() {
+  yield takeLatest(Types.{{upperSnakeCase this}}_REQUEST, {{this}});
+}
+
+{{/each}}
+
+export default function* root() {
+  while (yield take(Types.INIT_PAGE)) {
+    const backgroundTasks = yield all([
+    {{#each actions }}
+      fork(watch{{ properCase this }}Request),
+    {{/each}}
+    ]);
+
+    yield take(Types.DESTROY_PAGE);
+    yield cancel(backgroundTasks);
+  }
+}
